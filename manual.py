@@ -60,6 +60,7 @@ for line in open(sys.argv[1]):
     print(record["f"] + " - 0 1")
     print(record["n"])
     pyperclip.copy(record["n"])
+    print("\a")
     print(record["m"])
     if record["m"] is None:
         input("CONFIRM")
@@ -71,6 +72,13 @@ for line in open(sys.argv[1]):
         if record["m"] != "XXX":
             f(p(record["m"]))
     except ValueError as err:
+        print("\a")
+        time.sleep(0.5)
+        print("\a")
+        time.sleep(0.5)
+        print("\a")
+        time.sleep(0.5)
+        print("\a")
         print(" >>>>>================ BOINg =========== <<<<<<<<<<<<")
         print(err)
         record["m"] = "XXX"
@@ -98,6 +106,13 @@ for line in open(sys.argv[1]):
                 record["m"] = m(p(i))
             except ValueError as ex:
                 print(ex)
+                print("\a")
+                time.sleep(0.5)
+                print("\a")
+                time.sleep(0.5)
+                print("\a")
+                time.sleep(0.5)
+                print("\a")
 
     print(json.dumps(record, sort_keys=True))
     print(json.dumps(record, sort_keys=True), file=out, flush=True)
