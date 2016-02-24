@@ -2,13 +2,15 @@ import sys
 import json
 import collections
 import chess
+import pyperclip
+import time
 
 out = open(sys.argv[2], "x")
 
 def p(m):
     board = chess.Board()
 
-    for token in m.replace(".", ". ").strip().split():
+    for token in m.replace(".", ". ").replace("D", "Q").replace("S", "N").replace("L", "B").replace("T", "R").strip().split():
         if token[0].isdigit():
             continue
 
@@ -39,6 +41,15 @@ def f(board):
     fen.append(board.castling_xfen())
     return " ".join(fen)
 
+def fast_input():
+    print("Waiting for clipboard ...")
+    old = pyperclip.paste()
+    while old == pyperclip.paste():
+        time.sleep(1)
+        print("Still waiting ...")
+
+    return pyperclip.paste()
+
 done = False
 
 for line in open(sys.argv[1]):
@@ -48,6 +59,7 @@ for line in open(sys.argv[1]):
     print(record["id"])
     print(record["f"] + " - 0 1")
     print(record["n"])
+    pyperclip.copy(record["n"])
     print(record["m"])
     if record["m"] is None:
         input("CONFIRM")
@@ -72,7 +84,7 @@ for line in open(sys.argv[1]):
         if record["m"] != "XXX":
             print(p(record["m"]))
 
-        i = input("Correction: ")
+        i = fast_input()
 
         if i.strip() == "DONE":
             done = True
