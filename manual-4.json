@@ -530,7 +530,7 @@
 {"c": "B31", "f": "r1bqk2r/pp1pppbp/2n2np1/1Bp5/Q3P3/2P2N2/PP1P1PPP/RNB2RK1 b kq", "id": 2926, "m": "e2e4 c7c5 g1f3 b8c6 f1b5 g7g6 e1g1 f8g7 c2c3 g8f6 d1a4", "n": "Sicilian Defense: Nyezhmetdinov-Rossolimo Attack, Fianchetto Variation, Totsky Attack"}
 {"c": "C28", "f": "r1b1kbnr/pppp1ppp/2n5/8/3PPp1q/2N5/PPP1K1PP/R1BQ1BNR b kq", "id": 2668, "m": "e2e4 e7e5 b1c3 b8c6 f2f4 e5f4 d2d4 d8h4 e1e2", "n": "Vienna Game: Vienna Gambit, Steinitz Gambit, Main Line"}
 {"c": "B20", "f": "r1b1kbnr/pp3ppp/2n1q3/4p3/1pP5/P4N2/1B1P1PPP/RN1QKB1R w KQkq", "id": 2982, "m": "e2e4 c7c5 b2b4 c5b4 a2a3 d7d5 e4d5 d8d5 g1f3 e7e5 c1b2 b8c6 c2c4 d5e6", "n": "Sicilian Defense: Wing Gambit, Romanian Defense"}
-{"c": "C27", "f": "rnbqkb1r/ppp2ppp/8/3pp3/2B1n3/2N2N2/PPPP1PPP/R1BQK2R w KQkq", "id": 3130, "m": "XXX", "n": "Boden-Kieseritzky Gambit, Lichtenhein Defense"}
+{"c": "C27", "f": "rnbqkb1r/ppp2ppp/8/3pp3/2B1n3/2N2N2/PPPP1PPP/R1BQK2R w KQkq", "id": 3130, "m": "e2e4 e7e5 g1f3 g8f6 f1c4 f6e4 b1c3 d7d5", "n": "Boden-Kieseritzky Gambit, Lichtenhein Defense"}
 {"c": "D34", "f": "r1bq1rk1/pp2bppp/2n2n2/2pp4/3P4/2N2NP1/PP2PPBP/R1BQ1RK1 w -", "id": 2541, "m": "d2d4 d7d5 c2c4 e7e6 b1c3 c7c5 c4d5 e6d5 g1f3 b8c6 g2g3 g8f6 f1g2 f8e7 e1g1 e8g8", "n": "Tarrasch Defense: Classical Variation"}
 {"c": "A28", "f": "r1bqkb1r/pppp1ppp/2n2n2/4p3/2P5/2N1PN2/PP1P1PPP/R1BQKB1R b KQkq", "id": 484, "m": "c2c4 e7e5 b1c3 g8f6 g1f3 b8c6 e2e3", "n": "English Opening: King's English Variation, Four Knights Variation, Quiet Line #3"}
 {"c": "C51", "f": "r1bqk1nr/pppp1ppp/2nb4/4p3/2B1P3/2P2N2/P2P1PPP/RNBQK2R w KQkq", "id": 900, "m": "e2e4 e7e5 g1f3 b8c6 f1c4 f8c5 b2b4 c5b4 c2c3 b4d6", "n": "Italian Game: Evans Gambit, Stone-Ware Variation"}
@@ -625,7 +625,7 @@
 {"c": "E57", "f": "r1bq1rk1/pp3ppp/2n1pn2/8/1bBp4/P1N1PN2/1P3PPP/R1BQ1RK1 w -", "id": 3395, "m": "d2d4 g8f6 c2c4 e7e6 b1c3 f8b4 e2e3 e8g8 f1d3 d7d5 g1f3 c7c5 e1g1 b8c6 a2a3 d5c4 d3c4 c5d4", "n": "Nimzo-Indian Defense: 4.e3, Main Line, with 8...dxc4 and 9...cxd4"}
 {"c": "A04", "f": "rnbqkbnr/pppp1ppp/8/4p3/8/5N2/PPPPPPPP/RNBQKB1R w KQkq", "id": 2764, "m": "g1f3 e7e5", "n": "Zukertort Opening: Ross Gambit"}
 {"c": "A83", "f": "rnbqkb1r/pp1pp1pp/2p2n2/6B1/3Pp3/2N5/PPP2PPP/R2QKBNR w KQkq", "id": 402, "m": "d2d4 f7f5 e2e4 f5e4 b1c3 g8f6 c1g5 c7c6", "n": "Dutch Defense: Staunton Gambit, Chigorin Variation"}
-{"c": "A00", "f": "rnbqkbnr/1p1ppppp/8/pp6/4P3/8/PBPP1PPP/RN1QKBNR b KQkq", "id": 1552, "m": "XXX", "n": "Polish Opening: Schuehler Gambit"}
+{"c": "A00", "f": "rnbqkbnr/1p1ppppp/8/pp6/4P3/8/PBPP1PPP/RN1QKBNR b KQkq", "id": 1552, "m": "b2b4 c7c6 c1b2 a7a5 b4b5 c6b5 e2e4", "n": "Polish Opening: Schuehler Gambit"}
 {"c": "C45", "f": "r1b1k1nr/pppp1ppp/2n5/8/1b1NP2q/2N5/PPP2PPP/R1BQKB1R w KQkq", "id": 2753, "m": "e2e4 e7e5 g1f3 b8c6 d2d4 e5d4 f3d4 d8h4 b1c3 f8b4", "n": "Scotch Game: Modern Defense"}
 {"c": "E05", "f": "rnbqk2r/ppp1bppp/4pn2/8/2pP4/5NP1/PP2PPBP/RNBQK2R w KQkq", "id": 328, "m": "d2d4 g8f6 c2c4 e7e6 g2g3 d7d5 f1g2 d5c4 g1f3 f8e7", "n": "Catalan Opening: Open Defense, Classical Line"}
 {"c": "C25", "f": "rnbqk1nr/pppp1ppp/8/2b1p3/4P3/2N5/PPPP1PPP/R1BQKBNR w KQkq", "id": 2626, "m": "e2e4 e7e5 b1c3 f8c5", "n": "Vienna Game: Anderssen Defense"}
@@ -682,25 +682,25 @@
 {"c": "A02", "f": "rnbqkbnr/pppp2pp/5p2/4P3/8/8/PPPPP1PP/RNBQKBNR w KQkq", "id": 137, "m": "f2f4 e7e5 f4e5 f7f6", "n": "Bird Opening: Lasker Gambit"}
 {"c": "C39", "f": "rnb1kbnr/ppppq2p/8/4Np2/2BPPppP/8/PPP3P1/RNBQK2R b KQkq", "id": 3177, "m": "e2e4 e7e5 f2f4 e5f4 g1f3 g7g5 h2h4 g5g4 f3e5 d8e7 d2d4 f7f5 f1c4", "n": "King's Gambit Accepted: Kieseritzky, Salvio Defense: Cozio Variation"}
 {"c": "C24", "f": "rnb1k2r/ppp1qppp/5n2/3P4/1bBp4/2P2N2/PP3PPP/RNBQK2R w KQkq", "id": 3122, "m": "e2e4 e7e5 f1c4 g8f6 d2d4 e5d4 g1f3 d7d5 e4d5 f8b4 c2c3 d8e7", "n": "Bishop's Opening: Urusov Gambit, Panov Variation"}
-{"c": "C21", "f": "rnbqk1nr/pppp1ppp/8/8/1bB1P3/8/PB3PPP/RN1QK1NR w KQkq", "id": 347, "m": "XXX", "n": "Danish Gambit Accepted, Copenhagen Defense"}
+{"c": "C21", "f": "rnbqk1nr/pppp1ppp/8/8/1bB1P3/8/PB3PPP/RN1QK1NR w KQkq", "id": 347, "m": "e2e4 e7e5 d2d4 e5d4 c2c3 d4c3 f1c4 c3b2 c1b2 f8b4", "n": "Danish Gambit Accepted, Copenhagen Defense"}
 {"c": "C34", "f": "rnbqkbnr/pppp1ppp/8/8/4Pp2/5N2/PPPP2PP/RNBQKB1R b KQkq", "id": 1055, "m": "e2e4 e7e5 f2f4 e5f4 g1f3", "n": "King's Gambit Accepted, King's Knight Gambit"}
 {"c": "C41", "f": "r1bqkbnr/ppp2ppp/1n1p4/4p3/2BPP3/5N2/PPP2PPP/RNBQK2R w KQkq", "id": 1495, "m": "e2e4 e7e5 g1f3 d7d6 d2d4 b8d7 f1c4 d7b6", "n": "Philidor Defense: Hanham Variation, Sharp Variation"}
 {"c": "A21", "f": "r2qkbnr/ppp2ppp/2npb3/4p3/2P5/2N3P1/PP1PPPBP/R1BQK1NR w KQkq", "id": 497, "m": "c2c4 e7e5 b1c3 b8c6 g2g3 d7d6 f1g2 c8e6", "n": "English Opening: King's English Variation, Troger Defense"}
-{"c": "B52", "f": "r2qkbnr/pp1bpp1p/2np2p1/1Bp1P3/8/5N2/PPPPQPPP/RNB2RK1 b kq", "id": 2039, "m": "XXX", "n": "Sicilian Defense: Canal Attack, Dorfman Gambit"}
+{"c": "B52", "f": "r2qkbnr/pp1bpp1p/2np2p1/1Bp1P3/8/5N2/PPPPQPPP/RNB2RK1 b kq", "id": 2039, "m": "e2e4 c7c5 g1f3 d7d6 f1b5 b8c6 e1g1 c8d7 d1e2 g7g6 e4e5", "n": "Sicilian Defense: Canal Attack, Dorfman Gambit"}
 {"c": "A45", "f": "rnbqkb1r/pppppppp/5n2/8/3P4/8/PPP1PPPP/RNBQKBNR w KQkq", "id": 828, "m": "d2d4 g8f6", "n": "Indian Game"}
 {"c": "C24", "f": "rnbqkb1r/pppp1ppp/5n2/4p3/2B1P3/8/PPPP1PPP/RNBQK1NR w KQkq", "id": 152, "m": "e2e4 e7e5 f1c4 g8f6", "n": "Bishop's Opening: Berlin Defense"}
-{"c": "C33", "f": "r1bqkbnr/pppp1ppp/2n5/8/2B1Pp2/8/PPPP2PP/RNBQK1NR w KQkq", "id": 1018, "m": "XXX", "n": "King's Gambit Accepted, Bishop's Gambit, Maurian Defense"}
+{"c": "C33", "f": "r1bqkbnr/pppp1ppp/2n5/8/2B1Pp2/8/PPPP2PP/RNBQK1NR w KQkq", "id": 1018, "m": "e2e4 e7e5 f2f4 e5f4 f1c4 b8c6", "n": "King's Gambit Accepted, Bishop's Gambit, Maurian Defense"}
 {"c": "B02", "f": "rnbqkb1r/pppppppp/1n6/2P1P3/8/8/PP1P1PPP/RNBQKBNR b KQkq", "id": 43, "m": "e2e4 g8f6 e4e5 f6d5 c2c4 d5b6 c4c5", "n": "Alekhine Defense: Two Pawn Attack, Lasker Variation"}
 {"c": "C89", "f": "r1bq1rk1/2p1bppp/p4n2/1p2R3/8/1BP5/PP1P1PPP/RNBQ2K1 w -", "id": 2437, "m": "e2e4 e7e5 g1f3 b8c6 f1b5 a7a6 b5a4 g8f6 e1g1 f8e7 f1e1 b7b5 a4b3 e8g8 c2c3 d7d5 e4d5 f6d5 f3e5 c6e5 e1e5 d5f6", "n": "Ruy Lopez: Marshall Attack, Original Marshall Attack"}
 {"c": "A48", "f": "rnbqk2r/pp1pppbp/5np1/2p3B1/3P4/5N2/PPPNPPPP/R2QKB1R w KQkq", "id": 2576, "m": "d2d4 g8f6 g1f3 g7g6 c1g5 f8g7 b1d2 c7c5", "n": "Torre Attack: Fianchetto Defense, Euwe Variation"}
 {"c": "B60", "f": "r1bqkb1r/pp2pp1p/2np1np1/6B1/3NP3/2N5/PPP2PPP/R2QKB1R w KQkq", "id": 2236, "m": "e2e4 c7c5 g1f3 b8c6 d2d4 c5d4 f3d4 g8f6 b1c3 d7d6 c1g5 g7g6", "n": "Sicilian Defense: Richter-Rauzer Variation, Dragon Variation"}
 {"c": "D85", "f": "rnbqk2r/pp2ppbp/6p1/2p5/3PP3/2P2N1P/P4PP1/R1BQKB1R b KQkq", "id": 762, "m": "d2d4 g8f6 g1f3 g7g6 c2c4 f8g7 b1c3 d7d5 c4d5 f6d5 e2e4 d5c3 b2c3 c7c5 h2h3", "n": "Gruenfeld Defense: Exchange Variation, Modern Exchange Variation, Kramnik's Line"}
-{"c": "A00", "f": "rnbqkbnr/ppp2ppp/8/3pp3/5P2/6PN/PPPPP2P/RNBQKB1R b KQkq", "id": 47, "m": "XXX", "n": "Amar Opening: Paris Gambit"}
+{"c": "A00", "f": "rnbqkbnr/ppp2ppp/8/3pp3/5P2/6PN/PPPPP2P/RNBQKB1R b KQkq", "id": 47, "m": "g1h3 d7d5 g2g3 e7e5 f2f4", "n": "Amar Opening: Paris Gambit"}
 {"c": "C33", "f": "rnbqkbnr/pppp1ppp/8/8/4Pp2/5Q2/PPPP2PP/RNB1KBNR b KQkq", "id": 1022, "m": "e2e4 e7e5 f2f4 e5f4 d1f3", "n": "King's Gambit Accepted, Breyer Gambit"}
 {"c": "A56", "f": "rnbqkb1r/pp3p1p/3p1np1/2pPp3/2P1P3/2N5/PP3PPP/R1BQKBNR w KQkq", "id": 103, "m": "d2d4 g8f6 c2c4 c7c5 d4d5 e7e5 b1c3 d7d6 e2e4 g7g6", "n": "Benoni Defense: King's Indian System"}
 {"c": "C08", "f": "rnbqkbnr/pp3ppp/8/3p4/2pP4/5N2/PPPN1PPP/R1BQKB1R w KQkq", "id": 691, "m": "e2e4 e7e6 d2d4 d7d5 b1d2 c7c5 e4d5 e6d5 g1f3 c5c4", "n": "French Defense: Tarrasch Variation, Open System, Advance Line"}
-{"c": "C45", "f": "r1bqkb1r/pppp1ppp/2n2n2/4P3/3N4/8/PPP2PPP/RNBQKB1R b KQkq", "id": 1924, "m": "XXX", "n": "Scotch Game: Alekhine Gambit"}
-{"c": "D05", "f": "rnb1k1nr/pp1pppbp/6p1/q1p5/3P4/3BPN2/PPP2PPP/RNBQK2R w KQkq", "id": 1057, "m": "XXX", "n": "Colle System: Pterodactyl Variation"}
+{"c": "C45", "f": "r1bqkb1r/pppp1ppp/2n2n2/4P3/3N4/8/PPP2PPP/RNBQKB1R b KQkq", "id": 1924, "m": "e2e4 e7e5 g1f3 b8c6 d2d4 e5d4 f3d4 g8f6 e4e5", "n": "Scotch Game: Alekhine Gambit"}
+{"c": "D05", "f": "rnb1k1nr/pp1pppbp/6p1/q1p5/3P4/3BPN2/PPP2PPP/RNBQK2R w KQkq", "id": 1057, "m": "d2d4 g7g6 g1f3 f8g7 e2e3 c7c5 f1d3 d8a5", "n": "Colle System: Pterodactyl Variation"}
 {"c": "A18", "f": "r1bqkb1r/pppp1ppp/2n1pn2/8/2P1P3/2N5/PP1P1PPP/R1BQKBNR w KQkq", "id": 442, "m": "c2c4 g8f6 b1c3 e7e6 e2e4 b8c6", "n": "English Opening: Mikenas-Carls Variation #3"}
 {"c": "B12", "f": "rnbqkbnr/pp2pppp/2p5/3p4/3PP3/5P2/PPP3PP/RNBQKBNR b KQkq", "id": 288, "m": "e2e4 c7c6 d2d4 d7d5 f2f3", "n": "Caro-Kann Defense: Maroczy Variation"}
 {"c": "B00", "f": "r1bqkbnr/ppp1pppp/2np4/8/3PP3/8/PPP2PPP/RNBQKBNR w KQkq", "id": 1449, "m": "e2e4 b8c6 d2d4 d7d6", "n": "Nimzowitsch Defense: Mikenas Variation"}
