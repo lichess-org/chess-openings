@@ -63,7 +63,7 @@ for line in open(sys.argv[1]):
         print(err)
         record["m"] = "XXX"
 
-    while not done and record["m"] == "XXX" or f(p(record["m"])) != f(board):
+    while not done and (record["m"] == "XXX" or f(p(record["m"])) != f(board)):
         #if record["m"] == "XXX":
         #    break
 
@@ -74,7 +74,7 @@ for line in open(sys.argv[1]):
 
         i = input("Correction: ")
 
-        if i == "DONE":
+        if i.strip() == "DONE":
             done = True
             break
 
