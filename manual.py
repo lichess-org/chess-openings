@@ -87,5 +87,5 @@ for line in open(sys.argv[1]):
             except ValueError as ex:
                 print(ex)
 
-    print(json.dumps(record))
-    print(json.dumps(record), file=out, flush=True)
+    print(json.dumps(record, sort_keys=True))
+    print(json.dumps(record, sort_keys=True), file=out, flush=True)
