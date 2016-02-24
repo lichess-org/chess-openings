@@ -76,6 +76,7 @@ for line in open(sys.argv[1]):
 
         if i == "DONE":
             done = True
+            break
 
         if i.strip() == "XXX":
             record["m"] = "XXX"
