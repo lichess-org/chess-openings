@@ -706,10 +706,10 @@
 {"c": "B00", "f": "r1bqkbnr/ppp1pppp/2np4/8/3PP3/8/PPP2PPP/RNBQKBNR w KQkq", "id": 1449, "m": "e2e4 b8c6 d2d4 d7d6", "n": "Nimzowitsch Defense: Mikenas Variation"}
 {"c": "C17", "f": "rnbqk1nr/pp3ppp/4p3/2ppP3/1b1P4/P1N5/1PP2PPP/R1BQKBNR b KQkq", "id": 697, "m": "e2e4 e7e6 d2d4 d7d5 b1c3 f8b4 e4e5 c7c5 a2a3", "n": "French Defense: Winawer Variation, Advance Variation"}
 {"c": "C49", "f": "r1bq1rk1/ppp2ppp/2np1n2/1B2p3/4P3/2PP1N2/P1P2PPP/R1BQR1K1 b -", "id": 558, "m": "e2e4 e7e5 g1f3 b8c6 b1c3 g8f6 f1b5 f8b4 e1g1 e8g8 d2d3 b4c3 b2c3 d7d6 f1e1", "n": "Four Knights Game: Janowski Variation"}
-{"c": "B06", "f": "rnb1k1nr/pp1ppp1p/6p1/q1pP4/4P3/2P5/P1P2PPP/R1BQKBNR w KQkq", "id": 352, "m": "XXX", "n": "Pterodactyl Defense: Eastern, Benoni Pteranodon"}
+{"c": "B06", "f": "rnb1k1nr/pp1ppp1p/6p1/q1pP4/4P3/2P5/P1P2PPP/R1BQKBNR w KQkq", "id": 352, "m": "e2e4 g7g6 d2d4 f8g7 b1c3 c7c5 d4d5 g7c3 b2c3 d8a5", "n": "Pterodactyl Defense: Eastern, Benoni Pteranodon"}
 {"c": "A46", "f": "rnbqkb1r/p2p1ppp/1p2pn2/2pP2B1/8/4PN2/PPP2PPP/RN1QKB1R b KQkq", "id": 2574, "m": "d2d4 g8f6 g1f3 e7e6 c1g5 c7c5 e2e3 b7b6 d4d5", "n": "Torre Attack: Classical Defense, Petrosian Gambit"}
-{"c": "C58", "f": "r1bqk2r/ppp1bpp1/5n1p/3P4/2P1p3/5N2/PPP1QPPP/RNB1K2R w KQkq", "id": 3277, "m": "XXX", "n": "Italian Game: Two Knights Defense, Maroczy Variation"}
-{"c": "C51", "f": "r2qk1nr/ppp2ppp/1bnp4/8/Q1BPP1b1/2N2N2/P4PPP/R1B2RK1 b kq", "id": 3416, "m": "XXX", "n": "Italian Game: Evans Gambit, Fraser Attack"}
+{"c": "C58", "f": "r1bqk2r/ppp1bpp1/5n1p/3P4/2P1p3/5N2/PPP1QPPP/RNB1K2R w KQkq", "id": 3277, "m": "e2e4 e7e5 g1f3 b8c6 f1c4 g8f6 f3g5 d7d5 e4d5 c6a5 d2d3 h7h6 g5f3 e5e4 d1e2 a5c4 d3c4 f8e7", "n": "Italian Game: Two Knights Defense, Maroczy Variation"}
+{"c": "C51", "f": "r2qk1nr/ppp2ppp/1bnp4/8/Q1BPP1b1/2N2N2/P4PPP/R1B2RK1 b kq", "id": 3416, "m": "e2e4 e7e5 g1f3 b8c6 f1c4 f8c5 b2b4 c5b4 c2c3 b4c5 d2d4 e5d4 e1g1 d7d6 c3d4 c5b6 b1c3 c8g4 d1a4", "n": "Italian Game: Evans Gambit, Fraser Attack"}
 {"c": "C25", "f": "rnbqkb1r/pp3ppp/2p2n2/3Pp3/8/2N3P1/PPPP1P1P/R1BQKBNR w KQkq", "id": 2634, "m": "e2e4 e7e5 b1c3 g8f6 g2g3 d7d5 e4d5 c7c6", "n": "Vienna Game: Mieses Variation, Erben Gambit"}
 {"c": "E15", "f": "rn2k2r/p1ppqppp/bp2pn2/8/1bPP4/1P3NP1/P2BPP1P/RN1QKB1R w KQkq", "id": 2845, "m": "d2d4 g8f6 c2c4 e7e6 g1f3 b7b6 g2g3 c8a6 b2b3 f8b4 c1d2 d8e7", "n": "Queen's Indian Defense: Fianchetto Variation, Check Variation, Modern Line"}
 {"c": "A00", "f": "rnbqkbnr/pppppppp/8/8/8/8/PPPPPPPP/RNBQKBNR w KQkq", "id": 2985, "m": "", "n": "Undefined"}
