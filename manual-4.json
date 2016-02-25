@@ -2780,7 +2780,7 @@
 {"c": "A00", "f": "rnbqkbnr/pppp1ppp/8/4p3/8/3P4/PPP1PPPP/RNBQKBNR w KQkq", "id": 1282, "m": "d2d3 e7e5", "n": "Mieses Opening: Reversed Rat"}
 {"c": "C39", "f": "rnbqkb1r/ppp2p1p/5n2/3pN3/3PPBpP/8/PPP3P1/RN1QKB1R b KQkq", "id": 3175, "m": "e2e4 e7e5 f2f4 e5f4 g1f3 g7g5 h2h4 g5g4 f3e5 d7d5 d2d4 g8f6 c1f4", "n": "King's Gambit Accepted: Kieseritzky, Brentano Defense"}
 {"c": "A15", "f": "rnbqkb1r/p1pppppp/1p3n2/8/2P5/5N2/PP1PPPPP/RNBQKB1R w KQkq", "id": 2807, "m": "g1f3 g8f6 c2c4 b7b6", "n": "English Opening: Anglo-Indian Defense, Queen's Indian Formation"}
-{"c": "C44", "f": "r1bqkb1r/pp1p1Npp/2p1nn2/8/2B1P3/8/PPP2PPP/RNBQ1RK1 b kq", "id": 3204, "m": "XXX", "n": "Scotch, Cochrane Variation"}
+{"c": "C44", "f": "r1bqkb1r/pp1p1Npp/2p1nn2/8/2B1P3/8/PPP2PPP/RNBQ1RK1 b kq", "id": 3204, "m": "e2e4 e7e5 g1f3 b8c6 d2d4 c6d4 f3e5 d4e6 f1c4 c7c6 e1g1 g8f6 e5f7", "n": "Scotch, Cochrane Variation"}
 {"c": "C60", "f": "r1bqkbnr/pppp2pp/2n2p2/1B2p3/4P3/5N2/PPPP1PPP/RNBQK2R w KQkq", "id": 3284, "m": "e2e4 e7e5 g1f3 b8c6 f1b5 f7f6", "n": "Ruy Lopez: Nuernberg Variation"}
 {"c": "E64", "f": "r1bq1rk1/pppn1pbp/3p1np1/4p3/2PP4/1PN2NP1/P3PPBP/R1BQ1RK1 b -", "id": 1156, "m": "d2d4 g8f6 g1f3 g7g6 g2g3 f8g7 f1g2 e8g8 e1g1 d7d6 c2c4 b8d7 b1c3 e7e5 b2b3", "n": "King's Indian Defense: Fianchetto Variation, Double Fianchetto Attack"}
 {"c": "C43", "f": "rnbqkb1r/pppp1ppp/8/4P3/3pn3/5N2/PPP1QPPP/RNB1KB1R b KQkq", "id": 3196, "m": "e2e4 e7e5 g1f3 g8f6 d2d4 e5d4 e4e5 f6e4 d1e2", "n": "Russian Game: Modern Attack, Steinitz Variation"}
