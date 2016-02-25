@@ -1153,8 +1153,8 @@
 {"c": "B25", "n": "Sicilian Defense: Closed", "f": "r1bqk1nr/pp2ppbp/2np2p1/2p5/4P3/2NP2P1/PPP2PBP/R1BQK1NR w KQkq", "id": 3069, "m": "e2e4 c7c5 b1c3 b8c6 g2g3 g7g6 f1g2 f8g7 d2d3 d7d6"}
 {"c": "B25", "n": "Sicilian Defense: Closed Variation", "f": "r1bqk1nr/pp2ppbp/2np2p1/2p5/4PP2/2NP2P1/PPP3BP/R1BQK1NR b KQkq", "id": 2050, "m": "e2e4 c7c5 b1c3 b8c6 g2g3 g7g6 f1g2 f8g7 d2d3 d7d6 f2f4"}
 {"c": "B25", "n": "Sicilian Defense: Closed Variation, Botvinnik Defense", "f": "r1bqk1nr/pp3pbp/2np2p1/2p1p3/4PP2/2NP2P1/PPP3BP/R1BQK1NR w KQkq", "id": 2053, "m": "e2e4 c7c5 b1c3 b8c6 g2g3 g7g6 f1g2 f8g7 d2d3 d7d6 f2f4 e7e5"}
-{"c": "B25", "n": "Sicilian Defense: Closed Variation, Botvinnik Defense, Edge Variation", "f": "r1bqk2r/pp2npbp/2np2p1/2p1p3/4PP2/2NP2PN/PPP3BP/R1BQK2R w KQkq", "id": 2054, "m": "e2e4 c7c5 b1c3 b8c6 g2g3 g7g6 f1g2 f8g7 d2d3 d7d6 f2f4 e7e5 g1h3 g8e7"}
 {"c": "B25", "n": "Sicilian Defense: Closed Variation, Botvinnik Defense", "f": "r1bqk1nr/pp3pbp/2np2p1/2p1p3/4P3/2NP2P1/PPP1NPBP/R1BQK2R w KQkq", "id": 2055, "m": "e2e4 c7c5 b1c3 b8c6 g2g3 g7g6 f1g2 f8g7 d2d3 d7d6 g1e2 e7e5"}
+{"c": "B25", "n": "Sicilian Defense: Closed Variation, Botvinnik Defense, Edge Variation", "f": "r1bqk2r/pp2npbp/2np2p1/2p1p3/4PP2/2NP2PN/PPP3BP/R1BQK2R w KQkq", "id": 2054, "m": "e2e4 c7c5 b1c3 b8c6 g2g3 g7g6 f1g2 f8g7 d2d3 d7d6 f2f4 e7e5 g1h3 g8e7"}
 {"c": "B25", "n": "Sicilian Defense: Closed Variation, Traditional", "f": "r1bqkbnr/pp1ppppp/2n5/2p5/4P3/2N5/PPPP1PPP/R1BQKBNR w KQkq", "id": 2059, "m": "e2e4 c7c5 b1c3 b8c6"}
 {"c": "B26", "n": "Sicilian Defense: Closed Variation", "f": "r1bqk1nr/pp2ppbp/2np2p1/2p5/4P3/2NPB1P1/PPP2PBP/R2QK1NR b KQkq", "id": 2051, "m": "e2e4 c7c5 b1c3 b8c6 g2g3 g7g6 f1g2 f8g7 d2d3 d7d6 c1e3"}
 {"c": "B27", "n": "Sicilian Defense", "f": "rnbqkbnr/pp1ppppp/8/2p5/4P3/5N2/PPPP1PPP/RNBQKB1R b KQkq", "id": 2139, "m": "e2e4 c7c5 g1f3"}
