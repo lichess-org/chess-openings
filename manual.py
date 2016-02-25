@@ -49,7 +49,9 @@ def fast_input():
     old = pyperclip.paste()
     while old == pyperclip.paste():
         time.sleep(1)
-        print("Still waiting ...")
+        print(".", end="", flush=True)
+
+    print()
 
     return pyperclip.paste()
 
