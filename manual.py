@@ -10,6 +10,9 @@ out = open(sys.argv[2], "x")
 def p(m):
     board = chess.Board()
 
+    if m.startswith("."):
+        m = "1" + m
+
     for token in m.replace(".", ". ").replace("D", "Q").replace("S", "N").replace("L", "B").replace("T", "R").strip().split():
         if token[0].isdigit():
             continue
