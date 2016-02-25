@@ -67,9 +67,6 @@ for line in open(sys.argv[1]):
     pyperclip.copy(record["n"])
     print("\a")
     print(record["m"])
-    if record["m"] is None:
-        input("CONFIRM")
-        record["m"] = ""
 
     board = chess.Board(record["f"] + " - 0 1")
 
