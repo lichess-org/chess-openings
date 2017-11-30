@@ -1273,7 +1273,7 @@
 	{"c": "B44", "n": "Sicilian Defense: Paulsen Variation", "f": "r1bqkbnr/pp1p1ppp/2n1p3/8/3NP3/8/PPP2PPP/RNBQKB1R w KQkq", "id": 2219, "m": "e2e4 c7c5 g1f3 e7e6 d2d4 c5d4 f3d4 b8c6"},
 	{"c": "B44", "n": "Sicilian Defense: Paulsen Variation, Gary Gambit", "f": "r1bqkb1r/1p3ppp/p1n1pn2/3p4/2P1P3/N1N5/PP3PPP/R1BQKB1R w KQkq", "id": 2218, "m": "e2e4 c7c5 g1f3 e7e6 d2d4 c5d4 f3d4 b8c6 d4b5 d7d6 c2c4 g8f6 b1c3 a7a6 b5a3 d6d5"},
 	{"c": "B44", "n": "Sicilian Defense: Paulsen Variation, Modern Line", "f": "r1bq1rk1/4bppp/ppnppn2/8/2P1P3/N1N5/PP2BPPP/R1BQ1RK1 w -", "id": 2220, "m": "e2e4 c7c5 g1f3 e7e6 d2d4 c5d4 f3d4 b8c6 d4b5 d7d6 c2c4 g8f6 b1c3 a7a6 b5a3 f8e7 f1e2 e8g8 e1g1 b7b6"},
-	{"c": "B44", "n": "Sicilian Defense: Paulsen Variation, Szen Variation", "f": "r1bqkbnr/pp1p1ppp/2n1p3/1N6/4P3/8/PPP2PPP/RNBQKB1R b KQkq", "id": 2222, "m": "e2e4 c7c5 g1f3 e7e6 d2d4 c5d4 f3d4 b8c6 d4b5"},
+	{"c": "B44", "n": "Sicilian Defense: Paulsen Variation, Szén Variation", "f": "r1bqkbnr/pp1p1ppp/2n1p3/1N6/4P3/8/PPP2PPP/RNBQKB1R b KQkq", "id": 2222, "m": "e2e4 c7c5 g1f3 e7e6 d2d4 c5d4 f3d4 b8c6 d4b5"},
 	{"c": "B45", "n": "Sicilian Defense: Four Knights Variation", "f": "r1bqkb1r/pp1p1ppp/2n1pn2/8/3NP3/2N5/PPP2PPP/R1BQKB1R w KQkq", "id": 2092, "m": "e2e4 c7c5 g1f3 e7e6 d2d4 c5d4 f3d4 g8f6 b1c3 b8c6"},
 	{"c": "B45", "n": "Sicilian Defense: Four Knights Variation, Cobra Variation", "f": "r1bqk2r/pp1p1ppp/2n1pn2/1Nb5/4P3/2N5/PPP2PPP/R1BQKB1R w KQkq", "id": 2093, "m": "e2e4 c7c5 g1f3 b8c6 d2d4 c5d4 f3d4 g8f6 b1c3 e7e6 d4b5 f8c5"},
 	{"c": "B45", "n": "Sicilian Defense: Four Knights Variation, Exchange Variation", "f": "r1bqkb1r/pp1p1ppp/2N1pn2/8/4P3/2N5/PPP2PPP/R1BQKB1R b KQkq", "id": 2847, "m": "e2e4 c7c5 g1f3 e7e6 d2d4 c5d4 f3d4 g8f6 b1c3 b8c6 d4c6"},
