@@ -1,4 +1,5 @@
 [
+	{"c": "A00", "n": "Amar Opening", "f": "rnbqkbnr/pppppppp/8/8/8/7N/PPPPPPPP/RNBQKB1R b KQkq", "id": 45, "m": "g1h3"},
 	{"c": "A00", "n": "Amar Gambit", "f": "rn1qkbnr/ppp2ppp/8/3p4/5p2/6PB/PPPPP2P/RNBQK2R w KQkq", "id": 2990, "m": "g1h3 d7d5 g2g3 e7e5 f2f4 c8h3 f1h3 e5f4"},
 	{"c": "A00", "n": "Amar Opening: Gent Gambit", "f": "rn1qkbnr/ppp2ppp/8/3p4/8/6PB/PPPPP3/RNBQ1RK1 b kq", "id": 46, "m": "g1h3 d7d5 g2g3 e7e5 f2f4 c8h3 f1h3 e5f4 e1g1 f4g3 h2g3"},
 	{"c": "A00", "n": "Amar Opening: Paris Gambit", "f": "rnbqkbnr/ppp2ppp/8/3pp3/5P2/6PN/PPPPP2P/RNBQKB1R b KQkq", "id": 47, "m": "g1h3 d7d5 g2g3 e7e5 f2f4"},
@@ -3117,7 +3118,6 @@
 	{"c": "D98", "n": "Grünfeld Defense: Russian, Keres Variation", "f": "r2q1rk1/ppp1ppbp/1nn3p1/8/3PP1b1/2NQBN2/PP2BPPP/2KR3R b -", "id": 3377, "m": "d2d4 g8f6 c2c4 g7g6 b1c3 d7d5 g1f3 f8g7 d1b3 d5c4 b3c4 e8g8 e2e4 c8g4 c1e3 f6d7 f1e2 d7b6 c4d3 b8c6 e1c1"},
 	{"c": "D99", "n": "Grünfeld Defense: Russian Variation, Smyslov Variation", "f": "rn1q1rk1/pppnppbp/6p1/8/3PP1b1/1QN1BN2/PP3PPP/R3KB1R b KQ", "id": 785, "m": "d2d4 g8f6 c2c4 g7g6 b1c3 d7d5 g1f3 f8g7 d1b3 d5c4 b3c4 e8g8 e2e4 c8g4 c1e3 f6d7 c4b3"},
 	{"c": "D99", "n": "Grünfeld Defense: Russian Variation, Yugoslav Variation", "f": "rn1q1rk1/pp1nppbp/6p1/2p5/3PP1b1/1QN1BN2/PP3PPP/R3KB1R w KQ", "id": 788, "m": "d2d4 g8f6 c2c4 g7g6 b1c3 d7d5 g1f3 f8g7 d1b3 d5c4 b3c4 e8g8 e2e4 c8g4 c1e3 f6d7 c4b3 c7c5"},
-	{"c": "E00", "n": "Amar Opening", "f": "rnbqkbnr/pppppppp/8/8/8/7N/PPPPPPPP/RNBQKB1R b KQkq", "id": 45, "m": "g1h3"},
 	{"c": "E00", "n": "Catalan Opening", "f": "rnbqkb1r/pppp1ppp/4pn2/8/2PP4/6P1/PP2PP1P/RNBQKBNR b KQkq", "id": 322, "m": "d2d4 g8f6 c2c4 e7e6 g2g3"},
 	{"c": "E00", "n": "Catalan Opening: Hungarian Gambit", "f": "rnbqkb1r/pppp1ppp/5n2/4p3/2PP4/6P1/PP2PP1P/RNBQKBNR w KQkq", "id": 323, "m": "d2d4 g8f6 c2c4 e7e6 g2g3 e6e5"},
 	{"c": "E00", "n": "Indian Game: Devin Gambit", "f": "rnbqkb1r/pppp1ppp/4pn2/8/2PP2P1/8/PP2PP1P/RNBQKBNR b KQkq", "id": 823, "m": "d2d4 g8f6 c2c4 e7e6 g2g4"},
