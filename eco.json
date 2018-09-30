@@ -2381,7 +2381,7 @@
 	{"c": "C60", "n": "Ruy Lopez: Cozio Defense, Tartakower Gambit", "f": "r1bq1rk1/ppp1npbp/2n3p1/1B1p4/3NP3/2N1B3/PPPQ1PPP/R3K2R w KQ", "id": 2420, "m": "e2e4 e7e5 g1f3 b8c6 f1b5 g7g6 d2d4 e5d4 f3d4 f8g7 c1e3 g8e7 b1c3 e8g8 d1d2 d7d5"},
 	{"c": "C60", "n": "Ruy Lopez: Fianchetto Defense", "f": "r1bqkbnr/pppp1p1p/2n3p1/1B2p3/4P3/5N2/PPPP1PPP/RNBQK2R w KQkq", "id": 2431, "m": "e2e4 e7e5 g1f3 b8c6 f1b5 g7g6"},
 	{"c": "C60", "n": "Ruy Lopez: Lucena Variation", "f": "r1bqk1nr/ppppbppp/2n5/1B2p3/4P3/5N2/PPPP1PPP/RNBQK2R w KQkq", "id": 2925, "m": "e2e4 e7e5 g1f3 b8c6 f1b5 f8e7"},
-	{"c": "C60", "n": "Ruy Lopez: Nuernberg Variation", "f": "r1bqkbnr/pppp2pp/2n2p2/1B2p3/4P3/5N2/PPPP1PPP/RNBQK2R w KQkq", "id": 3284, "m": "e2e4 e7e5 g1f3 b8c6 f1b5 f7f6"},
+	{"c": "C60", "n": "Ruy Lopez: Nürnberg Variation", "f": "r1bqkbnr/pppp2pp/2n2p2/1B2p3/4P3/5N2/PPPP1PPP/RNBQK2R w KQkq", "id": 3284, "m": "e2e4 e7e5 g1f3 b8c6 f1b5 f7f6"},
 	{"c": "C60", "n": "Ruy Lopez: Pollock Defense", "f": "r1bqkbnr/pppp1ppp/8/nB2p3/4P3/5N2/PPPP1PPP/RNBQK2R w KQkq", "id": 3285, "m": "e2e4 e7e5 g1f3 b8c6 f1b5 c6a5"},
 	{"c": "C60", "n": "Ruy Lopez: Retreat Variation", "f": "rnbqkbnr/pppp1ppp/8/1B2p3/4P3/5N2/PPPP1PPP/RNBQK2R w KQkq", "id": 2803, "m": "e2e4 e7e5 g1f3 b8c6 f1b5 c6b8"},
 	{"c": "C60", "n": "Ruy Lopez: Rotary-Albany Gambit", "f": "r1bqkbnr/p1pp1ppp/1pn5/1B2p3/4P3/5N2/PPPP1PPP/RNBQK2R w KQkq", "id": 2510, "m": "e2e4 e7e5 g1f3 b8c6 f1b5 b7b6"},
