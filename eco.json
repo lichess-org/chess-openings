@@ -111,7 +111,7 @@
 	{"c": "A00", "n": "Van Geet Opening: Billockus-Johansen Gambit", "f": "rnbqk1nr/pppp1ppp/8/2b1p3/8/2N2N2/PPPPPPPP/R1BQKB1R w KQkq", "id": 2590, "m": "b1c3 e7e5 g1f3 f8c5"},
 	{"c": "A00", "n": "Van Geet Opening: Damhaug Gambit", "f": "rnbqkbnr/ppp2ppp/8/3pp3/5P2/2N5/PPPPP1PP/R1BQKBNR w KQkq", "id": 2591, "m": "b1c3 d7d5 f2f4 e7e5"},
 	{"c": "A00", "n": "Van Geet Opening: Dougherty Gambit", "f": "rnbqkbnr/ppp1pppp/8/8/4p3/2N2P2/PPPP2PP/R1BQKBNR b KQkq", "id": 2592, "m": "b1c3 d7d5 e2e4 d5e4 f2f3"},
-	{"c": "A00", "n": "Van Geet Opening: Duesseldorf Gambit", "f": "rnbqkbnr/pp1ppppp/8/2p5/1P6/2N5/P1PPPPPP/R1BQKBNR b KQkq", "id": 2593, "m": "b1c3 c7c5 b2b4"},
+	{"c": "A00", "n": "Van Geet Opening: Düsseldorf Gambit", "f": "rnbqkbnr/pp1ppppp/8/2p5/1P6/2N5/P1PPPPPP/R1BQKBNR b KQkq", "id": 2593, "m": "b1c3 c7c5 b2b4"},
 	{"c": "A00", "n": "Van Geet Opening: Dunst-Perrenet Gambit", "f": "rnbqkbnr/ppp1pppp/8/8/4p3/2NP4/PPP2PPP/R1BQKBNR b KQkq", "id": 2594, "m": "b1c3 d7d5 e2e4 d5e4 d2d3"},
 	{"c": "A00", "n": "Van Geet Opening: Gladbacher Gambit", "f": "rnbqkbnr/ppp2ppp/8/4p3/4p3/1PNP4/P1P2PPP/R1BQKBNR b KQkq", "id": 2596, "m": "b1c3 e7e5 b2b3 d7d5 e2e4 d5e4 d2d3"},
 	{"c": "A00", "n": "Van Geet Opening: Grünfeld Defense", "f": "rnbqkbnr/ppp2ppp/8/4p3/4N3/8/PPPP1PPP/R1BQKBNR w KQkq", "id": 2597, "m": "e2e4 d7d5 b1c3 d5e4 c3e4 e7e5"},
