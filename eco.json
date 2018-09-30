@@ -1213,7 +1213,7 @@
 	{"c": "B32", "n": "Sicilian Defense: Franco-Sicilian Variation", "f": "r1bqkbnr/pp1p1ppp/2n1p3/2p5/3PP3/5N2/PPP2PPP/RNBQKB1R w KQkq", "id": 2760, "m": "e2e4 c7c5 g1f3 b8c6 d2d4 e7e6"},
 	{"c": "B32", "n": "Sicilian Defense: Godiva Variation", "f": "r1b1kbnr/pp1ppppp/1qn5/8/3NP3/8/PPP2PPP/RNBQKB1R w KQkq", "id": 2100, "m": "e2e4 c7c5 g1f3 b8c6 d2d4 c5d4 f3d4 d8b6"},
 	{"c": "B32", "n": "Sicilian Defense: Kalashnikov Variation", "f": "r1bqkbnr/pp3ppp/2np4/1N2p3/4P3/8/PPP2PPP/RNBQKB1R w KQkq", "id": 2108, "m": "e2e4 c7c5 g1f3 b8c6 d2d4 c5d4 f3d4 e7e5 d4b5 d7d6"},
-	{"c": "B32", "n": "Sicilian Defense: Loewenthal Variation", "f": "r1bqkbnr/pp1p1ppp/2n5/4p3/3NP3/8/PPP2PPP/RNBQKB1R w KQkq", "id": 2133, "m": "e2e4 c7c5 g1f3 b8c6 d2d4 c5d4 f3d4 e7e5"},
+	{"c": "B32", "n": "Sicilian Defense: Löwenthal Variation", "f": "r1bqkbnr/pp1p1ppp/2n5/4p3/3NP3/8/PPP2PPP/RNBQKB1R w KQkq", "id": 2133, "m": "e2e4 c7c5 g1f3 b8c6 d2d4 c5d4 f3d4 e7e5"},
 	{"c": "B32", "n": "Sicilian Defense: Nimzo-American Variation", "f": "r1bqkbnr/pp2pppp/2n5/3p4/3NP3/8/PPP2PPP/RNBQKB1R w KQkq", "id": 2174, "m": "e2e4 c7c5 g1f3 b8c6 d2d4 c5d4 f3d4 d7d5"},
 	{"c": "B32", "n": "Sicilian Defense: Open", "f": "r1bqkbnr/pp1ppppp/2n5/2p5/3PP3/5N2/PPP2PPP/RNBQKB1R b KQkq", "id": 2210, "m": "e2e4 c7c5 g1f3 b8c6 d2d4"},
 	{"c": "B32", "n": "Sicilian Defense: Open", "f": "r1bqkbnr/pp1ppppp/2n5/8/3pP3/5N2/PPP2PPP/RNBQKB1R w KQkq", "id": 3456, "m": "e2e4 c7c5 g1f3 b8c6 d2d4 c5d4"},
