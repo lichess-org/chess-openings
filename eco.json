@@ -1963,7 +1963,7 @@
 	{"c": "C40", "n": "King's Pawn Game: Gunderam Gambit", "f": "rnbqkbnr/pp1p1ppp/2p5/4p3/4P3/5N2/PPPP1PPP/RNBQKB1R w KQkq", "id": 973, "m": "e2e4 e7e5 g1f3 c7c6"},
 	{"c": "C40", "n": "King's Pawn Game: La Bourdonnais Gambit", "f": "rnb1kbnr/pppp1ppp/6q1/4p3/2B1P3/5N2/PPPP1PPP/RNBQ1RK1 b kq", "id": 975, "m": "e2e4 e7e5 g1f3 d8f6 f1c4 f6g6 e1g1"},
 	{"c": "C40", "n": "King's Pawn Game: McConnell Defense", "f": "rnb1kbnr/pppp1ppp/5q2/4p3/4P3/5N2/PPPP1PPP/RNBQKB1R w KQkq", "id": 982, "m": "e2e4 e7e5 g1f3 d8f6"},
-	{"c": "C40", "n": "King's Pawn Game: Schulze-Mueller Gambit", "f": "r1bqkbnr/pppp1ppp/8/4n3/3PP3/8/PPP2PPP/RNBQKB1R b KQkq", "id": 986, "m": "e2e4 e7e5 g1f3 b8c6 f3e5 c6e5 d2d4"},
+	{"c": "C40", "n": "King's Pawn Game: Schulze-Müller Gambit", "f": "r1bqkbnr/pppp1ppp/8/4n3/3PP3/8/PPP2PPP/RNBQKB1R b KQkq", "id": 986, "m": "e2e4 e7e5 g1f3 b8c6 f3e5 c6e5 d2d4"},
 	{"c": "C40", "n": "Latvian Gambit", "f": "rnbqkbnr/pppp2pp/8/4pp2/4P3/5N2/PPPP1PPP/RNBQKB1R w KQkq", "id": 1256, "m": "e2e4 e7e5 g1f3 f7f5"},
 	{"c": "C40", "n": "Latvian Gambit Accepted", "f": "rnbqkbnr/pppp2pp/8/4pP2/8/5N2/PPPP1PPP/RNBQKB1R b KQkq", "id": 1243, "m": "e2e4 e7e5 g1f3 f7f5 e4f5"},
 	{"c": "C40", "n": "Latvian Gambit Accepted, Bilguer Variation", "f": "rnb1kbnr/ppp3pp/3p1q2/5p2/2NPP3/8/PPP2PPP/RNBQKB1R b KQkq", "id": 1244, "m": "e2e4 e7e5 g1f3 f7f5 f3e5 d8f6 d2d4 d7d6 e5c4"},
