@@ -182,7 +182,7 @@ E60	Indian Game: King's Indian Variation, Fianchetto Variation	rnbqk2r/ppppppbp/
 E60	Indian Game: West Indian Defense	rnbqkb1r/pppppp1p/5np1/8/2PP4/8/PP2PPPP/RNBQKBNR w KQkq -	d2d4 g8f6 c2c4 g7g6
 E60	King's Indian Defense: Fianchetto Variation, Immediate Fianchetto	rnbqkb1r/pppppp1p/5np1/8/2PP4/6P1/PP2PP1P/RNBQKBNR b KQkq -	d2d4 g8f6 c2c4 g7g6 g2g3
 E60	King's Indian Defense: Fianchetto Variation, Pterodactyl Variation	rnb1k2r/pp1pppbp/5np1/q1p5/2PP4/5NP1/PP2PPBP/RNBQK2R w KQkq -	d2d4 g8f6 g1f3 g7g6 c2c4 f8g7 g2g3 c7c5 f1g2 d8a5
-E60	King's Indian Defense: Fianchetto Variation, Yugoslav System, without Nc3	rnbq1rk1/pp2ppbp/3p1np1/2p5/2PP4/5NP1/PP2PPBP/RNBQ1RK1 w - -	d2d4 g8f6 c2c4 g7g6 g1f3 f8g7 g2g3 e8g8 f1g2 d7d6 e1g1 c7c5
+E60	King's Indian Defense: Fianchetto Variation, Yugoslav System	rnbq1rk1/pp2ppbp/3p1np1/2p5/2PP4/5NP1/PP2PPBP/RNBQ1RK1 w - -	d2d4 g8f6 c2c4 g7g6 g1f3 f8g7 g2g3 e8g8 f1g2 d7d6 e1g1 c7c5
 E60	King's Indian Defense: Normal Variation, King's Knight Variation	rnbqkb1r/pppppp1p/5np1/8/2PP4/5N2/PP2PPPP/RNBQKB1R b KQkq -	d2d4 g8f6 g1f3 g7g6 c2c4
 E60	King's Indian Defense: Santasiere Variation	rnbqk2r/ppppppbp/5np1/8/1PPP4/5N2/P3PPPP/RNBQKB1R b KQkq -	d2d4 g8f6 c2c4 g7g6 g1f3 f8g7 b2b4
 E60	King's Indian Defense: Semi-Classical Variation, Benoni Variation	rnbq1rk1/pp2ppbp/2pp1np1/8/2PP4/2N1PN2/PP2BPPP/R1BQK2R w KQ -	c2c4 g8f6 g1f3 g7g6 d2d4 f8g7 b1c3 e8g8 e2e3 d7d6 f1e2 c7c6
