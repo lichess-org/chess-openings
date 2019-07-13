@@ -20,7 +20,7 @@ A09: Réti Opening: 1.Nf3 d5 2.c4
 
 A10: English: 1.c4
 
-A11: English, Anglo-Slav System: 1.c4 c6
+A11: English, Anglo-Slav system: 1.c4 c6
 
 A12: English with b3: 1.c4 c6 2.Nf3 d5 3.b3
 
@@ -36,7 +36,7 @@ A17: English: 1.c4 Nf6 2.Nc3 e6
 
 A18: English, Mikenas-Carls: 1.c4 Nf6 2.Nc3 e6 3.e4
 
-A19: English, Mikenas-Carls, Sicilian Variation: 1.c4 Nf6 2.Nc3 e6 3.e4 c5
+A19: English, Mikenas-Carls, Sicilian variation: 1.c4 Nf6 2.Nc3 e6 3.e4 c5
 
 A20: English: 1.c4 e5
 
@@ -44,15 +44,15 @@ A21: English: 1.c4 e5 2.Nc3
 
 A22: English: 1.c4 e5 2.Nc3 Nf6
 
-A23: English, Bremen System, Keres Variation: 1.c4 e5 2.Nc3 Nf6 3.g3 c6
+A23: English, Bremen system, Keres variation: 1.c4 e5 2.Nc3 Nf6 3.g3 c6
 
-A24: English, Bremen System with ...g6: 1.c4 e5 2.Nc3 Nf6 3.g3 g6
+A24: English, Bremen system with ...g6: 1.c4 e5 2.Nc3 Nf6 3.g3 g6
 
 A25: English: 1.c4 e5 2.Nc3 Nc6
 
 A26: English: 1.c4 e5 2.Nc3 Nc6 3.g3 g6 4.Bg2 Bg7 5.d3 d6
 
-A27: English, Three Knights System: 1.c4 e5 2.Nc3 Nc6 3.Nf3
+A27: English, Three Knights system: 1.c4 e5 2.Nc3 Nc6 3.Nf3
 
 A28: English: 1.c4 e5 2.Nc3 Nc6 3.Nf3 Nf6
 
@@ -62,7 +62,7 @@ A30: English, Symmetrical: 1.c4 c5
 
 A31: English, Symmetrical, Benoni Formation: 1.c4 c5 2.Nf3 Nf6 3.d4
 
-A32: English, Symmetrical Variation: 1.c4 c5 2.Nf3 Nf6 3.d4 cxd4 4.Nxd4 e6
+A32: English, Symmetrical variation: 1.c4 c5 2.Nf3 Nf6 3.d4 cxd4 4.Nxd4 e6
 
 A33: English, Symmetrical: 1.c4 c5 2.Nf3 Nf6 3.d4 cxd4 4.Nxd4 e6 5.Nc3 Nc6
 
@@ -80,9 +80,9 @@ A39: English, Symmetrical: 1.c4 c5 2.Nc3 Nc6 3.g3 g6 4.Bg2 Bg7 5.Nf3 Nf6 6.O-O O
 
 A40: Unusual Black responses to 1.d4: 1...e5 (Englund Gambit), 1...b5 (Polish Defence), 1...Nc6 (Nimzowitsch Defence), 1...g6 (Modern Defence without 2.e4), 1...e6 (French Indian Defence)
 
-A41: Tartakower System: 1.d4 d6
+A41: Tartakower system: 1.d4 d6
 
-A42: Tartakower System with 2.c4: 1.d4 d6 2.c4
+A42: Tartakower system with 2.c4: 1.d4 d6 2.c4
 
 A43: Various Benonis: 1.d4 c5
 
@@ -102,15 +102,15 @@ A48: Torre Attack with 2...e6: 1.d4 Nf6 2.Nf3 e6 3.Bg5
 
 A48: Torre Attack with 2...g6: 1.d4 Nf6 2.Nf3 g6 3.Bg5
 
-A48: London System: 1.d4 Nf6 2.Nf3 e6 3.Bf4
+A48: London system: 1.d4 Nf6 2.Nf3 e6 3.Bf4
 
-A49: Fianchetto Variation: 1.d4 Nf6 2.Nf3 e6 3.g3
+A49: Fianchetto variation: 1.d4 Nf6 2.Nf3 e6 3.g3
 
 A50: Black Knights' Tango: 1.d4 Nf6 2.c4 Nc6
 
-A51: Budapest Gambit Declined and Unusual Lines: 1.d4 Nf6 2.c4 e5
+A51: Budapest Gambit Declined and unusual lines: 1.d4 Nf6 2.c4 e5
 
-A52: Budapest Gambit Main Lines: 1.d4 Nf6 2.c4 e5 3.dxe5 Ng4
+A52: Budapest Gambit main lines: 1.d4 Nf6 2.c4 e5 3.dxe5 Ng4
 
 A53: Old Indian Defence: 1.d4 Nf6 2.c4 d6
 
@@ -130,17 +130,17 @@ A60: Modern Benoni and early divergences: 1.d4 Nf6 2.c4 c5 3.d5 e6
 
 A61: Modern Benoni without early e4: 1.d4 Nf6 2.c4 c5 3.d5 e6 4.Nc3 exd5 5.cxd5 d6
 
-A62: Modern Benoni, Fianchetto Variation without early ...Nbd7: 1.d4 Nf6 2.c4 c5 3.d5 e6 4.Nc3 exd5 5.cxd5 d6 6.Nf3 g6 7.g3
+A62: Modern Benoni, Fianchetto variation without early ...Nbd7: 1.d4 Nf6 2.c4 c5 3.d5 e6 4.Nc3 exd5 5.cxd5 d6 6.Nf3 g6 7.g3
 
-A63: Modern Benoni, Fianchetto Variation sidelines: 1.d4 Nf6 2.c4 c5 3.d5 e6 4.Nc3 exd5 5.cxd5 d6 6.Nf3 g6 7.g3 Bg7 8.Bg2 O-O
+A63: Modern Benoni, Fianchetto variation sidelines: 1.d4 Nf6 2.c4 c5 3.d5 e6 4.Nc3 exd5 5.cxd5 d6 6.Nf3 g6 7.g3 Bg7 8.Bg2 O-O
 
-A64: Modern Benoni, Fianchetto Variation main line: 1.d4 Nf6 2.c4 c5 3.d5 e6 4.Nc3 exd5 5.cxd5 d6 6.Nf3 g6 7.g3 Bg7 8.Bg2 O-O 9.O-O Re8 10.Nd2 Nbd7
+A64: Modern Benoni, Fianchetto variation main line: 1.d4 Nf6 2.c4 c5 3.d5 e6 4.Nc3 exd5 5.cxd5 d6 6.Nf3 g6 7.g3 Bg7 8.Bg2 O-O 9.O-O Re8 10.Nd2 Nbd7
 
 A65: Modern Benoni, sidelines with early e4: 1.d4 Nf6 2.c4 c5 3.d5 e6 4.Nc3 exd5 5.cxd5 d6 6.e4
 
 A66: Modern Benoni, Mikenas Attack: 1.d4 Nf6 2.c4 c5 3.d5 e6 4.Nc3 exd5 5.cxd5 d6 6.e4 g6 7.f4 Bg7 8.e5
 
-A67: Modern Benoni, Taimanov Variation: 1.d4 Nf6 2.c4 c5 3.d5 e6 4.Nc3 exd5 5.cxd5 d6 6.e4 g6 7.f4 Bg7 8.Bb5+
+A67: Modern Benoni, Taimanov variation: 1.d4 Nf6 2.c4 c5 3.d5 e6 4.Nc3 exd5 5.cxd5 d6 6.e4 g6 7.f4 Bg7 8.Bb5+
 
 A68: Modern Benoni, Four Pawns Attack without 9...Re8: 1.d4 Nf6 2.c4 c5 3.d5 e6 4.Nc3 exd5 5.cxd5 d6 6.e4 g6 7.f4 Bg7 8.Nf3 O-O 9.Bd3
 
@@ -150,21 +150,21 @@ A70: Modern Benoni, 7.Nf3: 1.d4 Nf6 2.c4 c5 3.d5 e6 4.Nc3 exd5 5.cxd5 d6 6.e4 g6
 
 A71: Modern Benoni, 7.Nf3 Bg7 8.Bg5 without Be2: 1.d4 Nf6 2.c4 c5 3.d5 e6 4.Nc3 exd5 5.cxd5 d6 6.e4 g6 7.Nf3 Bg7 8.Bg5
 
-A72: Modern Benoni, Classical Variation with Bg5: 1.d4 Nf6 2.c4 c5 3.d5 e6 4.Nc3 exd5 5.cxd5 d6 6.e4 g6 7.Nf3 Bg7 8.Be2 O-O 9.Bg5
+A72: Modern Benoni, Classical variation with Bg5: 1.d4 Nf6 2.c4 c5 3.d5 e6 4.Nc3 exd5 5.cxd5 d6 6.e4 g6 7.Nf3 Bg7 8.Be2 O-O 9.Bg5
 
-A73: Modern Benoni, Classical Variation and unusual Black 9th moves: 1.d4 Nf6 2.c4 c5 3.d5 e6 4.Nc3 exd5 5.cxd5 d6 6.e4 g6 7.Nf3 Bg7 8.Be2 O-O 9.O-O
+A73: Modern Benoni, Classical variation and unusual Black 9th moves: 1.d4 Nf6 2.c4 c5 3.d5 e6 4.Nc3 exd5 5.cxd5 d6 6.e4 g6 7.Nf3 Bg7 8.Be2 O-O 9.O-O
 
-A74: Modern Benoni, Classical Variation with 9...a6: 1.d4 Nf6 2.c4 c5 3.d5 e6 4.Nc3 exd5 5.cxd5 d6 6.e4 g6 7.Nf3 Bg7 8.Be2 O-O 9.O-O a6
+A74: Modern Benoni, Classical variation with 9...a6: 1.d4 Nf6 2.c4 c5 3.d5 e6 4.Nc3 exd5 5.cxd5 d6 6.e4 g6 7.Nf3 Bg7 8.Be2 O-O 9.O-O a6
 
-A75: Modern Benoni, Classical Variation main line: 1.d4 Nf6 2.c4 c5 3.d5 e6 4.Nc3 exd5 5.cxd5 d6 6.e4 g6 7.Nf3 Bg7 8.Be2 O-O 9.O-O a6 10.a4 Bg4
+A75: Modern Benoni, Classical variation main line: 1.d4 Nf6 2.c4 c5 3.d5 e6 4.Nc3 exd5 5.cxd5 d6 6.e4 g6 7.Nf3 Bg7 8.Be2 O-O 9.O-O a6 10.a4 Bg4
 
-A76: Modern Benoni, Classical Variation with 9...Re8 10.Qc2: 1.d4 Nf6 2.c4 c5 3.d5 e6 4.Nc3 exd5 5.cxd5 d6 6.e4 g6 7.Nf3 Bg7 8.Be2 O-O 9.O-O Re8 10.Qc2
+A76: Modern Benoni, Classical variation with 9...Re8 10.Qc2: 1.d4 Nf6 2.c4 c5 3.d5 e6 4.Nc3 exd5 5.cxd5 d6 6.e4 g6 7.Nf3 Bg7 8.Be2 O-O 9.O-O Re8 10.Qc2
 
-A77: Modern Benoni, Classical Variation with 9...Re8 10.Nd2: 1.d4 Nf6 2.c4 c5 3.d5 e6 4.Nc3 exd5 5.cxd5 d6 6.e4 g6 7.Nf3 Bg7 8.Be2 O-O 9.O-O Re8 10.Nd2
+A77: Modern Benoni, Classical variation with 9...Re8 10.Nd2: 1.d4 Nf6 2.c4 c5 3.d5 e6 4.Nc3 exd5 5.cxd5 d6 6.e4 g6 7.Nf3 Bg7 8.Be2 O-O 9.O-O Re8 10.Nd2
 
-A78: Modern Benoni, Classical Variation with 10...Na6: 1.d4 Nf6 2.c4 c5 3.d5 e6 4.Nc3 exd5 5.cxd5 d6 6.e4 g6 7.Nf3 Bg7 8.Be2 O-O 9.O-O Re8 10.Nd2 Na6
+A78: Modern Benoni, Classical variation with 10...Na6: 1.d4 Nf6 2.c4 c5 3.d5 e6 4.Nc3 exd5 5.cxd5 d6 6.e4 g6 7.Nf3 Bg7 8.Be2 O-O 9.O-O Re8 10.Nd2 Na6
 
-A79: Modern Benoni, Classical Variation with 10...Na6 11.f3: 1.d4 Nf6 2.c4 c5 3.d5 e6 4.Nc3 exd5 5.cxd5 d6 6.e4 g6 7.Nf3 Bg7 8.Be2 O-O 9.O-O Re8 10.Nd2 Na6 11.f3
+A79: Modern Benoni, Classical variation with 10...Na6 11.f3: 1.d4 Nf6 2.c4 c5 3.d5 e6 4.Nc3 exd5 5.cxd5 d6 6.e4 g6 7.Nf3 Bg7 8.Be2 O-O 9.O-O Re8 10.Nd2 Na6 11.f3
 
 A80: Dutch Defence and unusual White second moves: 1.d4 f5
 
@@ -178,17 +178,17 @@ A84: Dutch Defence, 2.c4: 1.d4 f5 2.c4
 
 A85: Dutch Defence, 2.c4 Nf6 3.Nc3: 1.d4 f5 2.c4 Nf6 3.Nc3
 
-A86: Dutch Defence, Leningrad Variation sidelines: 1.d4 f5 2.c4 Nf6 3.g3
+A86: Dutch Defence, Leningrad variation sidelines: 1.d4 f5 2.c4 Nf6 3.g3
 
-A87: Dutch Defence, Leningrad Variation with 5.Nf3: 1.d4 f5 2.c4 Nf6 3.g3 Nf6 3.g6 4.Bg2 Bg7 5.Nf3
+A87: Dutch Defence, Leningrad variation with 5.Nf3: 1.d4 f5 2.c4 Nf6 3.g3 Nf6 3.g6 4.Bg2 Bg7 5.Nf3
 
-A88: Dutch Defence, Leningrad Variation main line 7...c6: 1.d4 f5 2.c4 Nf6 3.g3 Nf6 3.g6 4.Bg2 Bg7 5.Nf3 O-O 6.O-O d6 7.Nc3 c6
+A88: Dutch Defence, Leningrad variation main line 7...c6: 1.d4 f5 2.c4 Nf6 3.g3 Nf6 3.g6 4.Bg2 Bg7 5.Nf3 O-O 6.O-O d6 7.Nc3 c6
 
-A89: Dutch Defence, Leningrad Variation main line 7...Nc6: 1.d4 f5 2.c4 Nf6 3.g3 Nf6 3.g6 4.Bg2 Bg7 5.Nf3 O-O 6.O-O d6 7.Nc3 c6
+A89: Dutch Defence, Leningrad variation main line 7...Nc6: 1.d4 f5 2.c4 Nf6 3.g3 Nf6 3.g6 4.Bg2 Bg7 5.Nf3 O-O 6.O-O d6 7.Nc3 c6
 
 A90: Dutch Defence sidelines and Stonewall: 1.d4 f5 2.c4 Nf6 3.g3 e6
 
-A91: Dutch Defence, Classical Variation sidelines: 1.d4 f5 2.c4 Nf6 3.g3 e6 4.Bg2 Be7
+A91: Dutch Defence, Classical variation sidelines: 1.d4 f5 2.c4 Nf6 3.g3 e6 4.Bg2 Be7
 
 A92: Dutch Defence, Classical Stonewall with ...Be7 and early deviations: 1.d4 f5 2.c4 Nf6 3.g3 e6 4.Bg2 Be7 5.Nf3
 
@@ -198,13 +198,13 @@ A94: Dutch Defence, Classical Stonewall with 7.b3 c6 8.Ba3: 1.d4 f5 2.c4 Nf6 3.g
 
 A95: Dutch Defence, Classical Stonewall with 7.Nc3 c6: 1.d4 f5 2.c4 Nf6 3.g3 e6 4.Bg2 Be7 5.Nf3 d5 6.O-O O-O 7.Nc3 c6
 
-A96: Dutch Defence, Ilyin-Genevsky Variation: 1.d4 f5 2.c4 Nf6 3.g3 e6 4.Bg2 Be7 5.Nf3 O-O 6.O-O d6
+A96: Dutch Defence, Ilyin-Genevsky variation: 1.d4 f5 2.c4 Nf6 3.g3 e6 4.Bg2 Be7 5.Nf3 O-O 6.O-O d6
 
-A97: Dutch Defence, Ilyin-Genevsky Variation: 1.d4 f5 2.c4 Nf6 3.g3 e6 4.Bg2 Be7 5.Nf3 O-O 6.O-O d6 7.Nc3 Qe8
+A97: Dutch Defence, Ilyin-Genevsky variation: 1.d4 f5 2.c4 Nf6 3.g3 e6 4.Bg2 Be7 5.Nf3 O-O 6.O-O d6 7.Nc3 Qe8
 
-A98: Dutch Defence, Ilyin-Genevsky Variation with 8.Qc2: 1.d4 f5 2.c4 Nf6 3.g3 e6 4.Bg2 Be7 5.Nf3 O-O 6.O-O d6 7.Nc3 Qe8 8.Qc2
+A98: Dutch Defence, Ilyin-Genevsky variation with 8.Qc2: 1.d4 f5 2.c4 Nf6 3.g3 e6 4.Bg2 Be7 5.Nf3 O-O 6.O-O d6 7.Nc3 Qe8 8.Qc2
 
-A99: Dutch Defence, Ilyin-Genevsky Variation with 8.b3: 1.d4 f5 2.c4 Nf6 3.g3 e6 4.Bg2 Be7 5.Nf3 O-O 6.O-O d6 7.Nc3 Qe8 8.b3
+A99: Dutch Defence, Ilyin-Genevsky variation with 8.b3: 1.d4 f5 2.c4 Nf6 3.g3 e6 4.Bg2 Be7 5.Nf3 O-O 6.O-O d6 7.Nc3 Qe8 8.b3
 
 
 B00: Irregular Asymmetrical Responses to 1.e4: 1...a6 (St.George's Defence), 1...b6 (Owens' Defence), 1...f6 (Barnes Defence), 1...h6 (Carr Defence), 1...Na6 (Lemming Defence), 1...Nc6 (Nimzowitsch Defence), 1...Nh6 (Adams Defence), 1...a5 (Cornstalk Defence), 1...b5 (Polish Gambit), 1...f5 (Fred Defence), 1...g5 (Borg Defence), 1...h5 (Goldsmith Defence)
@@ -215,9 +215,9 @@ B02: Alekhine Defence: Unusual White third moves: 1.e4 Nf6 2.e5 Nd5 3.g3, 3.c4, 
 
 B03: Alekhine Defence, Four Pawns' Attack: 1.e4 Nf6 2.e5 Nd5 3.d4 d6 4.g3
 
-B04: Alekhine Defence, Modern Variation: 1.e4 Nf6 2.e5 Nd5 3.d4 d6 4.Nf3
+B04: Alekhine Defence, Modern variation: 1.e4 Nf6 2.e5 Nd5 3.d4 d6 4.Nf3
 
-B05: Alekhine Defence, Modern Variation: 1.e4 Nf6 2.e5 Nd5 3.d4 d6 4.Nf3 Bg4
+B05: Alekhine Defence, Modern variation: 1.e4 Nf6 2.e5 Nd5 3.d4 d6 4.Nf3 Bg4
 
 B06: Modern Defence: 1.e4 g6
 
@@ -235,11 +235,11 @@ B10: Caro-Kann Defence, Unusual White second moves: 1.e4 c6
 
 B11: Caro-Kann Defence, Unusual Black second moves: 1.e4 c6 2.d4
 
-B11: Caro-Kann Defence, Two Knights Variation: 1.e4 c6 2.Nc3
+B11: Caro-Kann Defence, Two Knights variation: 1.e4 c6 2.Nc3
 
-B12: Caro-Kann Defence, Classical Variation: 1.e4 c6 2.d4 d5 3.Nc3 dxe4 4.Nxe4 Bf5
+B12: Caro-Kann Defence, Classical variation: 1.e4 c6 2.d4 d5 3.Nc3 dxe4 4.Nxe4 Bf5
 
-B13: Caro-Kann Defence, Exchange Variation: 1.e4 c6 2.d4 d5 3.exd5 cxd5 4.Bd3
+B13: Caro-Kann Defence, Exchange variation: 1.e4 c6 2.d4 d5 3.exd5 cxd5 4.Bd3
 
 B13: Caro-Kann Defence, Panov-Botvinnik Attack: 1.e4 c6 2.d4 d5 3.exd5 cxd5 4.c4
 
@@ -249,15 +249,15 @@ B14: Caro-Kann Defence, Panov-Botvinnik Attack with 5...g6: 1.e4 c6 2.d4 d5 3.ex
 
 B15: Caro-Kann Defence, 3.Nc3 sidelines: 1.e4 c6 2.d4 d5 3.Nc3
 
-B15: Caro-Kann Defence, Korchnoi Variation: 1.e4 c6 2.d4 d5 3.Nc3 dxe4 4.Nxe4 Nf6 5.Nxf6 exf6
+B15: Caro-Kann Defence, Korchnoi variation: 1.e4 c6 2.d4 d5 3.Nc3 dxe4 4.Nxe4 Nf6 5.Nxf6 exf6
 
-B16: Caro-Kann Defence, Larsen-Bronstein Variation: 1.e4 c6 2.d4 d5 3.Nc3 dxe4 4.Nxe4 Nf6 5. Nxf6 gxf6
+B16: Caro-Kann Defence, Larsen-Bronstein variation: 1.e4 c6 2.d4 d5 3.Nc3 dxe4 4.Nxe4 Nf6 5. Nxf6 gxf6
 
-B17: Caro-Kann Defence, Modern Variation: 1.e4 c6 2.d4 d5 3.Nc3 dxe4 4.Nxe4 Nd7
+B17: Caro-Kann Defence, Modern variation: 1.e4 c6 2.d4 d5 3.Nc3 dxe4 4.Nxe4 Nd7
 
-B18: Caro-Kann Defence, Classical Variation sidelines: 1.e4 c6 2.d4 d5 3.Nc3 dxe4 4.Nxe4 Bf5
+B18: Caro-Kann Defence, Classical variation sidelines: 1.e4 c6 2.d4 d5 3.Nc3 dxe4 4.Nxe4 Bf5
 
-B19: Caro-Kann Defence, Classical Variation main line: 1.e4 c6 2.d4 d5 3.Nc3 dxe4 4.Nxe4 Bf5 5. Ng3 Bg6 6.h4 h6 7.Nf3
+B19: Caro-Kann Defence, Classical variation main line: 1.e4 c6 2.d4 d5 3.Nc3 dxe4 4.Nxe4 Bf5 5. Ng3 Bg6 6.h4 h6 7.Nf3
 
 B20: Sicilian Defence, Unusual White second moves: 1.e4 c5
 
@@ -265,7 +265,7 @@ B21: Sicilian Defence, 2.f4 Attack: 1.e4 c5 2.f4
 
 B21: Sicilian Defence, Smith-Morra Gambit: 1.e4 c5 2.d4 cxd4 3.c3
 
-B22: Sicilian Defence, Alapin Variation: 1.e4 c5 2.c3
+B22: Sicilian Defence, Alapin variation: 1.e4 c5 2.c3
 
 B23: Sicilian Defence, Closed Sicilians without g3: 1.e4 c5 2.Nc3
 
@@ -279,23 +279,23 @@ B26: Closed Sicilian, 3.g3 with early Be3: 1.e4 c5 2.Nc3 Nc6 3.g3 g6 4.Bg2 Bg7 5
 
 B27: Sicilian Defence, 2.Nf3 early deviations: 1.e4 c5 2.Nf3
 
-B28: Sicilian Defence, O'Kelly Variation: 1.e4 c5 2.Nf3 a6
+B28: Sicilian Defence, O'Kelly variation: 1.e4 c5 2.Nf3 a6
 
-B29: Sicilian Defence, Nimzowitsch Variation: 1.e4 c5 2.Nf3 Nf6
+B29: Sicilian Defence, Nimzowitsch variation: 1.e4 c5 2.Nf3 Nf6
 
-B30: Sicilian Defence, Rossolimo Variation without ...g6: 1.e4 c5 2.Nf3 Nc6 3.Bb5
+B30: Sicilian Defence, Rossolimo variation without ...g6: 1.e4 c5 2.Nf3 Nc6 3.Bb5
 
-B31: Sicilian Defence, Rossolimo Variation with 3...g6: 1.e4 c5 2.Nf3 Nc6 3.Bb5 g6
+B31: Sicilian Defence, Rossolimo variation with 3...g6: 1.e4 c5 2.Nf3 Nc6 3.Bb5 g6
 
-B32: Sicilian Defence, Löwenthal and Kalashnikov Variations: 1.e4 c5 2.Nf3 Nc6 3.d4 cxd4 4.Nxd4 e5
+B32: Sicilian Defence, Löwenthal and Kalashnikov variations: 1.e4 c5 2.Nf3 Nc6 3.d4 cxd4 4.Nxd4 e5
 
-B33: Sicilian Defence, Pelikan and Sveshnikov Variations: 1.1.e4 c5 2.Nf3 Nc6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 e5
+B33: Sicilian Defence, Pelikan and Sveshnikov variations: 1.1.e4 c5 2.Nf3 Nc6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 e5
 
 B34: Sicilian Defence, Accelerated Dragon sidelines: 1.e4 c5 2.Nf3 Nc6 3.d4 cxd4 4.Nxd4 g6
 
 B35: Sicilian Defence, Accelerated Dragon main line: 1.e4 c5 2.Nf3 Nc6 3.d4 cxd4 4.Nxd4 g6 5.Nc3 Bg7 6.Be3 Nf6 7.Bc4
 
-B36: Sicilian Defence, Maróczy Bind, Gurgenidze System: 1.e4 c5 2.Nf3 Nc6 3.d4 cxd4 4.Nxd4 g6 5.c4 Nxd4 6.Qxd4
+B36: Sicilian Defence, Maróczy Bind, Gurgenidze system: 1.e4 c5 2.Nf3 Nc6 3.d4 cxd4 4.Nxd4 g6 5.c4 Nxd4 6.Qxd4
 
 B37: Sicilian Defence, Maróczy Bind with 5...Bg7 sidelines: 1.e4 c5 2.Nf3 Nc6 3.d4 cxd4 4.Nxd4 g6 5.c4 Bg7
 
@@ -305,31 +305,31 @@ B39: Sicilian Defence, Maróczy Bind with 5...Bg7 main line: 1.e4 c5 2.Nc3 Nc6 3
 
 B40: Sicilian Defence, 2...e6 miscellaneous: 1.e4 c5 2.Nf3 e6
 
-B41: Sicilian Defence, Kan Variation unusual lines: 1.e4 c5 2.Nf3 e6 3.d4 cxd4 4.Nxd4 a6
+B41: Sicilian Defence, Kan variation unusual lines: 1.e4 c5 2.Nf3 e6 3.d4 cxd4 4.Nxd4 a6
 
-B42: Sicilian Defence, Kan Variation with 5.Bd3: 1.e4 c5 2.Nf3 e6 3.d4 cxd4 4.Nxd4 a6 5.Bd3
+B42: Sicilian Defence, Kan variation with 5.Bd3: 1.e4 c5 2.Nf3 e6 3.d4 cxd4 4.Nxd4 a6 5.Bd3
 
-B43: Sicilian Defence, Kan Variation with 5.Nc3: 1.e4 c5 2.Nf3 e6 3.d4 cxd4 4.Nxd4 a6 5.Nc3
+B43: Sicilian Defence, Kan variation with 5.Nc3: 1.e4 c5 2.Nf3 e6 3.d4 cxd4 4.Nxd4 a6 5.Nc3
 
-B44: Sicilian Defence, Taimanov Variation with 5.Nb5: 1.e4 c5 2.Nf3 e6 3.d4 cxd4 4.Nxd4 Nc6 5.Nb5
+B44: Sicilian Defence, Taimanov variation with 5.Nb5: 1.e4 c5 2.Nf3 e6 3.d4 cxd4 4.Nxd4 Nc6 5.Nb5
 
-B45: Sicilian Defence, Four Knights' Variation: 1.e4 c5 2.Nf3 e6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 Nc6
+B45: Sicilian Defence, Four Knights' variation: 1.e4 c5 2.Nf3 e6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 Nc6
 
-B46: Sicilian Defence, Taimanov Variation with 5.Nc3: 1.e4 c5 2.Nf3 e6 3.d4 cxd4 4.Nxd4 Nc6 5.Nc3
+B46: Sicilian Defence, Taimanov variation with 5.Nc3: 1.e4 c5 2.Nf3 e6 3.d4 cxd4 4.Nxd4 Nc6 5.Nc3
 
-B47: Sicilian Defence, Taimanov Variation with 5...Qc7: 1.e4 c5 2.Nf3 e6 3.d4 cxd4 4.Nxd4 Nc6 5.Nc3 Qc7
+B47: Sicilian Defence, Taimanov variation with 5...Qc7: 1.e4 c5 2.Nf3 e6 3.d4 cxd4 4.Nxd4 Nc6 5.Nc3 Qc7
 
-B48: Sicilian Defence, Taimanov Variation with 6.Be3 a6 without Be2: 1.e4 c5 2.Nf3 e6 3.d4 cxd4 4.Nxd4 Nc6 5.Nc3 Qc7 6.Be3 a6
+B48: Sicilian Defence, Taimanov variation with 6.Be3 a6 without Be2: 1.e4 c5 2.Nf3 e6 3.d4 cxd4 4.Nxd4 Nc6 5.Nc3 Qc7 6.Be3 a6
 
-B49: Sicilian Defence, Taimanov Variation with 6.Be3 a6 7.Be2: 1.e4 c5 2.Nf3 e6 3.d4 cxd4 4.Nxd4 Nc6 5.Nc3 Qc7 6.Be3 a6 7.Be2
+B49: Sicilian Defence, Taimanov variation with 6.Be3 a6 7.Be2: 1.e4 c5 2.Nf3 e6 3.d4 cxd4 4.Nxd4 Nc6 5.Nc3 Qc7 6.Be3 a6 7.Be2
 
 B50: Sicilian Defence, 2...d6 miscellaneous: 1.e4 c5 2.Nf3 d6
 
-B51: Sicilian Defence, Moscow Variation early deviations: 1.e4 c5 2.Nf3 d6 3.Bb5
+B51: Sicilian Defence, Moscow variation early deviations: 1.e4 c5 2.Nf3 d6 3.Bb5
 
-B52: Sicilian Defence, Moscow Variation with 3...Bd7: 1.e4 c5 2.Nf3 d6 3.Bb5 Bd7
+B52: Sicilian Defence, Moscow variation with 3...Bd7: 1.e4 c5 2.Nf3 d6 3.Bb5 Bd7
 
-B53: Sicilian Defence, Chekhover Variation: 1.e4 c5 2.Nf3 d6 3.d4 cxd4 4.Qxd4
+B53: Sicilian Defence, Chekhover variation: 1.e4 c5 2.Nf3 d6 3.d4 cxd4 4.Qxd4
 
 B54: Sicilian Defence, Unusual open lines: 1.e4 c5 2.Nf3 d6 3.d4 cxd4 4.Nxd4
 
@@ -337,31 +337,31 @@ B55: Sicilian Defence, Open lines with 5.f3: 1.e4 c5 2.Nf3 d6 3.d4 cxd4 4.Nxd4 N
 
 B56: Sicilian Defence, Unusual open lines: 1.e4 c5 2.Nf3 d6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3
 
-B57: Classical Sicilian, Sozin Variation: 1.e4 c5 2.Nf3 Nc6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 d6 6.Bc4
+B57: Classical Sicilian, Sozin variation: 1.e4 c5 2.Nf3 Nc6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 d6 6.Bc4
 
-B58: Classical Sicilian, Boleslavsky Variation with 7.Nf3: 1.e4 c5 2.Nf3 Nc6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 d6 6.Be2 e5 7.Nf3
+B58: Classical Sicilian, Boleslavsky variation with 7.Nf3: 1.e4 c5 2.Nf3 Nc6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 d6 6.Be2 e5 7.Nf3
 
-B59: Classical Sicilian, Boleslavsky Variation with 7.Nb3: 1.e4 c5 2.Nf3 Nc6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 d6 6.Be2 e5 7.Nb3
+B59: Classical Sicilian, Boleslavsky variation with 7.Nb3: 1.e4 c5 2.Nf3 Nc6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 d6 6.Be2 e5 7.Nb3
 
-B60: Classical Sicilian, Richter-Rauzer Variation sidelines: 1.e4 c5 2.Nf3 Nc6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 d6 6.Bg5
+B60: Classical Sicilian, Richter-Rauzer variation sidelines: 1.e4 c5 2.Nf3 Nc6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 d6 6.Bg5
 
-B61: Classical Sicilian, Richter-Rauzer Variation with 6...Bd7 7.Qd2: 1.e4 c5 2.Nf3 Nc6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 d6 6.Bg5 Bd7 7.Qd2
+B61: Classical Sicilian, Richter-Rauzer variation with 6...Bd7 7.Qd2: 1.e4 c5 2.Nf3 Nc6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 d6 6.Bg5 Bd7 7.Qd2
 
-B62: Classical Sicilian, Richter-Rauzer Variation with 6...e6 sidelines: 1.e4 c5 2.Nf3 Nc6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 d6 6.Bg5 e6
+B62: Classical Sicilian, Richter-Rauzer variation with 6...e6 sidelines: 1.e4 c5 2.Nf3 Nc6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 d6 6.Bg5 e6
 
-B63: Classical Sicilian, Richter-Rauzer Variation with 7...Be7: 1.e4 c5 2.Nf3 Nc6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 d6 6.Bg5 e6 7.Qd2 Be7
+B63: Classical Sicilian, Richter-Rauzer variation with 7...Be7: 1.e4 c5 2.Nf3 Nc6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 d6 6.Bg5 e6 7.Qd2 Be7
 
-B64: Classical Sicilian, Richter-Rauzer Variation without 9...Nxd4: 1.e4 c5 2.Nf3 Nc6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 d6 6.Bg5 e6 7.Qd2 Be7 8.O-O-O O-O 9.f4
+B64: Classical Sicilian, Richter-Rauzer variation without 9...Nxd4: 1.e4 c5 2.Nf3 Nc6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 d6 6.Bg5 e6 7.Qd2 Be7 8.O-O-O O-O 9.f4
 
-B65: Classical Sicilian, Richter-Rauzer Variation with 9...Nxd4: 1.e4 c5 2.Nf3 Nc6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 d6 6.Bg5 e6 7.Qd2 Be7 8.O-O-O O-O 9.f4 Nxd4
+B65: Classical Sicilian, Richter-Rauzer variation with 9...Nxd4: 1.e4 c5 2.Nf3 Nc6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 d6 6.Bg5 e6 7.Qd2 Be7 8.O-O-O O-O 9.f4 Nxd4
 
-B66: Classical Sicilian, Richter-Rauzer Variation with 7...a6 8.O-O-O h6: 1.e4 c5 2.Nf3 Nc6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 d6 6.Bg5 Bd7 7.Qd2 a6 8.O-O-O h6
+B66: Classical Sicilian, Richter-Rauzer variation with 7...a6 8.O-O-O h6: 1.e4 c5 2.Nf3 Nc6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 d6 6.Bg5 Bd7 7.Qd2 a6 8.O-O-O h6
 
-B67: Classical Sicilian, Richter-Rauzer Variation with 7...a6 and 8...Bd7: 1.e4 c5 2.Nf3 Nc6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 d6 6.Bg5 Bd7 7.Qd2 a6 8.O-O-O Bd7
+B67: Classical Sicilian, Richter-Rauzer variation with 7...a6 and 8...Bd7: 1.e4 c5 2.Nf3 Nc6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 d6 6.Bg5 Bd7 7.Qd2 a6 8.O-O-O Bd7
 
-B68: Classical Sicilian, Richter-Rauzer Variation with 9.f4 Be7: 1.e4 c5 2.Nf3 Nc6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 d6 6.Bg5 Bd7 7.Qd2 a6 8.O-O-O Bd7 9.f4 9.Be7
+B68: Classical Sicilian, Richter-Rauzer variation with 9.f4 Be7: 1.e4 c5 2.Nf3 Nc6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 d6 6.Bg5 Bd7 7.Qd2 a6 8.O-O-O Bd7 9.f4 9.Be7
 
-B69: Classical Sicilian, Richter-Rauzer Variation with 11.Bxf6: 1.e4 c5 2.Nf3 Nc6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 d6 6.Bg5 Bd7 7.Qd2 a6 8.O-O-O Bd7 9.f4 9.Be7 10.Nf3 O-O 11.Bxf6
+B69: Classical Sicilian, Richter-Rauzer variation with 11.Bxf6: 1.e4 c5 2.Nf3 Nc6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 d6 6.Bg5 Bd7 7.Qd2 a6 8.O-O-O Bd7 9.f4 9.Be7 10.Nf3 O-O 11.Bxf6
 
 B70: Dragon Sicilian, early deviations: 1.e4 c5 2.Nf3 d6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 g6
 
@@ -369,9 +369,9 @@ B71: Dragon Sicilian, Levenfish Attack: 1.e4 c5 2.Nf3 d6 3.d4 cxd4 4.Nxd4 Nf6 5.
 
 B72: Dragon Sicilian, 6.Be3 without f3 and Qd2: 1.e4 c5 2.Nf3 d6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 g6 6.Be3
 
-B73: Dragon Sicilian, Classical System without Nb3: 1.e4 c5 2.Nf3 d6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 g6 6.Be3 Bg7 7.Be2 Nc6 8.O-O O-O
+B73: Dragon Sicilian, Classical system without Nb3: 1.e4 c5 2.Nf3 d6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 g6 6.Be3 Bg7 7.Be2 Nc6 8.O-O O-O
 
-B74: Dragon Sicilian, Classical System with Nb3: 1.e4 c5 2.Nf3 d6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 g6 6.Be3 Bg7 7.Be2 Nc6 8.O-O O-O 9.Nb3
+B74: Dragon Sicilian, Classical system with Nb3: 1.e4 c5 2.Nf3 d6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 g6 6.Be3 Bg7 7.Be2 Nc6 8.O-O O-O 9.Nb3
 
 B75: Dragon Sicilian, Yugoslav Attack miscellaneous: 1.e4 c5 2.Nf3 d6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 g6 6.Be3 Bg7 7.f3
 
@@ -383,7 +383,7 @@ B77: Dragon Sicilian, Yugoslav Attack with 9.Bc4 sidelines: 1.e4 c5 2.Nf3 d6 3.d
 
 B78: Dragon Sicilian, Yugoslav Attack main line: 1.e4 c5 2.Nf3 d6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 g6 6.Be3 Bg7 7.f3 O-O 8.Qd2 Nc6 9.Bc4 Bd7 10.O-O-O Rc8
 
-B78: Dragon Sicilian, Yugoslav Attack, Soltis Variation: 1.e4 c5 2.Nf3 d6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 g6 6.Be3 Bg7 7.f3 O-O 8.Qd2 Nc6 9.Bc4 Bd7 10.O-O-O Rc8 11.Bb3 Ne5 12.h4 h5
+B78: Dragon Sicilian, Yugoslav Attack, Soltis variation: 1.e4 c5 2.Nf3 d6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 g6 6.Be3 Bg7 7.f3 O-O 8.Qd2 Nc6 9.Bc4 Bd7 10.O-O-O Rc8 11.Bb3 Ne5 12.h4 h5
 
 B79: Dragon Sicilian, Yugoslav Attack with 10...Qa5: 1.e4 c5 2.Nf3 d6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 g6 6.Be3 Bg7 7.f3 O-O 8.Qd2 Nc6 9.Bc4 Bd7 10.O-O-O Qa5
 
@@ -401,9 +401,9 @@ B84: Scheveningen Sicilian, with 6.Be2 a6: 1.e4 c5 2.Nf3 d6 3.d4 cxd4 4.Nxd4 Nf6
 
 B85: Scheveningen Sicilian with 6.Be2 a6 and early Be3: 1.e4 c5 2.Nf3 d6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 e6 6.Be2 a6 7.Be3 Be7 8.O-O O-O 9.f4
 
-B86: Scheveningen Sicilian, Sozin Variation without early ...b5: 1.e4 c5 2.Nf3 d6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 e6 6.Bc4
+B86: Scheveningen Sicilian, Sozin variation without early ...b5: 1.e4 c5 2.Nf3 d6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 e6 6.Bc4
 
-B87: Scheveningen Sicilian, Sozin Variation with early ...b5: 1.e4 c5 2.Nf3 d6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 e6 6.Bc4 a6 7.Bb3 b5
+B87: Scheveningen Sicilian, Sozin variation with early ...b5: 1.e4 c5 2.Nf3 d6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 e6 6.Bc4 a6 7.Bb3 b5
 
 B88: Sicilian Defence, Sozin Attack: 1.e4 c5 2.Nf3 d6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 Nc6 6.Bc4
 
@@ -417,7 +417,7 @@ B90: Najdorf Sicilian, Fischer-Sozin Attack: 1.e4 c5 2.Nf3 d6 3.d4 cxd4 4.Nxd4 N
 
 B91: Najdorf Sicilian with 6.g3: 1.e4 c5 2.Nf3 d6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 a6 6.g3
 
-B92: Najdorf Sicilian, Classical Variation: 1.e4 c5 2.Nf3 d6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 a6 6.Be2
+B92: Najdorf Sicilian, Classical variation: 1.e4 c5 2.Nf3 d6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 a6 6.Be2
 
 B93: Najdorf Sicilian with 6.f4: 1.e4 c5 2.Nf3 d6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 a6 6.f4
 
@@ -427,7 +427,7 @@ B95: Najdorf Sicilian, old main line, unusual White seventh moves: 1.e4 c5 2.Nf3
 
 B96: Najdorf Sicilian, old main line except 7...Qb6 or 7...Be7: 1.e4 c5 2.Nf3 d6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 a6 6.Bg5 e6 7.f4
 
-B97: Najdorf Sicilian, Poisoned Pawn Variation: 1.e4 c5 2.Nf3 d6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 a6 6.Bg5 e6 7.f4 Qb6
+B97: Najdorf Sicilian, Poisoned Pawn variation: 1.e4 c5 2.Nf3 d6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 a6 6.Bg5 e6 7.f4 Qb6
 
 B98: Najdorf Sicilian, 6.Bg5 e6 7.f4 Be7 sidelines: 1.e4 c5 2.Nf3 d6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 a6 6.Bg5 e6 7.f4 Be7
 
@@ -436,47 +436,47 @@ B99: Najdorf Sicilian, 6.Bg5 e6 7.f4 Be7 8.Qf3 Qc7 9.O-O-O Nbd7 main line: 1.e4 
 
 C00: French Defence, unusual White second moves: 1.e4 e6
 
-C01: French Defence, Exchange Variation: 1.e4 e6 2.d4 d5 3.exd5 exd5
+C01: French Defence, Exchange variation: 1.e4 e6 2.d4 d5 3.exd5 exd5
 
-C02: French Defence, Advance Variation: 1.e4 e6 2.d4 d5 3.e5
+C02: French Defence, Advance variation: 1.e4 e6 2.d4 d5 3.e5
 
-C03: French Defence, Tarrasch Variation and unusual Black third moves: 1.e4 e6 2.d4 d5 3.Nd2
+C03: French Defence, Tarrasch variation and unusual Black third moves: 1.e4 e6 2.d4 d5 3.Nd2
 
-C04: French Defence, Tarrasch Variation with 3...Nc6: 1.e4 e6 2.d4 d5 3.Nd2 Nc6
+C04: French Defence, Tarrasch variation with 3...Nc6: 1.e4 e6 2.d4 d5 3.Nd2 Nc6
 
-C05: French Defence, Tarrasch Variation 3...Nf6 4.e5 Nfd7, unusual White fifth moves: 1.e4 e6 2.d4 d5 3.Nd2 Nf6 4.e5 Nfd7
+C05: French Defence, Tarrasch variation 3...Nf6 4.e5 Nfd7, unusual White fifth moves: 1.e4 e6 2.d4 d5 3.Nd2 Nf6 4.e5 Nfd7
 
-C06: French Defence, Tarrasch Variation 3...Nf6 4.e5 Nfd7 5.Bd3 main line: 1.e4 e6 2.d4 d5 3.Nd2 Nf6 4.e5 Nfd7 5.Bd3
+C06: French Defence, Tarrasch variation 3...Nf6 4.e5 Nfd7 5.Bd3 main line: 1.e4 e6 2.d4 d5 3.Nd2 Nf6 4.e5 Nfd7 5.Bd3
 
-C07: French Defence, Tarrasch Variation 3...c5, various White fourth moves: 1.e4 e6 2.d4 d5 3.Nd2 c5
+C07: French Defence, Tarrasch variation 3...c5, various White fourth moves: 1.e4 e6 2.d4 d5 3.Nd2 c5
 
-C08: French Defence, Tarrasch Variation 3...c5 4.exd5 exd5 sidelines: 1.e4 e6 2.d4 d5 3.Nd2 c5 4.exd5 exd5
+C08: French Defence, Tarrasch variation 3...c5 4.exd5 exd5 sidelines: 1.e4 e6 2.d4 d5 3.Nd2 c5 4.exd5 exd5
 
-C09: French Defence, Tarrasch Variation 3...c5 main line: 1.e4 e6 2.d4 d5 3.Nd2 c5 4.exd5 exd5 
+C09: French Defence, Tarrasch variation 3...c5 main line: 1.e4 e6 2.d4 d5 3.Nd2 c5 4.exd5 exd5 
 
 5.Ngf3 Nc6
 
 C10: French Defence, 3.Nc3 sidelines: 1.e4 e6 2.d4 d5 3.Nc3
 
-C10: French Defence, Rubinstein Variation: 1.e4 e6 2.d4 d5 3.Nc3 dxe4 4.Nxe4
+C10: French Defence, Rubinstein variation: 1.e4 e6 2.d4 d5 3.Nc3 dxe4 4.Nxe4
 
-C11: French Defence, Steinitz Variation: 1.e4 e6 2.d4 d5 3.Nc3 Nf6 4.e5
+C11: French Defence, Steinitz variation: 1.e4 e6 2.d4 d5 3.Nc3 Nf6 4.e5
 
-C12: French Defence, MacCutcheon Variation: 1.e4 e6 2.d4 d5 3.Nc3 Nf6 4.Bg5 Bb4
+C12: French Defence, MacCutcheon variation: 1.e4 e6 2.d4 d5 3.Nc3 Nf6 4.Bg5 Bb4
 
-C13: French Defence, Burn Variation: 1.e4 e6 2.d4 d5 3.Nc3 Nf6 4.Bg5 dxe4
+C13: French Defence, Burn variation: 1.e4 e6 2.d4 d5 3.Nc3 Nf6 4.Bg5 dxe4
 
 C14: French Defence, Classical main line: 1.e4 e6 2.d4 d5 3.Nc3 Nf6 4.Bg5 Be7 5.e5
 
-C15: French Defence, Winawer Variation sidelines: 1.e4 e6 2.d4 d5 3.Nc3 Bb4
+C15: French Defence, Winawer variation sidelines: 1.e4 e6 2.d4 d5 3.Nc3 Bb4
 
-C16: French Defence, Winawer Variation without ...c5: 1.e4 e6 2.d4 d5 3.Nc3 Bb4 4.e5
+C16: French Defence, Winawer variation without ...c5: 1.e4 e6 2.d4 d5 3.Nc3 Bb4 4.e5
 
-C17: French Defence, Winawer Variation 4...c5 sidelines: 1.e4 e6 2.d4 d5 3.Nc3 Bb4 4.e5 c5
+C17: French Defence, Winawer variation 4...c5 sidelines: 1.e4 e6 2.d4 d5 3.Nc3 Bb4 4.e5 c5
 
-C18: French Defence, Winawer Variation with 6...Qc7: 1.e4 e6 2.d4 d5 3.Nc3 Bb4 4.e5 c5 5.a3 Bxc3+ 6.bxc3 Qc7
+C18: French Defence, Winawer variation with 6...Qc7: 1.e4 e6 2.d4 d5 3.Nc3 Bb4 4.e5 c5 5.a3 Bxc3+ 6.bxc3 Qc7
 
-C19: French Defence, Winawer Variation main line 6...Ne7 7.Nf3 Qc7: 1.e4 e6 2.d4 d5 3.Nc3 Bb4 4.e5 c5 5.a3 Bxc3+ 6.bxc3 Ne7 7.Nf3 Qc7
+C19: French Defence, Winawer variation main line 6...Ne7 7.Nf3 Qc7: 1.e4 e6 2.d4 d5 3.Nc3 Bb4 4.e5 c5 5.a3 Bxc3+ 6.bxc3 Ne7 7.Nf3 Qc7
 
 C20: Open games, various White second moves: 1.e4 e5
 
@@ -494,7 +494,7 @@ C26: Vienna Gambit: 1.e4 e5 2.Nc3 Nc6 3.f4
 
 C27: Vienna Game, 2...Nf6 sidelines: 1.e4 e5 2.Nc3 Nf6
 
-C28: Vienna Game, 2...Nf6 Bishop's Variation: 1.e4 e5 2.Nc3 Nf6 3.Bc4 Nc6
+C28: Vienna Game, 2...Nf6 Bishop's variation: 1.e4 e5 2.Nc3 Nf6 3.Bc4 Nc6
 
 C29: Vienna Game, Classical main line: 1.e4 e5 2.Nc3 Nf6 3.f4
 
@@ -510,9 +510,9 @@ C33: King's Gambit Accepted, King's Bishop's Gambit: 1.e4 e5 2.f4 exf4 3.Bc4
 
 C34: King's Gambit Accepted, King's Knight's Gambit sidelines: 1.e4 e5 2.f4 exf4 3.Nf3
 
-C35: King's Gambit Accepted, Cunningham-Euwe Variation: 1.e4 e5 2.f4 exf4 3.Nf3 Be7
+C35: King's Gambit Accepted, Cunningham-Euwe variation: 1.e4 e5 2.f4 exf4 3.Nf3 Be7
 
-C36: King's Gambit Accepted, Modern Variation: 1.e4 e5 2.f4 exf4 3.Nf3 d5
+C36: King's Gambit Accepted, Modern variation: 1.e4 e5 2.f4 exf4 3.Nf3 d5
 
 C37: King's Gambit Accepted, Muzio Gambit: 1.e4 e5 2.f4 exf4 3.Nf3 g5 4.Bc4 g4 5.O-O gxf3 6. Qxf3
 
@@ -548,15 +548,15 @@ C47: Four Knights' Game sidelines: 1.e4 e5 2.Nf3 Nc6 3.Nc3 Nf6
 
 C48: Four Knights' Game, Belgrade Gambit: 1.e4 e5 2.Nf3 Nc6 3.Nc3 Nf6 4.d4
 
-C48: Four Knights' Game, Spanish Variation sidelines: 1.e4 e5 2.Nf3 Nc6 3.Nc3 Nf6 4.Bb5
+C48: Four Knights' Game, Spanish variation sidelines: 1.e4 e5 2.Nf3 Nc6 3.Nc3 Nf6 4.Bb5
 
-C48: Four Knights' Game, Rubinstein Variation: 1.e4 e5 2.Nf3 Nc6 3.Nc3 Nf6 4.Bb5 Nd4
+C48: Four Knights' Game, Rubinstein variation: 1.e4 e5 2.Nf3 Nc6 3.Nc3 Nf6 4.Bb5 Nd4
 
-C48: Four Knights' Game, Marshall Variation: 1.e4 e5 2.Nf3 Nc6 3.Nc3 Nf6 4.Bb5 Bc5
+C48: Four Knights' Game, Marshall variation: 1.e4 e5 2.Nf3 Nc6 3.Nc3 Nf6 4.Bb5 Bc5
 
-C48: Four Knights' Game, Symmetrical Variation: 1.e4 e5 2.Nf3 Nc6 3.Nc3 Nf6 4.Bb5 Bb4 5.O-O O-O 6.d3 d6
+C48: Four Knights' Game, Symmetrical variation: 1.e4 e5 2.Nf3 Nc6 3.Nc3 Nf6 4.Bb5 Bb4 5.O-O O-O 6.d3 d6
 
-C49: Four Knights' Game, Symmetrical Variation main line: 1.e4 e5 2.Nf3 Nc6 3.Nc3 Nf6 4.Bb5 Bb4 5.O-O O-O 6.d3 d6
+C49: Four Knights' Game, Symmetrical variation main line: 1.e4 e5 2.Nf3 Nc6 3.Nc3 Nf6 4.Bb5 Bb4 5.O-O O-O 6.d3 d6
 
 C50: Hungarian Defence: 1.e4 e5 2.Nf3 Nc6 3.Bc4 Be7
 
@@ -574,17 +574,17 @@ C54: Giuoco Piano, 4.c3 Nf6 5.d4 main line: 1.e4 e5 2.Nf3 Nc6 3.Bc4 Bc5 4.c3 Nf6
 
 C54: Giuoco Piano, Wing Attack: 1.e4 e5 2.Nf3 Nc6 3.Bc4 Bc5 4.c3 Nf6 5.b4
 
-C54: Giuoco Piano, Modern System: 1.e4 e5 2.Nf3 Nc6 3.Bc4 Bc5 4.c3 Nf6 5.d3
+C54: Giuoco Piano, Modern system: 1.e4 e5 2.Nf3 Nc6 3.Bc4 Bc5 4.c3 Nf6 5.d3
 
 C55: Two Knights' Defence, 4.d3: 1.e4 e5 2.Nf3 Nc6 3.Bc4 Nf6 4.d3
 
 C56: Two Knights' Defence, Max Lange Attack: 1.e4 e5 2.Nf3 Nc6 3.Bc4 Nf6 4.d4 exd4 5.O-O Bc5 6. e5 7. C56: Two Knights' Defence, Modern Attack: 1.e4 e5 2.Nf3 Nc6 3.Bc4 Nf6 4.d4 exd4 5.e5
 
-C57: Two Knights' Defence, Polerio Variation: 1.e4 e5 2.Nf3 Nc6 3.Bc4 Nf6 4.Ng5
+C57: Two Knights' Defence, Polerio variation: 1.e4 e5 2.Nf3 Nc6 3.Bc4 Nf6 4.Ng5
 
-C57: Two Knights' Defence, Wilkes-Barre Variation: 1.e4 e5 2.Nf3 Nc6 3.Bc4 Nf6 4.Ng5 Bc5
+C57: Two Knights' Defence, Wilkes-Barre variation: 1.e4 e5 2.Nf3 Nc6 3.Bc4 Nf6 4.Ng5 Bc5
 
-C57: Two Knights' Defence, Fritz Variation: 1.e4 e5 2.Nf3 Nc6 3.Bc4 Nf6 4.Ng5 d5 5.exd5 Nd4 6. c3 b5 7.Bf1 Nxd5
+C57: Two Knights' Defence, Fritz variation: 1.e4 e5 2.Nf3 Nc6 3.Bc4 Nf6 4.Ng5 d5 5.exd5 Nd4 6. c3 b5 7.Bf1 Nxd5
 
 C57: Two Knights' Defence, Fried Liver Attack: 1.e4 e5 2.Nf3 Nc6 3.Bc4 Nf6 4.Ng5 d5 5.exd5 Nxd5 6.Nxf7
 
@@ -594,9 +594,9 @@ C59: Two Knights' Defence, 5...Na5 main line: 1.e4 e5 2.Nf3 Nc6 3.Bc4 Nf6 4.Ng5 
 
 C60: Ruy Lopez, early deviations: 1.e4 e5 2.Nf3 Nc6 3.Bb5
 
-C60: Ruy Lopez, Smyslov Variation: 1.e4 e5 2.Nf3 Nc6 3.Bb5 g6
+C60: Ruy Lopez, Smyslov variation: 1.e4 e5 2.Nf3 Nc6 3.Bb5 g6
 
-C60: Ruy Lopez, Cozio System: 1.e4 e5 2.Nf3 Nc6 3.Bb5 Nge7
+C60: Ruy Lopez, Cozio system: 1.e4 e5 2.Nf3 Nc6 3.Bb5 Nge7
 
 C61: Ruy Lopez, Bird's Defence: 1.e4 e5 2.Nf3 Nc6 3.Bb5 Nd4
 
@@ -614,9 +614,9 @@ C66: Ruy Lopez, Berlin Defence with 4...d6: 1.e4 e5 2.Nf3 Nc6 3.Bb5 Nf6 4.O-O d6
 
 C67: Ruy Lopez, Berlin Defence main line: 1.e4 e5 2.Nf3 Nc6 3.Bb5 Nf6 4.O-O Nxe4
 
-C68: Ruy Lopez, Exchange Variation: 1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Bxc6 dxc6
+C68: Ruy Lopez, Exchange variation: 1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Bxc6 dxc6
 
-C69: Ruy Lopez, Exchange Variation with 5.O-O f6: 1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Bxc6 dxc6 5.OO f6
+C69: Ruy Lopez, Exchange variation with 5.O-O f6: 1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Bxc6 dxc6 5.OO f6
 
 C70: Ruy Lopez, Norwegian Defence: 1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Ba4 b5 5.Bb3 Na5
 
@@ -646,7 +646,7 @@ C80: Open Ruy Lopez sidelines: 1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Ba4 Nf6 5.O-O Nxe4
 
 C80: Open Ruy Lopez with 9.Nbd2: 1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Ba4 Nf6 5.O-O Nxe4 6.d4 b5 7. Bb3 d5 8.dxe5 Be6 9.Nbd2
 
-C81: Open Ruy Lopez, Keres Variation: 1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Ba4 Nf6 5.O-O Nxe4 6.d4 b5 7.Bb3 d5 8.dxe5 Be6 9.Qe2
+C81: Open Ruy Lopez, Keres variation: 1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Ba4 Nf6 5.O-O Nxe4 6.d4 b5 7.Bb3 d5 8.dxe5 Be6 9.Qe2
 
 C82: Open Ruy Lopez, Italian Defence: 1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Ba4 Nf6 5.O-O Nxe4 6.d4 b5 7.Bb3 d5 8.dxe5 Be6 9.c3 Bc5
 
@@ -654,13 +654,13 @@ C83: Open Ruy Lopez, 9.c3 main line: 1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Ba4 Nf6 5.O-O 
 
 C84: Closed Ruy Lopez, sixth move sidelines: 1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Ba4 Nf6 5.O-O Be7
 
-C85: Closed Ruy Lopez, Deferred Exchange Variation: 1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Ba4 Nf6 5.O-O Be7 6.Bxc6 dxc6
+C85: Closed Ruy Lopez, Deferred Exchange variation: 1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Ba4 Nf6 5.O-O Be7 6.Bxc6 dxc6
 
 C86: Closed Ruy Lopez, Worrall Attack: 1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Ba4 Nf6 5.O-O Be7 6.Qe2
 
 C87: Closed Ruy Lopez, 6...d6: 1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Ba4 Nf6 5.O-O Be7 6.Re1 d6
 
-C88: Closed Ruy Lopez, Anti-Marshall Systems: 1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Ba4 Nf6 5.O-O Be7 6.Re1 b5 7.Bb3 O-O (8.c3 d6--C90-C99, 8.c3 d5--C89)
+C88: Closed Ruy Lopez, Anti-Marshall systems: 1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Ba4 Nf6 5.O-O Be7 6.Re1 b5 7.Bb3 O-O (8.c3 d6--C90-C99, 8.c3 d5--C89)
 
 C89: Closed Ruy Lopez, Marshall Gambit: 1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Ba4 Nf6 5.O-O Be7 6. Re1 b5 7.Bb3 O-O 8.c3 d5
 
@@ -670,17 +670,17 @@ C91: Closed Ruy Lopez, 7...d6 without 9.h3: 1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Ba4 Nf6
 
 C92: Closed Ruy Lopez, 9.h3 sidelines: 1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Ba4 Nf6 5.O-O Be7 6.Re1 b5 7.Bb3 d6 8.c3 O-O 9.h3
 
-C92: Closed Ruy Lopez, Bulgarian Variation: 1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Ba4 Nf6 5.O-O Be7 6.Re1 b5 7.Bb3 d6 8.c3 O-O 9.h3 Nd7
+C92: Closed Ruy Lopez, Bulgarian variation: 1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Ba4 Nf6 5.O-O Be7 6.Re1 b5 7.Bb3 d6 8.c3 O-O 9.h3 Nd7
 
-C92: Closed Ruy Lopez, Zaitsev Variation: 1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Ba4 Nf6 5.O-O Be7 6.Re1 b5 7.Bb3 d6 8.c3 O-O 9.h3 Bb7
+C92: Closed Ruy Lopez, Zaitsev variation: 1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Ba4 Nf6 5.O-O Be7 6.Re1 b5 7.Bb3 d6 8.c3 O-O 9.h3 Bb7
 
-C93: Closed Ruy Lopez, Smyslov Variation: 1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Ba4 Nf6 5.O-O Be7 6.Re1 b5 7.Bb3 d6 8.c3 O-O 9.h3 h6
+C93: Closed Ruy Lopez, Smyslov variation: 1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Ba4 Nf6 5.O-O Be7 6.Re1 b5 7.Bb3 d6 8.c3 O-O 9.h3 h6
 
-C94: Closed Ruy Lopez, Breyer Variation with 10.d3: 1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Ba4 Nf6 5.O-O Be7 6.Re1 b5 7.Bb3 d6 8.c3 O-O 9.h3 Nb8 10.d3
+C94: Closed Ruy Lopez, Breyer variation with 10.d3: 1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Ba4 Nf6 5.O-O Be7 6.Re1 b5 7.Bb3 d6 8.c3 O-O 9.h3 Nb8 10.d3
 
-C95: Closed Ruy Lopez, Breyer Variation with 10.d4: 1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Ba4 Nf6 5.O-O Be7 6.Re1 b5 7.Bb3 d6 8.c3 O-O 9.h3 Nb8 10.d4
+C95: Closed Ruy Lopez, Breyer variation with 10.d4: 1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Ba4 Nf6 5.O-O Be7 6.Re1 b5 7.Bb3 d6 8.c3 O-O 9.h3 Nb8 10.d4
 
-C96: Closed Ruy Lopez, Chigorin Variation without 11...Qc7: 1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Ba4 Nf6 5.O-O Be7 6.Re1 b5 7.Bb3 d6 8.c3 O-O 9.h3 Na5 10.Bc2 c5 d4
+C96: Closed Ruy Lopez, Chigorin variation without 11...Qc7: 1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Ba4 Nf6 5.O-O Be7 6.Re1 b5 7.Bb3 d6 8.c3 O-O 9.h3 Na5 10.Bc2 c5 d4
 
 C97: Closed Ruy Lopez, 11...Qc7 sidelines: 1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Ba4 Nf6 5.O-O Be7 6.Re1 b5 7.Bb3 d6 8.c3 O-O 9.h3 Na5 10.Bc2 c5 11.d4 Qc7
 
@@ -695,11 +695,11 @@ D01: Veresov Opening: 1.d4 d5 2.Nc3 Nf6 3.Bg5
 
 D02: 1.d4 d5 2.Nf3 sidelines: 1.d4 d5 2.Nf3 (2...f5--A80)
 
-D03: Torre System: 1.d4 d5 2.Nf3 Nf6 3.Bg5
+D03: Torre system: 1.d4 d5 2.Nf3 Nf6 3.Bg5
 
-D04: Colle System: 1.d4 d5 2.Nf3 Nf6 3.e3
+D04: Colle system: 1.d4 d5 2.Nf3 Nf6 3.e3
 
-D05: Colle System with ...e6: 1.d4 d5 2.Nf3 Nf6 3.e3 e6
+D05: Colle system with ...e6: 1.d4 d5 2.Nf3 Nf6 3.e3 e6
 
 D06: Queen's Gambit, Marshall Defence: 1.d4 d5 2.c4 Nf6 3.cxd5
 
@@ -713,7 +713,7 @@ D09: Queen's Gambit, Albin Countergambit main line: 1.d4 d5 2.c4 e5 3.dxe5 d4 4.
 
 D10: Slav Defence sidelines: 1.d4 d5 2.c4 c6
 
-D10: Slav Defence, Exchange Variation: 1.d4 d5 2.c4 c6 3.cxd5
+D10: Slav Defence, Exchange variation: 1.d4 d5 2.c4 c6 3.cxd5
 
 D10: Slav Defence, Winawer Countergambit: 1.d4 d5 2.c4 c6 3.Nc3 e5
 
@@ -723,27 +723,27 @@ D11: Slav Defence, 3.Nf3 Nf6 4.e3 Bg4: 1.d4 d5 2.c4 c6 3.Nf3 Nf6 4.e3 e3 Bg4
 
 D12: Slav Defence, 4.e3 Bf5: 1.d4 d5 2.c4 c6 3.Nf3 Nf6 4.e3 Bf5
 
-D13: Slav Defence, Classical Exchange Variation without ...Bf5: 1.d4 d5 2.c4 c6 3.Nf3 Nf6 4.cxd5 cxd5
+D13: Slav Defence, Classical Exchange variation without ...Bf5: 1.d4 d5 2.c4 c6 3.Nf3 Nf6 4.cxd5 cxd5
 
-D14: Slav Defence, Classical Exchange Variation main line: 1.d4 d5 2.c4 c6 3.Nf3 Nf6 4.cxd5 cxd5 5.Nc3 Nc6 6.Bf4 Bf5
+D14: Slav Defence, Classical Exchange variation main line: 1.d4 d5 2.c4 c6 3.Nf3 Nf6 4.cxd5 cxd5 5.Nc3 Nc6 6.Bf4 Bf5
 
 D15: Slav Defence 4.Nc3 a6: 1.d4 d5 2.c4 c6 3.Nf3 Nf6 4.Nc3 a6
 
 D15: Slav Defence 4.Nc3 dxc4 gambit lines: 1.d4 d5 2.c4 c6 3.Nf3 Nf6 4.Nc3 dxc4
 
-D16: Slav Defence, Smyslov System: 1.d4 d5 2.c4 c6 3.Nf3 Nf6 4.Nc3 dxc4 5.a4 Na6
+D16: Slav Defence, Smyslov system: 1.d4 d5 2.c4 c6 3.Nf3 Nf6 4.Nc3 dxc4 5.a4 Na6
 
-D16: Slav Defence, Bronstein System: 1.d4 d5 2.c4 c6 3.Nf3 Nf6 4.Nc3 dxc4 5.a4 Bg4
+D16: Slav Defence, Bronstein system: 1.d4 d5 2.c4 c6 3.Nf3 Nf6 4.Nc3 dxc4 5.a4 Bg4
 
 D17: Slav Defence, 5...Bf5 sidelines: 1.d4 d5 2.c4 c6 3.Nf3 Nf6 4.Nc3 dxc4 5.a4 Bf5
 
-D17: Slav Defence, Carlsbad Variation: 1.d4 d5 2.c4 c6 3.Nf3 Nf6 4.Nc3 dxc4 5.a4 Bf5 6.Ne5 Nbd7 7.Nxc4 Qc7
+D17: Slav Defence, Carlsbad variation: 1.d4 d5 2.c4 c6 3.Nf3 Nf6 4.Nc3 dxc4 5.a4 Bf5 6.Ne5 Nbd7 7.Nxc4 Qc7
 
-D17: Slav Defence, Wiesbaden Variation: 1.d4 d5 2.c4 c6 3.Nf3 Nf6 4.Nc3 dxc4 5.a4 Bf5 6.Ne5 e6 7.f3
+D17: Slav Defence, Wiesbaden variation: 1.d4 d5 2.c4 c6 3.Nf3 Nf6 4.Nc3 dxc4 5.a4 Bf5 6.Ne5 e6 7.f3
 
-D18: Slav Defence, Euwe Variation without Qe2: 1.d4 d5 2.c4 c6 3.Nf3 Nf6 4.Nc3 dxc4 5.a4 Bf5 6.e3
+D18: Slav Defence, Euwe variation without Qe2: 1.d4 d5 2.c4 c6 3.Nf3 Nf6 4.Nc3 dxc4 5.a4 Bf5 6.e3
 
-D19: Slav Defence, Euwe Variation main line: 1.d4 d5 2.c4 c6 3.Nf3 Nf6 4.Nc3 dxc4 5.a4 Bf5 6.e3 e6 7.Bxc4 Bb4 8.O-O O-O 9.Qe2
+D19: Slav Defence, Euwe variation main line: 1.d4 d5 2.c4 c6 3.Nf3 Nf6 4.Nc3 dxc4 5.a4 Bf5 6.e3 e6 7.Bxc4 Bb4 8.O-O O-O 9.Qe2
 
 D20: Queen's Gambit Accepted with 3.e3: 1.d4 d5 2.c4 dxc4 3.e3
 
@@ -771,7 +771,7 @@ D29: Queen's Gambit Accepted, Classical main line with 7.Qe2 and early ...Nbd7: 
 
 D30: Queen's Gambit Declined without 3.Nc3: 1.d4 d5 2.c4 e6
 
-D31: Queen's Gambit Declined, Alatortsev Variation: 1.d4 d5 2.c4 e6 3.Nc3 Be7
+D31: Queen's Gambit Declined, Alatortsev variation: 1.d4 d5 2.c4 e6 3.Nc3 Be7
 
 D31: Semi-Slav without ...Nf6: 1.d4 d5 2.c4 e6 3.Nc3 c6
 
@@ -783,9 +783,9 @@ D34: Tarrasch Defence, 6.g3 Nf6 7.Bg2 Be7: 1.d4 d5 2.c4 e6 3.Nc3 c5 4.cxd5 cxd5 
 
 D35: Queen's Gambit Declined, early deviations: 1.d4 d5 2.c4 e6 3.Nc3 Nf6
 
-D35: Queen's Gambit Declined, Exchange Variation: 1.d4 d5 2.c4 e6 3.Nc3 Nf6 4.cxd5 exd5
+D35: Queen's Gambit Declined, Exchange variation: 1.d4 d5 2.c4 e6 3.Nc3 Nf6 4.cxd5 exd5
 
-D36: Queen's Gambit Declined, Exchange Variation main line: 1.d4 d5 2.c4 e6 3.Nc3 Nf6 4.cxd5 exd5 5.Bg5 Be7 6.Qc2
+D36: Queen's Gambit Declined, Exchange variation main line: 1.d4 d5 2.c4 e6 3.Nc3 Nf6 4.cxd5 exd5 5.Bg5 Be7 6.Qc2
 
 D37: Queen's Gambit Declined with 5.Bf4: 1.d4 d5 2.c4 e6 3.Nc3 Nf6 4.Nf3 4.Be7 5.Bf4
 
@@ -801,53 +801,53 @@ D42: Queen's Gambit Declined, Semi-Tarrasch Defence main line: 1.d4 d5 2.c4 e6 3
 
 D43: Semi-Slav, 5.Bg5 h6: 1.d4 d5 2.c4 e6 3.Nc3 Nf6 4.Nf3 c6 5.Bg5 h6
 
-D44: Semi-Slav, Botvinnik Variation: 1.d4 d5 2.c4 e6 3.Nc3 Nf6 4.Nf3 c6 5.Bg5 dxc4 6.e4 b5 7.e5 h6 8.Bh4 g5 9.Nxg5 hxg5 10.Bxg5
+D44: Semi-Slav, Botvinnik variation: 1.d4 d5 2.c4 e6 3.Nc3 Nf6 4.Nf3 c6 5.Bg5 dxc4 6.e4 b5 7.e5 h6 8.Bh4 g5 9.Nxg5 hxg5 10.Bxg5
 
 D45: Semi-Slav, 5.e3: 1.d4 d5 2.c4 e6 3.Nc3 Nf6 4.Nf3 c6 5.e3
 
 D46: Semi-Slav, 5.e3 Nbd7 6.Bd3 where Black avoids the Meran: 1.d4 d5 2.c4 e6 3.Nc3 Nf6 4.Nf3 c6 5.e3 Nbd7 6.Bd3
 
-D47: Semi-Slav, Meran System sidelines: 1.d4 d5 2.c4 e6 3.Nc3 Nf6 4.Nf3 c6 5.e3 Nbd7 6.Bd3 dxc4 7.Bxc4
+D47: Semi-Slav, Meran system sidelines: 1.d4 d5 2.c4 e6 3.Nc3 Nf6 4.Nf3 c6 5.e3 Nbd7 6.Bd3 dxc4 7.Bxc4
 
-D48: Semi-Slav, Meran System without early ...c5: 1.d4 d5 2.c4 e6 3.Nc3 Nf6 4.Nf3 c6 5.e3 Nbd7 6.Bd3 dxc4 7.Bxc4 b5 8.Bd3 a6 9.O-O
+D48: Semi-Slav, Meran system without early ...c5: 1.d4 d5 2.c4 e6 3.Nc3 Nf6 4.Nf3 c6 5.e3 Nbd7 6.Bd3 dxc4 7.Bxc4 b5 8.Bd3 a6 9.O-O
 
-D49: Semi-Slav, Meran System main line: 1.d4 d5 2.c4 e6 3.Nc3 Nf6 4.Nf3 c6 5.e3 Nbd7 6.Bd3 dxc4 7.Bxc4 b5 8.Bd3 a6 9.e4 c5 10.e5 cxd4 11.Nxb5 axb5 12.exf6 gxf6
+D49: Semi-Slav, Meran system main line: 1.d4 d5 2.c4 e6 3.Nc3 Nf6 4.Nf3 c6 5.e3 Nbd7 6.Bd3 dxc4 7.Bxc4 b5 8.Bd3 a6 9.e4 c5 10.e5 cxd4 11.Nxb5 axb5 12.exf6 gxf6
 
 D50: Queen's Gambit Declined, Dutch-Peruvian Gambit: 1.d4 d5 2.c4 e6 3.Nc3 Nf6 4.Bg5 c5
 
-D50: Queen's Gambit Declined, Orthodox Variation sidelines: 1.d4 d5 2.c4 e6 3.Nc3 Nf6 4.Bg5
+D50: Queen's Gambit Declined, Orthodox variation sidelines: 1.d4 d5 2.c4 e6 3.Nc3 Nf6 4.Bg5
 
 D51: Queen's Gambit Declined, 4.Bg5 Nbd7 sidelines: 1.d4 d5 2.c4 e6 3.Nc3 Nf6 4.Bg5 Nbd7
 
-D52: Queen's Gambit Declined, Cambridge Springs Variation: 1.d4 d5 2.c4 e6 3.Nc3 Nf6 4.Bg5 Nbd7 5.e3 c6 6.Nf3 Qa5
+D52: Queen's Gambit Declined, Cambridge Springs variation: 1.d4 d5 2.c4 e6 3.Nc3 Nf6 4.Bg5 Nbd7 5.e3 c6 6.Nf3 Qa5
 
-D53: Queen's Gambit Declined, Orthodox Variation early deviations: 1.d4 d5 2.c4 e6 3.Nc3 Nf6 4.Bg5 Be7
+D53: Queen's Gambit Declined, Orthodox variation early deviations: 1.d4 d5 2.c4 e6 3.Nc3 Nf6 4.Bg5 Be7
 
-D54: Queen's Gambit Declined, Orthodox Variation without Nf3: 1.d4 d5 2.c4 e6 3.Nc3 Nf6 4.Bg5 Be7 5.e3 O-O 6.Rc1
+D54: Queen's Gambit Declined, Orthodox variation without Nf3: 1.d4 d5 2.c4 e6 3.Nc3 Nf6 4.Bg5 Be7 5.e3 O-O 6.Rc1
 
-D55: Queen's Gambit Declined, Orthodox Variation without ...h6: 1.d4 d5 2.c4 e6 3.Nc3 Nf6 4.Bg5 Be7 5.e3 O-O 6.Nf3
+D55: Queen's Gambit Declined, Orthodox variation without ...h6: 1.d4 d5 2.c4 e6 3.Nc3 Nf6 4.Bg5 Be7 5.e3 O-O 6.Nf3
 
-D56: Queen's Gambit Declined, Lasker Variation sidelines: 1.d4 d5 2.c4 e6 3.Nc3 Nf6 4.Bg5 Be7 5.e3 O-O 6.Nf3 h6 7.Bh4 Ne4
+D56: Queen's Gambit Declined, Lasker variation sidelines: 1.d4 d5 2.c4 e6 3.Nc3 Nf6 4.Bg5 Be7 5.e3 O-O 6.Nf3 h6 7.Bh4 Ne4
 
-D57: Queen's Gambit Declined, Lasker Variation main line: 1.d4 d5 2.c4 e6 3.Nc3 Nf6 4.Bg5 Be7 5.e3 O-O 6.Nf3 h6 7.Bh4 Ne4 8.Bxe7 Qxe7 9.cxd5 exd5
+D57: Queen's Gambit Declined, Lasker variation main line: 1.d4 d5 2.c4 e6 3.Nc3 Nf6 4.Bg5 Be7 5.e3 O-O 6.Nf3 h6 7.Bh4 Ne4 8.Bxe7 Qxe7 9.cxd5 exd5
 
 D58: Queen's Gambit Declined, Tartakower Defence sidelines: 1.d4 d5 2.c4 e6 3.Nc3 Nf6 4.Bg5 Be7 5.e3 O-O 6.Nf3 h6 7.Bh4 b6
 
 D59: Queen's Gambit Declined, Tartakower Defence main line: 1.d4 d5 2.c4 e6 3.Nc3 Nf6 4.Bg5 Be7 5.e3 O-O 6.Nf3 h6 7.Bh4 b6 8.cxd5 Nxd5
 
-D60: Queen's Gambit Declined, Classical Variation with unusual White seventh moves: 1.d4 d5 2.c4 e6 3.Nc3 Nf6 4.Bg5 Be7 5.e3 Nbd7 6.Nf3 Nbd7
+D60: Queen's Gambit Declined, Classical variation with unusual White seventh moves: 1.d4 d5 2.c4 e6 3.Nc3 Nf6 4.Bg5 Be7 5.e3 Nbd7 6.Nf3 Nbd7
 
-D61: Queen's Gambit Declined, Classical Variation with 7.Qc2: 1.d4 d5 2.c4 e6 3.Nc3 Nf6 4.Bg5 Be7 5.e3 Nbd7 6.Nf3 Nbd7 7.Qc2
+D61: Queen's Gambit Declined, Classical variation with 7.Qc2: 1.d4 d5 2.c4 e6 3.Nc3 Nf6 4.Bg5 Be7 5.e3 Nbd7 6.Nf3 Nbd7 7.Qc2
 
-D62: Queen's Gambit Declined, Classical Variation with 7.Qc2 c5 8.cxd5: 1.d4 d5 2.c4 e6 3.Nc3 Nf6 4.Bg5 Be7 5.e3 Nbd7 6.Nf3 Nbd7 7.Qc2 c5 8.cxd5
+D62: Queen's Gambit Declined, Classical variation with 7.Qc2 c5 8.cxd5: 1.d4 d5 2.c4 e6 3.Nc3 Nf6 4.Bg5 Be7 5.e3 Nbd7 6.Nf3 Nbd7 7.Qc2 c5 8.cxd5
 
-D63: Queen's Gambit Declined, Classical Variation with 7.Rc1: 1.d4 d5 2.c4 e6 3.Nc3 Nf6 4.Bg5 Be7 5.e3 Nbd7 6.Nf3 Nbd7 7.Rc1
+D63: Queen's Gambit Declined, Classical variation with 7.Rc1: 1.d4 d5 2.c4 e6 3.Nc3 Nf6 4.Bg5 Be7 5.e3 Nbd7 6.Nf3 Nbd7 7.Rc1
 
-D64: Queen's Gambit Declined, Classical Variation with 7.Rc1 c6 8.Qc2: 1.d4 d5 2.c4 e6 3.Nc3 Nf6 4.Bg5 Be7 5.e3 Nbd7 6.Nf3 Nbd7 7
+D64: Queen's Gambit Declined, Classical variation with 7.Rc1 c6 8.Qc2: 1.d4 d5 2.c4 e6 3.Nc3 Nf6 4.Bg5 Be7 5.e3 Nbd7 6.Nf3 Nbd7 7
 .Rc1 c6 8.Qc2
-D65: Queen's Gambit Declined, Classical Variation with 7.Rc1 c6 8.Qc2 a6 9.cxd5: 1.d4 d5 2.c4 e6 3.Nc3 Nf6 4.Bg5 Be7 5.e3 Nbd7 6.Nf3 Nbd7 7.Rc1 c6 8.Qc2 a6 9.cxd5
+D65: Queen's Gambit Declined, Classical variation with 7.Rc1 c6 8.Qc2 a6 9.cxd5: 1.d4 d5 2.c4 e6 3.Nc3 Nf6 4.Bg5 Be7 5.e3 Nbd7 6.Nf3 Nbd7 7.Rc1 c6 8.Qc2 a6 9.cxd5
 
-D66: Queen's Gambit Declined, Classical Variation main line: 1.d4 d5 2.c4 e6 3.Nc3 Nf6 4.Bg5 Be7 5.e3 Nbd7 6.Nf3 Nbd7 7.Rc1 c6 8.Bd3
+D66: Queen's Gambit Declined, Classical variation main line: 1.d4 d5 2.c4 e6 3.Nc3 Nf6 4.Bg5 Be7 5.e3 Nbd7 6.Nf3 Nbd7 7.Rc1 c6 8.Bd3
 
 D67: Queen's Gambit Declined, 9...Nd5: 1.d4 d5 2.c4 e6 3.Nc3 Nf6 4.Bg5 Be7 5.e3 Nbd7 6.Nf3 Nbd7 7.Rc1 c6 8.Bd3 dxc4 9.Bxc4 Nd5
 
@@ -857,29 +857,29 @@ D69: Queen's Gambit Declined, Capablanca's Freeing Maneuver main line: 1.d4 d5 2
 
 D70: Grünfeld Defence, unusual White third moves met by 3...d5: 1.d4 Nf6 2.c4 g6 (3.Nc3--E20-E99)
 
-D71: Grünfeld Defence, Fianchetto Variation sidelines: 1.d4 Nf6 2.c4 g6 3.g3 d5
+D71: Grünfeld Defence, Fianchetto variation sidelines: 1.d4 Nf6 2.c4 g6 3.g3 d5
 
-D72: Grünfeld Defence, Fianchetto Variation without Nf3: 1.d4 Nf6 2.c4 g6 3.g3 d5 4.Bg2 Bg7 5.cxd5 Nxd5 6.e4
+D72: Grünfeld Defence, Fianchetto variation without Nf3: 1.d4 Nf6 2.c4 g6 3.g3 d5 4.Bg2 Bg7 5.cxd5 Nxd5 6.e4
 
-D73: Grünfeld Defence, Fianchetto Variation with 5.Nf3 sidelines: 1.d4 Nf6 2.c4 g6 3.g3 d5 4.Bg2 Bg7 5.Nf3
+D73: Grünfeld Defence, Fianchetto variation with 5.Nf3 sidelines: 1.d4 Nf6 2.c4 g6 3.g3 d5 4.Bg2 Bg7 5.Nf3
 
-D74: Grünfeld Defence, Fianchetto Variation with 5.Nf3 O-O main line: 1.d4 Nf6 2.c4 g6 3.g3 d5 4.Bg2 Bg7 5.Nf3 O-O 6.cxd5 Nxd5 7.O-O
+D74: Grünfeld Defence, Fianchetto variation with 5.Nf3 O-O main line: 1.d4 Nf6 2.c4 g6 3.g3 d5 4.Bg2 Bg7 5.Nf3 O-O 6.cxd5 Nxd5 7.O-O
 
-D75: Grünfeld Defence, Fianchetto Variation with 5.Nf3 O-O 6.cxd5 Nxd5 7.Nc3 c5: 1.d4 Nf6 2.c4 g6 3.g3 d5 4.Bg2 Bg7 5.Nf3 O-O 6.cxd5 Nxd5 7.Nc3 c5
+D75: Grünfeld Defence, Fianchetto variation with 5.Nf3 O-O 6.cxd5 Nxd5 7.Nc3 c5: 1.d4 Nf6 2.c4 g6 3.g3 d5 4.Bg2 Bg7 5.Nf3 O-O 6.cxd5 Nxd5 7.Nc3 c5
 
-D76: Grünfeld Defence, Fianchetto Variation main line with 7.O-O Nb6: 1.d4 Nf6 2.c4 g6 3.g3 d5 4.Bg2 Bg7 5.Nf3 O-O 6.cxd5 Nxd5 7.O-O Nb6
+D76: Grünfeld Defence, Fianchetto variation main line with 7.O-O Nb6: 1.d4 Nf6 2.c4 g6 3.g3 d5 4.Bg2 Bg7 5.Nf3 O-O 6.cxd5 Nxd5 7.O-O Nb6
 
-D77: Grünfeld Defence, Fianchetto Variation 6.O-O without 6...c6: 1.d4 Nf6 2.c4 g6 3.g3 d5 4.Bg2 Bg7 5.Nf3 O-O 6.O-O
+D77: Grünfeld Defence, Fianchetto variation 6.O-O without 6...c6: 1.d4 Nf6 2.c4 g6 3.g3 d5 4.Bg2 Bg7 5.Nf3 O-O 6.O-O
 
-D78: Grünfeld Defence, Fianchetto Variation with 6.O-O c6: 1.d4 Nf6 2.c4 g6 3.g3 d5 4.Bg2 Bg7 5.Nf3 O-O 6.O-O c6
+D78: Grünfeld Defence, Fianchetto variation with 6.O-O c6: 1.d4 Nf6 2.c4 g6 3.g3 d5 4.Bg2 Bg7 5.Nf3 O-O 6.O-O c6
 
-D79: Grünfeld Defence, Symmetrical Variation: 1.d4 Nf6 2.c4 g6 3.g3 d5 4.Bg2 d5 5.Nf3 O-O 6.O-O c6 7.cxd5 cxd5
+D79: Grünfeld Defence, Symmetrical variation: 1.d4 Nf6 2.c4 g6 3.g3 d5 4.Bg2 d5 5.Nf3 O-O 6.O-O c6 7.cxd5 cxd5
 
 D80: Grünfeld Defence, unusual White fourth moves: 1.d4 Nf6 2.c4 g6 3.Nc3 d5
 
 D80: Grünfeld Defence, 4.Bg5: 1.d4 Nf6 2.c4 g6 3.Nc3 d5 4.Bg5
 
-D81: Grünfeld Defence, Accelerated Russian System: 1.d4 Nf6 2.c4 g6 3.Nc3 d5 4.Qb3
+D81: Grünfeld Defence, Accelerated Russian system: 1.d4 Nf6 2.c4 g6 3.Nc3 d5 4.Qb3
 
 D82: Grünfeld Defence, 4.Bf4: 1.d4 Nf6 2.c4 g6 3.Nc3 d5 4.Bf4
 
@@ -887,17 +887,17 @@ D83: Grünfeld Defence, 4.Bf4 Bg7 5.e3 O-O: 1.d4 Nf6 2.c4 g6 3.Nc3 d5 4.Bf4 Bg7 
 
 D84: Grünfeld Defence, 4.Bf4 Bg7 5.e3 O-O 6.cxd5: 1.d4 Nf6 2.c4 g6 3.Nc3 d5 4.Bf4 Bg7 5.e3 O-O 6.cxd5
 
-D85: Grünfeld Defence, Nadanian Variation: 1.d4 Nf6 2.c4 g6 3.Nc3 d5 4.cxd5 Nxd5 5.Na4
+D85: Grünfeld Defence, Nadanian variation: 1.d4 Nf6 2.c4 g6 3.Nc3 d5 4.cxd5 Nxd5 5.Na4
 
-D85: Grünfeld Defence, Exchange Variation with 7.Nf3: 1.d4 Nf6 2.c4 g6 3.Nc3 d5 4.cxd5 Nxd5 5.e4 Nxc3 6.bxc3 Bg7 7.Nf3
+D85: Grünfeld Defence, Exchange variation with 7.Nf3: 1.d4 Nf6 2.c4 g6 3.Nc3 d5 4.cxd5 Nxd5 5.e4 Nxc3 6.bxc3 Bg7 7.Nf3
 
-D86: Grünfeld Defence, Classical Exchange Variation sidelines: 1.d4 Nf6 2.c4 g6 3.Nc3 d5 4.cxd5 Nxd5 5.e4 Nxc3 6.bxc3 Bg7 7.Bc4
+D86: Grünfeld Defence, Classical Exchange variation sidelines: 1.d4 Nf6 2.c4 g6 3.Nc3 d5 4.cxd5 Nxd5 5.e4 Nxc3 6.bxc3 Bg7 7.Bc4
 
-D87: Grünfeld Defence, Classical Exchange Variation without ...cxd4: 1.d4 Nf6 2.c4 g6 3.Nc3 d5 4.cxd5 Nxd5 5.e4 Nxc3 6.bxc3 Bg7 7.Bc4 c5 8.Ne2 O-O 9.O-O
+D87: Grünfeld Defence, Classical Exchange variation without ...cxd4: 1.d4 Nf6 2.c4 g6 3.Nc3 d5 4.cxd5 Nxd5 5.e4 Nxc3 6.bxc3 Bg7 7.Bc4 c5 8.Ne2 O-O 9.O-O
 
-D88: Grünfeld Defence, Classical Exchange Variation with 10.Be3 cxd4 11.cxd4: 1.d4 Nf6 2.c4 g6 3.Nc3 d5 4.cxd5 Nxd5 5.e4 Nxc3 6.bxc3 Bg7 7.Bc4 c5 8.Ne2 O-O 9.O-O
+D88: Grünfeld Defence, Classical Exchange variation with 10.Be3 cxd4 11.cxd4: 1.d4 Nf6 2.c4 g6 3.Nc3 d5 4.cxd5 Nxd5 5.e4 Nxc3 6.bxc3 Bg7 7.Bc4 c5 8.Ne2 O-O 9.O-O
 
-D89: Grünfeld Defence, Classical Exchange Variation main line: 1.d4 Nf6 2.c4 g6 3.Nc3 d5 4.cxd5 Nxd5 5.e4 Nxc3 6.bxc3 Bg7 7.Bc4 c5 8.Ne2 O-O 9.O-O Nc6 10.Be3 cxd4 11.cxd4 Bg4 12.f3 Na5 13.Bd3
+D89: Grünfeld Defence, Classical Exchange variation main line: 1.d4 Nf6 2.c4 g6 3.Nc3 d5 4.cxd5 Nxd5 5.e4 Nxc3 6.bxc3 Bg7 7.Bc4 c5 8.Ne2 O-O 9.O-O Nc6 10.Be3 cxd4 11.cxd4 Bg4 12.f3 Na5 13.Bd3
 
 D90: Grünfeld Defence, 4.Nf3 Bg7 sidelines: 1.d4 Nf6 2.c4 g6 3.Nc3 d5 4.Nf3 Bg7
 
@@ -907,17 +907,17 @@ D92: Grünfeld Defence, 4.Nf3 Bg7 5.Bf4 sidelines: 1.d4 Nf6 2.c4 g6 3.Nc3 d5 4.N
 
 D93: Grünfeld Defence, 4.Nf3 Bg7 5.Bf4 main line: 1.d4 Nf6 2.c4 g6 3.Nc3 d5 4.Nf3 Bg7 5.Bf4 O-O 6.e3
 
-D94: Grünfeld Defence, Closed Variation sidelines: 1.d4 Nf6 2.c4 g6 3.Nc3 d5 4.Nf3 Bg7 5.e3
+D94: Grünfeld Defence, Closed variation sidelines: 1.d4 Nf6 2.c4 g6 3.Nc3 d5 4.Nf3 Bg7 5.e3
 
-D95: Grünfeld Defence, Closed Variation main line: 1.d4 Nf6 2.c4 g6 3.Nc3 d5 4.Nf3 Bg7 5.e3 O-O 6.Qb3
+D95: Grünfeld Defence, Closed variation main line: 1.d4 Nf6 2.c4 g6 3.Nc3 d5 4.Nf3 Bg7 5.e3 O-O 6.Qb3
 
-D96: Grünfeld Defence, Russian System sidelines: 1.d4 Nf6 2.c4 g6 3.Nc3 d5 4.Nf3 Bg7 5.Qb3
+D96: Grünfeld Defence, Russian system sidelines: 1.d4 Nf6 2.c4 g6 3.Nc3 d5 4.Nf3 Bg7 5.Qb3
 
-D97: Grünfeld Defence, Russian System main line without 7...Bg4: 1.d4 Nf6 2.c4 g6 3.Nc3 d5 4.Nf3 Bg7 5.Qb3 dxc4 6.Qxc4 O-O 7.e4
+D97: Grünfeld Defence, Russian system main line without 7...Bg4: 1.d4 Nf6 2.c4 g6 3.Nc3 d5 4.Nf3 Bg7 5.Qb3 dxc4 6.Qxc4 O-O 7.e4
 
-D98: Grünfeld Defence, Russian System, Smyslov Variation: 1.d4 Nf6 2.c4 g6 3.Nc3 d5 4.Nf3 Bg7 5.Qb3 dxc4 6.Qxc4 O-O 7.e4 Bg4 8.Be3 Nfd7
+D98: Grünfeld Defence, Russian system, Smyslov variation: 1.d4 Nf6 2.c4 g6 3.Nc3 d5 4.Nf3 Bg7 5.Qb3 dxc4 6.Qxc4 O-O 7.e4 Bg4 8.Be3 Nfd7
 
-D99: Grünfeld Defence, Russian System main line: 1.d4 Nf6 2.c4 g6 3.Nc3 d5 4.Nf3 Bg7 5.Qb3 dxc4 6.Qxc4 O-O 7.e4 Bg4 8.Be3 Nfd7 9.Qb3
+D99: Grünfeld Defence, Russian system main line: 1.d4 Nf6 2.c4 g6 3.Nc3 d5 4.Nf3 Bg7 5.Qb3 dxc4 6.Qxc4 O-O 7.e4 Bg4 8.Be3 Nfd7 9.Qb3
 
 E00: Various Indian Defences: 1.d4 Nf6
 
@@ -945,58 +945,58 @@ E11: Bogo-Indian Defence: 1.d4 Nf6 2.c4 e6 3.Nf3 Bb4+
 
 E12: Queen's Indian Defence: 1.d4 Nf6 2.c4 e6 3.Nf3 b6
 
-E13: Queen's Indian Defence, 4.Nc3, Main line: 1.d4 Nf6 2.c4 e6 3.Nf3 b6 4.Nc3
+E13: Queen's Indian Defence, 4.Nc3, main line: 1.d4 Nf6 2.c4 e6 3.Nf3 b6 4.Nc3
 
 E14: Queen's Indian Defence, 4.e3 : 1.d4 Nf6 2.c4 e6 3.Nf3 b6 4.e3
 
 E15: Queen's Indian Defence, 4.g3 : 1.d4 Nf6 2.c4 e6 3.Nf3 b6 4.g3
 
-E16: Queen's Indian Defence, Capablanca Variation: 1.d4 Nf6 2.c4 e6 3.Nf3 b6 4.g3 Bb7 5.Bg2 Bb4+
+E16: Queen's Indian Defence, Capablanca variation: 1.d4 Nf6 2.c4 e6 3.Nf3 b6 4.g3 Bb7 5.Bg2 Bb4+
 
 E17: Queen's Indian Defence, 5.Bg2 Be7: 1.d4 Nf6 2.c4 e6 3.Nf3 b6 4.g3 Bb7 5.Bg2 Be7
 
 E18: Queen's Indian Defence, 5.Bg2 Be7: 1.d4 Nf6 2.c4 e6 3.Nf3 b6 4.g3 Bb7 5.Bg2 Be7 6.O-O O-O 7.Nc3
 
-E19 Queen's Indian, Old Main line, 9.Qxc3: 1.d4 Nf6 2.c4 e6 3.Nf3 b6 4.g3 Bb7 5.Bg2 Be7 6.O-O OO 7.Nc3 Ne4 8.Qc2 Nxc3 9.Qxc3
+E19 Queen's Indian, Old main line, 9.Qxc3: 1.d4 Nf6 2.c4 e6 3.Nf3 b6 4.g3 Bb7 5.Bg2 Be7 6.O-O OO 7.Nc3 Ne4 8.Qc2 Nxc3 9.Qxc3
 
 E20 Nimzo-Indian Defence: 1.d4 Nf6 2.c4 e6 3.Nc3 Bb4
 v E21 Nimzo-Indian, Three knights variation: 1.d4 Nf6 2.c4 e6 3.Nc3 Bb4 4.Nf3
 
-E22 Nimzo-Indian, Spielmann Variation: 1.d4 Nf6 2.c4 e6 3.Nc3 Bb4 4.Qb3
+E22 Nimzo-Indian, Spielmann variation: 1.d4 Nf6 2.c4 e6 3.Nc3 Bb4 4.Qb3
 
 E23 Nimzo-Indian, Spielmann, 4...c5, 5.dc Nc6: 1.d4 Nf6 2.c4 e6 3.Nc3 Bb4 4.Qb3 c5 5.dxc5 Nc6
 
-E24 Nimzo-Indian, Sämisch Variation: 1.d4 Nf6 2.c4 e6 3.Nc3 Bb4 4.a3
+E24 Nimzo-Indian, Sämisch variation: 1.d4 Nf6 2.c4 e6 3.Nc3 Bb4 4.a3
 
-E25 Nimzo-Indian, Sämisch Variation, Keres Variation: 1.d4 Nf6 2.c4 e6 3.Nc3 Bb4 4.a3 Bxc3+ 5.bxc3 c5 6.f3 d5 7.cxd5
+E25 Nimzo-Indian, Sämisch variation, Keres variation: 1.d4 Nf6 2.c4 e6 3.Nc3 Bb4 4.a3 Bxc3+ 5.bxc3 c5 6.f3 d5 7.cxd5
 
-E26 Nimzo-Indian, Sämisch Variation, 4.a3 Bxc3+ 5.bxc3 c5 6.e3: 1.d4 Nf6 2.c4 e6 3.Nc3 Bb4 4.a3 Bxc3+ 5.bxc3 c5 6.e3
+E26 Nimzo-Indian, Sämisch variation, 4.a3 Bxc3+ 5.bxc3 c5 6.e3: 1.d4 Nf6 2.c4 e6 3.Nc3 Bb4 4.a3 Bxc3+ 5.bxc3 c5 6.e3
 
-E27 Nimzo-Indian, Sämisch Variation, 5...0-0: 1.d4 Nf6 2.c4 e6 3.Nc3 Bb4 4.a3 Bxc3+ 5.bxc3 O-O
+E27 Nimzo-Indian, Sämisch variation, 5...0-0: 1.d4 Nf6 2.c4 e6 3.Nc3 Bb4 4.a3 Bxc3+ 5.bxc3 O-O
 
-E28 Nimzo-Indian, Sämisch Variation, 6.e3: 1.d4 Nf6 2.c4 e6 3.Nc3 Bb4 4.a3 Bxc3+ 5.bxc3 O-O 6.e3
+E28 Nimzo-Indian, Sämisch variation, 6.e3: 1.d4 Nf6 2.c4 e6 3.Nc3 Bb4 4.a3 Bxc3+ 5.bxc3 O-O 6.e3
 
-E29 Nimzo-Indian, Sämisch Variation, Main line: 1.d4 Nf6 2.c4 e6 3.Nc3 Bb4 4.a3 Bxc3+ 5.bxc3 O-O 6.e3 c5 7.Bd3 Nc6
+E29 Nimzo-Indian, Sämisch variation, main line: 1.d4 Nf6 2.c4 e6 3.Nc3 Bb4 4.a3 Bxc3+ 5.bxc3 O-O 6.e3 c5 7.Bd3 Nc6
 
-E30 Nimzo-Indian, Leningrad Variation: 1.d4 Nf6 2.c4 e6 3.Nc3 Bb4 4.Bg5
+E30 Nimzo-Indian, Leningrad variation: 1.d4 Nf6 2.c4 e6 3.Nc3 Bb4 4.Bg5
 
-E31 Nimzo-Indian, Leningrad Variation, main line: 1.d4 Nf6 2.c4 e6 3.Nc3 Bb4 4.Bg5 h6 5.Bh4 c5 6.d5 d6
+E31 Nimzo-Indian, Leningrad variation, main line: 1.d4 Nf6 2.c4 e6 3.Nc3 Bb4 4.Bg5 h6 5.Bh4 c5 6.d5 d6
 
-E32 Nimzo-Indian, Classical Variation: 1.d4 Nf6 2.c4 e6 3.Nc3 Bb4 4.Qc2
+E32 Nimzo-Indian, Classical variation: 1.d4 Nf6 2.c4 e6 3.Nc3 Bb4 4.Qc2
 
-E33 Nimzo-Indian, Classical Variation, 4...Nc6: 1.d4 Nf6 2.c4 e6 3.Nc3 Bb4 4.Qc2 Nc6
+E33 Nimzo-Indian, Classical variation, 4...Nc6: 1.d4 Nf6 2.c4 e6 3.Nc3 Bb4 4.Qc2 Nc6
 
-E34 Nimzo-Indian, Classical, Noa Variation: 1.d4 Nf6 2.c4 e6 3.Nc3 Bb4 4.Qc2 d5
+E34 Nimzo-Indian, Classical, Noa variation: 1.d4 Nf6 2.c4 e6 3.Nc3 Bb4 4.Qc2 d5
 
-E35 Nimzo-Indian, Classical, Noa Variation, 5.cxd5 exd5: 1.d4 Nf6 2.c4 e6 3.Nc3 Bb4 4.Qc2 d5 5.cxd5 exd5
+E35 Nimzo-Indian, Classical, Noa variation, 5.cxd5 exd5: 1.d4 Nf6 2.c4 e6 3.Nc3 Bb4 4.Qc2 d5 5.cxd5 exd5
 
-E36 Nimzo-Indian, Classical, Noa Variation, 5.a3: 1.d4 Nf6 2.c4 e6 3.Nc3 Bb4 4.Qc2 d5 5.a3
+E36 Nimzo-Indian, Classical, Noa variation, 5.a3: 1.d4 Nf6 2.c4 e6 3.Nc3 Bb4 4.Qc2 d5 5.a3
 
-E37 Nimzo-Indian, Classical, Noa Variation, Main line, 7.Qc2: 1.d4 Nf6 2.c4 e6 3.Nc3 Bb4 4.Qc2 d5 5.a3 Bxc3+ 6.Qxc3 Ne4
+E37 Nimzo-Indian, Classical, Noa variation, main line, 7.Qc2: 1.d4 Nf6 2.c4 e6 3.Nc3 Bb4 4.Qc2 d5 5.a3 Bxc3+ 6.Qxc3 Ne4
 
 E38 Nimzo-Indian, Classical, 4...c5: 1.d4 Nf6 2.c4 e6 3.Nc3 Bb4 4.Qc2 c5
 
-E39 Nimzo-Indian, Classical, Pirc Variation: 1.d4 Nf6 2.c4 e6 3.Nc3 Bb4 4.Qc2 c5 5.dxc5 O-O
+E39 Nimzo-Indian, Classical, Pirc variation: 1.d4 Nf6 2.c4 e6 3.Nc3 Bb4 4.Qc2 c5 5.dxc5 O-O
 
 E40 Nimzo-Indian, 4.e3: 1.d4 Nf6 2.c4 e6 3.Nc3 Bb4 4.e3
 
@@ -1004,11 +1004,11 @@ E41 Nimzo-Indian, 4.e3 c5: 1.d4 Nf6 2.c4 e6 3.Nc3 Bb4 4.e3 c5
 
 E42 Nimzo-Indian, 4.e3 c5, 5.Ne2 (Rubinstein): 1.d4 Nf6 2.c4 e6 3.Nc3 Bb4 4.e3 c5 5.Ne2
 
-E43 Nimzo-Indian, Fischer Variation: 1.d4 Nf6 2.c4 e6 3.Nc3 Bb4 4.e3 b6
+E43 Nimzo-Indian, Fischer variation: 1.d4 Nf6 2.c4 e6 3.Nc3 Bb4 4.e3 b6
 
-E44 Nimzo-Indian, Fischer Variation, 5.Ne2: 1.d4 Nf6 2.c4 e6 3.Nc3 Bb4 4.e3 b6 5.Ne2
+E44 Nimzo-Indian, Fischer variation, 5.Ne2: 1.d4 Nf6 2.c4 e6 3.Nc3 Bb4 4.e3 b6 5.Ne2
 
-E45 Nimzo-Indian, 4.e3, Bronstein (Byrne) Variation: 1.d4 Nf6 2.c4 e6 3.Nc3 Bb4 4.e3 b6 5.Ne2 Ba6
+E45 Nimzo-Indian, 4.e3, Bronstein (Byrne) variation: 1.d4 Nf6 2.c4 e6 3.Nc3 Bb4 4.e3 b6 5.Ne2 Ba6
 
 E46 Nimzo-Indian, 4.e3 O-O: 1.d4 Nf6 2.c4 e6 3.Nc3 Bb4 4.e3 O-O
 
@@ -1016,37 +1016,37 @@ E47 Nimzo-Indian, 4.e3 O-O, 5.Bd3: 1.d4 Nf6 2.c4 e6 3.Nc3 Bb4 4.e3 O-O 5.Bd3
 
 E48 Nimzo-Indian, 4.e3 O-O, 5.Bd3 d5: 1.d4 Nf6 2.c4 e6 3.Nc3 Bb4 4.e3 O-O 5.Bd3 d5
 
-E49 Nimzo-Indian, 4.e3, Botvinnik System: 1.d4 Nf6 2.c4 e6 3.Nc3 Bb4 4.e3 O-O 5.Bd3 d5 6.a3 Bxc3+ 7.bxc3
+E49 Nimzo-Indian, 4.e3, Botvinnik system: 1.d4 Nf6 2.c4 e6 3.Nc3 Bb4 4.e3 O-O 5.Bd3 d5 6.a3 Bxc3+ 7.bxc3
 
 E50 Nimzo-Indian, 4.e3 O-O, 5.Nf3, without ...d5: 1.d4 Nf6 2.c4 e6 3.Nc3 Bb4 4.e3 O-O 5.Nf3
 
 E51 Nimzo-Indian, 4.e3 O-O, 5.Nf3 d5: 1.d4 Nf6 2.c4 e6 3.Nc3 Bb4 4.e3 O-O 5.Nf3 d5
 
-E52 Nimzo-Indian, 4.e3, Main line with ...b6: 1.d4 Nf6 2.c4 e6 3.Nc3 Bb4 4.e3 O-O 5.Nf3 d5 6.Bd3 b6
+E52 Nimzo-Indian, 4.e3, main line with ...b6: 1.d4 Nf6 2.c4 e6 3.Nc3 Bb4 4.e3 O-O 5.Nf3 d5 6.Bd3 b6
 
-E53 Nimzo-Indian, 4.e3, Main line with ...c5: 1.d4 Nf6 2.c4 e6 3.Nc3 Bb4 4.e3 O-O 5.Nf3 d5 6.Bd3 c5
+E53 Nimzo-Indian, 4.e3, main line with ...c5: 1.d4 Nf6 2.c4 e6 3.Nc3 Bb4 4.e3 O-O 5.Nf3 d5 6.Bd3 c5
 
-E54 Nimzo-Indian, 4.e3, Gligoric System with 7...dc: 1.d4 Nf6 2.c4 e6 3.Nc3 Bb4 4.e3 O-O 5.Nf3 d5 6.Bd3 c5 7.O-O dxc4 8.Bxc4
+E54 Nimzo-Indian, 4.e3, Gligoric system with 7...dc: 1.d4 Nf6 2.c4 e6 3.Nc3 Bb4 4.e3 O-O 5.Nf3 d5 6.Bd3 c5 7.O-O dxc4 8.Bxc4
 
-E55 Nimzo-Indian, 4.e3, Gligoric System, Bronstein Variation: 1.d4 Nf6 2.c4 e6 3.Nc3 Bb4 4.e3 O-O 5.Nf3 d5 6.Bd3 c5 7.O-O dxc4 8.Bxc4 Nbd7
+E55 Nimzo-Indian, 4.e3, Gligoric system, Bronstein variation: 1.d4 Nf6 2.c4 e6 3.Nc3 Bb4 4.e3 O-O 5.Nf3 d5 6.Bd3 c5 7.O-O dxc4 8.Bxc4 Nbd7
 
-E56 Nimzo-Indian, 4.e3, Main line with 7...Nc6: 1.d4 Nf6 2.c4 e6 3.Nc3 Bb4 4.e3 O-O 5.Nf3 d5 6.Bd3 c5 7.O-O Nc6
+E56 Nimzo-Indian, 4.e3, main line with 7...Nc6: 1.d4 Nf6 2.c4 e6 3.Nc3 Bb4 4.e3 O-O 5.Nf3 d5 6.Bd3 c5 7.O-O Nc6
 
-E57 Nimzo-Indian, 4.e3, Main line with 8...dxc4 and 9...Bxc4 cxd4: 1.d4 Nf6 2.c4 e6 3.Nc3 Bb4 4.e3 O-O 5.Nf3 d5 6.Bd3 c5 7.O-O Nc6 8.a3 dxc4 9.Bxc4 cxd4
+E57 Nimzo-Indian, 4.e3, main line with 8...dxc4 and 9...Bxc4 cxd4: 1.d4 Nf6 2.c4 e6 3.Nc3 Bb4 4.e3 O-O 5.Nf3 d5 6.Bd3 c5 7.O-O Nc6 8.a3 dxc4 9.Bxc4 cxd4
 
-E58 Nimzo-Indian, 4.e3, Main line with 8...Bxc3: 1.d4 Nf6 2.c4 e6 3.Nc3 Bb4 4.e3 O-O 5.Nf3 d5 6.Bd3 c5 7.O-O Nc6 8.a3 Bxc3 9.bxc3
+E58 Nimzo-Indian, 4.e3, main line with 8...Bxc3: 1.d4 Nf6 2.c4 e6 3.Nc3 Bb4 4.e3 O-O 5.Nf3 d5 6.Bd3 c5 7.O-O Nc6 8.a3 Bxc3 9.bxc3
 
-E59 Nimzo-Indian, 4.e3, Main line: 1.d4 Nf6 2.c4 e6 3.Nc3 Bb4 4.e3 O-O 5.Nf3 d5 6.Bd3 c5 7.O-O Nc6 8.a3 Bxc3 9.bxc3 dxc4 10.Bxc4
+E59 Nimzo-Indian, 4.e3, main line: 1.d4 Nf6 2.c4 e6 3.Nc3 Bb4 4.e3 O-O 5.Nf3 d5 6.Bd3 c5 7.O-O Nc6 8.a3 Bxc3 9.bxc3 dxc4 10.Bxc4
 
 E60 King's Indian Defence: 1.d4 Nf6 2.c4 g6
 
 E61 King's Indian Defence, 3.Nc3: 1.d4 Nf6 2.c4 g6 3.Nc3
 
-E62 King's Indian, Fianchetto Variation: 1.d4 Nf6 2.c4 g6 3.Nc3 Bd7 4.Nf3 d6 5.g3
+E62 King's Indian, Fianchetto variation: 1.d4 Nf6 2.c4 g6 3.Nc3 Bd7 4.Nf3 d6 5.g3
 
-E63 King's Indian, Fianchetto, Panno Variation: 1.d4 Nf6 2.c4 g6 3.Nc3 Bd7 4.Nf3 d6 5.g3 O-O 6.Bg2 Nc6 7.O-O a6
+E63 King's Indian, Fianchetto, Panno variation: 1.d4 Nf6 2.c4 g6 3.Nc3 Bd7 4.Nf3 d6 5.g3 O-O 6.Bg2 Nc6 7.O-O a6
 
-E64 King's Indian, Fianchetto, Yugoslav System: 1.d4 Nf6 2.c4 g6 3.Nc3 Bd7 4.Nf3 d6 5.g3 O-O 6.Bg2 c5
+E64 King's Indian, Fianchetto, Yugoslav system: 1.d4 Nf6 2.c4 g6 3.Nc3 Bd7 4.Nf3 d6 5.g3 O-O 6.Bg2 c5
 
 E65 King's Indian, Yugoslav, 7.O-O: 1.d4 Nf6 2.c4 g6 3.Nc3 Bd7 4.Nf3 d6 5.g3 O-O 6.Bg2 c5 7.O-O
 
@@ -1054,12 +1054,12 @@ E66 King's Indian, Fianchetto, Yugoslav Panno: 1.d4 Nf6 2.c4 g6 3.Nc3 Bd7 4.Nf3 
 
 E67 King's Indian, Fianchetto with ...Nd7: 1.d4 Nf6 2.c4 g6 3.Nc3 Bd7 4.Nf3 d6 5.g3 O-O 6.Bg2 Nbd7
 
-E68 King's Indian, Fianchetto, Classical Variation, 8.e4: 1.d4 Nf6 2.c4 g6 3.Nc3 Bd7 4.Nf3 d6 5.g3 OO 6.Bg2 Nbd7 7.O-O e5 8.e4
-v E69 King's Indian, Fianchetto, Classical Main line: 1.d4 Nf6 2.c4 g6 3.Nc3 Bd7 4.Nf3 d6 5.g3 O-O 6.Bg2 Nbd7 7.O-O e5 8.e4 c6 9.h3
+E68 King's Indian, Fianchetto, Classical variation, 8.e4: 1.d4 Nf6 2.c4 g6 3.Nc3 Bd7 4.Nf3 d6 5.g3 OO 6.Bg2 Nbd7 7.O-O e5 8.e4
+v E69 King's Indian, Fianchetto, Classical main line: 1.d4 Nf6 2.c4 g6 3.Nc3 Bd7 4.Nf3 d6 5.g3 O-O 6.Bg2 Nbd7 7.O-O e5 8.e4 c6 9.h3
 
 E70 King's Indian, 4.e4: 1.d4 Nf6 2.c4 g6 3.Nc3 Bg7 4.e4
 
-E71 King's Indian, Makogonov System (5.h3): 1.d4 Nf6 2.c4 g6 3.Nc3 Bg7 4.e4 d6 5.h3
+E71 King's Indian, Makogonov system (5.h3): 1.d4 Nf6 2.c4 g6 3.Nc3 Bg7 4.e4 d6 5.h3
 
 E72 King's Indian with e4 & g3: 1.d4 Nf6 2.c4 g6 3.Nc3 Bg7 4.e4 d6 5.g3
 
@@ -1067,7 +1067,7 @@ E73 King's Indian, 5.Be2: 1.d4 Nf6 2.c4 g6 3.Nc3 Bg7 4.e4 d6 5.Be2
 
 E74 King's Indian, Averbakh, 6...c5: 1.d4 Nf6 2.c4 g6 3.Nc3 Bg7 4.e4 d6 5.Be2 O-O 6.Bg5 c5
 
-E75 King's Indian, Averbakh, Main line: 1.d4 Nf6 2.c4 g6 3.Nc3 Bg7 4.e4 d6 5.Be2 O-O 6.Bg5 c5 7.d5 
+E75 King's Indian, Averbakh, main line: 1.d4 Nf6 2.c4 g6 3.Nc3 Bg7 4.e4 d6 5.Be2 O-O 6.Bg5 c5 7.d5 
 
 c6 E76 King's Indian Defence, Four Pawns Attack: 1.d4 Nf6 2.c4 g6 3.Nc3 Bg7 4.e4 d6 5.f4
 
@@ -1075,19 +1075,19 @@ E77 King's Indian, Four Pawns Attack, with Be2: 1.d4 Nf6 2.c4 g6 3.Nc3 Bg7 4.e4 
 
 E78 King's Indian, Four Pawns Attack, with Be2 and Nf3: 1.d4 Nf6 2.c4 g6 3.Nc3 Bg7 4.e4 d6 5.f4 OO 6.Be2 c5 7.Nf3
 
-E79 King's Indian, Four Pawns Attack, Main line: 1.d4 Nf6 2.c4 g6 3.Nc3 Bg7 4.e4 d6 5.f4 O-O 6.Be2 c5 7.Nf3 cxd4 8.Nxd4 Nc6 9.Be3
+E79 King's Indian, Four Pawns Attack, main line: 1.d4 Nf6 2.c4 g6 3.Nc3 Bg7 4.e4 d6 5.f4 O-O 6.Be2 c5 7.Nf3 cxd4 8.Nxd4 Nc6 9.Be3
 
-E80 King's Indian, Sämisch Variation: 1.d4 Nf6 2.c4 g6 3.Nc3 Bg7 4.e4 d6 5.f3
+E80 King's Indian, Sämisch variation: 1.d4 Nf6 2.c4 g6 3.Nc3 Bg7 4.e4 d6 5.f3
 
 E81 King's Indian, Sämisch, 5...O-O: 1.d4 Nf6 2.c4 g6 3.Nc3 Bg7 4.e4 d6 5.f3 O-O
 
-E82 King's Indian, Sämisch, double Fianchetto Variation: 1.d4 Nf6 2.c4 g6 3.Nc3 Bg7 4.e4 d6 5.f3 OO 6.Be3 b6
+E82 King's Indian, Sämisch, double Fianchetto variation: 1.d4 Nf6 2.c4 g6 3.Nc3 Bg7 4.e4 d6 5.f3 OO 6.Be3 b6
 
 E83 King's Indian, Sämisch, 6...Nc6: 1.d4 Nf6 2.c4 g6 3.Nc3 Bg7 4.e4 d6 5.f3 O-O 6.Be3 Nc6
 
-E84 King's Indian, Sämisch, Panno Main line: 1.d4 Nf6 2.c4 g6 3.Nc3 Bg7 4.e4 d6 5.f3 O-O 6.Be3 Nc6 7.Nge2 a6 8.Qd2 Rb8
+E84 King's Indian, Sämisch, Panno main line: 1.d4 Nf6 2.c4 g6 3.Nc3 Bg7 4.e4 d6 5.f3 O-O 6.Be3 Nc6 7.Nge2 a6 8.Qd2 Rb8
 
-E85 King's Indian, Sämisch, Orthodox Variation: 1.d4 Nf6 2.c4 g6 3.Nc3 Bg7 4.e4 d6 5.f3 O-O 6.Be3 e5
+E85 King's Indian, Sämisch, Orthodox variation: 1.d4 Nf6 2.c4 g6 3.Nc3 Bg7 4.e4 d6 5.f3 O-O 6.Be3 e5
 
 E86 King's Indian, Sämisch, Orthodox, 7.Nge2 c6: 1.d4 Nf6 2.c4 g6 3.Nc3 Bg7 4.e4 d6 5.f3 O-O 6.Be3 e5 7.Nge2 c6
 
@@ -1095,21 +1095,21 @@ E87 King's Indian, Sämisch, Orthodox, 7.d5: 1.d4 Nf6 2.c4 g6 3.Nc3 Bg7 4.e4 d6 
 
 E88 King's Indian, Sämisch, Orthodox, 7.d5 c6: 1.d4 Nf6 2.c4 g6 3.Nc3 Bg7 4.e4 d6 5.f3 O-O 6.Be3 e5 7.d5 c6
 
-E89 King's Indian, Sämisch, Orthodox Main line: 1.d4 Nf6 2.c4 g6 3.Nc3 Bg7 4.e4 d6 5.f3 O-O 6.Be3 e5 7.d5 c6 8.Nge2
+E89 King's Indian, Sämisch, Orthodox main line: 1.d4 Nf6 2.c4 g6 3.Nc3 Bg7 4.e4 d6 5.f3 O-O 6.Be3 e5 7.d5 c6 8.Nge2
 
 E90 King's Indian, 5.Nf3: 1.d4 Nf6 2.c4 g6 3.Nc3 Bg7 4.e4 d6 5.Nf3
 
 E91 King's Indian, 6.Be2: 1.d4 Nf6 2.c4 g6 3.Nc3 Bg7 4.e4 d6 5.Nf3 O-O 6.Be2
 
-E92 King's Indian, Classical Variation: 1.d4 Nf6 2.c4 g6 3.Nc3 Bg7 4.e4 d6 5.Nf3 O-O 6.Be2 e5
+E92 King's Indian, Classical variation: 1.d4 Nf6 2.c4 g6 3.Nc3 Bg7 4.e4 d6 5.Nf3 O-O 6.Be2 e5
 
-E93 King's Indian, Petrosian System, Main line: 1.d4 Nf6 2.c4 g6 3.Nc3 Bg7 4.e4 d6 5.Nf3 O-O 6.Be2 e5 7.d5 Nbd7
+E93 King's Indian, Petrosian system, main line: 1.d4 Nf6 2.c4 g6 3.Nc3 Bg7 4.e4 d6 5.Nf3 O-O 6.Be2 e5 7.d5 Nbd7
 
-E94 King's Indian, Orthodox Variation: 1.d4 Nf6 2.c4 g6 3.Nc3 Bg7 4.e4 d6 5.Nf3 O-O 6.Be2 e5 7.O-O
+E94 King's Indian, Orthodox variation: 1.d4 Nf6 2.c4 g6 3.Nc3 Bg7 4.e4 d6 5.Nf3 O-O 6.Be2 e5 7.O-O
 
-E95 King's Indian, Orthodox, 7...Nbd7, 8.Re1: 1.d4 Nf6 2.c4 g6 3.Nc3 Bg7 4.e4 d6 5.Nf3 O-O 6.Be2 e5 7.O-O Nbd7 8.Re1/> E96 King's Indian, Orthodox, 7...Nbd7, Main line: 1.d4 Nf6 2.c4 g6 3.Nc3 Bg7 4.e4 d6 5.Nf3 O-O 6.Be2 e5 7.O-O Nbd7 8.Re1 c6 9.Bf1 a5
+E95 King's Indian, Orthodox, 7...Nbd7, 8.Re1: 1.d4 Nf6 2.c4 g6 3.Nc3 Bg7 4.e4 d6 5.Nf3 O-O 6.Be2 e5 7.O-O Nbd7 8.Re1/> E96 King's Indian, Orthodox, 7...Nbd7, main line: 1.d4 Nf6 2.c4 g6 3.Nc3 Bg7 4.e4 d6 5.Nf3 O-O 6.Be2 e5 7.O-O Nbd7 8.Re1 c6 9.Bf1 a5
 
-E97 King's Indian, Orthodox, Aronin-Taimanov Variation (Yugoslav Attack / Mar del Plata Variation): 1.d4 Nf6 2.c4 g6 3.Nc3 Bg7 4.e4 d6 5.Nf3 O-O 6.Be2 e5 7.O-O Nc6
+E97 King's Indian, Orthodox, Aronin-Taimanov variation (Yugoslav Attack / Mar del Plata Variation): 1.d4 Nf6 2.c4 g6 3.Nc3 Bg7 4.e4 d6 5.Nf3 O-O 6.Be2 e5 7.O-O Nc6
 
 E98 King's Indian, Orthodox, Aronin-Taimanov, 9.Ne1: 1.d4 Nf6 2.c4 g6 3.Nc3 Bg7 4.e4 d6 5.Nf3 OO 6.Be2 e5 7.O-O Nc6 8.d5 Ne7 9.Ne1
 
