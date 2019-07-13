@@ -1,28 +1,28 @@
-A00: Uncommon Openings: 1.g3 (Benko Opening), 1.Nc3 (Sleipner Opening), 1.a3 (Anderssen's Opening), 1.b4 (Sokolsky Opening), 1.g4 (Grob's Attack), 1.h3 (Basmanic Defence), 1.c3 (Saragossa Opening), 1.d3 (Mieses Opening), 1.e3 (French Attack), 1.h4 (Desprez Opening), 1.a4 (Ware Opening), 1.Nh3 (Amar Opening), 1.Na3 (Durkin's Attack), 1.f3 (Gedult's Opening)
+A00: Uncommon:
 
 A01: Nimzowitsch-Larsen Attack: 1.b3
 
-A02: Bird's Opening: 1.f4
+A02: Bird: 1.f4
 
-A03: Bird's Opening: 1.f4 d5
+A03: Bird: 1.f4 d5
 
-A04: Réti Opening: 1.Nf3
+A04: Réti: 1.Nf3
 
-A05: Réti Opening: 1.Nf3 Nf6
+A05: Réti: 1.Nf3 Nf6
 
-A06: Réti Opening: 1.Nf3 d5
+A06: Réti: 1.Nf3 d5
 
 A07: King's Indian Attack: 1.Nf3 d5 2.g3
 
 A08: King's Indian Attack: 1.Nf3 d5 2.g3 c5 3.Bg2
 
-A09: Réti Opening: 1.Nf3 d5 2.c4
+A09: Réti: 1.Nf3 d5 2.c4
 
 A10: English: 1.c4
 
-A11: English, Anglo-Slav system: 1.c4 c6
+A11: English, Anglo-Slav System: 1.c4 c6
 
-A12: English with b3: 1.c4 c6 2.Nf3 d5 3.b3
+A12: English (with b3): 1.c4 c6 2.Nf3 d5 3.b3
 
 A13: English: 1.c4 e6
 
@@ -36,7 +36,7 @@ A17: English: 1.c4 Nf6 2.Nc3 e6
 
 A18: English, Mikenas-Carls: 1.c4 Nf6 2.Nc3 e6 3.e4
 
-A19: English, Mikenas-Carls, Sicilian variation: 1.c4 Nf6 2.Nc3 e6 3.e4 c5
+A19: English, Mikenas-Carls, Sicilian Variation: 1.c4 Nf6 2.Nc3 e6 3.e4 c5
 
 A20: English: 1.c4 e5
 
@@ -44,15 +44,15 @@ A21: English: 1.c4 e5 2.Nc3
 
 A22: English: 1.c4 e5 2.Nc3 Nf6
 
-A23: English, Bremen system, Keres variation: 1.c4 e5 2.Nc3 Nf6 3.g3 c6
+A23: English, Bremen System, Keres Variation: 1.c4 e5 2.Nc3 Nf6 3.g3 c6
 
-A24: English, Bremen system with ...g6: 1.c4 e5 2.Nc3 Nf6 3.g3 g6
+A24: English, Bremen System: 1.c4 e5 2.Nc3 Nf6 3.g3 g6
 
 A25: English: 1.c4 e5 2.Nc3 Nc6
 
 A26: English: 1.c4 e5 2.Nc3 Nc6 3.g3 g6 4.Bg2 Bg7 5.d3 d6
 
-A27: English, Three Knights system: 1.c4 e5 2.Nc3 Nc6 3.Nf3
+A27: English, Three Knights System: 1.c4 e5 2.Nc3 Nc6 3.Nf3
 
 A28: English: 1.c4 e5 2.Nc3 Nc6 3.Nf3 Nf6
 
@@ -62,7 +62,7 @@ A30: English, Symmetrical: 1.c4 c5
 
 A31: English, Symmetrical, Benoni Formation: 1.c4 c5 2.Nf3 Nf6 3.d4
 
-A32: English, Symmetrical variation: 1.c4 c5 2.Nf3 Nf6 3.d4 cxd4 4.Nxd4 e6
+A32: English, Symmetrical Variation: 1.c4 c5 2.Nf3 Nf6 3.d4 cxd4 4.Nxd4 e6
 
 A33: English, Symmetrical: 1.c4 c5 2.Nf3 Nf6 3.d4 cxd4 4.Nxd4 e6 5.Nc3 Nc6
 
@@ -78,13 +78,13 @@ A38: English, Symmetrical: 1.c4 c5 2.Nc3 Nc6 3.g3 g6 4.Bg2 Bg7 5.Nf3 Nf6
 
 A39: English, Symmetrical: 1.c4 c5 2.Nc3 Nc6 3.g3 g6 4.Bg2 Bg7 5.Nf3 Nf6 6.O-O O-O 7.d4
 
-A40: Unusual Black responses to 1.d4: 1...e5 (Englund Gambit), 1...b5 (Polish Defence), 1...Nc6 (Nimzowitsch Defence), 1...g6 (Modern Defence without 2.e4), 1...e6 (French Indian Defence)
+A40: Unusual black responses to 1. d4: 1.d4
 
-A41: Tartakower system: 1.d4 d6
+A41: Tartakower System: 1.d4 d6
 
-A42: Tartakower system with 2.c4: 1.d4 d6 2.c4
+A42: Tartakower System: 1.d4 d6 2.c4
 
-A43: Various Benonis: 1.d4 c5
+A43: Benoni: 1.d4 c5
 
 A44: Old Benoni: 1.d4 c5 2.d5 e5
 
@@ -1113,4 +1113,4 @@ E97 King's Indian, Orthodox, Aronin-Taimanov variation (Yugoslav Attack / Mar de
 
 E98 King's Indian, Orthodox, Aronin-Taimanov, 9.Ne1: 1.d4 Nf6 2.c4 g6 3.Nc3 Bg7 4.e4 d6 5.Nf3 OO 6.Be2 e5 7.O-O Nc6 8.d5 Ne7 9.Ne1
 
-E99 King's Indian, Orthodox, Aronin-Taimanov, Main: 1.d4 Nf6 2.c4 g6 3.Nc3 Bg7 4.e4 d6 5.Nf3 O-O 6.Be2 e5 7.O-O Nc6 8.d5 Ne7 9.Ne1 Nd7 10.f3
+E99 King's Indian, Orthodox, Aronin-Taimanov, main: 1.d4 Nf6 2.c4 g6 3.Nc3 Bg7 4.e4 d6 5.Nf3 O-O 6.Be2 e5 7.O-O Nc6 8.d5 Ne7 9.Ne1 Nd7 10.f3
