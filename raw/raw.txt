@@ -1,209 +1,102 @@
 A00: Uncommon:
-
 A01: Nimzowitsch-Larsen Attack: 1.b3
-
 A02: Bird: 1.f4
-
 A03: Bird: 1.f4 d5
-
 A04: Réti: 1.Nf3
-
 A05: Réti: 1.Nf3 Nf6
-
 A06: Réti: 1.Nf3 d5
-
 A07: King's Indian Attack: 1.Nf3 d5 2.g3
-
 A08: King's Indian Attack: 1.Nf3 d5 2.g3 c5 3.Bg2
-
 A09: Réti: 1.Nf3 d5 2.c4
-
 A10: English: 1.c4
-
 A11: English, Anglo-Slav System: 1.c4 c6
-
 A12: English (with b3): 1.c4 c6 2.Nf3 d5 3.b3
-
 A13: English: 1.c4 e6
-
 A14: English: 1.c4 e6 2.Nf3 d5 3.g3 Nf6 4.Bg2 Be7 5.O-O
-
 A15: English: 1.c4 Nf6
-
 A16: English: 1.c4 Nf6 2.Nc3
-
 A17: English: 1.c4 Nf6 2.Nc3 e6
-
 A18: English, Mikenas-Carls: 1.c4 Nf6 2.Nc3 e6 3.e4
-
 A19: English, Mikenas-Carls, Sicilian Variation: 1.c4 Nf6 2.Nc3 e6 3.e4 c5
-
 A20: English: 1.c4 e5
-
 A21: English: 1.c4 e5 2.Nc3
-
 A22: English: 1.c4 e5 2.Nc3 Nf6
-
 A23: English, Bremen System, Keres Variation: 1.c4 e5 2.Nc3 Nf6 3.g3 c6
-
 A24: English, Bremen System: 1.c4 e5 2.Nc3 Nf6 3.g3 g6
-
 A25: English: 1.c4 e5 2.Nc3 Nc6
-
 A26: English: 1.c4 e5 2.Nc3 Nc6 3.g3 g6 4.Bg2 Bg7 5.d3 d6
-
 A27: English, Three Knights System: 1.c4 e5 2.Nc3 Nc6 3.Nf3
-
 A28: English: 1.c4 e5 2.Nc3 Nc6 3.Nf3 Nf6
-
 A29: English, Four Knights, Kingside Fianchetto: 1.c4 e5 2.Nc3 Nc6 3.Nf3 Nf6 g3
-
 A30: English, Symmetrical: 1.c4 c5
-
 A31: English, Symmetrical, Benoni Formation: 1.c4 c5 2.Nf3 Nf6 3.d4
-
 A32: English, Symmetrical Variation: 1.c4 c5 2.Nf3 Nf6 3.d4 cxd4 4.Nxd4 e6
-
 A33: English, Symmetrical: 1.c4 c5 2.Nf3 Nf6 3.d4 cxd4 4.Nxd4 e6 5.Nc3 Nc6
-
 A34: English, Symmetrical: 1.c4 c5 2.Nc3
-
 A35: English, Symmetrical: 1.c4 c5 2.Nc3 Nc6
-
 A36: English, Symmetrical: 1.c4 c5 2.Nc3 Nc6 3.g3 g6 4.Bg2 Bg7
-
 A37: English, Symmetrical: 1.c4 c5 2.Nc3 Nc6 3.g3 g6 4.Bg2 Bg7 5.Nf3
-
 A38: English, Symmetrical: 1.c4 c5 2.Nc3 Nc6 3.g3 g6 4.Bg2 Bg7 5.Nf3 Nf6
-
 A39: English, Symmetrical: 1.c4 c5 2.Nc3 Nc6 3.g3 g6 4.Bg2 Bg7 5.Nf3 Nf6 6.O-O O-O 7.d4
-
 A40: Unusual black responses to 1. d4: 1.d4
-
 A41: Tartakower System: 1.d4 d6
-
 A42: Tartakower System: 1.d4 d6 2.c4
-
 A43: Benoni: 1.d4 c5
-
 A44: Old Benoni: 1.d4 c5 2.d5 e5
-
-A44: Semi-Benoni: 1.d4 c5 2.d5 e5 3.e4 d6
-
-A45: Unusual Indian openings: 1.d4 Nf6
-
-A45: Trompowsky Attack: 1.d4 Nf6 2.Bg5
-
-A46: Unusual Indian openings (with 2.Nf3): 1.d4 Nf6 2.Nf3
-
-A47: Unusual Indian openings (with 2.Nf3): 1.d4 Nf6 2.Nf3 b6
-
-A48: Torre Attack (with 2...e6): 1.d4 Nf6 2.Nf3 e6 3.Bg5
-
-A48: Torre Attack (with 2...g6): 1.d4 Nf6 2.Nf3 g6 3.Bg5
-
-A48: London system: 1.d4 Nf6 2.Nf3 e6 3.Bf4
-
-A49: Fianchetto Variation: 1.d4 Nf6 2.Nf3 e6 3.g3
-
+A45: Queen's Pawn Game: 1.d4 Nf6
+A46: Queen's Pawn Game: 1.d4 Nf6 2.Nf3
+A47: Queen's Indian: 1.d4 Nf6 2.Nf3 b6
+A48: King's Indian: 1.d4 Nf6 2.Nf3 g6
+A49: King's Indian, Fianchetto Variation: 1.d4 Nf6 2.Nf3 e6 3.g3
 A50: Black Knights' Tango: 1.d4 Nf6 2.c4 Nc6
-
 A51: Budapest Gambit: 1.d4 Nf6 2.c4 e5
-
 A52: Budapest Gambit (main lines): 1.d4 Nf6 2.c4 e5 3.dxe5 Ng4
-
 A53: Old Indian Defence: 1.d4 Nf6 2.c4 d6
-
 A54: Old Indian Defence (main lines): 1.d4 Nf6 2.c4 d6 3.Nc3 e5
-
 A55: Old Indian Defence (main lines): 1.d4 Nf6 2.c4 d6 3.Nc3 e5 4.Nf3
-
 A56: Czech Benoni: 1.d4 Nf6 2.c4 c5 3.d5
-
 A57: Benko/Volga Gambit (sidelines): 1.d4 Nf6 2.c4 c5 3.d5 b5
-
 A58: Benko/Volga Gambit Accepted: 1.d4 Nf6 2.c4 c5 3.d5 b5 4.cxb5
-
 A59: Benko/Volga Gambit Accepted (white castles by hand): 1.d4 Nf6 2.c4 c5 3.d5 b5 4.cxb5 a6 5.bxa6 Bxa6 6.Nc3 d6 7.e4
-
 A60: Modern Benoni (and early divergences): 1.d4 Nf6 2.c4 c5 3.d5 e6
-
 A61: Modern Benoni (without early e4): 1.d4 Nf6 2.c4 c5 3.d5 e6 4.Nc3 exd5 5.cxd5 d6
-
 A62: Modern Benoni, Fianchetto Variation (without early ...Nbd7): 1.d4 Nf6 2.c4 c5 3.d5 e6 4.Nc3 exd5 5.cxd5 d6 6.Nf3 g6 7.g3
-
 A63: Modern Benoni, Fianchetto Variation (sidelines): 1.d4 Nf6 2.c4 c5 3.d5 e6 4.Nc3 exd5 5.cxd5 d6 6.Nf3 g6 7.g3 Bg7 8.Bg2 O-O
-
 A64: Modern Benoni, Fianchetto Variation (main line): 1.d4 Nf6 2.c4 c5 3.d5 e6 4.Nc3 exd5 5.cxd5 d6 6.Nf3 g6 7.g3 Bg7 8.Bg2 O-O 9.O-O Re8 10.Nd2 Nbd7
-
 A65: Modern Benoni (sidelines with early e4): 1.d4 Nf6 2.c4 c5 3.d5 e6 4.Nc3 exd5 5.cxd5 d6 6.e4
-
 A66: Modern Benoni, Mikenas Attack: 1.d4 Nf6 2.c4 c5 3.d5 e6 4.Nc3 exd5 5.cxd5 d6 6.e4 g6 7.f4 Bg7 8.e5
-
 A67: Modern Benoni, Taimanov Variation: 1.d4 Nf6 2.c4 c5 3.d5 e6 4.Nc3 exd5 5.cxd5 d6 6.e4 g6 7.f4 Bg7 8.Bb5+
-
 A68: Modern Benoni, Four Pawns Attack (without 9...Re8): 1.d4 Nf6 2.c4 c5 3.d5 e6 4.Nc3 exd5 5.cxd5 d6 6.e4 g6 7.f4 Bg7 8.Nf3 O-O 9.Bd3
-
 A69: Modern Benoni, Four Pawns Attack (with 9...Re8): 1.d4 Nf6 2.c4 c5 3.d5 e6 4.Nc3 exd5 5.cxd5 d6 6.e4 g6 7.f4 Bg7 8.Nf3 O-O 9.Re8
-
 A70: Modern Benoni (7.Nf3): 1.d4 Nf6 2.c4 c5 3.d5 e6 4.Nc3 exd5 5.cxd5 d6 6.e4 g6 7.Nf3
-
 A71: Modern Benoni (7.Nf3 Bg7 8.Bg5 without Be2): 1.d4 Nf6 2.c4 c5 3.d5 e6 4.Nc3 exd5 5.cxd5 d6 6.e4 g6 7.Nf3 Bg7 8.Bg5
-
 A72: Modern Benoni, Classical variation (with Bg5): 1.d4 Nf6 2.c4 c5 3.d5 e6 4.Nc3 exd5 5.cxd5 d6 6.e4 g6 7.Nf3 Bg7 8.Be2 O-O 9.Bg5
-
 A73: Modern Benoni, Classical variation (and unusual Black 9th moves): 1.d4 Nf6 2.c4 c5 3.d5 e6 4.Nc3 exd5 5.cxd5 d6 6.e4 g6 7.Nf3 Bg7 8.Be2 O-O 9.O-O
-
 A74: Modern Benoni, Classical variation (with 9...a6): 1.d4 Nf6 2.c4 c5 3.d5 e6 4.Nc3 exd5 5.cxd5 d6 6.e4 g6 7.Nf3 Bg7 8.Be2 O-O 9.O-O a6
-
 A75: Modern Benoni, Classical variation (main line): 1.d4 Nf6 2.c4 c5 3.d5 e6 4.Nc3 exd5 5.cxd5 d6 6.e4 g6 7.Nf3 Bg7 8.Be2 O-O 9.O-O a6 10.a4 Bg4
-
 A76: Modern Benoni, Classical variation (with 9...Re8 10.Qc2): 1.d4 Nf6 2.c4 c5 3.d5 e6 4.Nc3 exd5 5.cxd5 d6 6.e4 g6 7.Nf3 Bg7 8.Be2 O-O 9.O-O Re8 10.Qc2
-
 A77: Modern Benoni, Classical variation (with 9...Re8 10.Nd2): 1.d4 Nf6 2.c4 c5 3.d5 e6 4.Nc3 exd5 5.cxd5 d6 6.e4 g6 7.Nf3 Bg7 8.Be2 O-O 9.O-O Re8 10.Nd2
-
 A78: Modern Benoni, Classical variation (with 10...Na6): 1.d4 Nf6 2.c4 c5 3.d5 e6 4.Nc3 exd5 5.cxd5 d6 6.e4 g6 7.Nf3 Bg7 8.Be2 O-O 9.O-O Re8 10.Nd2 Na6
-
 A79: Modern Benoni, Classical variation (with 10...Na6 11.f3): 1.d4 Nf6 2.c4 c5 3.d5 e6 4.Nc3 exd5 5.cxd5 d6 6.e4 g6 7.Nf3 Bg7 8.Be2 O-O 9.O-O Re8 10.Nd2 Na6 11.f3
-
 A80: Dutch Defence (and unusual White second moves): 1.d4 f5
-
 A81: Dutch Defence (with 2.g3): 1.d4 f5 2.g3
-
 A82: Dutch Defence, Staunton Gambit: 1.d4 f5 2.e4
-
 A83: Dutch Defence, Staunton Gambit (with 3.Nc3 Nf6 4.Bg5): 1.d4 f5 2.e4 fxe4 3.Nc3 Nf6 4.Bg5
-
 A84: Dutch Defence (2.c4): 1.d4 f5 2.c4
-
 A85: Dutch Defence (2.c4 Nf6 3.Nc3): 1.d4 f5 2.c4 Nf6 3.Nc3
-
 A86: Dutch Defence, Leningrad Variation (sidelines): 1.d4 f5 2.c4 Nf6 3.g3
-
 A87: Dutch Defence, Leningrad Variation (with 5.Nf3): 1.d4 f5 2.c4 Nf6 3.g3 Nf6 3.g6 4.Bg2 Bg7 5.Nf3
-
 A88: Dutch Defence, Leningrad Variation (main line 7...c6): 1.d4 f5 2.c4 Nf6 3.g3 Nf6 3.g6 4.Bg2 Bg7 5.Nf3 O-O 6.O-O d6 7.Nc3 c6
-
 A89: Dutch Defence, Leningrad Variation (main line 7...Nc6): 1.d4 f5 2.c4 Nf6 3.g3 Nf6 3.g6 4.Bg2 Bg7 5.Nf3 O-O 6.O-O d6 7.Nc3 c6
-
 A90: Dutch Defence (sidelines and Stonewall): 1.d4 f5 2.c4 Nf6 3.g3 e6
-
 A91: Dutch Defence, Classical variation (sidelines): 1.d4 f5 2.c4 Nf6 3.g3 e6 4.Bg2 Be7
-
 A92: Dutch Defence, Classical Stonewall (with ...Be7 and early deviations): 1.d4 f5 2.c4 Nf6 3.g3 e6 4.Bg2 Be7 5.Nf3
-
 A93: Dutch Defence, Classical Stonewall (with 7.b3): 1.d4 f5 2.c4 Nf6 3.g3 e6 4.Bg2 Be7 5.Nf3 d5 6.OO O-O 7.b3
-
 A94: Dutch Defence, Classical Stonewall (with 7.b3 c6 8.Ba3): 1.d4 f5 2.c4 Nf6 3.g3 e6 4.Bg2 Be7 5.Nf3 d5 6.O-O O-O 7.b3 c6 8.Ba3
-
 A95: Dutch Defence, Classical Stonewall (with 7.Nc3 c6): 1.d4 f5 2.c4 Nf6 3.g3 e6 4.Bg2 Be7 5.Nf3 d5 6.O-O O-O 7.Nc3 c6
-
 A96: Dutch Defence, Ilyin-Genevsky Variation: 1.d4 f5 2.c4 Nf6 3.g3 e6 4.Bg2 Be7 5.Nf3 O-O 6.O-O d6
-
 A97: Dutch Defence, Ilyin-Genevsky Variation: 1.d4 f5 2.c4 Nf6 3.g3 e6 4.Bg2 Be7 5.Nf3 O-O 6.O-O d6 7.Nc3 Qe8
-
 A98: Dutch Defence, Ilyin-Genevsky Variation (with 8.Qc2): 1.d4 f5 2.c4 Nf6 3.g3 e6 4.Bg2 Be7 5.Nf3 O-O 6.O-O d6 7.Nc3 Qe8 8.Qc2
-
 A99: Dutch Defence, Ilyin-Genevsky Variation (with 8.b3): 1.d4 f5 2.c4 Nf6 3.g3 e6 4.Bg2 Be7 5.Nf3 O-O 6.O-O d6 7.Nc3 Qe8 8.b3
 
 
