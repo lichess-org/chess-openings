@@ -6,17 +6,17 @@ A02: Bird's Opening: 1.f4
 
 A03: Bird's Opening: 1.f4 d5
 
-A04: Reti Opening: 1.Nf3
+A04: Réti Opening: 1.Nf3
 
-A05: Reti Opening: 1.Nf3 Nf6
+A05: Réti Opening: 1.Nf3 Nf6
 
-A06: Reti Opening: 1.Nf3 d5
+A06: Réti Opening: 1.Nf3 d5
 
 A07: King's Indian Attack: 1.Nf3 d5 2.g3
 
 A08: King's Indian Attack: 1.Nf3 d5 2.g3 c5 3.Bg2
 
-A09: Reti Opening: 1.Nf3 d5 2.c4
+A09: Réti Opening: 1.Nf3 d5 2.c4
 
 A10: English: 1.c4
 
@@ -295,13 +295,13 @@ B34: Sicilian Defence, Accelerated Dragon sidelines: 1.e4 c5 2.Nf3 Nc6 3.d4 cxd4
 
 B35: Sicilian Defence, Accelerated Dragon main line: 1.e4 c5 2.Nf3 Nc6 3.d4 cxd4 4.Nxd4 g6 5.Nc3 Bg7 6.Be3 Nf6 7.Bc4
 
-B36: Sicilian Defence, Maroczy Bind, Gurgenidze System: 1.e4 c5 2.Nf3 Nc6 3.d4 cxd4 4.Nxd4 g6 5.c4 Nxd4 6.Qxd4
+B36: Sicilian Defence, Maróczy Bind, Gurgenidze System: 1.e4 c5 2.Nf3 Nc6 3.d4 cxd4 4.Nxd4 g6 5.c4 Nxd4 6.Qxd4
 
-B37: Sicilian Defence, Maroczy Bind with 5...Bg7 sidelines: 1.e4 c5 2.Nf3 Nc6 3.d4 cxd4 4.Nxd4 g6 5.c4 Bg7
+B37: Sicilian Defence, Maróczy Bind with 5...Bg7 sidelines: 1.e4 c5 2.Nf3 Nc6 3.d4 cxd4 4.Nxd4 g6 5.c4 Bg7
 
-B38: Sicilian Defence, Maroczy Bind with 5...Bg7 and 7...O-O: 1.e4 c5 2.Nf3 Nc6 3.d4 cxd4 4.Nxd4 g6 5.c4 Bg7 6.Be3 Nf6 7.Nc3 O-O
+B38: Sicilian Defence, Maróczy Bind with 5...Bg7 and 7...O-O: 1.e4 c5 2.Nf3 Nc6 3.d4 cxd4 4.Nxd4 g6 5.c4 Bg7 6.Be3 Nf6 7.Nc3 O-O
 
-B39: Sicilian Defence, Maroczy Bind with 5...Bg7 main line: 1.e4 c5 2.Nc3 Nc6 3.d4 cxd4 4.Nxd4 g6 5.c4 Bg7 6.Be3 Nf6 7.Nc3 Ng4 8.Qxg4 Nxd4
+B39: Sicilian Defence, Maróczy Bind with 5...Bg7 main line: 1.e4 c5 2.Nc3 Nc6 3.d4 cxd4 4.Nxd4 g6 5.c4 Bg7 6.Be3 Nf6 7.Nc3 Ng4 8.Qxg4 Nxd4
 
 B40: Sicilian Defence, 2...e6 miscellaneous: 1.e4 c5 2.Nf3 e6
 
