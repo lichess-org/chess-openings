@@ -3,10 +3,8 @@ E00	Catalan Opening: Hungarian Gambit	rnbqkb1r/pppp1ppp/5n2/4p3/2PP4/6P1/PP2PP1P
 E00	Catalan Opening	rnbqkb1r/ppp2ppp/4pn2/3p4/2PP4/6P1/PP2PP1P/RNBQKBNR w KQkq -	d2d4 g8f6 c2c4 e7e6 g2g3 d7d5
 E00	Catalan Opening	rnbqkb1r/pppp1ppp/4pn2/8/2PP4/6P1/PP2PP1P/RNBQKBNR b KQkq -	d2d4 g8f6 c2c4 e7e6 g2g3
 E00	Indian Game: Devin Gambit	rnbqkb1r/pppp1ppp/4pn2/8/2PP2P1/8/PP2PP1P/RNBQKBNR b KQkq -	d2d4 g8f6 c2c4 e7e6 g2g4
-E00	Indian Game: East Indian Defense	rnbqkb1r/pppp1ppp/4pn2/8/2PP4/8/PP2PPPP/RNBQKBNR w KQkq -	d2d4 g8f6 c2c4 e7e6
 E00	Indian Game	rnbqkb1r/pppp1ppp/4pn2/8/2PP4/1Q6/PP2PPPP/RNB1KBNR b KQkq -	d2d4 g8f6 c2c4 e7e6 d1b3
 E00	Indian Game: Seirawan Attack	rnbqkb1r/pppp1ppp/4pn2/6B1/2PP4/8/PP2PPPP/RN1QKBNR b KQkq -	d2d4 g8f6 c2c4 e7e6 c1g5
-E00	Nimzo-Indian Defense	rnbqkb1r/pppp1ppp/4pn2/8/2PP4/2N5/PP2PPPP/R1BQKBNR b KQkq -	d2d4 g8f6 c2c4 e7e6 b1c3
 E01	Catalan Opening: Closed Variation	rnbqkb1r/ppp2ppp/4pn2/3p4/2PP4/6P1/PP2PPBP/RNBQK1NR b KQkq -	d2d4 g8f6 c2c4 e7e6 g2g3 d7d5 f1g2
 E01	Catalan Opening: Open Defense, Tarrasch Defense	r1bqkb1r/pp3ppp/2n1pn2/2pp4/2PP4/5NP1/PP2PPBP/RNBQK2R w KQkq -	d2d4 g8f6 c2c4 e7e6 g2g3 d7d5 f1g2 c7c5 g1f3 b8c6
 E02	Catalan Opening: Open Defense	rnbqkb1r/ppp2ppp/4pn2/8/Q1pP4/6P1/PP2PPBP/RNB1K1NR b KQkq -	d2d4 g8f6 c2c4 e7e6 g2g3 d7d5 f1g2 d5c4 d1a4
