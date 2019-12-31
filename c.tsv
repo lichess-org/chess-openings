@@ -292,8 +292,6 @@ C25	Vienna Game: Vienna Gambit, Steinitz Gambit, Paulsen Defense	r1b1kbnr/ppp2pp
 C25	Vienna Game: Vienna Gambit, Steinitz Gambit	r1bqkbnr/pppp1ppp/2n5/8/3PPp2/2N5/PPP3PP/R1BQKBNR b KQkq -	e2e4 e7e5 b1c3 b8c6 f2f4 e5f4 d2d4
 C25	Vienna Game: Vienna Gambit, Steinitz Gambit, Sörensen Defense	r1b1kbnr/pppp1p1p/2n5/6p1/3PPp1q/2N5/PPP1K1PP/R1BQ1BNR w kq -	e2e4 e7e5 b1c3 b8c6 f2f4 e5f4 d2d4 d8h4 e1e2 g7g5
 C25	Vienna Game: Vienna Gambit, Steinitz Gambit, Zukertort Defense	r1b1kbnr/ppp2ppp/2n5/3p4/3PPp1q/2N5/PPP1K1PP/R1BQ1BNR w kq -	e2e4 e7e5 b1c3 b8c6 f2f4 e5f4 d2d4 d8h4 e1e2 d7d5
-C25	Vienna Game: Zhuravlev Countergambit	rnbqk1nr/pppp1ppp/8/4p3/1b2P1Q1/2N5/PPPP1PPP/R1B1KBNR b KQkq -	e2e4 e7e5 b1c3 f8b4 d1g4
-C25	Vienna Game: Zhuravlev Countergambit	rnbqk1nr/pppp1ppp/8/4p3/1b2P3/2N5/PPPP1PPP/R1BQKBNR w KQkq -	e2e4 e7e5 b1c3 f8b4
 C25	Vienna Game: Zhuravlev Countergambit	rnbqk2r/pppp1ppp/5n2/4p3/1b2P1Q1/2N5/PPPP1PPP/R1B1KBNR w KQkq -	e2e4 e7e5 b1c3 f8b4 d1g4 g8f6
 C26	Bishop's Opening: Horwitz Gambit	rnbqkb1r/p1pp1ppp/5n2/1p2p3/2B1P3/2N5/PPPP1PPP/R1BQK1NR w KQkq -	e2e4 e7e5 f1c4 g8f6 b1c3 b7b5
 C26	Bishop's Opening: Vienna Hybrid, Spielmann Attack	rnbqk2r/pppp1ppp/5n2/2b1p3/2B1P3/2NP4/PPP2PPP/R1BQK1NR b KQkq -	e2e4 e7e5 b1c3 g8f6 f1c4 f8c5 d2d3
