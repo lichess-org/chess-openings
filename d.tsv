@@ -1,5 +1,8 @@
 eco	name	fen	moves
 D00	Amazon Attack	rnbqkbnr/ppp1pppp/8/3p4/3P4/3Q4/PPP1PPPP/RNB1KBNR b KQkq -	d2d4 d7d5 d1d3
+D00	Blackmar Gambit	rnbqkbnr/ppp1pppp/8/3p4/3PP3/8/PPP2PPP/RNBQKBNR b KQkq -	d2d4 d7d5 e2e4
+D00	Blackmar-Diemer Gambit	rnbqkbnr/ppp1pppp/8/8/3Pp3/2N5/PPP2PPP/R1BQKBNR b KQkq -	d2d4 d7d5 e2e4 d5e4 b1c3
+D00	Blackmar-Diemer Gambit	rnbqkb1r/ppp1pppp/5n2/3p4/3PP3/2N5/PPP2PPP/R1BQKBNR b KQkq -	d2d4 g8f6 b1c3 d7d5 e2e4
 D00	Blackmar-Diemer Gambit: Bogoljubov Defense, Mad Dog Attack	rnbqk2r/ppp1ppbp/5np1/8/2BP3P/2N2N2/PPP3P1/R1BQK2R b KQkq -	d2d4 d7d5 e2e4 d5e4 b1c3 g8f6 f2f3 e4f3 g1f3 g7g6 f1c4 f8g7 h2h4
 D00	Blackmar-Diemer Gambit: Bogoljubov Variation, Kloss Attack	rnbq1rk1/ppp1ppbp/5np1/8/2BP4/2N2N2/PPP3PP/R1BQ1R1K b - -	d2d4 d7d5 e2e4 d5e4 b1c3 g8f6 f2f3 e4f3 g1f3 g7g6 f1c4 f8g7 e1g1 e8g8 g1h1
 D00	Blackmar-Diemer Gambit: Bogoljubov Variation, Nimzowitsch Attack	rnbqk2r/ppp1ppbp/5np1/4N3/2BP4/2N5/PPP3PP/R1BQK2R b KQkq -	d2d4 d7d5 e2e4 d5e4 b1c3 g8f6 f2f3 e4f3 g1f3 g7g6 f1c4 f8g7 f3e5
@@ -24,8 +27,6 @@ D00	Blackmar-Diemer Gambit: Lemberger Countergambit, Sneider Attack	rnbqkbnr/ppp
 D00	Blackmar-Diemer Gambit: Pietrowsky Defense	r1bqkb1r/ppp1pppp/2n2n2/8/3P4/2N2N2/PPP3PP/R1BQKB1R w KQkq -	d2d4 d7d5 e2e4 d5e4 b1c3 g8f6 f2f3 e4f3 g1f3 b8c6
 D00	Blackmar-Diemer Gambit: Rasa-Studier Gambit	rnbqkb1r/ppp1pppp/5n2/8/3Pp3/2N1B3/PPP2PPP/R2QKBNR b KQkq -	d2d4 d7d5 e2e4 d5e4 b1c3 g8f6 c1e3
 D00	Blackmar-Diemer Gambit: Ritter Defense	rnbqkb1r/p1p1pppp/1p3n2/8/3P4/2N2N2/PPP3PP/R1BQKB1R w KQkq -	d2d4 d7d5 e2e4 d5e4 b1c3 g8f6 f2f3 e4f3 g1f3 b7b6
-D00	Blackmar-Diemer Gambit	rnbqkb1r/ppp1pppp/5n2/3p4/3PP3/2N5/PPP2PPP/R1BQKBNR b KQkq -	d2d4 g8f6 b1c3 d7d5 e2e4
-D00	Blackmar Gambit	rnbqkbnr/ppp1pppp/8/3p4/3PP3/8/PPP2PPP/RNBQKBNR b KQkq -	d2d4 d7d5 e2e4
 D00	Blackmar-Diemer Gambit: Rook Pawn Defense	rnbqkb1r/ppp1ppp1/5n2/7p/3P4/2N2N2/PPP3PP/R1BQKB1R w KQkq -	d2d4 d7d5 e2e4 d5e4 b1c3 g8f6 f2f3 e4f3 g1f3 h7h5
 D00	Blackmar-Diemer Gambit: Ryder Gambit	rnbqkb1r/ppp1pppp/5n2/8/3P4/2N2Q2/PPP3PP/R1B1KBNR b KQkq -	d2d4 d7d5 e2e4 d5e4 b1c3 g8f6 f2f3 e4f3 d1f3
 D00	Blackmar-Diemer Gambit: Schlutter Defense	r1bqkb1r/pppnpppp/5n2/8/3P4/2N2N2/PPP3PP/R1BQKB1R w KQkq -	d2d4 d7d5 e2e4 d5e4 b1c3 g8f6 f2f3 e4f3 g1f3 b8d7
