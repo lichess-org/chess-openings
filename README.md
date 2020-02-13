@@ -1,7 +1,7 @@
 Chess opening names
 ===================
 
-An aggregated dataset of chess opening names.
+An aggregated data set of chess opening names.
 
 field | description
 --- | ---
