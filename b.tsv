@@ -586,10 +586,10 @@ B50	Sicilian Defense	rnbqkbnr/pp2pppp/3p4/8/3pP3/5N2/PPP2PPP/RNBQKB1R w KQkq -	e
 B50	Sicilian Defense: Wing Gambit, Deferred Variation	rnbqkbnr/pp2pppp/3p4/2p5/1P2P3/5N2/P1PP1PPP/RNBQKB1R b KQkq -	e2e4 c7c5 g1f3 d7d6 b2b4
 B51	Sicilian Defense: Canal Attack, Dorfman Gambit	r2qkbnr/pp1bpp1p/2np2p1/1Bp1P3/8/5N2/PPPPQPPP/RNB2RK1 b kq -	e2e4 c7c5 g1f3 d7d6 f1b5 b8c6 e1g1 c8d7 d1e2 g7g6 e4e5
 B51	Sicilian Defense: Canal Attack, Moscow Gambit	r2qkb1r/1p2pppp/p2p1n2/2p3B1/3Pb3/2P2N2/PP3PPP/RN1QR1K1 b kq -	e2e4 c7c5 g1f3 d7d6 f1b5 b8c6 e1g1 c8d7 c2c3 g8f6 f1e1 a7a6 b5c6 d7c6 d2d4 c6e4 c1g5
-B51	Sicilian Defense: Canal-Sokolsky Attack	rnbqkbnr/pp2pppp/3p4/1Bp5/4P3/5N2/PPPP1PPP/RNBQK2R b KQkq -	e2e4 c7c5 g1f3 d7d6 f1b5
+B51	Sicilian Defense: Moscow Variation	rnbqkbnr/pp2pppp/3p4/1Bp5/4P3/5N2/PPPP1PPP/RNBQK2R b KQkq -	e2e4 c7c5 g1f3 d7d6 f1b5
 B52	Sicilian Defense: Canal Attack, Haag Gambit	r3kb1r/pp1qpppp/2np1n2/2p5/3PP3/2P2N2/PP3PPP/RNBQ1RK1 b kq -	e2e4 c7c5 g1f3 d7d6 f1b5 c8d7 b5d7 d8d7 e1g1 b8c6 c2c3 g8f6 d2d4
 B52	Sicilian Defense: Canal Attack, Main Line	rn1qkbnr/pp1bpppp/3p4/1Bp5/4P3/5N2/PPPP1PPP/RNBQK2R w KQkq -	e2e4 c7c5 g1f3 d7d6 f1b5 c8d7
-B52	Sicilian Defense: Canal-Sokolsky Attack, Sokolsky Variation	rn2kbnr/pp1qpppp/3p4/2p5/2P1P3/5N2/PP1P1PPP/RNBQK2R b KQkq -	e2e4 c7c5 g1f3 d7d6 f1b5 c8d7 b5d7 d8d7 c2c4
+B52	Sicilian Defense: Moscow Variation, Sokolsky Variation	rn2kbnr/pp1qpppp/3p4/2p5/2P1P3/5N2/PP1P1PPP/RNBQK2R b KQkq -	e2e4 c7c5 g1f3 d7d6 f1b5 c8d7 b5d7 d8d7 c2c4
 B53	Sicilian Defense: Chekhover Variation	rnbqkbnr/pp2pppp/3p4/8/3QP3/5N2/PPP2PPP/RNB1KB1R b KQkq -	e2e4 c7c5 g1f3 d7d6 d2d4 c5d4 d1d4
 B53	Sicilian Defense: Chekhover Variation, Zaitsev Defense	r1b1kbnr/pp1qpppp/2np4/1B6/3QP3/5N2/PPP2PPP/RNB1K2R w KQkq -	e2e4 c7c5 g1f3 d7d6 d2d4 c5d4 d1d4 b8c6 f1b5 d8d7
 B54	Sicilian Defense: Accelerated Dragon	rnbqkbnr/pp2pp1p/3p2p1/8/3NP3/8/PPP2PPP/RNBQKB1R w KQkq -	e2e4 c7c5 g1f3 d7d6 d2d4 c5d4 f3d4 g7g6
