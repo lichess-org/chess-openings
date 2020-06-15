@@ -55,6 +55,9 @@ if __name__ == "__main__":
     if len(sys.argv) <= 1:
         print(f"Usage: {sys.argv[0]} *.tsv")
         sys.exit(2)
+
     db = {}
+    ret = 0
     for arg in sys.argv[1:]:
-        sys.exit(main(arg, db))
+        ret = max(ret, main(arg, db))
+    sys.exit(ret)
