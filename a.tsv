@@ -15,7 +15,7 @@ A00	Clemenz Opening	rnbqkbnr/pppppppp/8/8/8/7P/PPPPPPP1/RNBQKBNR b KQkq -	h2h3
 A00	Clemenz Opening: Spike Lee Gambit	rnbqkbnr/ppppppp1/8/7p/6P1/7P/PPPPPP2/RNBQKBNR b KQkq -	h2h3 h7h5 g2g4
 A00	Crab Opening	rnbqkbnr/pppp1ppp/8/4p3/P6P/8/1PPPPPP1/RNBQKBNR b KQkq -	a2a4 e7e5 h2h4
 A00	Creepy Crawly Formation: Classical Defense	rnbqkbnr/ppp2ppp/8/3pp3/8/P6P/1PPPPPP1/RNBQKBNR w KQkq -	h2h3 d7d5 a2a3 e7e5
-A00	Englund Gambit Declined, Reversed French	rnbqkbnr/pppp1ppp/8/4p3/3P4/4P3/PPP2PPP/RNBQKBNR b KQkq -	e2e3 e7e5 d2d4
+A00	Englund Gambit Declined: Reversed French	rnbqkbnr/pppp1ppp/8/4p3/3P4/4P3/PPP2PPP/RNBQKBNR b KQkq -	e2e3 e7e5 d2d4
 A00	Formation: Cabbage Attack	r1bq1rk1/ppp2ppp/2nb1n2/3pp3/P7/1PP1P1P1/1B1P1P1P/RN1QKBNR b KQ -	c2c3 e7e5 a2a3 d7d5 b2b3 g8f6 c1b2 b8c6 a3a4 f8d6 g2g3 e8g8 e2e3
 A00	Formation: Hippopotamus Attack	r1bq1rk1/ppp2ppp/2nb1n2/3pp3/8/PPPPPPP1/7P/RNBQKBNR b KQ -	a2a3 e7e5 b2b3 d7d5 c2c3 g8f6 d2d3 b8c6 e2e3 f8d6 f2f3 e8g8 g2g3
 A00	Formation: Shy Attack	r1bq1rk1/ppp2ppp/2nb1n2/3pp3/8/P2PP1PP/1PPN1PB1/R1BQK1NR b KQ -	a2a3 e7e5 g2g3 d7d5 f1g2 g8f6 d2d3 b8c6 b1d2 f8d6 e2e3 e8g8 h2h3
@@ -424,7 +424,7 @@ A40	English Defense: Perrin Variation	r2qkbnr/pbpp1ppp/1pn1p3/8/2PPP3/3B4/PP3PPP
 A40	English Defense: Poli Gambit	rn1qkb1r/pbpp2pp/1p2p2n/5P2/2PP4/5P2/PP4PP/RNBQKBNR w KQkq -	d2d4 e7e6 c2c4 b7b6 e2e4 c8b7 f2f3 f7f5 e4f5 g8h6
 A40	English Defense	rnbqkbnr/p1pp1ppp/1p2p3/8/2PP4/8/PP2PPPP/RNBQKBNR w KQkq -	d2d4 e7e6 c2c4 b7b6
 A40	English Defense	rnbqkbnr/p1pppppp/1p6/8/3P4/8/PPP1PPPP/RNBQKBNR w KQkq -	d2d4 b7b6
-A40	Englund Gambit Complex Declined, Diemer Counterattack	rnb1k1nr/pppp1ppp/8/2bPp3/4P2q/8/PPP2PPP/RNBQKBNR w KQkq -	d2d4 e7e5 d4d5 f8c5 e2e4 d8h4
+A40	Englund Gambit Complex Declined: Diemer Counterattack	rnb1k1nr/pppp1ppp/8/2bPp3/4P2q/8/PPP2PPP/RNBQKBNR w KQkq -	d2d4 e7e5 d4d5 f8c5 e2e4 d8h4
 A40	Englund Gambit Complex Declined	rnbqkbnr/pppp1ppp/8/3Pp3/8/8/PPP1PPPP/RNBQKBNR b KQkq -	d2d4 e7e5 d4d5
 A40	Englund Gambit Complex: Englund Gambit	r1b1kbnr/ppppqppp/2n5/4P3/8/5N2/PPP1PPPP/RNBQKB1R w KQkq -	d2d4 e7e5 d4e5 b8c6 g1f3 d8e7
 A40	Englund Gambit Complex: Felbecker Gambit	r1bqk1nr/pppp1ppp/2n5/2b1P3/8/5N2/PPP1PPPP/RNBQKB1R w KQkq -	d2d4 e7e5 d4e5 b8c6 g1f3 f8c5
@@ -435,10 +435,10 @@ A40	Englund Gambit Complex: Soller Gambit	rnbqkbnr/pppp2pp/5p2/4P3/8/8/PPP1PPPP/
 A40	Englund Gambit Complex: Stockholm Variation	r1b1kbnr/ppppqppp/2n5/3QP3/8/5N2/PPP1PPPP/RNB1KB1R b KQkq -	d2d4 e7e5 d4e5 b8c6 g1f3 d8e7 d1d5
 A40	Englund Gambit Complex: Zilbermints Gambit	r1bqkb1r/ppppnppp/2n5/4P3/8/5N2/PPP1PPPP/RNBQKB1R w KQkq -	d2d4 e7e5 d4e5 b8c6 g1f3 g8e7
 A40	Englund Gambit Complex: Zilbermints Gambit	r1bqkbnr/pppp1pp1/2n4p/4P3/8/5N2/PPP1PPPP/RNBQKB1R w KQkq -	d2d4 e7e5 d4e5 b8c6 g1f3 h7h6
-A40	Englund Gambit Declined, Reversed Alekhine	rnbqkbnr/pppp1ppp/8/4p3/3P4/5N2/PPP1PPPP/RNBQKB1R b KQkq -	d2d4 e7e5 g1f3
-A40	Englund Gambit Declined, Reversed Brooklyn	rnbqkbnr/pppp1ppp/8/8/3Pp3/8/PPP1PPPP/RNBQKBNR b KQkq -	d2d4 e7e5 g1f3 e5e4 f3g1
-A40	Englund Gambit Declined, Reversed Krebs	rnbqkbnr/pppp1ppp/8/8/3Pp3/5N2/PPP1PPPP/RNBQKB1R w KQkq -	d2d4 e7e5 g1f3 e5e4
-A40	Englund Gambit Declined, Reversed Mokele Mbembe	rnbqkbnr/pppp1ppp/8/4N3/3Pp3/8/PPP1PPPP/RNBQKB1R b KQkq -	d2d4 e7e5 g1f3 e5e4 f3e5
+A40	Englund Gambit Declined: Reversed Alekhine	rnbqkbnr/pppp1ppp/8/4p3/3P4/5N2/PPP1PPPP/RNBQKB1R b KQkq -	d2d4 e7e5 g1f3
+A40	Englund Gambit Declined: Reversed Brooklyn	rnbqkbnr/pppp1ppp/8/8/3Pp3/8/PPP1PPPP/RNBQKBNR b KQkq -	d2d4 e7e5 g1f3 e5e4 f3g1
+A40	Englund Gambit Declined: Reversed Krebs	rnbqkbnr/pppp1ppp/8/8/3Pp3/5N2/PPP1PPPP/RNBQKB1R w KQkq -	d2d4 e7e5 g1f3 e5e4
+A40	Englund Gambit Declined: Reversed Mokele Mbembe	rnbqkbnr/pppp1ppp/8/4N3/3Pp3/8/PPP1PPPP/RNBQKB1R b KQkq -	d2d4 e7e5 g1f3 e5e4 f3e5
 A40	Englund Gambit	rnbqkbnr/pppp1ppp/8/4p3/3P4/8/PPP1PPPP/RNBQKBNR w KQkq -	d2d4 e7e5
 A40	Horwitz Defense	rnbqkbnr/pppp1ppp/4p3/8/3P4/8/PPP1PPPP/RNBQKBNR w KQkq -	d2d4 e7e6
 A40	Kangaroo Defense: Keres Defense, Transpositional Variation	rnbqk1nr/pppp1ppp/4p3/8/1bPP4/2N5/PP2PPPP/R1BQKBNR b KQkq -	d2d4 e7e6 c2c4 f8b4 b1c3
@@ -506,8 +506,8 @@ A43	Queen's Pawn Game: Liedmann Gambit	rnbqkbnr/pp1ppppp/8/8/2Pp4/4P3/PP3PPP/RNB
 A44	Old Benoni Defense	rnbqkbnr/pp1p1ppp/8/2pPp3/8/8/PPP1PPPP/RNBQKBNR w KQkq e6	d2d4 c7c5 d4d5 e7e5
 A44	Semi-Benoni	rnbqkbnr/pp3ppp/3p4/2pPp3/4P3/8/PPP2PPP/RNBQKBNR w KQkq -	d2d4 c7c5 d4d5 e7e5 e2e4 d7d6
 A45	Amazon Attack: Siberian Attack	rnbqkb1r/ppp1pppp/5n2/3p4/3P4/2NQ4/PPP1PPPP/R1B1KBNR b KQkq -	d2d4 g8f6 b1c3 d7d5 d1d3
-A45	Blackmar-Diemer Gambit Declined, O'Kelly Defense	rnbqkb1r/pp2pppp/2p2n2/8/3Pp3/2N2P2/PPP3PP/R1BQKBNR w KQkq -	d2d4 g8f6 f2f3 d7d5 e2e4 d5e4 b1c3 c7c6
-A45	Blackmar-Diemer Gambit Declined, Weinsbach Declination	rnbqkb1r/ppp2ppp/4pn2/8/3Pp3/2N2P2/PPP3PP/R1BQKBNR w KQkq -	d2d4 g8f6 b1c3 d7d5 f2f3 e7e6 e2e4 d5e4
+A45	Blackmar-Diemer Gambit Declined: O'Kelly Defense	rnbqkb1r/pp2pppp/2p2n2/8/3Pp3/2N2P2/PPP3PP/R1BQKBNR w KQkq -	d2d4 g8f6 f2f3 d7d5 e2e4 d5e4 b1c3 c7c6
+A45	Blackmar-Diemer Gambit Declined: Weinsbach Declination	rnbqkb1r/ppp2ppp/4pn2/8/3Pp3/2N2P2/PPP3PP/R1BQKBNR w KQkq -	d2d4 g8f6 b1c3 d7d5 f2f3 e7e6 e2e4 d5e4
 A45	Bronstein Gambit	rnbqkb1r/pppppppp/5n2/8/3P2P1/8/PPP1PP1P/RNBQKBNR b KQkq -	d2d4 g8f6 g2g4
 A45	Canard Opening	rnbqkb1r/pppppppp/5n2/8/3P1P2/8/PPP1P1PP/RNBQKBNR b KQkq -	d2d4 g8f6 f2f4
 A45	Indian Game: Gedult Attack, Gedult Attack	rnbqkb1r/ppp1pppp/5n2/3p4/3P2P1/5P2/PPP1P2P/RNBQKBNR b KQkq -	d2d4 g8f6 f2f3 d7d5 g2g4
@@ -602,29 +602,29 @@ A56	Benoni Defense	rnbqkb1r/pp1ppppp/5n2/2p5/2PP4/8/PP2PPPP/RNBQKBNR w KQkq -	d2
 A56	Benoni Defense: Weenink Variation	rnbqkb1r/pp1p1ppp/4pn2/2P5/2P5/8/PP2PPPP/RNBQKBNR w KQkq -	d2d4 g8f6 c2c4 c7c5 d4c5 e7e6
 A56	Grünfeld Defense: Three Knights Variation, Burille Variation, Reversed Tarrasch	r1bq1rk1/pp2ppbp/2n2np1/3p4/2PP4/2N2N2/PP2BPPP/R1BQ1RK1 w - -	d2d4 g8f6 c2c4 c7c5 e2e3 g7g6 b1c3 f8g7 g1f3 e8g8 f1e2 c5d4 e3d4 d7d5 e1g1 b8c6
 A56	Vulture Defense	rnbqkb1r/pp1ppppp/8/2pP4/2P1n3/8/PP2PPPP/RNBQKBNR w KQkq -	d2d4 g8f6 c2c4 c7c5 d4d5 f6e4
-A57	Benko Gambit Accepted, Dlugy Variation	rnbqkb1r/3ppppp/p4n2/1PpP4/8/5P2/PP2P1PP/RNBQKBNR b KQkq -	d2d4 g8f6 c2c4 c7c5 d4d5 b7b5 c4b5 a7a6 f2f3
-A57	Benko Gambit Accepted, Modern Variation	rnbqkb1r/3ppppp/p4n2/1PpP4/8/4P3/PP3PPP/RNBQKBNR b KQkq -	d2d4 g8f6 c2c4 c7c5 d4d5 b7b5 c4b5 a7a6 e2e3
-A57	Benko Gambit Accepted, Pawn Return Variation	rnbqkb1r/3ppppp/pP3n2/2pP4/8/8/PP2PPPP/RNBQKBNR b KQkq -	d2d4 g8f6 c2c4 c7c5 d4d5 b7b5 c4b5 a7a6 b5b6
+A57	Benko Gambit Accepted: Dlugy Variation	rnbqkb1r/3ppppp/p4n2/1PpP4/8/5P2/PP2P1PP/RNBQKBNR b KQkq -	d2d4 g8f6 c2c4 c7c5 d4d5 b7b5 c4b5 a7a6 f2f3
+A57	Benko Gambit Accepted: Modern Variation	rnbqkb1r/3ppppp/p4n2/1PpP4/8/4P3/PP3PPP/RNBQKBNR b KQkq -	d2d4 g8f6 c2c4 c7c5 d4d5 b7b5 c4b5 a7a6 e2e3
+A57	Benko Gambit Accepted: Pawn Return Variation	rnbqkb1r/3ppppp/pP3n2/2pP4/8/8/PP2PPPP/RNBQKBNR b KQkq -	d2d4 g8f6 c2c4 c7c5 d4d5 b7b5 c4b5 a7a6 b5b6
 A57	Benko Gambit Accepted	rnbqkb1r/3ppppp/p4n2/1PpP4/8/8/PP2PPPP/RNBQKBNR w KQkq -	d2d4 g8f6 c2c4 c7c5 d4d5 b7b5 c4b5 a7a6
-A57	Benko Gambit Declined, Bishop Attack	rnbqkb1r/p2ppppp/5n2/1ppP2B1/2P5/8/PP2PPPP/RN1QKBNR b KQkq -	d2d4 g8f6 c2c4 c7c5 d4d5 b7b5 c1g5
-A57	Benko Gambit Declined, Hjørring Countergambit	rnbqkb1r/p2ppppp/5n2/1ppP4/2P1P3/8/PP3PPP/RNBQKBNR b KQkq -	d2d4 g8f6 c2c4 c7c5 d4d5 b7b5 e2e4
-A57	Benko Gambit Declined, Main Line	rnbqkb1r/p2ppppp/5n2/1ppP4/2P5/5N2/PP2PPPP/RNBQKB1R b KQkq -	d2d4 g8f6 c2c4 c7c5 d4d5 b7b5 g1f3
-A57	Benko Gambit Declined, Pseudo-Sämisch	rnbqkb1r/p2ppppp/5n2/1ppP4/2P5/5P2/PP2P1PP/RNBQKBNR b KQkq -	d2d4 g8f6 c2c4 c7c5 d4d5 b7b5 f2f3
-A57	Benko Gambit Declined, Quiet Line	rnbqkb1r/p2ppppp/5n2/1ppP4/2P5/8/PP1NPPPP/R1BQKBNR b KQkq -	d2d4 g8f6 c2c4 c7c5 d4d5 b7b5 b1d2
-A57	Benko Gambit Declined, Sosonko Variation	rnbqkb1r/p2ppppp/5n2/1ppP4/P1P5/8/1P2PPPP/RNBQKBNR b KQkq -	d2d4 g8f6 c2c4 c7c5 d4d5 b7b5 a2a4
+A57	Benko Gambit Declined: Bishop Attack	rnbqkb1r/p2ppppp/5n2/1ppP2B1/2P5/8/PP2PPPP/RN1QKBNR b KQkq -	d2d4 g8f6 c2c4 c7c5 d4d5 b7b5 c1g5
+A57	Benko Gambit Declined: Hjørring Countergambit	rnbqkb1r/p2ppppp/5n2/1ppP4/2P1P3/8/PP3PPP/RNBQKBNR b KQkq -	d2d4 g8f6 c2c4 c7c5 d4d5 b7b5 e2e4
+A57	Benko Gambit Declined: Main Line	rnbqkb1r/p2ppppp/5n2/1ppP4/2P5/5N2/PP2PPPP/RNBQKB1R b KQkq -	d2d4 g8f6 c2c4 c7c5 d4d5 b7b5 g1f3
+A57	Benko Gambit Declined: Pseudo-Sämisch	rnbqkb1r/p2ppppp/5n2/1ppP4/2P5/5P2/PP2P1PP/RNBQKBNR b KQkq -	d2d4 g8f6 c2c4 c7c5 d4d5 b7b5 f2f3
+A57	Benko Gambit Declined: Quiet Line	rnbqkb1r/p2ppppp/5n2/1ppP4/2P5/8/PP1NPPPP/R1BQKBNR b KQkq -	d2d4 g8f6 c2c4 c7c5 d4d5 b7b5 b1d2
+A57	Benko Gambit Declined: Sosonko Variation	rnbqkb1r/p2ppppp/5n2/1ppP4/P1P5/8/1P2PPPP/RNBQKBNR b KQkq -	d2d4 g8f6 c2c4 c7c5 d4d5 b7b5 a2a4
 A57	Benko Gambit: Mutkin Countergambit	rnbqkb1r/p2ppppp/5n2/1ppP4/2P3P1/8/PP2PP1P/RNBQKBNR b KQkq -	d2d4 g8f6 c2c4 c7c5 d4d5 b7b5 g2g4
 A57	Benko Gambit: Nescafe Frappe Attack	rnbqkb1r/4pppp/3p1n2/1NpP4/1pB1P3/8/PP3PPP/R1BQK1NR b KQkq -	d2d4 g8f6 c2c4 c7c5 d4d5 b7b5 c4b5 a7a6 b1c3 a6b5 e2e4 b5b4 c3b5 d7d6 f1c4
 A57	Benko Gambit	rnbqkb1r/p2ppppp/5n2/1ppP4/2P5/8/PP2PPPP/RNBQKBNR w KQkq -	d2d4 g8f6 c2c4 c7c5 d4d5 b7b5
 A57	Benko Gambit: Zaitsev System	rnbqkb1r/3ppppp/p4n2/1PpP4/8/2N5/PP2PPPP/R1BQKBNR b KQkq -	d2d4 g8f6 c2c4 c7c5 d4d5 b7b5 c4b5 a7a6 b1c3
 A57	Benko Gambit: Zaitsev Variation, Nescafe Frappe Attack	rnbqkb1r/3ppppp/5n2/1NpP4/1p2P3/8/PP3PPP/R1BQKBNR b KQkq -	d2d4 g8f6 c2c4 c7c5 d4d5 b7b5 c4b5 a7a6 b1c3 a6b5 e2e4 b5b4 c3b5
-A58	Benko Gambit Accepted, Central Storming Variation	rn1qkb1r/3ppp1p/b4np1/2pP4/5P2/2N5/PP2P1PP/R1BQKBNR b KQkq -	d2d4 g8f6 c2c4 c7c5 d4d5 b7b5 c4b5 a7a6 b5a6 g7g6 b1c3 c8a6 f2f4
-A58	Benko Gambit Accepted, Fianchetto Variation	rn1qk2r/4ppbp/b2p1np1/2pP4/8/2N2NP1/PP2PPBP/R1BQK2R b KQkq -	d2d4 g8f6 c2c4 c7c5 d4d5 b7b5 c4b5 a7a6 b5a6 g7g6 b1c3 c8a6 g2g3 d7d6 f1g2 f8g7 g1f3
-A58	Benko Gambit Accepted, Fully Accepted Variation	rnbqkb1r/3ppppp/P4n2/2pP4/8/8/PP2PPPP/RNBQKBNR b KQkq -	d2d4 g8f6 c2c4 c7c5 d4d5 b7b5 c4b5 a7a6 b5a6
+A58	Benko Gambit Accepted: Central Storming Variation	rn1qkb1r/3ppp1p/b4np1/2pP4/5P2/2N5/PP2P1PP/R1BQKBNR b KQkq -	d2d4 g8f6 c2c4 c7c5 d4d5 b7b5 c4b5 a7a6 b5a6 g7g6 b1c3 c8a6 f2f4
+A58	Benko Gambit Accepted: Fianchetto Variation	rn1qk2r/4ppbp/b2p1np1/2pP4/8/2N2NP1/PP2PPBP/R1BQK2R b KQkq -	d2d4 g8f6 c2c4 c7c5 d4d5 b7b5 c4b5 a7a6 b5a6 g7g6 b1c3 c8a6 g2g3 d7d6 f1g2 f8g7 g1f3
+A58	Benko Gambit Accepted: Fully Accepted Variation	rnbqkb1r/3ppppp/P4n2/2pP4/8/8/PP2PPPP/RNBQKBNR b KQkq -	d2d4 g8f6 c2c4 c7c5 d4d5 b7b5 c4b5 a7a6 b5a6
 A58	Benko Gambit: Fianchetto Variation	rn1qkb1r/4pp1p/b2p1np1/2pP4/8/2N2NP1/PP2PP1P/R1BQKB1R b KQkq -	d2d4 g8f6 c2c4 c7c5 d4d5 b7b5 c4b5 a7a6 b5a6 c8a6 b1c3 d7d6 g1f3 g7g6 g2g3
 A58	Benko Gambit: Nd2 Variation	rn1qkb1r/4pp1p/b2p1np1/2pP4/8/2N5/PP1NPPPP/R1BQKB1R b KQkq -	d2d4 g8f6 c2c4 c7c5 d4d5 b7b5 c4b5 a7a6 b5a6 c8a6 b1c3 d7d6 g1f3 g7g6 f3d2
-A59	Benko Gambit Accepted, King Walk Variation	rn1q1rk1/4ppbp/3p1np1/2pP4/4P3/2N2NP1/PP3PKP/R1BQ3R b - -	d2d4 g8f6 c2c4 c7c5 d4d5 b7b5 c4b5 a7a6 b5a6 g7g6 b1c3 c8a6 g1f3 d7d6 e2e4 a6f1 e1f1 f8g7 g2g3 e8g8 f1g2
-A59	Benko Gambit Accepted, Yugoslav	rn1qkb1r/4pp1p/3p1np1/2pP4/4P3/2N5/PP2NPPP/R1BQ1K1R b kq -	d2d4 g8f6 c2c4 c7c5 d4d5 b7b5 c4b5 a7a6 b5a6 g7g6 b1c3 c8a6 e2e4 a6f1 e1f1 d7d6 g1e2
-A59	Benko Gambit Accepted, Yugoslav	rn1qkb1r/4pppp/b2p1n2/2pP4/4P3/2N5/PP3PPP/R1BQKBNR b KQkq -	d2d4 g8f6 c2c4 c7c5 d4d5 b7b5 c4b5 a7a6 b5a6 c8a6 b1c3 d7d6 e2e4
+A59	Benko Gambit Accepted: King Walk Variation	rn1q1rk1/4ppbp/3p1np1/2pP4/4P3/2N2NP1/PP3PKP/R1BQ3R b - -	d2d4 g8f6 c2c4 c7c5 d4d5 b7b5 c4b5 a7a6 b5a6 g7g6 b1c3 c8a6 g1f3 d7d6 e2e4 a6f1 e1f1 f8g7 g2g3 e8g8 f1g2
+A59	Benko Gambit Accepted: Yugoslav	rn1qkb1r/4pp1p/3p1np1/2pP4/4P3/2N5/PP2NPPP/R1BQ1K1R b kq -	d2d4 g8f6 c2c4 c7c5 d4d5 b7b5 c4b5 a7a6 b5a6 g7g6 b1c3 c8a6 e2e4 a6f1 e1f1 d7d6 g1e2
+A59	Benko Gambit Accepted: Yugoslav	rn1qkb1r/4pppp/b2p1n2/2pP4/4P3/2N5/PP3PPP/R1BQKBNR b KQkq -	d2d4 g8f6 c2c4 c7c5 d4d5 b7b5 c4b5 a7a6 b5a6 c8a6 b1c3 d7d6 e2e4
 A59	Benko Gambit	rn1qkb1r/4pp1p/3p1np1/2pP4/4P3/2N3P1/PP3P1P/R1BQ1KNR b kq -	d2d4 g8f6 c2c4 c7c5 d4d5 b7b5 c4b5 a7a6 b5a6 g7g6 b1c3 c8a6 e2e4 a6f1 e1f1 d7d6 g2g3
 A60	Benoni Defense: Modern Variation	rnbqkb1r/pp1p1ppp/4pn2/2pP4/2P5/8/PP2PPPP/RNBQKBNR w KQkq -	d2d4 g8f6 c2c4 c7c5 d4d5 e7e6
 A60	Benoni Defense: Modern Variation, Snake Variation	rnbqk2r/pp1p1ppp/3b1n2/2pP4/8/2N5/PP2PPPP/R1BQKBNR w KQkq -	d2d4 g8f6 c2c4 c7c5 d4d5 e7e6 b1c3 e6d5 c4d5 f8d6
