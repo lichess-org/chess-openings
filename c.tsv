@@ -752,7 +752,7 @@ C47	Four Knights Game: Scotch Variation, Krause Gambit	r1bqk2r/pppp1ppp/2n2n2/4N
 C47	Four Knights Game: Scotch Variation, Oxford Gambit	r1bqk2r/pppp1ppp/5n2/3Pp3/1b1nP3/2N2N2/PPP2PPP/R1BQKB1R w KQkq -	e2e4 e7e5 g1f3 b8c6 b1c3 g8f6 d2d4 f8b4 d4d5 c6d4
 C47	Four Knights Game: Scotch Variation	r1bqkb1r/pppp1ppp/2n2n2/4p3/3PP3/2N2N2/PPP2PPP/R1BQKB1R b KQkq -	e2e4 e7e5 g1f3 b8c6 b1c3 g8f6 d2d4
 C47	Four Knights Game: Scotch Variation, Schmid Defense	r1bqkb1r/pppp1ppp/2n5/8/3Nn3/2N5/PPP2PPP/R1BQKB1R w KQkq -	e2e4 e7e5 g1f3 b8c6 b1c3 g8f6 d2d4 e5d4 f3d4 f6e4
-C47	Four Knights: Scotch Variation, Belgrade Gambit, Modern Defense	r1bqkb1r/pppp2pp/2n5/3N1p2/3pn3/5N2/PPP1QPPP/R1B1KB1R w KQkq -	e2e4 e7e5 g1f3 b8c6 b1c3 g8f6 d2d4 e5d4 c3d5 f6e4 d1e2 f7f5
+C47	Four Knights Game: Scotch Variation, Belgrade Gambit, Modern Defense	r1bqkb1r/pppp2pp/2n5/3N1p2/3pn3/5N2/PPP1QPPP/R1B1KB1R w KQkq -	e2e4 e7e5 g1f3 b8c6 b1c3 g8f6 d2d4 e5d4 c3d5 f6e4 d1e2 f7f5
 C48	Four Knights Game: Bardeleben Variation	r1bq1rk1/pppp1ppp/2n2n2/1B2P3/1b1P1P2/2N5/PPP3PP/R1BQ1RK1 w - -	e2e4 e7e5 g1f3 b8c6 b1c3 g8f6 f1b5 f8c5 e1g1 e8g8 f3e5 c6e5 d2d4 c5d6 f2f4 e5c6 e4e5 d6b4
 C48	Four Knights Game: Marshall Variation	r1bq1rk1/pppp1ppp/5n2/1Bb1N3/3nP3/2N5/PPPP1PPP/R1BQ1RK1 w - -	e2e4 e7e5 g1f3 b8c6 b1c3 g8f6 f1b5 c6d4 f3e5 f8c5 e1g1 e8g8
 C48	Four Knights Game: Ranken Variation	r1bqkb1r/1ppp1ppp/p1B2n2/4p3/4P3/2N2N2/PPPP1PPP/R1BQK2R b KQkq -	e2e4 e7e5 g1f3 b8c6 b1c3 g8f6 f1b5 a7a6 b5c6
@@ -959,7 +959,7 @@ C60	Ruy Lopez: Spanish Countergambit, Harding Countergambit, Fricke Gambit	r1b1k
 C60	Ruy Lopez: Spanish Countergambit, Harding Gambit	r1b1kbnr/ppp2ppp/2N5/1B1p2q1/4P3/8/PPPP1PPP/RNBQK2R b KQkq -	e2e4 e7e5 g1f3 b8c6 f1b5 d7d5 f3e5 d8g5 e5c6
 C60	Ruy Lopez: Spanish Countergambit	r1bqkbnr/ppp2ppp/2n5/1B1pp3/4P3/5N2/PPPP1PPP/RNBQK2R w KQkq -	e2e4 e7e5 g1f3 b8c6 f1b5 d7d5
 C60	Ruy Lopez: Vinogradov Variation	r1b1kbnr/ppppqppp/2n5/1B2p3/4P3/5N2/PPPP1PPP/RNBQK2R w KQkq -	e2e4 e7e5 g1f3 b8c6 f1b5 d8e7
-C60	Spanish Opening: Fianchetto Defense, Kevitz Gambit	r1bqkbnr/pppp3p/2n3p1/1B2pp2/4P3/2P2N2/PP1P1PPP/RNBQK2R w KQkq -	e2e4 e7e5 g1f3 b8c6 f1b5 g7g6 c2c3 f7f5
+C60	Ruy Lopez: Fianchetto Defense, Kevitz Gambit	r1bqkbnr/pppp3p/2n3p1/1B2pp2/4P3/2P2N2/PP1P1PPP/RNBQK2R w KQkq -	e2e4 e7e5 g1f3 b8c6 f1b5 g7g6 c2c3 f7f5
 C61	Ruy Lopez: Bird Variation, Paulsen Variation	r1bqkb1r/ppppnppp/8/1B6/3pP3/8/PPPP1PPP/RNBQ1RK1 w kq -	e2e4 e7e5 g1f3 b8c6 f1b5 c6d4 f3d4 e5d4 e1g1 g8e7
 C61	Ruy Lopez: Bird Variation	r1bqkbnr/pppp1ppp/8/1B2p3/3nP3/5N2/PPPP1PPP/RNBQK2R w KQkq -	e2e4 e7e5 g1f3 b8c6 f1b5 c6d4
 C62	Ruy Lopez: Old Steinitz Defense, Semi-Duras Variation	r2qkbnr/pppb1ppp/2np4/1B2p3/2PPP3/5N2/PP3PPP/RNBQK2R b KQkq -	e2e4 e7e5 g1f3 b8c6 f1b5 d7d6 d2d4 c8d7 c2c4

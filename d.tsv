@@ -56,7 +56,7 @@ D00	Queen's Pawn Game: Veresov Attack, Anti-Veresov	rn1qkbnr/ppp1pppp/8/3p4/3P2b
 D00	Queen's Pawn Game: Veresov Attack, Shaviliuk Gambit	rnbqkbnr/ppp2ppp/8/3pp3/3P4/2N5/PPP1PPPP/R1BQKBNR w KQkq -	d2d4 d7d5 b1c3 e7e5
 D00	Queen's Pawn Game: Veresov Attack, Shropshire Defense	rnbqkbnr/ppp1ppp1/8/3p3p/3P4/2N5/PPP1PPPP/R1BQKBNR w KQkq -	d2d4 d7d5 b1c3 h7h5
 D00	Queen's Pawn Game: Zurich Gambit	rnbqkbnr/ppp1pppp/8/3p4/3P2P1/8/PPP1PP1P/RNBQKBNR b KQkq -	d2d4 d7d5 g2g4
-D00	Queen's Pawn Opening: Veresov Attack, Irish Gambit	rnbqkbnr/pp2pppp/8/2pp4/3P4/2N5/PPP1PPPP/R1BQKBNR w KQkq -	d2d4 d7d5 b1c3 c7c5
+D00	Queen's Pawn Game: Veresov Attack, Irish Gambit	rnbqkbnr/pp2pppp/8/2pp4/3P4/2N5/PPP1PPPP/R1BQKBNR w KQkq -	d2d4 d7d5 b1c3 c7c5
 D01	Queen's Pawn Game: Veresov Attack, Boyce Defense	rnbqkb1r/ppp1pppp/8/3p2B1/3Pn3/2N5/PPP1PPPP/R2QKBNR w KQkq -	d2d4 g8f6 b1c3 d7d5 c1g5 f6e4
 D01	Queen's Pawn Game: Veresov Attack, Richter Variation	rn1qkb1r/ppp1pppp/5n2/3p1bB1/3P4/2N2P2/PPP1P1PP/R2QKBNR b KQkq -	d2d4 g8f6 b1c3 d7d5 c1g5 c8f5 f2f3
 D01	Queen's Pawn Game: Veresov Attack, Two Knights System, Grünfeld Defense	r1bqkb1r/pppnpp1p/5np1/3p2B1/3P4/2N2N2/PPP1PPPP/R2QKB1R w KQkq -	d2d4 g8f6 b1c3 d7d5 c1g5 b8d7 g1f3 g7g6
@@ -68,7 +68,7 @@ D01	Veresov Opening: Malich Gambit	rnbqkb1r/pp2pp1p/5p2/2pP4/4p3/2N5/PPP2PPP/R2Q
 D01	Rapport-Jobava System	rnbqkb1r/ppp1pppp/5n2/3p4/3P1B2/2N5/PPP1PPPP/R2QKBNR b KQkq -	d2d4 d7d5 b1c3 g8f6 c1f4
 D02	London System: Poisoned Pawn Variation	rnb1kb1r/pp2pppp/1q3n2/2pp4/3P1B2/2N1PN2/PPP2PPP/R2QKB1R b KQkq -	d2d4 g8f6 g1f3 d7d5 c1f4 c7c5 e2e3 d8b6 b1c3
 D02	Queen's Gambit Accepted: Rosenthal Variation	rnbqkbnr/ppp2ppp/4p3/8/2pP4/5N2/PP2PPPP/RNBQKB1R w KQkq -	d2d4 d7d5 g1f3 e7e6 c2c4 d5c4
-D02	Queen's Gambit Refused: Baltic Defense, Pseudo-Slav	rn1qkbnr/pp3ppp/2p1p3/3p1b2/2PP4/2N2N2/PP2PPPP/R1BQKB1R w KQkq -	d2d4 d7d5 g1f3 c8f5 c2c4 e7e6 b1c3 c7c6
+D02	Queen's Gambit Declined: Baltic Defense, Pseudo-Slav	rn1qkbnr/pp3ppp/2p1p3/3p1b2/2PP4/2N2N2/PP2PPPP/R1BQKB1R w KQkq -	d2d4 d7d5 g1f3 c8f5 c2c4 e7e6 b1c3 c7c6
 D02	Queen's Pawn Game: Anti-Torre	rn1qkbnr/ppp1pppp/8/3p4/3P2b1/5N2/PPP1PPPP/RNBQKB1R w KQkq -	g1f3 d7d5 d2d4 c8g4
 D02	Queen's Pawn Game: Chandler Gambit	rnbqkbnr/pp2pppp/8/3p4/3p4/5NP1/PPP1PPBP/RNBQK2R b KQkq -	d2d4 d7d5 g1f3 c7c5 g2g3 c5d4 f1g2
 D02	Queen's Pawn Game: Chigorin Variation	r1bqkbnr/ppp1pppp/2n5/3p4/3P4/5N2/PPP1PPPP/RNBQKB1R w KQkq -	d2d4 d7d5 g1f3 b8c6
@@ -93,42 +93,42 @@ D05	Rubinstein Opening: Bogoljubov Defense	r1bq1rk1/pp3ppp/2nbpn2/2pp4/3P4/1P1BP
 D05	Rubinstein Opening: Classical Defense	r1bq1rk1/pp2bppp/2n1pn2/2pp4/3P4/1P1BPN2/PBP2PPP/RN1Q1RK1 w - -	d2d4 g8f6 g1f3 e7e6 e2e3 c7c5 f1d3 d7d5 b2b3 b8c6 e1g1 f8e7 c1b2 e8g8
 D05	Rubinstein Opening	rnbqkb1r/pp3ppp/4pn2/2pp4/3P4/1P1BPN2/P1P2PPP/RNBQK2R b KQkq -	d2d4 g8f6 g1f3 e7e6 e2e3 c7c5 f1d3 d7d5 b2b3
 D05	Rubinstein Opening: Semi-Slav Defense	r1bq1rk1/pppn1ppp/3bpn2/3p4/3P4/1P1BPN2/PBP2PPP/RN1Q1RK1 b - -	d2d4 d7d5 g1f3 g8f6 e2e3 e7e6 f1d3 f8d6 e1g1 e8g8 b2b3 b8d7 c1b2
-D06	Queen's Gambit Refused: Austrian Attack, Salvio Countergambit	rnbqkbnr/pp2pppp/8/2P5/2Pp4/8/PP2PPPP/RNBQKBNR w KQkq -	d2d4 d7d5 c2c4 c7c5 d4c5 d5d4
-D06	Queen's Gambit Refused: Austrian Defense, Gusev Countergambit	rnbqkb1r/pp2pppp/5n2/2pP4/3P4/8/PP2PPPP/RNBQKBNR w KQkq -	d2d4 d7d5 c2c4 c7c5 c4d5 g8f6
-D06	Queen's Gambit Refused: Austrian Defense, Haberditz Variation	rnb1kb1r/pp2pppp/8/q1PP4/4n3/8/PP3PPP/RNBQKBNR w KQkq -	d2d4 d7d5 c2c4 c7c5 c4d5 g8f6 e2e4 f6e4 d4c5 d8a5
-D06	Queen's Gambit Refused: Austrian Defense	rnbqkbnr/pp2pppp/8/2pp4/2PP4/8/PP2PPPP/RNBQKBNR w KQkq -	d2d4 d7d5 c2c4 c7c5
-D06	Queen's Gambit Refused: Baltic Defense, Argentinian Gambit	r2qkbnr/pp2pppp/2n5/8/Q2P4/8/PP2PPPP/RbB1KBNR w KQkq -	d2d4 d7d5 c2c4 c8f5 c4d5 f5b1 d1a4 c7c6 d5c6 b8c6
-D06	Queen's Gambit Refused: Baltic Defense, Pseudo-Chigorin	r2qkbnr/ppp2ppp/2n1p3/3p1b2/2PP4/2N2N2/PP2PPPP/R1BQKB1R w KQkq -	d2d4 d7d5 c2c4 c8f5 b1c3 e7e6 g1f3 b8c6
-D06	Queen's Gambit Refused: Baltic Defense, Queen Attack Deferred	rn1qkbnr/ppp2ppp/4p3/3p1b2/2PP4/1QN5/PP2PPPP/R1B1KBNR b KQkq -	d2d4 d7d5 c2c4 c8f5 b1c3 e7e6 d1b3
-D06	Queen's Gambit Refused: Baltic Defense, Queen Attack	rn1qkbnr/ppp1pppp/8/3p1b2/2PP4/1Q6/PP2PPPP/RNB1KBNR b KQkq -	d2d4 d7d5 c2c4 c8f5 d1b3
-D06	Queen's Gambit Refused: Baltic Defense	rn1qkbnr/ppp1pppp/8/3p1b2/2PP4/8/PP2PPPP/RNBQKBNR w KQkq -	d2d4 d7d5 c2c4 c8f5
-D06	Queen's Gambit Refused: Marshall Defense	rnbqkb1r/ppp1pppp/5n2/3p4/2PP4/8/PP2PPPP/RNBQKBNR w KQkq -	d2d4 d7d5 c2c4 g8f6
-D06	Queen's Gambit Refused: Marshall Defense, Tan Gambit	rnbqkb1r/pp2pppp/2p2n2/3P4/3P4/8/PP2PPPP/RNBQKBNR w KQkq -	d2d4 d7d5 c2c4 g8f6 c4d5 c7c6
-D06	Queen's Gambit Refused: Zilbermints Gambit	rnbqkbnr/p1p1pppp/8/1p1p4/2PP4/8/PP2PPPP/RNBQKBNR w KQkq -	d2d4 d7d5 c2c4 b7b5
+D06	Queen's Gambit Declined: Austrian Attack, Salvio Countergambit	rnbqkbnr/pp2pppp/8/2P5/2Pp4/8/PP2PPPP/RNBQKBNR w KQkq -	d2d4 d7d5 c2c4 c7c5 d4c5 d5d4
+D06	Queen's Gambit Declined: Austrian Defense, Gusev Countergambit	rnbqkb1r/pp2pppp/5n2/2pP4/3P4/8/PP2PPPP/RNBQKBNR w KQkq -	d2d4 d7d5 c2c4 c7c5 c4d5 g8f6
+D06	Queen's Gambit Declined: Austrian Defense, Haberditz Variation	rnb1kb1r/pp2pppp/8/q1PP4/4n3/8/PP3PPP/RNBQKBNR w KQkq -	d2d4 d7d5 c2c4 c7c5 c4d5 g8f6 e2e4 f6e4 d4c5 d8a5
+D06	Queen's Gambit Declined: Austrian Defense	rnbqkbnr/pp2pppp/8/2pp4/2PP4/8/PP2PPPP/RNBQKBNR w KQkq -	d2d4 d7d5 c2c4 c7c5
+D06	Queen's Gambit Declined: Baltic Defense, Argentinian Gambit	r2qkbnr/pp2pppp/2n5/8/Q2P4/8/PP2PPPP/RbB1KBNR w KQkq -	d2d4 d7d5 c2c4 c8f5 c4d5 f5b1 d1a4 c7c6 d5c6 b8c6
+D06	Queen's Gambit Declined: Baltic Defense, Pseudo-Chigorin	r2qkbnr/ppp2ppp/2n1p3/3p1b2/2PP4/2N2N2/PP2PPPP/R1BQKB1R w KQkq -	d2d4 d7d5 c2c4 c8f5 b1c3 e7e6 g1f3 b8c6
+D06	Queen's Gambit Declined: Baltic Defense, Queen Attack Deferred	rn1qkbnr/ppp2ppp/4p3/3p1b2/2PP4/1QN5/PP2PPPP/R1B1KBNR b KQkq -	d2d4 d7d5 c2c4 c8f5 b1c3 e7e6 d1b3
+D06	Queen's Gambit Declined: Baltic Defense, Queen Attack	rn1qkbnr/ppp1pppp/8/3p1b2/2PP4/1Q6/PP2PPPP/RNB1KBNR b KQkq -	d2d4 d7d5 c2c4 c8f5 d1b3
+D06	Queen's Gambit Declined: Baltic Defense	rn1qkbnr/ppp1pppp/8/3p1b2/2PP4/8/PP2PPPP/RNBQKBNR w KQkq -	d2d4 d7d5 c2c4 c8f5
+D06	Queen's Gambit Declined: Marshall Defense	rnbqkb1r/ppp1pppp/5n2/3p4/2PP4/8/PP2PPPP/RNBQKBNR w KQkq -	d2d4 d7d5 c2c4 g8f6
+D06	Queen's Gambit Declined: Marshall Defense, Tan Gambit	rnbqkb1r/pp2pppp/2p2n2/3P4/3P4/8/PP2PPPP/RNBQKBNR w KQkq -	d2d4 d7d5 c2c4 g8f6 c4d5 c7c6
+D06	Queen's Gambit Declined: Zilbermints Gambit	rnbqkbnr/p1p1pppp/8/1p1p4/2PP4/8/PP2PPPP/RNBQKBNR w KQkq -	d2d4 d7d5 c2c4 b7b5
 D06	Queen's Gambit	rnbqkbnr/ppp1pppp/8/3p4/2PP4/8/PP2PPPP/RNBQKBNR b KQkq -	d2d4 d7d5 c2c4
-D07	Queen's Gambit Refused: Chigorin Defense, Exchange Variation, Costa's Line	r1b1k1nr/ppp2ppp/2n5/3q4/3p4/2B1P3/PP2NPPP/R2QKB1R b KQkq -	d2d4 d7d5 c2c4 b8c6 c4d5 d8d5 e2e3 e7e5 b1c3 f8b4 c1d2 b4c3 d2c3 e5d4 g1e2
-D07	Queen's Gambit Refused: Chigorin Defense, Exchange Variation	r1b1kbnr/ppp1pppp/2n5/3q4/3P4/8/PP2PPPP/RNBQKBNR w KQkq -	d2d4 d7d5 c2c4 b8c6 c4d5 d8d5
-D07	Queen's Gambit Refused: Chigorin Defense, Janowski Variation	r1bqkbnr/ppp1pppp/2n5/8/2pP4/2N2N2/PP2PPPP/R1BQKB1R b KQkq -	d2d4 d7d5 c2c4 b8c6 b1c3 d5c4 g1f3
-D07	Queen's Gambit Refused: Chigorin Defense, Lazard Gambit	r1bqkbnr/ppp2ppp/2n5/3pp3/2PP4/5N2/PP2PPPP/RNBQKB1R w KQkq -	d2d4 d7d5 c2c4 b8c6 g1f3 e7e5
-D07	Queen's Gambit Refused: Chigorin Defense, Main Line, Alekhine Variation	r2qkbnr/ppp1pppp/2n5/3p4/Q1PP2b1/5N2/PP2PPPP/RNB1KB1R b KQkq -	d2d4 d7d5 c2c4 b8c6 g1f3 c8g4 d1a4
-D07	Queen's Gambit Refused: Chigorin Defense, Main Line	r2qkbnr/ppp1pppp/2n5/3p4/2PP2b1/5N2/PP2PPPP/RNBQKB1R w KQkq -	d2d4 d7d5 c2c4 b8c6 g1f3 c8g4
-D07	Queen's Gambit Refused: Chigorin Defense, Modern Gambit	r1bqkb1r/ppp1pppp/2n2n2/8/2pP4/2N2N2/PP2PPPP/R1BQKB1R w KQkq -	d2d4 d7d5 c2c4 b8c6 b1c3 d5c4 g1f3 g8f6
-D07	Queen's Gambit Refused: Chigorin Defense	r1bqkbnr/ppp1pppp/2n5/3p4/2PP4/2N5/PP2PPPP/R1BQKBNR b KQkq -	d2d4 d7d5 c2c4 b8c6 b1c3
-D07	Queen's Gambit Refused: Chigorin Defense	r1bqkbnr/ppp1pppp/2n5/3p4/2PP4/8/PP2PPPP/RNBQKBNR w KQkq -	d2d4 d7d5 c2c4 b8c6
-D07	Queen's Gambit Refused: Chigorin Defense	r1bqkbnr/ppp1pppp/2n5/8/2pP4/2N5/PP2PPPP/R1BQKBNR w KQkq -	d2d4 d7d5 c2c4 b8c6 b1c3 d5c4
-D07	Queen's Gambit Refused: Chigorin Defense, Tartakower Gambit	r1bqkbnr/ppp2ppp/2n5/3pp3/2PP4/2N5/PP2PPPP/R1BQKBNR w KQkq -	d2d4 d7d5 c2c4 b8c6 b1c3 e7e5
+D07	Queen's Gambit Declined: Chigorin Defense, Exchange Variation, Costa's Line	r1b1k1nr/ppp2ppp/2n5/3q4/3p4/2B1P3/PP2NPPP/R2QKB1R b KQkq -	d2d4 d7d5 c2c4 b8c6 c4d5 d8d5 e2e3 e7e5 b1c3 f8b4 c1d2 b4c3 d2c3 e5d4 g1e2
+D07	Queen's Gambit Declined: Chigorin Defense, Exchange Variation	r1b1kbnr/ppp1pppp/2n5/3q4/3P4/8/PP2PPPP/RNBQKBNR w KQkq -	d2d4 d7d5 c2c4 b8c6 c4d5 d8d5
+D07	Queen's Gambit Declined: Chigorin Defense, Janowski Variation	r1bqkbnr/ppp1pppp/2n5/8/2pP4/2N2N2/PP2PPPP/R1BQKB1R b KQkq -	d2d4 d7d5 c2c4 b8c6 b1c3 d5c4 g1f3
+D07	Queen's Gambit Declined: Chigorin Defense, Lazard Gambit	r1bqkbnr/ppp2ppp/2n5/3pp3/2PP4/5N2/PP2PPPP/RNBQKB1R w KQkq -	d2d4 d7d5 c2c4 b8c6 g1f3 e7e5
+D07	Queen's Gambit Declined: Chigorin Defense, Main Line, Alekhine Variation	r2qkbnr/ppp1pppp/2n5/3p4/Q1PP2b1/5N2/PP2PPPP/RNB1KB1R b KQkq -	d2d4 d7d5 c2c4 b8c6 g1f3 c8g4 d1a4
+D07	Queen's Gambit Declined: Chigorin Defense, Main Line	r2qkbnr/ppp1pppp/2n5/3p4/2PP2b1/5N2/PP2PPPP/RNBQKB1R w KQkq -	d2d4 d7d5 c2c4 b8c6 g1f3 c8g4
+D07	Queen's Gambit Declined: Chigorin Defense, Modern Gambit	r1bqkb1r/ppp1pppp/2n2n2/8/2pP4/2N2N2/PP2PPPP/R1BQKB1R w KQkq -	d2d4 d7d5 c2c4 b8c6 b1c3 d5c4 g1f3 g8f6
+D07	Queen's Gambit Declined: Chigorin Defense	r1bqkbnr/ppp1pppp/2n5/3p4/2PP4/2N5/PP2PPPP/R1BQKBNR b KQkq -	d2d4 d7d5 c2c4 b8c6 b1c3
+D07	Queen's Gambit Declined: Chigorin Defense	r1bqkbnr/ppp1pppp/2n5/3p4/2PP4/8/PP2PPPP/RNBQKBNR w KQkq -	d2d4 d7d5 c2c4 b8c6
+D07	Queen's Gambit Declined: Chigorin Defense	r1bqkbnr/ppp1pppp/2n5/8/2pP4/2N5/PP2PPPP/R1BQKBNR w KQkq -	d2d4 d7d5 c2c4 b8c6 b1c3 d5c4
+D07	Queen's Gambit Declined: Chigorin Defense, Tartakower Gambit	r1bqkbnr/ppp2ppp/2n5/3pp3/2PP4/2N5/PP2PPPP/R1BQKBNR w KQkq -	d2d4 d7d5 c2c4 b8c6 b1c3 e7e5
 D08	Queen's Gambit Declined: Albin Countergambit, Balogh Variation	r1b1kbnr/ppp1qppp/2n5/4P3/2Pp4/5N2/PP1NPPPP/R1BQKB1R w KQkq -	d2d4 d7d5 c2c4 e7e5 d4e5 d5d4 g1f3 b8c6 b1d2 d8e7
 D08	Queen's Gambit Declined: Albin Countergambit, Janowski Variation	r1bqkbnr/ppp3pp/2n2p2/4P3/2Pp4/5N2/PP1NPPPP/R1BQKB1R w KQkq -	d2d4 d7d5 c2c4 e7e5 d4e5 d5d4 g1f3 b8c6 b1d2 f7f6
 D08	Queen's Gambit Declined: Albin Countergambit, Krenosz Variation	r3k1nr/ppp1qppp/2n5/4P3/1bPp4/5N1P/PP1BPPP1/R2QKB1R w KQkq -	d2d4 d7d5 c2c4 e7e5 d4e5 d5d4 g1f3 b8c6 b1d2 c8g4 h2h3 g4f3 d2f3 f8b4 c1d2 d8e7
-D08	Queen's Gambit Refused: Albin Countergambit, Lasker Trap	rnbqk1nr/ppp2ppp/8/4P3/1bP5/4p3/PP1B1PPP/RN1QKBNR w KQkq -	d2d4 d7d5 c2c4 e7e5 d4e5 d5d4 e2e3 f8b4 c1d2 d4e3
-D08	Queen's Gambit Refused: Albin Countergambit, Modern Line	r1bqkbnr/ppp2ppp/2n5/4P3/2Pp4/5N2/PP1NPPPP/R1BQKB1R b KQkq -	d2d4 d7d5 c2c4 e7e5 d4e5 d5d4 g1f3 b8c6 b1d2
-D08	Queen's Gambit Refused: Albin Countergambit, Normal Line	rnbqkbnr/ppp2ppp/8/4P3/2Pp4/5N2/PP2PPPP/RNBQKB1R b KQkq -	d2d4 d7d5 c2c4 e7e5 d4e5 d5d4 g1f3
-D08	Queen's Gambit Refused: Albin Countergambit	rnbqkbnr/ppp2ppp/8/3pp3/2PP4/8/PP2PPPP/RNBQKBNR w KQkq -	d2d4 d7d5 c2c4 e7e5
-D08	Queen's Gambit Refused: Albin Countergambit, Tartakower Defense	rnbqkbnr/pp3ppp/8/2p1P3/2Pp4/5N2/PP2PPPP/RNBQKB1R w KQkq -	d2d4 d7d5 c2c4 e7e5 d4e5 d5d4 g1f3 c7c5
-D09	Queen's Gambit Refused: Albin Countergambit, Fianchetto Variation, Be6 Line	r2qkbnr/ppp2ppp/2n1b3/4P3/2Pp4/5NP1/PP2PP1P/RNBQKB1R w KQkq -	d2d4 d7d5 c2c4 e7e5 d4e5 d5d4 g1f3 b8c6 g2g3 c8e6
-D09	Queen's Gambit Refused: Albin Countergambit, Fianchetto Variation, Bf5 Line	r2qkbnr/ppp2ppp/2n5/4Pb2/2Pp4/5NP1/PP2PP1P/RNBQKB1R w KQkq -	d2d4 d7d5 c2c4 e7e5 d4e5 d5d4 g1f3 b8c6 g2g3 c8f5
-D09	Queen's Gambit Refused: Albin Countergambit, Fianchetto Variation, Bg4 Line	r2qkbnr/ppp2ppp/2n5/4P3/2Pp2b1/5NP1/PP2PP1P/RNBQKB1R w KQkq -	d2d4 d7d5 c2c4 e7e5 d4e5 d5d4 g1f3 b8c6 g2g3 c8g4
-D09	Queen's Gambit Refused: Albin Countergambit, Fianchetto Variation	r1bqkbnr/ppp2ppp/2n5/4P3/2Pp4/5NP1/PP2PP1P/RNBQKB1R b KQkq -	d2d4 d7d5 c2c4 e7e5 d4e5 d5d4 g1f3 b8c6 g2g3
+D08	Queen's Gambit Declined: Albin Countergambit, Lasker Trap	rnbqk1nr/ppp2ppp/8/4P3/1bP5/4p3/PP1B1PPP/RN1QKBNR w KQkq -	d2d4 d7d5 c2c4 e7e5 d4e5 d5d4 e2e3 f8b4 c1d2 d4e3
+D08	Queen's Gambit Declined: Albin Countergambit, Modern Line	r1bqkbnr/ppp2ppp/2n5/4P3/2Pp4/5N2/PP1NPPPP/R1BQKB1R b KQkq -	d2d4 d7d5 c2c4 e7e5 d4e5 d5d4 g1f3 b8c6 b1d2
+D08	Queen's Gambit Declined: Albin Countergambit, Normal Line	rnbqkbnr/ppp2ppp/8/4P3/2Pp4/5N2/PP2PPPP/RNBQKB1R b KQkq -	d2d4 d7d5 c2c4 e7e5 d4e5 d5d4 g1f3
+D08	Queen's Gambit Declined: Albin Countergambit	rnbqkbnr/ppp2ppp/8/3pp3/2PP4/8/PP2PPPP/RNBQKBNR w KQkq -	d2d4 d7d5 c2c4 e7e5
+D08	Queen's Gambit Declined: Albin Countergambit, Tartakower Defense	rnbqkbnr/pp3ppp/8/2p1P3/2Pp4/5N2/PP2PPPP/RNBQKB1R w KQkq -	d2d4 d7d5 c2c4 e7e5 d4e5 d5d4 g1f3 c7c5
+D09	Queen's Gambit Declined: Albin Countergambit, Fianchetto Variation, Be6 Line	r2qkbnr/ppp2ppp/2n1b3/4P3/2Pp4/5NP1/PP2PP1P/RNBQKB1R w KQkq -	d2d4 d7d5 c2c4 e7e5 d4e5 d5d4 g1f3 b8c6 g2g3 c8e6
+D09	Queen's Gambit Declined: Albin Countergambit, Fianchetto Variation, Bf5 Line	r2qkbnr/ppp2ppp/2n5/4Pb2/2Pp4/5NP1/PP2PP1P/RNBQKB1R w KQkq -	d2d4 d7d5 c2c4 e7e5 d4e5 d5d4 g1f3 b8c6 g2g3 c8f5
+D09	Queen's Gambit Declined: Albin Countergambit, Fianchetto Variation, Bg4 Line	r2qkbnr/ppp2ppp/2n5/4P3/2Pp2b1/5NP1/PP2PP1P/RNBQKB1R w KQkq -	d2d4 d7d5 c2c4 e7e5 d4e5 d5d4 g1f3 b8c6 g2g3 c8g4
+D09	Queen's Gambit Declined: Albin Countergambit, Fianchetto Variation	r1bqkbnr/ppp2ppp/2n5/4P3/2Pp4/5NP1/PP2PP1P/RNBQKB1R b KQkq -	d2d4 d7d5 c2c4 e7e5 d4e5 d5d4 g1f3 b8c6 g2g3
 D10	Slav Defense: Exchange Variation	rnbqkbnr/pp2pppp/2p5/3P4/3P4/8/PP2PPPP/RNBQKBNR b KQkq -	d2d4 d7d5 c2c4 c7c6 c4d5
 D10	Slav Defense	rnbqkbnr/pp2pppp/2p5/3p4/2PP4/2N5/PP2PPPP/R1BQKBNR b KQkq -	d2d4 d7d5 c2c4 c7c6 b1c3
 D10	Slav Defense	rnbqkbnr/pp2pppp/2p5/3p4/2PP4/8/PP2PPPP/RNBQKBNR w KQkq -	d2d4 d7d5 c2c4 c7c6
