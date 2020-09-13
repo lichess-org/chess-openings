@@ -48,6 +48,10 @@ def main(arg, db):
                 print(f"::error file={arg},line={lno}::{err}")
                 ret = 1
 
+            for blacklisted in ["refused"]:
+                if blacklisted in name.lower():
+                    print(f"::warning file={arg},line={lno}::blacklisted word ({blacklisted!r} in {name!r})")
+
     return ret
 
 
