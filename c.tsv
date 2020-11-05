@@ -388,7 +388,7 @@ C33	King's Gambit Accepted: Bishop's Gambit, Bogoljubov Variation	rnbqkb1r/pppp1
 C33	King's Gambit Accepted: Bishop's Gambit, Boren-Svenonius Variation	rnb1k1nr/ppp2ppp/3b4/3B4/4Pp1q/8/PPPP2PP/RNBQ1KNR w kq -	e2e4 e7e5 f2f4 e5f4 f1c4 d7d5 c4d5 d8h4 e1f1 f8d6
 C33	King's Gambit Accepted: Bishop's Gambit, Bryan Countergambit	rnb1kbnr/p1pp1ppp/8/1p6/2B1Pp1q/8/PPPP2PP/RNBQ1KNR w kq -	e2e4 e7e5 f2f4 e5f4 f1c4 d8h4 e1f1 b7b5
 C33	King's Gambit Accepted: Bishop's Gambit, Chigorin's Attack	rnb1kbnr/ppp2p1p/8/3B2p1/4Pp1q/6P1/PPPP3P/RNBQ1KNR b kq -	e2e4 e7e5 f2f4 e5f4 f1c4 d8h4 e1f1 d7d5 c4d5 g7g5 g2g3
-C33	King's Gambit Accepted: Bishop's Gambit, Classical Defense: Cozio Attack	rnb1kbnr/pppp1p1p/8/6p1/2B1Pp1q/5Q2/PPPP2PP/RNB2KNR b kq -	e2e4 e7e5 f2f4 e5f4 f1c4 d8h4 e1f1 g7g5 d1f3
+C33	King's Gambit Accepted: Bishop's Gambit, Classical Defense, Cozio Attack	rnb1kbnr/pppp1p1p/8/6p1/2B1Pp1q/5Q2/PPPP2PP/RNB2KNR b kq -	e2e4 e7e5 f2f4 e5f4 f1c4 d8h4 e1f1 g7g5 d1f3
 C33	King's Gambit Accepted: Bishop's Gambit, Classical Defense	rnb1k2r/ppppnpbp/8/6p1/2BPPp1q/2N5/PPP3PP/R1BQ1KNR w kq -	e2e4 e7e5 f2f4 e5f4 f1c4 d8h4 e1f1 g8e7 b1c3 g7g5 d2d4 f8g7
 C33	King's Gambit Accepted: Bishop's Gambit, Cozio Defense	rnbqkb1r/pppp1ppp/5n2/8/2B1Pp2/8/PPPP2PP/RNBQK1NR w KQkq -	e2e4 e7e5 f2f4 e5f4 f1c4 g8f6
 C33	King's Gambit Accepted: Bishop's Gambit, Cozio Variation	rnb1kbnr/ppp2ppp/3p4/8/2B1Pp1q/8/PPPP2PP/RNBQ1KNR w kq -	e2e4 e7e5 f2f4 e5f4 f1c4 d8h4 e1f1 d7d6
@@ -405,7 +405,6 @@ C33	King's Gambit Accepted: Bishop's Gambit, McDonnell Attack	rnb1k1nr/pppp1pbp/
 C33	King's Gambit Accepted: Bishop's Gambit, McDonnell Attack	rnb1k2r/ppppnpbp/8/6p1/2BPPp1q/2N3P1/PPP4P/R1BQ1KNR b kq -	e2e4 e7e5 f2f4 e5f4 f1c4 d8h4 e1f1 g7g5 b1c3 f8g7 d2d4 g8e7 g2g3
 C33	King's Gambit Accepted: Bishop's Gambit, Paulsen Attack	rnbqk2r/pppp1ppp/5n2/4P3/1bB2p2/2N5/PPPP2PP/R1BQK1NR b KQkq -	e2e4 e7e5 f2f4 e5f4 f1c4 g8f6 b1c3 f8b4 e4e5
 C33	King's Gambit Accepted: Bishop's Gambit	rnbqkbnr/pppp1ppp/8/8/2B1Pp2/8/PPPP2PP/RNBQK1NR b KQkq -	e2e4 e7e5 f2f4 e5f4 f1c4
-C33	King's Gambit Accepted: Bishop's Gambit (see: Jaenisch Variation)	rnb1kbnr/pppp1ppp/5q2/8/2B1Pp2/8/PPPP2PP/RNBQ1KNR w kq -	e2e4 e7e5 f2f4 e5f4 f1c4 d8h4 e1f1 h4f6
 C33	King's Gambit Accepted: Bishop's Gambit, Steinitz Defense	rnbqkb1r/ppppnppp/8/8/2B1Pp2/8/PPPP2PP/RNBQK1NR w KQkq -	e2e4 e7e5 f2f4 e5f4 f1c4 g8e7
 C33	King's Gambit Accepted: Breyer Gambit	rnbqkbnr/pppp1ppp/8/8/4Pp2/5Q2/PPPP2PP/RNB1KBNR b KQkq -	e2e4 e7e5 f2f4 e5f4 d1f3
 C33	King's Gambit Accepted: Carrera Gambit	rnbqkbnr/pppp1ppp/8/7Q/4Pp2/8/PPPP2PP/RNB1KBNR b KQkq -	e2e4 e7e5 f2f4 e5f4 d1h5
@@ -510,10 +509,10 @@ C39	King's Gambit Accepted: Kieseritzky Gambit, Paulsen Defense	rnbqk1nr/pppp1pb
 C39	King's Gambit Accepted: Kieseritzky Gambit, Rice Gambit	rnbqk2r/ppp2p1p/5n2/3Pb3/2B2ppP/8/PPPP2P1/RNBQ1RK1 w kq -	e2e4 e7e5 f2f4 e5f4 g1f3 g7g5 h2h4 g5g4 f3e5 g8f6 f1c4 d7d5 e4d5 f8d6 e1g1 d6e5
 C39	King's Gambit Accepted: Kieseritzky Gambit, Rosenthal Defense	rnb1kbnr/ppppqp1p/8/4N3/4PppP/8/PPPP2P1/RNBQKB1R w KQkq -	e2e4 e7e5 f2f4 e5f4 g1f3 g7g5 h2h4 g5g4 f3e5 d8e7
 C39	King's Gambit Accepted: Kieseritzky Gambit, Rubinstein Variation	rnbqkb1r/pppp1p1p/5n2/4N3/3PPppP/8/PPP3P1/RNBQKB1R b KQkq -	e2e4 e7e5 f2f4 e5f4 g1f3 g7g5 h2h4 g5g4 f3e5 g8f6 d2d4
-C39	King's Gambit Accepted: Kieseritzky, Long Whip Defense: Jaenisch Variation	rnbqk1n1/pppp1p1r/7b/4N2p/2BPPppP/2N5/PPP3P1/R1BQK2R b KQq -	e2e4 e7e5 f2f4 e5f4 g1f3 g7g5 h2h4 g5g4 f3e5 h7h5 f1c4 h8h7 d2d4 f8h6 b1c3
+C39	King's Gambit Accepted: Kieseritzky, Long Whip Defense, Jaenisch Variation	rnbqk1n1/pppp1p1r/7b/4N2p/2BPPppP/2N5/PPP3P1/R1BQK2R b KQq -	e2e4 e7e5 f2f4 e5f4 g1f3 g7g5 h2h4 g5g4 f3e5 h7h5 f1c4 h8h7 d2d4 f8h6 b1c3
 C39	King's Gambit Accepted: Kieseritzky, Polerio Defense	rnbqk1nr/ppppbp1p/8/4N3/4PppP/8/PPPP2P1/RNBQKB1R w KQkq -	e2e4 e7e5 f2f4 e5f4 g1f3 g7g5 h2h4 g5g4 f3e5 f8e7
 C39	King's Gambit Accepted: Kieseritzky, Rice Gambit	rnbqk2r/ppp2p1p/3b1n2/3PN3/2B2ppP/8/PPPP2P1/RNBQ1RK1 b kq -	e2e4 e7e5 f2f4 e5f4 g1f3 g7g5 h2h4 g5g4 f3e5 g8f6 f1c4 d7d5 e4d5 f8d6 e1g1
-C39	King's Gambit Accepted: Kieseritzky, Salvio Defense: Cozio Variation	rnb1kbnr/ppppq2p/8/4Np2/2BPPppP/8/PPP3P1/RNBQK2R b KQkq -	e2e4 e7e5 f2f4 e5f4 g1f3 g7g5 h2h4 g5g4 f3e5 d8e7 d2d4 f7f5 f1c4
+C39	King's Gambit Accepted: Kieseritzky, Salvio Defense, Cozio Variation	rnb1kbnr/ppppq2p/8/4Np2/2BPPppP/8/PPP3P1/RNBQK2R b KQkq -	e2e4 e7e5 f2f4 e5f4 g1f3 g7g5 h2h4 g5g4 f3e5 d8e7 d2d4 f7f5 f1c4
 C39	King's Gambit Accepted: King Knight's Gambit	rnbqkbnr/pppp1p1p/8/6p1/4Pp1P/5N2/PPPP2P1/RNBQKB1R b KQkq -	e2e4 e7e5 f2f4 e5f4 g1f3 g7g5 h2h4
 C40	Elephant Gambit: Maróczy Gambit	rnbqk1nr/ppp2ppp/3b4/3Pp3/8/5N2/PPPP1PPP/RNBQKB1R w KQkq -	e2e4 e7e5 g1f3 d7d5 e4d5 f8d6
 C40	Elephant Gambit: Paulsen Countergambit	rnbqkbnr/ppp2ppp/8/3P4/4p3/5N2/PPPP1PPP/RNBQKB1R w KQkq -	e2e4 e7e5 g1f3 d7d5 e4d5 e5e4

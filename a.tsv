@@ -328,7 +328,7 @@ A15	English Opening: Anglo-Indian Defense, Scandinavian Defense	rnbqkb1r/ppp1ppp
 A15	English Opening: Anglo-Indian Defense, Slav Formation	rnbqkb1r/pp1ppp1p/2p2np1/8/2P5/5NP1/PP1PPP1P/RNBQKB1R w KQkq -	g1f3 g8f6 c2c4 g7g6 g2g3 c7c6
 A15	English Orangutan	rnbqkb1r/pppppppp/5n2/8/1PP5/8/P2PPPPP/RNBQKBNR b KQkq -	c2c4 g8f6 b2b4
 A15	Polish Opening: King's Indian Variation, Sokolsky Attack	rnbq1rk1/ppp1ppbp/3p1np1/8/1PPP4/4PN2/PB3PPP/RN1QKB1R b KQ -	g1f3 g8f6 c2c4 g7g6 b2b4 f8g7 c1b2 e8g8 e2e3 d7d6 d2d4
-A16	English Opening: Anglo-Grünfeld Defense: Korchnoi Variation	rnbqk2r/ppp2pbp/6p1/3np3/8/2N2NP1/PP1PPPBP/R1BQK2R w KQkq -	g1f3 g8f6 c2c4 g7g6 b1c3 d7d5 c4d5 f6d5 g2g3 f8g7 f1g2 e7e5
+A16	English Opening: Anglo-Grünfeld Defense, Korchnoi Variation	rnbqk2r/ppp2pbp/6p1/3np3/8/2N2NP1/PP1PPPBP/R1BQK2R w KQkq -	g1f3 g8f6 c2c4 g7g6 b1c3 d7d5 c4d5 f6d5 g2g3 f8g7 f1g2 e7e5
 A16	English Opening: Anglo-Grünfeld Defense	rnbqkb1r/ppp1pppp/5n2/3p4/2P5/2N5/PP1PPPPP/R1BQKBNR w KQkq -	c2c4 g8f6 b1c3 d7d5
 A16	English Opening: Anglo-Indian Defense, Anglo-Grünfeld Variation	rnbqkb1r/ppp1pp1p/1n4p1/8/8/2N3P1/PP1PPPBP/R1BQK1NR w KQkq -	c2c4 g8f6 b1c3 d7d5 c4d5 f6d5 g2g3 g7g6 f1g2 d5b6
 A16	English Opening: Anglo-Indian Defense, Anglo-Grünfeld Variation	rnbqkb1r/ppp1pp1p/6p1/8/8/2n3P1/PP1PPPBP/R1BQK1NR w KQkq -	c2c4 g8f6 b1c3 d7d5 c4d5 f6d5 g2g3 g7g6 f1g2 d5c3
@@ -713,7 +713,7 @@ A92	Dutch Defense: Stonewall	rnbq1rk1/ppp1b1pp/4pn2/3p1p2/2PP4/2N2NP1/PP2PPBP/R1
 A93	Dutch Defense: Classical Variation, Stonewall Variation, Botvinnik Variation	rnbq1rk1/ppp1b1pp/4pn2/3p1p2/2PP4/1P3NP1/P3PPBP/RNBQ1RK1 b - -	d2d4 e7e6 c2c4 f7f5 g2g3 g8f6 f1g2 f8e7 g1f3 d7d5 e1g1 e8g8 b2b3
 A94	Dutch Defense: Classical Variation, Stonewall Variation	rnbq1rk1/pp2b1pp/2p1pn2/3p1p2/2PP4/BP3NP1/P3PPBP/RN1Q1RK1 b - -	d2d4 e7e6 c2c4 f7f5 g2g3 g8f6 f1g2 f8e7 g1f3 d7d5 e1g1 e8g8 b2b3 c7c6 c1a3
 A95	Dutch Defense: Classical Variation, Stonewall Variation	rnbq1rk1/pp2b1pp/2p1pn2/3p1p2/2PP4/2N2NP1/PP2PPBP/R1BQ1RK1 w - -	d2d4 e7e6 c2c4 f7f5 g2g3 g8f6 f1g2 d7d5 g1f3 f8e7 e1g1 e8g8 b1c3 c7c6
-A95	Dutch Defense: Stonewall: Chekhover Variation	rnb1qrk1/pp2b1pp/2p1pn2/3p1pB1/2PP4/2N2NP1/PPQ1PPBP/R4RK1 b - -	d2d4 f7f5 c2c4 g8f6 g2g3 e7e6 f1g2 f8e7 g1f3 e8g8 e1g1 d7d5 b1c3 c7c6 d1c2 d8e8 c1g5
+A95	Dutch Defense: Stonewall, Chekhover Variation	rnb1qrk1/pp2b1pp/2p1pn2/3p1pB1/2PP4/2N2NP1/PPQ1PPBP/R4RK1 b - -	d2d4 f7f5 c2c4 g8f6 g2g3 e7e6 f1g2 f8e7 g1f3 e8g8 e1g1 d7d5 b1c3 c7c6 d1c2 d8e8 c1g5
 A96	Dutch Defense: Classical Variation, Buenos Aires Variation	rnbq1rk1/1pp1b1pp/3ppn2/p4p2/2PP4/2N2NP1/PP2PPBP/R1BQ1RK1 w - -	d2d4 e7e6 c2c4 f7f5 g2g3 g8f6 f1g2 f8e7 g1f3 e8g8 e1g1 d7d6 b1c3 a7a5
 A96	Dutch Defense: Classical Variation, Huisl Variation	rnbq1rk1/ppp1b1pp/3pp3/5p2/2PPn3/2N2NP1/PP2PPBP/R1BQ1RK1 w - -	d2d4 e7e6 c2c4 f7f5 g2g3 g8f6 f1g2 f8e7 g1f3 e8g8 e1g1 d7d6 b1c3 f6e4
 A96	Dutch Defense: Classical Variation	rnbq1rk1/ppp1b1pp/3ppn2/5p2/2PP4/5NP1/PP2PPBP/RNBQ1RK1 w - -	d2d4 e7e6 c2c4 f7f5 g2g3 g8f6 f1g2 f8e7 g1f3 e8g8 e1g1 d7d6
