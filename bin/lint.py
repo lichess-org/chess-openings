@@ -27,6 +27,9 @@ def main(arg, db):
             eco, name, fen, moves = cols
             moves = moves.split(" ")
 
+            if name.count(":") > 1:
+                print(f"::warning file={arg},line={lno}::multiple ':' in name: {name}")
+
             if fen in db:
                 print(f"::warning file={arg},line={lno}::duplicate fen: {db[fen]}")
             else:
