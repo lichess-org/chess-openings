@@ -7,5 +7,6 @@ jobs:
     runs-on: ubuntu-latest
     steps:
     - uses: actions/checkout@v2
-    - run: pip3 install python-chess
+    - run: python3 --version
+    - run: pip3 install -r bin/requirements.txt
     - run: python3 bin/lint.py a.tsv b.tsv c.tsv d.tsv e.tsv
