@@ -7,6 +7,8 @@ jobs:
     runs-on: ubuntu-latest
     steps:
     - uses: actions/checkout@v2
-    - run: python3 --version
-    - run: pip3 install -r bin/requirements.txt
-    - run: python3 bin/lint.py a.tsv b.tsv c.tsv d.tsv e.tsv
+    - uses: actions/setup-python@v2
+      with:
+        python-version: 3.9
+    - run: pip install -r bin/requirements.txt
+    - run: python bin/lint.py a.tsv b.tsv c.tsv d.tsv e.tsv
