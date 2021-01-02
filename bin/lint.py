@@ -8,6 +8,7 @@ import sys
 def main(arg, db):
     ret = 0
     prev_eco = ""
+    prev_name = ""
 
     with open(arg) as f:
         for lno, line in zip(itertools.count(1), f):
@@ -37,8 +38,10 @@ def main(arg, db):
 
             if eco < prev_eco:
                 print(f"::warning file={arg},line={lno}::not ordered by eco ({eco} after {prev_eco})")
-            else:
-                prev_eco = eco
+            elif (eco, name) < (prev_eco, prev_name):
+                print(f"::warning file={arg},line={lno}::not ordered by name ({name!r} after {prev_name!r})")
+            prev_eco = eco
+            prev_name = name
 
             try:
                 board = chess.Board()
