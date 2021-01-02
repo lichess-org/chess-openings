@@ -19,3 +19,8 @@ Copyright
 ---------
 
 As a collection of facts, this data set is in the public domain.
+Considerable effort was spent curating and cleaning the data. Insofar as that
+qualifies for copyright, the work is released under the
+CC0 Public Domain Dedication.
+
+[![CC0](https://i.creativecommons.org/p/zero/1.0/88x31.png)](https://creativecommons.org/publicdomain/zero/1.0/)
