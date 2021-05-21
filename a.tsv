@@ -4,8 +4,8 @@ A00	Amar Opening	rnbqkbnr/pppppppp/8/8/8/7N/PPPPPPPP/RNBQKB1R b KQkq -	g1h3
 A00	Amar Opening: Gent Gambit	rn1qkbnr/ppp2ppp/8/3p4/8/6PB/PPPPP3/RNBQ1RK1 b kq -	g1h3 d7d5 g2g3 e7e5 f2f4 c8h3 f1h3 e5f4 e1g1 f4g3 h2g3
 A00	Amar Opening: Paris Gambit	rnbqkbnr/ppp2ppp/8/3pp3/5P2/6PN/PPPPP2P/RNBQKB1R b KQkq -	g1h3 d7d5 g2g3 e7e5 f2f4
 A00	Amsterdam Attack	r1bqkb1r/ppp2ppp/2np1n2/4p3/2P5/1PN1P3/P2P1PPP/R1BQKBNR w KQkq -	e2e3 e7e5 c2c4 d7d6 b1c3 b8c6 b2b3 g8f6
-A00	Anderssen Opening	rnbqkbnr/pppppppp/8/8/8/P7/1PPPPPPP/RNBQKBNR b KQkq -	a2a3
-A00	Anderssen Opening: Polish Gambit	rnbqkbnr/1ppppppp/8/p7/1P6/P7/2PPPPPP/RNBQKBNR b KQkq -	a2a3 a7a5 b2b4
+A00	Anderssen's Opening	rnbqkbnr/pppppppp/8/8/8/P7/1PPPPPPP/RNBQKBNR b KQkq -	a2a3
+A00	Anderssen's Opening: Polish Gambit	rnbqkbnr/1ppppppp/8/p7/1P6/P7/2PPPPPP/RNBQKBNR b KQkq -	a2a3 a7a5 b2b4
 A00	Barnes Opening: Fool's Mate	rnb1kbnr/pppp1ppp/8/4p3/6Pq/5P2/PPPPP2P/RNBQKBNR w KQkq -	f2f3 e7e5 g2g4 d8h4
 A00	Barnes Opening: Gedult Gambit	rnbqkbnr/ppp1pp1p/6p1/8/3Pp3/2P2P2/PP4PP/RNBQKBNR b KQkq -	f2f3 d7d5 e2e4 g7g6 d2d4 d5e4 c2c3
 A00	Barnes Opening: Gedult Gambit	rnbqkbnr/ppppp1pp/8/8/4p3/2N2P2/PPPP2PP/R1BQKBNR b KQkq -	f2f3 f7f5 e2e4 f5e4 b1c3
