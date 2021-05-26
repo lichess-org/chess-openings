@@ -10,7 +10,6 @@ A00	Barnes Opening: Fool's Mate	rnb1kbnr/pppp1ppp/8/4p3/6Pq/5P2/PPPPP2P/RNBQKBNR
 A00	Barnes Opening: Gedult Gambit	rnbqkbnr/ppp1pp1p/6p1/8/3Pp3/2P2P2/PP4PP/RNBQKBNR b KQkq -	f2f3 d7d5 e2e4 g7g6 d2d4 d5e4 c2c3
 A00	Barnes Opening: Gedult Gambit	rnbqkbnr/ppppp1pp/8/8/4p3/2N2P2/PPPP2PP/R1BQKBNR b KQkq -	f2f3 f7f5 e2e4 f5e4 b1c3
 A00	Barnes Opening: Hammerschlag	rnbqkbnr/pppp1ppp/8/4p3/8/5P2/PPPPPKPP/RNBQ1BNR b kq -	f2f3 e7e5 e1f2
-A00	Caro-Kann Defense: Labahn Attack	rnbqkbnr/pp1ppppp/2p5/8/1P2P3/8/P1PP1PPP/RNBQKBNR b KQkq -	b2b4 c7c6 e2e4
 A00	Clemenz Opening	rnbqkbnr/pppppppp/8/8/8/7P/PPPPPPP1/RNBQKBNR b KQkq -	h2h3
 A00	Clemenz Opening: Spike Lee Gambit	rnbqkbnr/ppppppp1/8/7p/6P1/7P/PPPPPP2/RNBQKBNR b KQkq -	h2h3 h7h5 g2g4
 A00	Crab Opening	rnbqkbnr/pppp1ppp/8/4p3/P6P/8/1PPPPPP1/RNBQKBNR b KQkq -	a2a4 e7e5 h2h4
