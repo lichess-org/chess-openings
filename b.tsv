@@ -270,6 +270,7 @@ B10	Caro-Kann Defense: Goldman Variation	rnbqkbnr/pp2pppp/2p5/3p4/4P3/2N2Q2/PPPP
 B10	Caro-Kann Defense: Hector Gambit	rnbqkbnr/pp2pppp/2p5/6N1/4p3/2N5/PPPP1PPP/R1BQKB1R b KQkq -	e2e4 c7c6 b1c3 d7d5 g1f3 d5e4 f3g5
 B10	Caro-Kann Defense: Hillbilly Attack	rnbqkbnr/pp1ppppp/2p5/8/2B1P3/8/PPPP1PPP/RNBQK1NR b KQkq -	e2e4 c7c6 f1c4
 B10	Caro-Kann Defense: Hillbilly Attack, Schaeffer Gambit	rnbqkbnr/pp2pppp/2p5/7Q/4p3/1B6/PPPP1PPP/RNB1K1NR b KQkq -	e2e4 c7c6 f1c4 d7d5 c4b3 d5e4 d1h5
+B10	Caro-Kann Defense: Labahn Attack	rnbqkbnr/pp1ppppp/2p5/8/1P2P3/8/P1PP1PPP/RNBQKBNR b KQkq -	e2e4 c7c6 b2b4
 B10	Caro-Kann Defense: Labahn Attack, Double Gambit	rnbqkbnr/pp2pppp/2p5/1P1p4/4P3/8/P1PP1PPP/RNBQKBNR b KQkq -	e2e4 c7c6 b2b4 d7d5 b4b5
 B10	Caro-Kann Defense: Labahn Attack, Polish Variation	rnbqkbnr/pp1p1ppp/2p5/4p3/1P2P3/8/PBPP1PPP/RN1QKBNR b KQkq -	e2e4 c7c6 b2b4 e7e5 c1b2
 B10	Caro-Kann Defense	rnbqkbnr/pp1ppppp/2p5/8/4P3/2N5/PPPP1PPP/R1BQKBNR b KQkq -	e2e4 c7c6 b1c3
