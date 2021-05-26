@@ -580,6 +580,7 @@ B50	Sicilian Defense: Delayed Alapin	rnbqkbnr/pp2pppp/3p4/2p5/4P3/2P2N2/PP1P1PPP
 B50	Sicilian Defense: Delayed Alapin, Basman-Palatnik Double Gambit	r1b1kb1r/pp2pppp/2np4/q2P4/8/2P2N2/P3BPPP/R1BQK2R b KQkq -	e2e4 c7c5 g1f3 d7d6 c2c3 g8f6 f1e2 b8c6 d2d4 c5d4 c3d4 f6e4 d4d5 d8a5 b1c3 e4c3 b2c3
 B50	Sicilian Defense: Delayed Alapin, Basman-Palatnik Gambit	r1bqkb1r/pp2pppp/2np4/8/3Pn3/5N2/PP2BPPP/RNBQK2R w KQkq -	e2e4 c7c5 g1f3 d7d6 c2c3 g8f6 f1e2 b8c6 d2d4 c5d4 c3d4 f6e4
 B50	Sicilian Defense: Kotov Gambit	rnbqkbnr/p3pppp/3p4/1pp5/4P3/5NP1/PPPP1P1P/RNBQKB1R w KQkq -	e2e4 c7c5 g1f3 d7d6 g2g3 b7b5
+B56	Sicilian Defense: Modern Variations	rnbqkbnr/pp2pppp/3p4/2p5/4P3/5N2/PPPP1PPP/RNBQKB1R w KQkq -	e2e4 c7c5 g1f3 d7d6
 B50	Sicilian Defense: Modern Variations, Anti-Qxd4 Move Order	rnbqkb1r/pp2pppp/3p1n2/2p5/3PP3/5N2/PPP2PPP/RNBQKB1R w KQkq -	e2e4 c7c5 g1f3 d7d6 d2d4 g8f6
 B50	Sicilian Defense: Modern Variations, Anti-Qxd4 Move Order Accepted	rnbqkb1r/pp2pppp/3p4/2P5/4n3/5N2/PPP2PPP/RNBQKB1R w KQkq -	e2e4 c7c5 g1f3 d7d6 d2d4 g8f6 d4c5 f6e4
 B50	Sicilian Defense: Modern Variations, Tartakower	rnbqkbnr/pp2pppp/3p4/8/3pP3/2P2N2/PP3PPP/RNBQKB1R b KQkq -	e2e4 c7c5 g1f3 d7d6 d2d4 c5d4 c2c3
@@ -593,13 +594,13 @@ B52	Sicilian Defense: Moscow Variation, Sokolsky Variation	rn2kbnr/pp1qpppp/3p4/
 B53	Sicilian Defense: Chekhover Variation	rnbqkbnr/pp2pppp/3p4/8/3QP3/5N2/PPP2PPP/RNB1KB1R b KQkq -	e2e4 c7c5 g1f3 d7d6 d2d4 c5d4 d1d4
 B53	Sicilian Defense: Chekhover Variation, Zaitsev Defense	r1b1kbnr/pp1qpppp/2np4/1B6/3QP3/5N2/PPP2PPP/RNB1K2R w KQkq -	e2e4 c7c5 g1f3 d7d6 d2d4 c5d4 d1d4 b8c6 f1b5 d8d7
 B54	Sicilian Defense: Accelerated Dragon	rnbqkbnr/pp2pp1p/3p2p1/8/3NP3/8/PPP2PPP/RNBQKB1R w KQkq -	e2e4 c7c5 g1f3 d7d6 d2d4 c5d4 f3d4 g7g6
+B54 Sicilian Defense: Modern Variations, Ginsberg Gambit  rnbqkb1r/pp2pppp/3p1n2/8/2BNP3/8/PPP2PPP/RNBQK2R b KQkq -	e2e4 c7c5 g1f3 d7d6 d2d4 c5d4 f3d4 g8f6 f1c4
 B54	Sicilian Defense: Modern Variations, Main Line	rnbqkb1r/pp2pppp/3p1n2/8/3NP3/8/PPP2PPP/RNBQKB1R w KQkq -	e2e4 c7c5 g1f3 d7d6 d2d4 c5d4 f3d4 g8f6
 B54	Sicilian Defense: Prins Variation	rnbqkb1r/pp2pppp/3p1n2/8/3NP3/5P2/PPP3PP/RNBQKB1R b KQkq -	e2e4 c7c5 g1f3 d7d6 d2d4 c5d4 f3d4 g8f6 f2f3
 B55	Sicilian Defense: Prins Variation, Venice Attack	rnbqkb1r/pp3ppp/3p1n2/1B2p3/3NP3/5P2/PPP3PP/RNBQK2R b KQkq -	e2e4 c7c5 g1f3 d7d6 d2d4 c5d4 f3d4 g8f6 f2f3 e7e5 f1b5
 B56	Sicilian Defense: Classical Variation	r1bqkb1r/pp2pppp/2np1n2/8/3NP3/2N5/PPP2PPP/R1BQKB1R w KQkq -	e2e4 c7c5 g1f3 d7d6 d2d4 c5d4 f3d4 g8f6 b1c3 b8c6
 B56	Sicilian Defense: Classical Variation, Fianchetto Variation	r1bqkb1r/pp2pppp/2np1n2/8/3NP3/2N3P1/PPP2P1P/R1BQKB1R b KQkq -	e2e4 c7c5 g1f3 d7d6 d2d4 c5d4 f3d4 g8f6 b1c3 b8c6 g2g3
 B56	Sicilian Defense: Kupreichik Variation	rn1qkb1r/pp1bpppp/3p1n2/8/3NP3/2N5/PPP2PPP/R1BQKB1R w KQkq -	e2e4 c7c5 g1f3 d7d6 d2d4 c5d4 f3d4 g8f6 b1c3 c8d7
-B56	Sicilian Defense: Modern Variations	rnbqkb1r/pp2pppp/3p1n2/8/3NP3/2N5/PPP2PPP/R1BQKB1R b KQkq -	e2e4 c7c5 g1f3 d7d6 d2d4 c5d4 f3d4 g8f6 b1c3
 B56	Sicilian Defense: Spielmann Variation	r1bqkb1r/pp2pppp/2np1n2/8/4P3/2N5/PPP1NPPP/R1BQKB1R b KQkq -	e2e4 c7c5 g1f3 b8c6 d2d4 c5d4 f3d4 g8f6 b1c3 d7d6 d4e2
 B56	Sicilian Defense: Venice Attack	rnbqkb1r/pp3ppp/3p1n2/1B2p3/3NP3/2N5/PPP2PPP/R1BQK2R b KQkq -	e2e4 c7c5 g1f3 d7d6 d2d4 c5d4 f3d4 g8f6 b1c3 e7e5 f1b5
 B56	Sicilian Defense: Yates Variation	r1bqkb1r/pp2pppp/2np1n2/8/3NP3/2NB4/PPP2PPP/R1BQK2R b KQkq -	e2e4 c7c5 g1f3 b8c6 d2d4 c5d4 f3d4 g8f6 b1c3 d7d6 f1d3
