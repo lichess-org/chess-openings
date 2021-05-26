@@ -593,8 +593,8 @@ B52	Sicilian Defense: Moscow Variation, Sokolsky Variation	rn2kbnr/pp1qpppp/3p4/
 B53	Sicilian Defense: Chekhover Variation	rnbqkbnr/pp2pppp/3p4/8/3QP3/5N2/PPP2PPP/RNB1KB1R b KQkq -	e2e4 c7c5 g1f3 d7d6 d2d4 c5d4 d1d4
 B53	Sicilian Defense: Chekhover Variation, Zaitsev Defense	r1b1kbnr/pp1qpppp/2np4/1B6/3QP3/5N2/PPP2PPP/RNB1K2R w KQkq -	e2e4 c7c5 g1f3 d7d6 d2d4 c5d4 d1d4 b8c6 f1b5 d8d7
 B54	Sicilian Defense: Accelerated Dragon	rnbqkbnr/pp2pp1p/3p2p1/8/3NP3/8/PPP2PPP/RNBQKB1R w KQkq -	e2e4 c7c5 g1f3 d7d6 d2d4 c5d4 f3d4 g7g6
-B54 Sicilian Defense: Modern Variations, Ginsberg Gambit  rnbqkb1r/pp2pppp/3p1n2/8/2BNP3/8/PPP2PPP/RNBQK2R b KQkq -	e2e4 c7c5 g1f3 d7d6 d2d4 c5d4 f3d4 g8f6 f1c4
-B54	Sicilian Defense: Modern Variations, Main Line	rnbqkb1r/pp2pppp/3p1n2/8/3NP3/8/PPP2PPP/RNBQKB1R w KQkq -	e2e4 c7c5 g1f3 d7d6 d2d4 c5d4 f3d4 g8f6
+B54 Sicilian Defense: Modern Variations, Ginsberg Gambit  rnbqkb1r/pp2pppp/3p1n2/8/2BNP3/8/PPP2PPP/RNBQK2R b KQkq - e2e4 c7c5 g1f3 d7d6 d2d4 c5d4 f3d4 g8f6 f1c4
+B54 Sicilian Defense: Modern Variations, Main Line	rnbqkb1r/pp2pppp/3p1n2/8/3NP3/8/PPP2PPP/RNBQKB1R w KQkq -	e2e4 c7c5 g1f3 d7d6 d2d4 c5d4 f3d4 g8f6
 B54	Sicilian Defense: Prins Variation	rnbqkb1r/pp2pppp/3p1n2/8/3NP3/5P2/PPP3PP/RNBQKB1R b KQkq -	e2e4 c7c5 g1f3 d7d6 d2d4 c5d4 f3d4 g8f6 f2f3
 B55	Sicilian Defense: Prins Variation, Venice Attack	rnbqkb1r/pp3ppp/3p1n2/1B2p3/3NP3/5P2/PPP3PP/RNBQK2R b KQkq -	e2e4 c7c5 g1f3 d7d6 d2d4 c5d4 f3d4 g8f6 f2f3 e7e5 f1b5
 B56	Sicilian Defense: Classical Variation	r1bqkb1r/pp2pppp/2np1n2/8/3NP3/2N5/PPP2PPP/R1BQKB1R w KQkq -	e2e4 c7c5 g1f3 d7d6 d2d4 c5d4 f3d4 g8f6 b1c3 b8c6
