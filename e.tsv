@@ -159,8 +159,8 @@ E48	Nimzo-Indian Defense: Ragozin Defense	r1bq1rk1/ppp2ppp/2n1pn2/3p4/1bPP4/2NBP
 E49	Nimzo-Indian Defense: Normal Variation, Botvinnik System	rnbq1rk1/ppp2ppp/4pn2/3p4/2PP4/P1PBP3/5PPP/R1BQK1NR b KQ -	d2d4 g8f6 c2c4 e7e6 b1c3 f8b4 e2e3 e8g8 f1d3 d7d5 a2a3 b4c3 b2c3
 E50	Nimzo-Indian Defense	rnbq1rk1/pppp1ppp/4pn2/8/1bPP4/2N1PN2/PP3PPP/R1BQKB1R b KQ -	d2d4 g8f6 c2c4 e7e6 b1c3 f8b4 e2e3 e8g8 g1f3
 E51	Nimzo-Indian Defense: Normal Variation, Ragozin Variation	rnbq1rk1/ppp2ppp/4pn2/3p4/1bPP4/2N1PN2/PP3PPP/R1BQKB1R w KQ -	d2d4 g8f6 c2c4 e7e6 b1c3 f8b4 e2e3 e8g8 g1f3 d7d5
-E51	Nimzo-Indian Defense: Ragozin Variation	r1bq1rk1/ppp2ppp/2n1pn2/8/1bpP4/2NBPN2/PP3PPP/R1BQ1RK1 w - -	d2d4 g8f6 c2c4 e7e6 b1c3 f8b4 e2e3 e8g8 f1d3 d7d5 g1f3 b8c6 e1g1 d5c4
 E51	Nimzo-Indian Defense: Normal Variation, Sämisch Deferred	rnbq1rk1/ppp2ppp/4pn2/3p4/1bPP4/P1N1PN2/1P3PPP/R1BQKB1R b KQ -	d2d4 g8f6 c2c4 e7e6 b1c3 f8b4 e2e3 e8g8 g1f3 d7d5 a2a3
+E51	Nimzo-Indian Defense: Ragozin Variation	r1bq1rk1/ppp2ppp/2n1pn2/8/1bpP4/2NBPN2/PP3PPP/R1BQ1RK1 w - -	d2d4 g8f6 c2c4 e7e6 b1c3 f8b4 e2e3 e8g8 f1d3 d7d5 g1f3 b8c6 e1g1 d5c4
 E52	Nimzo-Indian Defense: Normal Variation, Schlechter Defense	rnbq1rk1/p1p2ppp/1p2pn2/3p4/1bPP4/2NBPN2/PP3PPP/R1BQK2R w KQ -	d2d4 g8f6 c2c4 e7e6 b1c3 f8b4 e2e3 e8g8 f1d3 d7d5 g1f3 b7b6
 E53	Nimzo-Indian Defense: Normal Variation, Gligoric System	rnbq1rk1/pp3ppp/4pn2/2pp4/1bPP4/2NBPN2/PP3PPP/R1BQK2R w KQ -	d2d4 g8f6 c2c4 e7e6 b1c3 f8b4 e2e3 e8g8 f1d3 d7d5 g1f3 c7c5
 E53	Nimzo-Indian Defense: Normal Variation, Gligoric System	r1bq1rk1/pp1n1ppp/4pn2/2pp4/1bPP4/2NBPN2/PP3PPP/R1BQ1RK1 w - -	d2d4 g8f6 c2c4 e7e6 b1c3 f8b4 e2e3 e8g8 f1d3 d7d5 g1f3 c7c5 e1g1 b8d7
