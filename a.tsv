@@ -462,7 +462,6 @@ A40	Queen's Pawn Game	rnbqkbnr/pppppppp/8/8/3P4/8/PPP1PPPP/RNBQKBNR b KQkq -	d2d
 A40	Queen's Pawn Game: Anglo-Slav Opening	rnbqkbnr/pp2pppp/2pp4/8/2PP4/8/PP2PPPP/RNBQKBNR w KQkq -	d2d4 c7c6 c2c4 d7d6
 A40	Queen's Pawn Game: Englund Gambit	r1b1kb1r/ppppq1pp/2n2n2/3Q4/8/5N2/PPP1PPPP/RNB1KB1R w KQkq -	d2d4 e7e5 d4e5 b8c6 g1f3 d8e7 d1d5 f7f6 e5f6 g8f6
 A40	Queen's Pawn Game: London System, Pterodactyl Variation	rnb1k1nr/pp1pppbp/6p1/q7/3P1B2/5N2/PP2PPPP/RN1QKB1R w KQkq -	d2d4 g7g6 g1f3 f8g7 c1f4 c7c5 c2c3 c5d4 c3d4 d8a5
-A40	Queen's Pawn Game: Veresov Attack, Fianchetto Defense	rnbqk1nr/ppp1ppbp/6p1/3p4/3P4/2N2N2/PPP1PPPP/R1BQKB1R w KQkq -	d2d4 g7g6 g1f3 f8g7 b1c3 d7d5
 A40	Slav Indian: Kudischewitsch Gambit	rnbqkb1r/p2ppppp/2p2n2/1p6/2PP4/5N2/PP2PPPP/RNBQKB1R w KQkq -	d2d4 c7c6 g1f3 g8f6 c2c4 b7b5
 A40	St. George Defense: Polish Variation	rn1qkbnr/1bpp1ppp/p3p3/1p6/3PP3/3B1N2/PPP2PPP/RNBQK2R w KQkq -	d2d4 b7b5 e2e4 a7a6 g1f3 c8b7 f1d3 e7e6
 A40	Zaire Defense	rnbqkbnr/pppppppp/8/3PP3/8/8/PPP2PPP/RNBQKBNR w KQkq -	d2d4 b8c6 d4d5 c6b8 e2e4 g8f6 e4e5 f6g8
