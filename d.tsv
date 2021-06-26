@@ -44,7 +44,11 @@ D00	Queen's Pawn Game	rnbqkbnr/ppp1pppp/8/3p4/3P4/4P3/PPP2PPP/RNBQKBNR b KQkq -	
 D00	Queen's Pawn Game	rnbqkb1r/ppp1pppp/5n2/3p4/3P4/4P3/PPP2PPP/RNBQKBNR w KQkq -	d2d4 d7d5 e2e3 g8f6
 D00	Queen's Pawn Game: Chigorin Variation	rnbqkbnr/ppp1pppp/8/3p4/3P4/2N5/PPP1PPPP/R1BQKBNR b KQkq -	d2d4 d7d5 b1c3
 D00	Queen's Pawn Game: Chigorin Variation, Alburt Defense	rn1qkbnr/ppp1pppp/8/3p1b2/3P4/2N5/PPP1PPPP/R1BQKBNR w KQkq -	d2d4 d7d5 b1c3 c8f5
+D00	Queen's Pawn Game: Chigorin Variation, Anti-Veresov	rn1qkbnr/ppp1pppp/8/3p4/3P2b1/2N5/PPP1PPPP/R1BQKBNR w KQkq -	d2d4 d7d5 b1c3 c8g4
 D00	Queen's Pawn Game: Chigorin Variation, Fianchetto Defense	rnbqk1nr/ppp1ppbp/6p1/3p4/3P4/2N2N2/PPP1PPPP/R1BQKB1R w KQkq -	d2d4 g7g6 g1f3 f8g7 b1c3 d7d5
+D00	Queen's Pawn Game: Chigorin Variation, Irish Gambit	rnbqkbnr/pp2pppp/8/2pp4/3P4/2N5/PPP1PPPP/R1BQKBNR w KQkq -	d2d4 d7d5 b1c3 c7c5
+D00	Queen's Pawn Game: Chigorin Variation, Shaviliuk Gambit	rnbqkbnr/ppp2ppp/8/3pp3/3P4/2N5/PPP1PPPP/R1BQKBNR w KQkq -	d2d4 d7d5 b1c3 e7e5
+D00	Queen's Pawn Game: Chigorin Variation, Shropshire Defense	rnbqkbnr/ppp1ppp1/8/3p3p/3P4/2N5/PPP1PPPP/R1BQKBNR w KQkq -	d2d4 d7d5 b1c3 h7h5
 D00	Queen's Pawn Game: Hübsch Gambit	rnbqkb1r/ppp1pppp/8/3p4/3Pn3/2N5/PPP2PPP/R1BQKBNR w KQkq -	d2d4 g8f6 b1c3 d7d5 e2e4 f6e4
 D00	Queen's Pawn Game: Levitsky Attack	rnbqkbnr/ppp1pppp/8/3p2B1/3P4/8/PPP1PPPP/RN1QKBNR b KQkq -	d2d4 d7d5 c1g5
 D00	Queen's Pawn Game: Levitsky Attack, Welling Variation	rn1qkbnr/ppp1pppp/8/3p2B1/3P2b1/8/PPP1PPPP/RN1QKBNR w KQkq -	d2d4 d7d5 c1g5 c8g4
@@ -53,10 +57,6 @@ D00	Queen's Pawn Game: Mason Variation	rnbqkbnr/ppp1pppp/8/3p4/3P1B2/8/PPP1PPPP/
 D00	Queen's Pawn Game: Morris Countergambit	rnbqkbnr/pp2pppp/8/2pp4/3PPB2/8/PPP2PPP/RN1QKBNR b KQkq -	d2d4 d7d5 c1f4 c7c5 e2e4
 D00	Queen's Pawn Game: Steinitz Countergambit	rnbqkbnr/pp2pppp/8/2pp4/3P1B2/8/PPP1PPPP/RN1QKBNR w KQkq -	d2d4 d7d5 c1f4 c7c5
 D00	Queen's Pawn Game: Stonewall Attack	rnbqkb1r/ppp1pppp/5n2/3p4/3P4/3BP3/PPP2PPP/RNBQK1NR b KQkq -	d2d4 d7d5 e2e3 g8f6 f1d3
-D00	Queen's Pawn Game: Veresov Attack, Anti-Veresov	rn1qkbnr/ppp1pppp/8/3p4/3P2b1/2N5/PPP1PPPP/R1BQKBNR w KQkq -	d2d4 d7d5 b1c3 c8g4
-D00	Queen's Pawn Game: Veresov Attack, Irish Gambit	rnbqkbnr/pp2pppp/8/2pp4/3P4/2N5/PPP1PPPP/R1BQKBNR w KQkq -	d2d4 d7d5 b1c3 c7c5
-D00	Queen's Pawn Game: Veresov Attack, Shaviliuk Gambit	rnbqkbnr/ppp2ppp/8/3pp3/3P4/2N5/PPP1PPPP/R1BQKBNR w KQkq -	d2d4 d7d5 b1c3 e7e5
-D00	Queen's Pawn Game: Veresov Attack, Shropshire Defense	rnbqkbnr/ppp1ppp1/8/3p3p/3P4/2N5/PPP1PPPP/R1BQKBNR w KQkq -	d2d4 d7d5 b1c3 h7h5
 D00	Queen's Pawn Game: Zurich Gambit	rnbqkbnr/ppp1pppp/8/3p4/3P2P1/8/PPP1PP1P/RNBQKBNR b KQkq -	d2d4 d7d5 g2g4
 D01	Queen's Pawn Game: Veresov Attack, Boyce Defense	rnbqkb1r/ppp1pppp/8/3p2B1/3Pn3/2N5/PPP1PPPP/R2QKBNR w KQkq -	d2d4 g8f6 b1c3 d7d5 c1g5 f6e4
 D01	Queen's Pawn Game: Veresov Attack, Richter Variation	rn1qkb1r/ppp1pppp/5n2/3p1bB1/3P4/2N2P2/PPP1P1PP/R2QKBNR b KQkq -	d2d4 g8f6 b1c3 d7d5 c1g5 c8f5 f2f3
