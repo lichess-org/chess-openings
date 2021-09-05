@@ -54,11 +54,11 @@ def main(arg, db):
                 if blacklisted in name.lower():
                     print(f"::warning file={arg},line={lno}::blacklisted word ({blacklisted!r} in {name!r})", file=sys.stderr)
 
-            fen = board.epd()
-            if fen in db:
-                print(f"::warning file={arg},line={lno}::duplicate fen: {db[fen]}", file=sys.stderr)
+            epd = board.epd()
+            if epd in db:
+                print(f"::warning file={arg},line={lno}::duplicate epd: {db[epd]}", file=sys.stderr)
             else:
-                db[fen] = cols
+                db[epd] = cols
 
             if eco < prev_eco:
                 print(f"::warning file={arg},line={lno}::not ordered by eco ({eco} after {prev_eco})", file=sys.stderr)
@@ -67,7 +67,7 @@ def main(arg, db):
             prev_eco = eco
             prev_name = name
 
-            print(eco, name, clean_pgn, " ".join(m.uci() for m in board.move_stack), fen, sep="\t")
+            print(eco, name, clean_pgn, " ".join(m.uci() for m in board.move_stack), epd, sep="\t")
 
     return ret
 
