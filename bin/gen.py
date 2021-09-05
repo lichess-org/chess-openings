@@ -1,10 +1,17 @@
 #!/usr/bin/python3
 
-import chess
-import chess.pgn
 import io
 import itertools
 import sys
+
+try:
+    import chesss
+    import chess.pgn
+except ImportError:
+    print("Need python-chess:", file=sys.stderr)
+    print("$ pip3 install chess", file=sys.stderr)
+    print(file=sys.stderr)
+    raise
 
 
 def main(arg, db):
