@@ -558,7 +558,7 @@ C41	Philidor Defense	rnbqkbnr/ppp2ppp/3p4/4p3/4P3/5N2/PPPP1PPP/RNBQKB1R w KQkq -
 C41	Philidor Defense	rnbqkbnr/ppp2ppp/3p4/4p3/3PP3/5N2/PPP2PPP/RNBQKB1R b KQkq -	e2e4 e7e5 g1f3 d7d6 d2d4
 C41	Philidor Defense	rnbqkbnr/ppp2ppp/3p4/4p3/2B1P3/5N2/PPPP1PPP/RNBQK2R b KQkq -	e2e4 e7e5 g1f3 d7d6 f1c4
 C41	Philidor Defense	rnbqk1nr/ppp1bppp/3p4/4p3/2B1P3/5N2/PPPP1PPP/RNBQK2R w KQkq -	e2e4 e7e5 g1f3 d7d6 f1c4 f8e7
-C41	Philidor Defense: Alapin-Blackburne Gambit	r2qkbnr/pppn1ppp/3p4/4P3/4P1b1/5N2/PPP2PPP/RNBQKB1R w KQkq -	e2e4 e7e5 g1f3 d7d6 d2d4 c8g4 d4e5 b8d7
+C41	Philidor Defense: Albin-Blackburne Gambit	r2qkbnr/pppn1ppp/3p4/4P3/4P1b1/5N2/PPP2PPP/RNBQKB1R w KQkq -	e2e4 e7e5 g1f3 d7d6 d2d4 c8g4 d4e5 b8d7
 C41	Philidor Defense: Berger Variation	r2q1rk1/pp2bppp/2npbn2/2p3B1/4P3/2N2N2/PPP1BPPP/R2QR1K1 b - -	e2e4 e7e5 g1f3 d7d6 d2d4 e5d4 f3d4 g8f6 b1c3 f8e7 f1e2 e8g8 e1g1 c7c5 d4f3 b8c6 c1g5 c8e6 f1e1
 C41	Philidor Defense: Bird Gambit	rnbqkbnr/ppp2ppp/3p4/8/3pP3/2P2N2/PP3PPP/RNBQKB1R b KQkq -	e2e4 e7e5 g1f3 d7d6 d2d4 e5d4 c2c3
 C41	Philidor Defense: Boden Variation	rn1qkbnr/pppb1ppp/3p4/8/3QP3/5N2/PPP2PPP/RNB1KB1R w KQkq -	e2e4 e7e5 g1f3 d7d6 d2d4 e5d4 d1d4 c8d7
