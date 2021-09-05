@@ -77,7 +77,7 @@ if __name__ == "__main__":
         print(f"Usage: {sys.argv[0]} *.tsv", file=sys.stderr)
         sys.exit(2)
 
-    print("eco", "name", "pgn", "moves", "fen", sep="\t")
+    print("eco", "name", "pgn", "uci", "epd", sep="\t")
 
     db = {}
     ret = 0

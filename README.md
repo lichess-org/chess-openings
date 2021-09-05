@@ -7,13 +7,21 @@ field | description
 --- | ---
 eco | [ECO](https://en.wikipedia.org/wiki/Encyclopaedia_of_Chess_Openings) classification
 name | Opening name (English language)
-fen | [EPD](https://www.chessprogramming.org/Extended_Position_Description) of the root position (en passant field only if legal)
-moves | Most common moves to reach the root position based on master games, in UCI notation
+pgn | Most common moves to reach the opening position based on master games, as PGN
+
+Additional generated columns in `dist/`:
+
+field | description
+--- | ---
+uci | Same moves as `pgn` in [UCI notation](https://backscattering.de/chess/uci/#move)
+epd | [EPD](https://www.chessprogramming.org/Extended_Position_Description) (FEN without move numbers) of the opening position. En passant field only if legal.
 
 Contributing
 ------------
 
 Improvements, additions and fixes are welcome.
+
+Regenerate the files in `dist/` by runnig `make`. Do not manually edit them.
 
 Copyright
 ---------
