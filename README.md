@@ -3,18 +3,13 @@ Chess opening names
 
 An aggregated data set of chess opening names.
 
-field | description
---- | ---
-eco | [ECO](https://en.wikipedia.org/wiki/Encyclopaedia_of_Chess_Openings) classification
-name | Opening name (English language)
-pgn | Most common moves to reach the opening position based on master games, as PGN
-
-Additional generated columns in `dist/`:
-
-field | description
---- | ---
-uci | Same moves as `pgn` in [UCI notation](https://backscattering.de/chess/uci/#move)
-epd | [EPD](https://www.chessprogramming.org/Extended_Position_Description) (FEN without move numbers) of the opening position. En passant field only if legal.
+field | `dist/` | description
+--- | --- | ---
+eco | | [ECO](https://en.wikipedia.org/wiki/Encyclopaedia_of_Chess_Openings) classification
+name | | Opening name (English language)
+pgn | | Most common moves to reach the opening position based on master games, as PGN
+uci | x | Same moves as `pgn` in [UCI notation](https://backscattering.de/chess/uci/#move)
+epd | x | [EPD](https://www.chessprogramming.org/Extended_Position_Description) (FEN without move numbers) of the opening position, en passant field only if legal
 
 Contributing
 ------------
