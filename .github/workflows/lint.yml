@@ -11,5 +11,5 @@ jobs:
       with:
         python-version: 3.9
     - run: pip install -r bin/requirements.txt
-    - run: make
+    - run: make --always-make
     - run: git diff --exit-code || echo "::error::Files in dist/ out of sync. Run 'make' or let the repository maintainer do this."
