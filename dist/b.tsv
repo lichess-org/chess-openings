@@ -1,4 +1,4 @@
-eco	name	pgn	moves	fen
+eco	name	pgn	uci	epd
 B00	Barnes Defense	1. e4 f6	e2e4 f7f6	rnbqkbnr/ppppp1pp/5p2/8/4P3/8/PPPP1PPP/RNBQKBNR w KQkq -
 B00	Borg Defense	1. e4 g5	e2e4 g7g5	rnbqkbnr/pppppp1p/8/6p1/4P3/8/PPPP1PPP/RNBQKBNR w KQkq -
 B00	Borg Defense: Borg Gambit	1. e4 g5 2. d4 Bg7	e2e4 g7g5 d2d4 f8g7	rnbqk1nr/ppppppbp/8/6p1/3PP3/8/PPP2PPP/RNBQKBNR w KQkq -

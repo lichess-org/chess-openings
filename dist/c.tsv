@@ -1,4 +1,4 @@
-eco	name	pgn	moves	fen
+eco	name	pgn	uci	epd
 C00	French Defense	1. e4 e6	e2e4 e7e6	rnbqkbnr/pppp1ppp/4p3/8/4P3/8/PPPP1PPP/RNBQKBNR w KQkq -
 C00	French Defense	1. e4 e6 2. d4 d5	e2e4 e7e6 d2d4 d7d5	rnbqkbnr/ppp2ppp/4p3/3p4/3PP3/8/PPP2PPP/RNBQKBNR w KQkq -
 C00	French Defense: Alapin Gambit	1. e4 e6 2. d4 d5 3. Be3	e2e4 e7e6 d2d4 d7d5 c1e3	rnbqkbnr/ppp2ppp/4p3/3p4/3PP3/4B3/PPP2PPP/RN1QKBNR b KQkq -

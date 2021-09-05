@@ -5,7 +5,7 @@ import itertools
 import sys
 
 try:
-    import chesss
+    import chess
     import chess.pgn
 except ImportError:
     print("Need python-chess:", file=sys.stderr)

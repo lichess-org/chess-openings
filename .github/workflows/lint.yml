@@ -11,4 +11,5 @@ jobs:
       with:
         python-version: 3.9
     - run: pip install -r bin/requirements.txt
-    - run: python bin/lint.py a.tsv b.tsv c.tsv d.tsv e.tsv
+    - run: make
+    - run: git diff --exit-code || echo "::error::Files in dist/ out of sync. Run 'make' or let the repository maintainer do this."
