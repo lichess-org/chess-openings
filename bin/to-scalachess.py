@@ -1,6 +1,8 @@
 #!/usr/bin/python3
 
+import chess.pgn
 import sys
+import io
 import itertools
 
 
@@ -20,8 +22,9 @@ def main(argv):
     print("  def db: Vector[FullOpening] = Vector(")
 
     for line in itertools.islice(open(argv[1]), 1, None):
-        cols = line.split("\t")
-        print(f"""new FullOpening("{cols[0]}", "{cols[1]}", "{cols[2]}"),""")
+        eco, name, pgn = line.split("\t")
+        board = chess.pgn.read_game(io.StringIO(pgn), Visitor=chess.pgn.BoardBuilder)
+        print(f"""new FullOpening("{eco}", "{name}", "{board.epd()}"),""")
 
     print("  )")
     print("}")
