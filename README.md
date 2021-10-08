@@ -4,7 +4,7 @@ Chess opening names
 An aggregated data set of chess opening names.
 
 field | `/` | `dist/` | description
---- | --- | ---
+--- | --- | --- | ---
 eco | x | x | [ECO](https://en.wikipedia.org/wiki/Encyclopaedia_of_Chess_Openings) classification
 name | x | x | Opening name (English language)
 pgn | x | x| Most common moves to reach the opening position based on master games, as PGN
