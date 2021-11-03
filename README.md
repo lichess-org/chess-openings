@@ -11,6 +11,11 @@ pgn | x | x| Most common moves to reach the opening position based on master gam
 uci | | x | Same moves as `pgn` in [UCI notation](https://backscattering.de/chess/uci/#move)
 epd | | x | [EPD](https://www.chessprogramming.org/Extended_Position_Description) (FEN without move numbers) of the opening position, en passant field only if legal
 
+Build your MySql Database
+------------
+
+Enter MySql and run command in loadTsv.txt
+
 Contributing
 ------------
 

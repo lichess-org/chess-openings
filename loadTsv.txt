@@ -1,0 +1,6 @@
+load data infile 'C:\\Users\\user\\development\\chess-openings\\dist\\a.tsv'
+into table eco
+fields terminated BY '\t' ESCAPED BY '\b'
+enclosed by '"'
+lines terminated by '\n'
+ignore 1 lines;
