@@ -15,7 +15,7 @@ def main(argv):
     print("package chess")
     print("package opening")
     print()
-    print("// Generated from https://github.com/niklasf/chess-openings")
+    print("// Generated from https://github.com/lichess-org/chess-openings")
     print("// format: off")
     print(f"private[opening] object FullOpeningPart{name} {{")
     print()
