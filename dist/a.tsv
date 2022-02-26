@@ -60,14 +60,14 @@ A00	Hungarian Opening: Symmetrical Variation	1. g3 g6	g2g3 g7g6	rnbqkbnr/pppppp1
 A00	Hungarian Opening: Van Kuijk Gambit	1. g3 h5 2. Nf3 h4	g2g3 h7h5 g1f3 h5h4	rnbqkbnr/ppppppp1/8/8/7p/5NP1/PPPPPP1P/RNBQKB1R w KQkq -
 A00	Hungarian Opening: Winterberg Gambit	1. g3 d5 2. Bg2 e5 3. c4 dxc4 4. b3	g2g3 d7d5 f1g2 e7e5 c2c4 d5c4 b2b3	rnbqkbnr/ppp2ppp/8/4p3/2p5/1P4P1/P2PPPBP/RNBQK1NR b KQkq -
 A00	Indian Defense: Colle System, King's Indian Variation	1. e3 d6 2. d4 g6 3. Nf3 Bg7 4. Bd3 Nf6	e2e3 d7d6 d2d4 g7g6 g1f3 f8g7 f1d3 g8f6	rnbqk2r/ppp1ppbp/3p1np1/8/3P4/3BPN2/PPP2PPP/RNBQK2R w KQkq -
-A00	Kadas Opening	1. h4	h2h4	rnbqkbnr/pppppppp/8/8/7P/8/PPPPPPP1/RNBQKBNR b KQkq -
-A00	Kadas Opening: Beginner's Trap	1. h4 d5 2. Rh3	h2h4 d7d5 h1h3	rnbqkbnr/ppp1pppp/8/3p4/7P/7R/PPPPPPP1/RNBQKBN1 b Qkq -
-A00	Kadas Opening: Kadas Gambit	1. h4 c5 2. b4	h2h4 c7c5 b2b4	rnbqkbnr/pp1ppppp/8/2p5/1P5P/8/P1PPPPP1/RNBQKBNR b KQkq -
-A00	Kadas Opening: Kadas Gambit	1. h4 d5 2. d4 c5 3. Nf3 cxd4 4. c3	h2h4 d7d5 d2d4 c7c5 g1f3 c5d4 c2c3	rnbqkbnr/pp2pppp/8/3p4/3p3P/2P2N2/PP2PPP1/RNBQKB1R b KQkq -
-A00	Kadas Opening: Kadas Gambit	1. h4 e5 2. d4 exd4 3. c3	h2h4 e7e5 d2d4 e5d4 c2c3	rnbqkbnr/pppp1ppp/8/8/3p3P/2P5/PP2PPP1/RNBQKBNR b KQkq -
-A00	Kadas Opening: Myers Variation	1. h4 d5 2. d4 c5 3. e4	h2h4 d7d5 d2d4 c7c5 e2e4	rnbqkbnr/pp2pppp/8/2pp4/3PP2P/8/PPP2PP1/RNBQKBNR b KQkq -
-A00	Kadas Opening: Schneider Gambit	1. h4 g5	h2h4 g7g5	rnbqkbnr/pppppp1p/8/6p1/7P/8/PPPPPPP1/RNBQKBNR w KQkq -
-A00	Kadas Opening: Steinbok Gambit	1. h4 f5 2. e4 fxe4 3. d3	h2h4 f7f5 e2e4 f5e4 d2d3	rnbqkbnr/ppppp1pp/8/8/4p2P/3P4/PPP2PP1/RNBQKBNR b KQkq -
+A00	Kádas Opening	1. h4	h2h4	rnbqkbnr/pppppppp/8/8/7P/8/PPPPPPP1/RNBQKBNR b KQkq -
+A00	Kádas Opening: Beginner's Trap	1. h4 d5 2. Rh3	h2h4 d7d5 h1h3	rnbqkbnr/ppp1pppp/8/3p4/7P/7R/PPPPPPP1/RNBQKBN1 b Qkq -
+A00	Kádas Opening: Kádas Gambit	1. h4 c5 2. b4	h2h4 c7c5 b2b4	rnbqkbnr/pp1ppppp/8/2p5/1P5P/8/P1PPPPP1/RNBQKBNR b KQkq -
+A00	Kádas Opening: Kádas Gambit	1. h4 d5 2. d4 c5 3. Nf3 cxd4 4. c3	h2h4 d7d5 d2d4 c7c5 g1f3 c5d4 c2c3	rnbqkbnr/pp2pppp/8/3p4/3p3P/2P2N2/PP2PPP1/RNBQKB1R b KQkq -
+A00	Kádas Opening: Kádas Gambit	1. h4 e5 2. d4 exd4 3. c3	h2h4 e7e5 d2d4 e5d4 c2c3	rnbqkbnr/pppp1ppp/8/8/3p3P/2P5/PP2PPP1/RNBQKBNR b KQkq -
+A00	Kádas Opening: Myers Variation	1. h4 d5 2. d4 c5 3. e4	h2h4 d7d5 d2d4 c7c5 e2e4	rnbqkbnr/pp2pppp/8/2pp4/3PP2P/8/PPP2PP1/RNBQKBNR b KQkq -
+A00	Kádas Opening: Schneider Gambit	1. h4 g5	h2h4 g7g5	rnbqkbnr/pppppp1p/8/6p1/7P/8/PPPPPPP1/RNBQKBNR w KQkq -
+A00	Kádas Opening: Steinbok Gambit	1. h4 f5 2. e4 fxe4 3. d3	h2h4 f7f5 e2e4 f5e4 d2d3	rnbqkbnr/ppppp1pp/8/8/4p2P/3P4/PPP2PP1/RNBQKBNR b KQkq -
 A00	Lasker Simul Special	1. g3 h5	g2g3 h7h5	rnbqkbnr/ppppppp1/8/7p/8/6P1/PPPPPP1P/RNBQKBNR w KQkq -
 A00	Mieses Opening	1. d3	d2d3	rnbqkbnr/pppppppp/8/8/8/3P4/PPP1PPPP/RNBQKBNR b KQkq -
 A00	Mieses Opening: Myers Spike Attack	1. d3 g6 2. g4	d2d3 g7g6 g2g4	rnbqkbnr/pppppp1p/6p1/8/6P1/3P4/PPP1PP1P/RNBQKBNR b KQkq -
