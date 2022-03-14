@@ -156,10 +156,10 @@ A01	Nimzo-Larsen Attack: Modern Variation	1. b3 e5	b2b3 e7e5	rnbqkbnr/pppp1ppp/8
 A01	Nimzo-Larsen Attack: Modern Variation	1. b3 e5 2. Bb2 Nc6	b2b3 e7e5 c1b2 b8c6	r1bqkbnr/pppp1ppp/2n5/4p3/8/1P6/PBPPPPPP/RN1QKBNR w KQkq -
 A01	Nimzo-Larsen Attack: Modern Variation	1. b3 e5 2. Bb2 Nc6 3. e3	b2b3 e7e5 c1b2 b8c6 e2e3	r1bqkbnr/pppp1ppp/2n5/4p3/8/1P2P3/PBPP1PPP/RN1QKBNR b KQkq -
 A01	Nimzo-Larsen Attack: Pachman Gambit	1. b3 e5 2. Bb2 Nc6 3. f4	b2b3 e7e5 c1b2 b8c6 f2f4	r1bqkbnr/pppp1ppp/2n5/4p3/5P2/1P6/PBPPP1PP/RN1QKBNR b KQkq -
+A01	Nimzo-Larsen Attack: Polish Variation	1. b3 b5	b2b3 b7b5	rnbqkbnr/p1pppppp/8/1p6/8/1P6/P1PPPPPP/RNBQKBNR w KQkq -
 A01	Nimzo-Larsen Attack: Ringelbach Gambit	1. b3 f5 2. Bb2 e6 3. e4	b2b3 f7f5 c1b2 e7e6 e2e4	rnbqkbnr/pppp2pp/4p3/5p2/4P3/1P6/PBPP1PPP/RN1QKBNR b KQkq -
 A01	Nimzo-Larsen Attack: Spike Variation	1. b3 Nf6 2. Bb2 g6 3. g4	b2b3 g8f6 c1b2 g7g6 g2g4	rnbqkb1r/pppppp1p/5np1/8/6P1/1P6/PBPPPP1P/RN1QKBNR b KQkq -
 A01	Nimzo-Larsen Attack: Symmetrical Variation	1. b3 b6	b2b3 b7b6	rnbqkbnr/p1pppppp/1p6/8/8/1P6/P1PPPPPP/RNBQKBNR w KQkq -
-A01	Nimzowitsch-Larsen Attack: Polish Variation	1. b3 b5	b2b3 b7b5	rnbqkbnr/p1pppppp/8/1p6/8/1P6/P1PPPPPP/RNBQKBNR w KQkq -
 A02	Bird Opening	1. f4	f2f4	rnbqkbnr/pppppppp/8/8/5P2/8/PPPPP1PP/RNBQKBNR b KQkq -
 A02	Bird Opening	1. f4 Nf6	f2f4 g8f6	rnbqkb1r/pppppppp/5n2/8/5P2/8/PPPPP1PP/RNBQKBNR w KQkq -
 A02	Bird Opening: Batavo-Polish Attack	1. f4 Nf6 2. Nf3 g6 3. b4	f2f4 g8f6 g1f3 g7g6 b2b4	rnbqkb1r/pppppp1p/5np1/8/1P3P2/5N2/P1PPP1PP/RNBQKB1R b KQkq -
