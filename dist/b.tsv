@@ -99,6 +99,7 @@ B01	Scandinavian Defense: Classical Variation	1. e4 d5 2. exd5 Qxd5 3. Nc3 Qa5 4
 B01	Scandinavian Defense: Grünfeld Variation	1. e4 d5 2. exd5 Qxd5 3. Nc3 Qa5 4. d4 Nf6 5. Nf3 Bf5 6. Ne5 c6 7. g4	e2e4 d7d5 e4d5 d8d5 b1c3 d5a5 d2d4 g8f6 g1f3 c8f5 f3e5 c7c6 g2g4	rn2kb1r/pp2pppp/2p2n2/q3Nb2/3P2P1/2N5/PPP2P1P/R1BQKB1R b KQkq -
 B01	Scandinavian Defense: Gubinsky-Melts Defense	1. e4 d5 2. exd5 Qxd5 3. Nc3 Qd6	e2e4 d7d5 e4d5 d8d5 b1c3 d5d6	rnb1kbnr/ppp1pppp/3q4/8/8/2N5/PPPP1PPP/R1BQKBNR w KQkq -
 B01	Scandinavian Defense: Icelandic-Palme Gambit	1. e4 d5 2. exd5 Nf6 3. c4 e6	e2e4 d7d5 e4d5 g8f6 c2c4 e7e6	rnbqkb1r/ppp2ppp/4pn2/3P4/2P5/8/PP1P1PPP/RNBQKBNR w KQkq -
+B01	Scandinavian Defense: Gandalf Gambit	1. e4 d5 2. exd5 Nf6 3. c4 e6 4. dxe6 Bc5	e2e4 d7d5 e4d5 g8f6 c2c4 e7e6 d5e6 f8c5	rnbqk2r/ppp2ppp/4Pn2/2b5/2P5/8/PP1P1PPP/RNBQKBNR w KQkq -
 B01	Scandinavian Defense: Kiel Variation	1. e4 d5 2. exd5 Nf6 3. d4 Nxd5 4. c4 Nb4	e2e4 d7d5 e4d5 g8f6 d2d4 f6d5 c2c4 d5b4	rnbqkb1r/ppp1pppp/8/8/1nPP4/8/PP3PPP/RNBQKBNR w KQkq -
 B01	Scandinavian Defense: Kloosterboer Gambit	1. e4 d5 2. exd5 c6 3. dxc6 e5	e2e4 d7d5 e4d5 c7c6 d5c6 e7e5	rnbqkbnr/pp3ppp/2P5/4p3/8/8/PPPP1PPP/RNBQKBNR w KQkq -
 B01	Scandinavian Defense: Kádas Gambit	1. e4 d5 2. exd5 Nf6 3. d4 c6 4. dxc6 e5	e2e4 d7d5 e4d5 g8f6 d2d4 c7c6 d5c6 e7e5	rnbqkb1r/pp3ppp/2P2n2/4p3/3P4/8/PPP2PPP/RNBQKBNR w KQkq -
