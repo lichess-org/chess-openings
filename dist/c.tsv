@@ -657,6 +657,7 @@ C44	King's Pawn Game: Dresden Opening	1. e4 e5 2. Nf3 Nc6 3. c4	e2e4 e7e5 g1f3 b
 C44	King's Pawn Game: Pachman Wing Gambit	1. e4 e5 2. Nf3 Nc6 3. b4	e2e4 e7e5 g1f3 b8c6 b2b4	r1bqkbnr/pppp1ppp/2n5/4p3/1P2P3/5N2/P1PP1PPP/RNBQKB1R b KQkq -
 C44	King's Pawn Game: Schulze-Müller Gambit	1. e4 e5 2. Nf3 Nc6 3. Nxe5 Nxe5 4. d4	e2e4 e7e5 g1f3 b8c6 f3e5 c6e5 d2d4	r1bqkbnr/pppp1ppp/8/4n3/3PP3/8/PPP2PPP/RNBQKB1R b KQkq -
 C44	King's Pawn Game: Tayler Opening	1. e4 e5 2. Nf3 Nc6 3. Be2	e2e4 e7e5 g1f3 b8c6 f1e2	r1bqkbnr/pppp1ppp/2n5/4p3/4P3/5N2/PPPPBPPP/RNBQK2R b KQkq -
+C44	King's Pawn Game: Tayler Opening	1. e4 e5 2. Nf3 Nc6 3. Be2 Nf6 4. d4	e2e4 e7e5 g1f3 b8c6 f1e2 g8f6 d2d4	r1bqkb1r/pppp1ppp/2n2n2/4p3/3PP3/5N2/PPP1BPPP/RNBQK2R b KQkq -
 C44	King's Pawn Game: Tayler Opening, Basman Gambit	1. e4 e5 2. Nf3 Nc6 3. Be2 Nf6 4. d4 exd4 5. e5	e2e4 e7e5 g1f3 b8c6 f1e2 g8f6 d2d4 e5d4 e4e5	r1bqkb1r/pppp1ppp/2n2n2/4P3/3p4/5N2/PPP1BPPP/RNBQK2R b KQkq -
 C44	King's Pawn Game: Tayler Opening, Inverted Hanham	1. e4 e5 2. Nf3 Nc6 3. Be2 Nf6 4. d3 d5 5. Nbd2	e2e4 e7e5 g1f3 b8c6 f1e2 g8f6 d2d3 d7d5 b1d2	r1bqkb1r/ppp2ppp/2n2n2/3pp3/4P3/3P1N2/PPPNBPPP/R1BQK2R b KQkq -
 C44	Latvian Gambit: Clam Gambit	1. e4 e5 2. Nf3 Nc6 3. d3 f5 4. exf5	e2e4 e7e5 g1f3 b8c6 d2d3 f7f5 e4f5	r1bqkbnr/pppp2pp/2n5/4pP2/8/3P1N2/PPP2PPP/RNBQKB1R b KQkq -
