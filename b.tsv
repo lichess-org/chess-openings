@@ -15,12 +15,13 @@ B00	Guatemala Defense	1. e4 b6 2. d4 Ba6
 B00	Hippopotamus Defense	1. e4 Nh6
 B00	Hippopotamus Defense	1. e4 Nh6 2. d4 g6 3. c4 f6
 B00	King's Pawn	1. e4
-B00	King's Pawn Game: Nimzowitsch Defense	1. e4 Nc6 2. d4
-B00	King's Pawn Game: Nimzowitsch Defense, Wheeler Gambit	1. e4 Nc6 2. b4 Nxb4 3. c3 Nc6 4. d4
 B00	Lemming Defense	1. e4 Na6
 B00	Lion Defense: Lion's Jaw	1. e4 d6 2. d4 Nf6 3. f3
 B00	Nimzowitsch Defense	1. e4 Nc6
+B00	Nimzowitsch Defense	1. e4 Nc6 2. d4
 B00	Nimzowitsch Defense: Breyer Variation	1. e4 Nc6 2. Nc3 Nf6 3. d4 e5
+B00	Nimzowitsch Defense: Colorado Countergambit	1. e4 Nc6 2. Nf3 f5
+B00	Nimzowitsch Defense: Colorado Countergambit	1. e4 Nc6 2. Nf3 f5 3. exf5
 B00	Nimzowitsch Defense: Declined Variation	1. e4 Nc6 2. Nf3
 B00	Nimzowitsch Defense: El Columpio Defense	1. e4 Nc6 2. Nf3 Nf6 3. e5 Ng4
 B00	Nimzowitsch Defense: El Columpio Defense, El Columpio Gambit	1. e4 Nc6 2. Nf3 Nf6 3. e5 Ng4 4. d4 d6 5. h3 Nh6 6. e6
@@ -41,8 +42,6 @@ B00	Nimzowitsch Defense: Kennedy Variation, Main Line	1. e4 Nc6 2. d4 e5 3. dxe5
 B00	Nimzowitsch Defense: Kennedy Variation, Paulsen Attack	1. e4 Nc6 2. d4 e5 3. dxe5 Nxe5 4. Nf3
 B00	Nimzowitsch Defense: Kennedy Variation, Riemann Defense	1. e4 Nc6 2. d4 e5 3. dxe5 Nxe5 4. f4 Nc6
 B00	Nimzowitsch Defense: Kennedy Variation, de Smet Gambit	1. e4 Nc6 2. d4 e5 3. dxe5 d6
-B00	Nimzowitsch Defense: Lean Variation	1. e4 Nc6 2. Nf3 f5
-B00	Nimzowitsch Defense: Lean Variation, Colorado Counter Accepted	1. e4 Nc6 2. Nf3 f5 3. exf5
 B00	Nimzowitsch Defense: Mikenas Variation	1. e4 Nc6 2. d4 d6
 B00	Nimzowitsch Defense: Neo-Mongoloid Defense	1. e4 Nc6 2. d4 f6
 B00	Nimzowitsch Defense: Pirc Connection	1. e4 Nc6 2. Nc3 g6
