@@ -267,6 +267,7 @@ A09	Réti Opening: Réti Gambit, Keres Variation	1. Nf3 d5 2. c4 dxc4 3. e3 Be6	
 A09	Réti Opening: Zilbermints Gambit	1. Nf3 d5 2. c4 b5	g1f3 d7d5 c2c4 b7b5	rnbqkbnr/p1p1pppp/8/1p1p4/2P5/5N2/PP1PPPPP/RNBQKB1R w KQkq -
 A10	Dutch Defense: Krause Variation	1. c4 f5 2. Nc3 Nf6 3. Nf3 Nc6 4. d4 d6	c2c4 f7f5 b1c3 g8f6 g1f3 b8c6 d2d4 d7d6	r1bqkb1r/ppp1p1pp/2np1n2/5p2/2PP4/2N2N2/PP2PPPP/R1BQKB1R w KQkq -
 A10	English Opening	1. c4	c2c4	rnbqkbnr/pppppppp/8/8/2P5/8/PP1PPPPP/RNBQKBNR b KQkq -
+A10	English Opening: Achilles-Omega Gambit	1. c4 Nf6 2. e4	c2c4 g8f6 e2e4	rnbqkb1r/pppppppp/5n2/8/2P1P3/8/PP1P1PPP/RNBQKBNR b KQkq -
 A10	English Opening: Adorjan Defense	1. c4 g6 2. e4 e5	c2c4 g7g6 e2e4 e7e5	rnbqkbnr/pppp1p1p/6p1/4p3/2P1P3/8/PP1P1PPP/RNBQKBNR w KQkq -
 A10	English Opening: Anglo-Dutch Defense	1. c4 f5	c2c4 f7f5	rnbqkbnr/ppppp1pp/8/5p2/2P5/8/PP1PPPPP/RNBQKBNR w KQkq -
 A10	English Opening: Anglo-Dutch Defense, Hickmann Gambit	1. c4 f5 2. e4	c2c4 f7f5 e2e4	rnbqkbnr/ppppp1pp/8/5p2/2P1P3/8/PP1P1PPP/RNBQKBNR b KQkq -
