@@ -83,6 +83,7 @@ A00	Polish Opening: Grigorian Variation	1. b4 Nc6	b2b4 b8c6	r1bqkbnr/pppppppp/2n
 A00	Polish Opening: Karniewski Variation	1. b4 Nh6	b2b4 g8h6	rnbqkb1r/pppppppp/7n/8/1P6/8/P1PPPPPP/RNBQKBNR w KQkq -
 A00	Polish Opening: King's Indian Variation	1. b4 Nf6 2. Bb2 g6	b2b4 g8f6 c1b2 g7g6	rnbqkb1r/pppppp1p/5np1/8/1P6/8/PBPPPPPP/RN1QKBNR w KQkq -
 A00	Polish Opening: King's Indian Variation, Schiffler Attack	1. b4 Nf6 2. Bb2 g6 3. e4	b2b4 g8f6 c1b2 g7g6 e2e4	rnbqkb1r/pppppp1p/5np1/8/1P2P3/8/PBPP1PPP/RN1QKBNR b KQkq -
+A00	Polish Opening: King's Indian Variation, Sokolsky Attack	1. b4 Nf6 2. Bb2 g6 3. c4 Bg7 4. e3 d6 5. Nf3 O-O 6. d4	b2b4 g8f6 c1b2 g7g6 c2c4 f8g7 e2e3 d7d6 g1f3 e8g8 d2d4	rnbq1rk1/ppp1ppbp/3p1np1/8/1PPP4/4PN2/PB3PPP/RN1QKB1R b KQ -
 A00	Polish Opening: Myers Variation	1. b4 d5 2. Bb2 c6 3. a4	b2b4 d7d5 c1b2 c7c6 a2a4	rnbqkbnr/pp2pppp/2p5/3p4/PP6/8/1BPPPPPP/RN1QKBNR b KQkq -
 A00	Polish Opening: Orangutan-Diemer Gambit	1. b4 d5 2. Bb2 Qd6 3. a3 e5 4. e4 dxe4 5. f3	b2b4 d7d5 c1b2 d8d6 a2a3 e7e5 e2e4 d5e4 f2f3	rnb1kbnr/ppp2ppp/3q4/4p3/1P2p3/P4P2/1BPP2PP/RN1QKBNR b KQkq -
 A00	Polish Opening: Orangutan-Hartlaub Gambit	1. b4 Nf6 2. Bb2 e6 3. a3 c6 4. d3 a5 5. bxa5 d5 6. e4	b2b4 g8f6 c1b2 e7e6 a2a3 c7c6 d2d3 a7a5 b4a5 d7d5 e2e4	rnbqkb1r/1p3ppp/2p1pn2/P2p4/4P3/P2P4/1BP2PPP/RN1QKBNR b KQkq -
@@ -324,7 +325,6 @@ A15	English Opening: Anglo-Indian Defense, Scandinavian Defense	1. Nf3 Nf6 2. c4
 A15	English Opening: Anglo-Indian Defense, Scandinavian Defense, Exchange Variation	1. Nf3 Nf6 2. c4 d5 3. cxd5 Nxd5	g1f3 g8f6 c2c4 d7d5 c4d5 f6d5	rnbqkb1r/ppp1pppp/8/3n4/8/5N2/PP1PPPPP/RNBQKB1R w KQkq -
 A15	English Opening: Anglo-Indian Defense, Slav Formation	1. Nf3 Nf6 2. c4 g6 3. g3 c6	g1f3 g8f6 c2c4 g7g6 g2g3 c7c6	rnbqkb1r/pp1ppp1p/2p2np1/8/2P5/5NP1/PP1PPP1P/RNBQKB1R w KQkq -
 A15	English Orangutan	1. c4 Nf6 2. b4	c2c4 g8f6 b2b4	rnbqkb1r/pppppppp/5n2/8/1PP5/8/P2PPPPP/RNBQKBNR b KQkq -
-A15	Polish Opening: King's Indian Variation, Sokolsky Attack	1. Nf3 Nf6 2. c4 g6 3. b4 Bg7 4. Bb2 O-O 5. e3 d6 6. d4	g1f3 g8f6 c2c4 g7g6 b2b4 f8g7 c1b2 e8g8 e2e3 d7d6 d2d4	rnbq1rk1/ppp1ppbp/3p1np1/8/1PPP4/4PN2/PB3PPP/RN1QKB1R b KQ -
 A16	English Opening: Anglo-Grünfeld Defense	1. c4 Nf6 2. Nc3 d5	c2c4 g8f6 b1c3 d7d5	rnbqkb1r/ppp1pppp/5n2/3p4/2P5/2N5/PP1PPPPP/R1BQKBNR w KQkq -
 A16	English Opening: Anglo-Grünfeld Defense, Korchnoi Variation	1. Nf3 Nf6 2. c4 g6 3. Nc3 d5 4. cxd5 Nxd5 5. g3 Bg7 6. Bg2 e5	g1f3 g8f6 c2c4 g7g6 b1c3 d7d5 c4d5 f6d5 g2g3 f8g7 f1g2 e7e5	rnbqk2r/ppp2pbp/6p1/3np3/8/2N2NP1/PP1PPPBP/R1BQK2R w KQkq -
 A16	English Opening: Anglo-Indian Defense, Anglo-Grünfeld Variation	1. c4 Nf6 2. Nc3 d5 3. cxd5 Nxd5 4. Nf3	c2c4 g8f6 b1c3 d7d5 c4d5 f6d5 g1f3	rnbqkb1r/ppp1pppp/8/3n4/8/2N2N2/PP1PPPPP/R1BQKB1R b KQkq -
