@@ -467,7 +467,6 @@ A40	St. George Defense: Polish Variation	1. d4 b5 2. e4 a6 3. Nf3 Bb7 4. Bd3 e6	
 A40	Zaire Defense	1. d4 Nc6 2. d5 Nb8 3. e4 Nf6 4. e5 Ng8	d2d4 b8c6 d4d5 c6b8 e2e4 g8f6 e4e5 f6g8	rnbqkbnr/pppppppp/8/3PP3/8/8/PPP2PPP/RNBQKBNR w KQkq -
 A40	Zukertort Defense: Kingside Variation	1. d4 g6 2. Nf3 Nh6	d2d4 g7g6 g1f3 g8h6	rnbqkb1r/pppppp1p/6pn/8/3P4/5N2/PPP1PPPP/RNBQKB1R w KQkq -
 A41	English Rat: Pounds Gambit	1. d4 d6 2. c4 e5 3. dxe5 Be6	d2d4 d7d6 c2c4 e7e5 d4e5 c8e6	rn1qkbnr/ppp2ppp/3pb3/4P3/2P5/8/PP2PPPP/RNBQKBNR w KQkq -
-A41	King's Pawn Game: Maróczy Defense	1. d4 d6 2. e4 e5	d2d4 d7d6 e2e4 e7e5	rnbqkbnr/ppp2ppp/3p4/4p3/3PP3/8/PPP2PPP/RNBQKBNR w KQkq -
 A41	Modern Defense	1. d4 g6 2. c4 Bg7 3. Nc3 d6	d2d4 g7g6 c2c4 f8g7 b1c3 d7d6	rnbqk1nr/ppp1ppbp/3p2p1/8/2PP4/2N5/PP2PPPP/R1BQKBNR w KQkq -
 A41	Old Indian Defense	1. d4 d6 2. c4	d2d4 d7d6 c2c4	rnbqkbnr/ppp1pppp/3p4/8/2PP4/8/PP2PPPP/RNBQKBNR b KQkq -
 A41	Queen's Pawn Game	1. d4 d6	d2d4 d7d6	rnbqkbnr/ppp1pppp/3p4/8/3P4/8/PPP1PPPP/RNBQKBNR w KQkq -
