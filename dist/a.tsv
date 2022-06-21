@@ -562,7 +562,6 @@ A48	Queen's Pawn Game: Torre Attack, Grünfeld Variation, Main Line	1. d4 Nf6 2.
 A48	Torre Attack	1. d4 Nf6 2. Nf3 g6 3. Bg5	d2d4 g8f6 g1f3 g7g6 c1g5	rnbqkb1r/pppppp1p/5np1/6B1/3P4/5N2/PPP1PPPP/RN1QKB1R b KQkq -
 A48	Torre Attack: Fianchetto Defense, Euwe Variation	1. d4 Nf6 2. Nf3 g6 3. Bg5 Bg7 4. Nbd2 c5	d2d4 g8f6 g1f3 g7g6 c1g5 f8g7 b1d2 c7c5	rnbqk2r/pp1pppbp/5np1/2p3B1/3P4/5N2/PPPNPPPP/R2QKB1R w KQkq -
 A49	Indian Defense: Przepiorka Variation	1. d4 Nf6 2. Nf3 g6 3. g3	d2d4 g8f6 g1f3 g7g6 g2g3	rnbqkb1r/pppppp1p/5np1/8/3P4/5NP1/PPP1PP1P/RNBQKB1R b KQkq -
-A49	King's Indian Defense: Fianchetto Variation, Benjamin Defense	1. d4 Nf6 2. Nf3 g6 3. g3 Bg7 4. Bg2 O-O 5. O-O d6 6. c4 c6 7. Nc3 Qb6	d2d4 g8f6 g1f3 g7g6 g2g3 f8g7 f1g2 e8g8 e1g1 d7d6 c2c4 c7c6 b1c3 d8b6	rnb2rk1/pp2ppbp/1qpp1np1/8/2PP4/2N2NP1/PP2PPBP/R1BQ1RK1 w - -
 A50	Indian Defense: Medusa Gambit	1. d4 Nf6 2. c4 g5	d2d4 g8f6 c2c4 g7g5	rnbqkb1r/pppppp1p/5n2/6p1/2PP4/8/PP2PPPP/RNBQKBNR w KQkq -
 A50	Indian Defense: Normal Variation	1. d4 Nf6 2. c4	d2d4 g8f6 c2c4	rnbqkb1r/pppppppp/5n2/8/2PP4/8/PP2PPPP/RNBQKBNR b KQkq -
 A50	Indian Defense: Pyrenees Gambit	1. d4 Nf6 2. c4 b5	d2d4 g8f6 c2c4 b7b5	rnbqkb1r/p1pppppp/5n2/1p6/2PP4/8/PP2PPPP/RNBQKBNR w KQkq -
