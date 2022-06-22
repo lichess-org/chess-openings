@@ -78,6 +78,7 @@ B00	Rat Defense: Harmonist	1. e4 d6 2. f4	e2e4 d7d6 f2f4	rnbqkbnr/ppp1pppp/3p4/8
 B00	Rat Defense: Petruccioli Attack	1. e4 d6 2. h4	e2e4 d7d6 h2h4	rnbqkbnr/ppp1pppp/3p4/8/4P2P/8/PPPP1PP1/RNBQKBNR b KQkq -
 B00	Rat Defense: Spike Attack	1. e4 d6 2. g4	e2e4 d7d6 g2g4	rnbqkbnr/ppp1pppp/3p4/8/4P1P1/8/PPPP1P1P/RNBQKBNR b KQkq -
 B00	St. George Defense	1. e4 a6	e2e4 a7a6	rnbqkbnr/1ppppppp/p7/8/4P3/8/PPPP1PPP/RNBQKBNR w KQkq -
+B00	St. George Defense: Polish Variation	1. e4 a6 2. d4 b5 3. Nf3 Bb7 4. Bd3 e6	e2e4 a7a6 d2d4 b7b5 g1f3 c8b7 f1d3 e7e6	rn1qkbnr/1bpp1ppp/p3p3/1p6/3PP3/3B1N2/PPP2PPP/RNBQK2R w KQkq -
 B00	St. George Defense: San Jorge Variation	1. e4 a6 2. d4 b5 3. Nf3 Bb7 4. Bd3 d6 5. O-O g6 6. c3 Bg7	e2e4 a7a6 d2d4 b7b5 g1f3 c8b7 f1d3 d7d6 e1g1 g7g6 c2c3 f8g7	rn1qk1nr/1bp1ppbp/p2p2p1/1p6/3PP3/2PB1N2/PP3PPP/RNBQ1RK1 w kq -
 B00	St. George Defense: Zilbermints Gambit	1. e4 a6 2. d4 e5	e2e4 a7a6 d2d4 e7e5	rnbqkbnr/1ppp1ppp/p7/4p3/3PP3/8/PPP2PPP/RNBQKBNR w KQkq -
 B00	Van Geet Opening: Berlin Gambit	1. e4 Nc6 2. d4 d5 3. Nc3 dxe4 4. d5	e2e4 b8c6 d2d4 d7d5 b1c3 d5e4 d4d5	r1bqkbnr/ppp1pppp/2n5/3P4/4p3/2N5/PPP2PPP/R1BQKBNR b KQkq -
