@@ -282,7 +282,6 @@ A10	English Opening: Myers Variation	1. c4 g5 2. d4 Bg7	c2c4 g7g5 d2d4 f8g7	rnbq
 A10	English Opening: Porcupine Variation	1. c4 f5 2. Nc3 Nf6 3. e4 fxe4 4. g4	c2c4 f7f5 b1c3 g8f6 e2e4 f5e4 g2g4	rnbqkb1r/ppppp1pp/5n2/8/2P1p1P1/2N5/PP1P1P1P/R1BQKBNR b KQkq -
 A10	English Opening: Wade Gambit	1. c4 f5 2. g4	c2c4 f7f5 g2g4	rnbqkbnr/ppppp1pp/8/5p2/2P3P1/8/PP1PPP1P/RNBQKBNR b KQkq -
 A10	English Opening: Zilbermints Gambit	1. c4 g5 2. d4 e5	c2c4 g7g5 d2d4 e7e5	rnbqkbnr/pppp1p1p/8/4p1p1/2PP4/8/PP2PPPP/RNBQKBNR w KQkq -
-A10	King's Indian Defense: Semi-Classical Variation, Exchange Variation	1. c4 g6 2. Nc3 Bg7 3. e3 Nf6 4. d4 O-O 5. Nf3 d6 6. Be2 Nbd7 7. O-O e5 8. dxe5 dxe5	c2c4 g7g6 b1c3 f8g7 e2e3 g8f6 d2d4 e8g8 g1f3 d7d6 f1e2 b8d7 e1g1 e7e5 d4e5 d6e5	r1bq1rk1/pppn1pbp/5np1/4p3/2P5/2N1PN2/PP2BPPP/R1BQ1RK1 w - -
 A10	Modern Defense: Averbakh Variation, Pseudo-Sämisch	1. c4 g6 2. e4 Bg7 3. d4 d6 4. Be3 Nf6 5. f3	c2c4 g7g6 e2e4 f8g7 d2d4 d7d6 c1e3 g8f6 f2f3	rnbqk2r/ppp1ppbp/3p1np1/8/2PPP3/4BP2/PP4PP/RN1QKBNR b KQkq -
 A10	Modern Defense: Neo-Modern Defense	1. c4 g6 2. e4 Bg7 3. d4 e5	c2c4 g7g6 e2e4 f8g7 d2d4 e7e5	rnbqk1nr/pppp1pbp/6p1/4p3/2PPP3/8/PP3PPP/RNBQKBNR w KQkq -
 A11	English Opening: Caro-Kann Defensive System	1. c4 c6	c2c4 c7c6	rnbqkbnr/pp1ppppp/2p5/8/2P5/8/PP1PPPPP/RNBQKBNR w KQkq -
