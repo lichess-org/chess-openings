@@ -79,6 +79,7 @@ D02	Queen's Pawn Game: Chigorin Variation	1. d4 d5 2. Nf3 Nc6	d2d4 d7d5 g1f3 b8c
 D02	Queen's Pawn Game: Krause Variation	1. d4 d5 2. Nf3 c5	d2d4 d7d5 g1f3 c7c5	rnbqkbnr/pp2pppp/8/2pp4/3P4/5N2/PPP1PPPP/RNBQKB1R w KQkq -
 D02	Queen's Pawn Game: Levitsky Attack, Euwe Variation, Modern Line	1. d4 d5 2. Nf3 c6 3. Bg5 h6 4. Bh4 Qb6	d2d4 d7d5 g1f3 c7c6 c1g5 h7h6 g5h4 d8b6	rnb1kbnr/pp2ppp1/1qp4p/3p4/3P3B/5N2/PPP1PPPP/RN1QKB1R w KQkq -
 D02	Queen's Pawn Game: London System	1. d4 d5 2. Nf3 Nf6 3. Bf4	d2d4 d7d5 g1f3 g8f6 c1f4	rnbqkb1r/ppp1pppp/5n2/3p4/3P1B2/5N2/PPP1PPPP/RN1QKB1R b KQkq -
+D02	Queen's Pawn Game: London System, Pterodactyl Variation	1. d4 g6 2. Nf3 Bg7 3. Bf4 c5 4. c3 cxd4 5. cxd4 Qa5+	d2d4 g7g6 g1f3 f8g7 c1f4 c7c5 c2c3 c5d4 c3d4 d8a5	rnb1k1nr/pp1pppbp/6p1/q7/3P1B2/5N2/PP2PPPP/RN1QKB1R w KQkq -
 D02	Queen's Pawn Game: Symmetrical Variation	1. d4 d5 2. Nf3 Nf6	d2d4 d7d5 g1f3 g8f6	rnbqkb1r/ppp1pppp/5n2/3p4/3P4/5N2/PPP1PPPP/RNBQKB1R w KQkq -
 D02	Queen's Pawn Game: Symmetrical Variation, Pseudo-Catalan	1. d4 d5 2. Nf3 Nf6 3. g3	d2d4 d7d5 g1f3 g8f6 g2g3	rnbqkb1r/ppp1pppp/5n2/3p4/3P4/5NP1/PPP1PP1P/RNBQKB1R b KQkq -
 D02	Queen's Pawn Game: Zilbermints Countergambit	1. d4 d5 2. Nf3 Nf6 3. c4 b5	d2d4 d7d5 g1f3 g8f6 c2c4 b7b5	rnbqkb1r/p1p1pppp/5n2/1p1p4/2PP4/5N2/PP2PPPP/RNBQKB1R w KQkq -
