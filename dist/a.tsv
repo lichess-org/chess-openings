@@ -307,7 +307,7 @@ A13	English Opening: Agincourt Defense, Wimpy System	1. Nf3 Nf6 2. c4 e6 3. b3 d
 A13	English Opening: Neo-Catalan	1. Nf3 Nf6 2. c4 e6 3. g3 d5	g1f3 g8f6 c2c4 e7e6 g2g3 d7d5	rnbqkb1r/ppp2ppp/4pn2/3p4/2P5/5NP1/PP1PPP1P/RNBQKB1R w KQkq -
 A13	English Opening: Neo-Catalan Declined	1. Nf3 Nf6 2. c4 e6 3. g3 d5 4. Bg2 Be7	g1f3 g8f6 c2c4 e7e6 g2g3 d7d5 f1g2 f8e7	rnbqk2r/ppp1bppp/4pn2/3p4/2P5/5NP1/PP1PPPBP/RNBQK2R w KQkq -
 A13	English Opening: Romanishin Gambit	1. Nf3 Nf6 2. c4 e6 3. g3 a6 4. Bg2 b5	g1f3 g8f6 c2c4 e7e6 g2g3 a7a6 f1g2 b7b5	rnbqkb1r/2pp1ppp/p3pn2/1p6/2P5/5NP1/PP1PPPBP/RNBQK2R w KQkq -
-A13	Horwitz Defense: Zilbermints Gambit	1. c4 e6 2. d4 e5	c2c4 e7e6 d2d4 e6e5	rnbqkbnr/pppp1ppp/8/4p3/2PP4/8/PP2PPPP/RNBQKBNR w KQkq -
+A13	Horwitz Defense: Zilbermints Gambit	1. d4 e6 2. e4 e5	d2d4 e7e6 e2e4 e6e5	rnbqkbnr/pppp1ppp/8/4p3/3PP3/8/PPP2PPP/RNBQKBNR w KQkq -
 A14	English Opening: Agincourt Defense, Keres Defense	1. c4 c5 2. Nf3 Nf6 3. Nc3 e6 4. g3 d5 5. cxd5 Nxd5 6. Bg2 Nc6 7. O-O Be7	c2c4 c7c5 g1f3 g8f6 b1c3 e7e6 g2g3 d7d5 c4d5 f6d5 f1g2 b8c6 e1g1 f8e7	r1bqk2r/pp2bppp/2n1p3/2pn4/8/2N2NP1/PP1PPPBP/R1BQ1RK1 w kq -
 A14	English Opening: Agincourt Defense, Neo-Catalan Declined	1. Nf3 Nf6 2. c4 e6 3. g3 d5 4. Bg2 Be7 5. O-O	g1f3 g8f6 c2c4 e7e6 g2g3 d7d5 f1g2 f8e7 e1g1	rnbqk2r/ppp1bppp/4pn2/3p4/2P5/5NP1/PP1PPPBP/RNBQ1RK1 b kq -
 A14	Réti Opening: Anglo-Slav Variation, Bogoljubov Variation, Stonewall Line	1. Nf3 d5 2. c4 e6 3. g3 Nf6 4. Bg2 Be7 5. O-O O-O 6. b3 c6 7. Bb2	g1f3 d7d5 c2c4 e7e6 g2g3 g8f6 f1g2 f8e7 e1g1 e8g8 b2b3 c7c6 c1b2	rnbq1rk1/pp2bppp/2p1pn2/3p4/2P5/1P3NP1/PB1PPPBP/RN1Q1RK1 b - -
@@ -683,11 +683,11 @@ A83	Dutch Defense: Staunton Gambit, Chigorin Variation	1. d4 f5 2. e4 fxe4 3. Nc
 A83	Dutch Defense: Staunton Gambit, Lasker Variation	1. d4 f5 2. e4 fxe4 3. Nc3 Nf6 4. Bg5 g6 5. f3	d2d4 f7f5 e2e4 f5e4 b1c3 g8f6 c1g5 g7g6 f2f3	rnbqkb1r/ppppp2p/5np1/6B1/3Pp3/2N2P2/PPP3PP/R2QKBNR b KQkq -
 A83	Dutch Defense: Staunton Gambit, Nimzowitsch Variation	1. d4 f5 2. e4 fxe4 3. Nc3 Nf6 4. Bg5 b6	d2d4 f7f5 e2e4 f5e4 b1c3 g8f6 c1g5 b7b6	rnbqkb1r/p1ppp1pp/1p3n2/6B1/3Pp3/2N5/PPP2PPP/R2QKBNR w KQkq -
 A84	Dutch Defense	1. d4 f5 2. c4	d2d4 f7f5 c2c4	rnbqkbnr/ppppp1pp/8/5p2/2PP4/8/PP2PPPP/RNBQKBNR b KQkq -
+A84	Dutch Defense: Bellon Gambit	1. d4 f5 2. c4 e6 3. e4	d2d4 f7f5 c2c4 e7e6 e2e4	rnbqkbnr/pppp2pp/4p3/5p2/2PPP3/8/PP3PPP/RNBQKBNR b KQkq -
 A84	Dutch Defense: Bladel Variation	1. d4 f5 2. c4 g6 3. Nc3 Nh6	d2d4 f7f5 c2c4 g7g6 b1c3 g8h6	rnbqkb1r/ppppp2p/6pn/5p2/2PP4/2N5/PP2PPPP/R1BQKBNR w KQkq -
 A84	Dutch Defense: Classical Variation	1. d4 e6 2. c4 f5	d2d4 e7e6 c2c4 f7f5	rnbqkbnr/pppp2pp/4p3/5p2/2PP4/8/PP2PPPP/RNBQKBNR w KQkq -
 A84	Dutch Defense: Normal Variation	1. d4 f5 2. c4 Nf6	d2d4 f7f5 c2c4 g8f6	rnbqkb1r/ppppp1pp/5n2/5p2/2PP4/8/PP2PPPP/RNBQKBNR w KQkq -
-A84	Dutch Defense: Rubinstein Variation	1. d4 e6 2. c4 f5 3. Nc3	d2d4 e7e6 c2c4 f7f5 b1c3	rnbqkbnr/pppp2pp/4p3/5p2/2PP4/2N5/PP2PPPP/R1BQKBNR b KQkq -
-A84	Horwitz Defense: Dutch Defense, Bellon Gambit	1. d4 e6 2. c4 f5 3. e4	d2d4 e7e6 c2c4 f7f5 e2e4	rnbqkbnr/pppp2pp/4p3/5p2/2PPP3/8/PP3PPP/RNBQKBNR b KQkq -
+A84	Dutch Defense: Rubinstein Variation	1. d4 f5 2. c4 e6 3. Nc3	d2d4 f7f5 c2c4 e7e6 b1c3	rnbqkbnr/pppp2pp/4p3/5p2/2PP4/2N5/PP2PPPP/R1BQKBNR b KQkq -
 A85	Dutch Defense: Queen's Knight Variation	1. d4 f5 2. c4 Nf6 3. Nc3	d2d4 f7f5 c2c4 g8f6 b1c3	rnbqkb1r/ppppp1pp/5n2/5p2/2PP4/2N5/PP2PPPP/R1BQKBNR b KQkq -
 A86	Dutch Defense: Fianchetto Variation	1. d4 f5 2. c4 Nf6 3. g3	d2d4 f7f5 c2c4 g8f6 g2g3	rnbqkb1r/ppppp1pp/5n2/5p2/2PP4/6P1/PP2PP1P/RNBQKBNR b KQkq -
 A86	Dutch Defense: Hort-Antoshin System	1. c4 f5 2. g3 Nf6 3. Bg2 d6 4. Nc3 c6 5. d4 Qc7	c2c4 f7f5 g2g3 g8f6 f1g2 d7d6 b1c3 c7c6 d2d4 d8c7	rnb1kb1r/ppq1p1pp/2pp1n2/5p2/2PP4/2N3P1/PP2PPBP/R1BQK1NR w KQkq -

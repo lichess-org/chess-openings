@@ -307,7 +307,7 @@ A13	English Opening: Agincourt Defense, Wimpy System	1. Nf3 Nf6 2. c4 e6 3. b3 d
 A13	English Opening: Neo-Catalan	1. Nf3 Nf6 2. c4 e6 3. g3 d5
 A13	English Opening: Neo-Catalan Declined	1. Nf3 Nf6 2. c4 e6 3. g3 d5 4. Bg2 Be7
 A13	English Opening: Romanishin Gambit	1. Nf3 Nf6 2. c4 e6 3. g3 a6 4. Bg2 b5
-A13	Horwitz Defense: Zilbermints Gambit	1. c4 e6 2. d4 e5
+A13	Horwitz Defense: Zilbermints Gambit	1. d4 e6 2. e4 e5
 A14	English Opening: Agincourt Defense, Keres Defense	1. c4 c5 2. Nf3 Nf6 3. Nc3 e6 4. g3 d5 5. cxd5 Nxd5 6. Bg2 Nc6 7. O-O Be7
 A14	English Opening: Agincourt Defense, Neo-Catalan Declined	1. Nf3 Nf6 2. c4 e6 3. g3 d5 4. Bg2 Be7 5. O-O
 A14	Réti Opening: Anglo-Slav Variation, Bogoljubov Variation, Stonewall Line	1. Nf3 d5 2. c4 e6 3. g3 Nf6 4. Bg2 Be7 5. O-O O-O 6. b3 c6 7. Bb2
@@ -683,11 +683,11 @@ A83	Dutch Defense: Staunton Gambit, Chigorin Variation	1. d4 f5 2. e4 fxe4 3. Nc
 A83	Dutch Defense: Staunton Gambit, Lasker Variation	1. d4 f5 2. e4 fxe4 3. Nc3 Nf6 4. Bg5 g6 5. f3
 A83	Dutch Defense: Staunton Gambit, Nimzowitsch Variation	1. d4 f5 2. e4 fxe4 3. Nc3 Nf6 4. Bg5 b6
 A84	Dutch Defense	1. d4 f5 2. c4
+A84	Dutch Defense: Bellon Gambit	1. d4 f5 2. c4 e6 3. e4
 A84	Dutch Defense: Bladel Variation	1. d4 f5 2. c4 g6 3. Nc3 Nh6
 A84	Dutch Defense: Classical Variation	1. d4 e6 2. c4 f5
 A84	Dutch Defense: Normal Variation	1. d4 f5 2. c4 Nf6
-A84	Dutch Defense: Rubinstein Variation	1. d4 e6 2. c4 f5 3. Nc3
-A84	Horwitz Defense: Dutch Defense, Bellon Gambit	1. d4 e6 2. c4 f5 3. e4
+A84	Dutch Defense: Rubinstein Variation	1. d4 f5 2. c4 e6 3. Nc3
 A85	Dutch Defense: Queen's Knight Variation	1. d4 f5 2. c4 Nf6 3. Nc3
 A86	Dutch Defense: Fianchetto Variation	1. d4 f5 2. c4 Nf6 3. g3
 A86	Dutch Defense: Hort-Antoshin System	1. c4 f5 2. g3 Nf6 3. Bg2 d6 4. Nc3 c6 5. d4 Qc7
