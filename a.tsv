@@ -14,7 +14,6 @@ A00	Clemenz Opening	1. h3
 A00	Clemenz Opening: Spike Lee Gambit	1. h3 h5 2. g4
 A00	Crab Opening	1. a4 e5 2. h4
 A00	Creepy Crawly Formation: Classical Defense	1. h3 d5 2. a3 e5
-A00	Englund Gambit Declined: Reversed French	1. e3 e5 2. d4
 A00	Formation: Cabbage Attack	1. c3 e5 2. a3 d5 3. b3 Nf6 4. Bb2 Nc6 5. a4 Bd6 6. g3 O-O 7. e3
 A00	Formation: Hippopotamus Attack	1. a3 e5 2. b3 d5 3. c3 Nf6 4. d3 Nc6 5. e3 Bd6 6. f3 O-O 7. g3
 A00	Formation: Shy Attack	1. a3 e5 2. g3 d5 3. Bg2 Nf6 4. d3 Nc6 5. Nd2 Bd6 6. e3 O-O 7. h3
@@ -435,6 +434,7 @@ A40	Englund Gambit Complex: Zilbermints Gambit	1. d4 e5 2. dxe5 Nc6 3. Nf3 Nge7
 A40	Englund Gambit Complex: Zilbermints Gambit	1. d4 e5 2. dxe5 Nc6 3. Nf3 h6
 A40	Englund Gambit Declined: Reversed Alekhine	1. d4 e5 2. Nf3
 A40	Englund Gambit Declined: Reversed Brooklyn	1. d4 e5 2. Nf3 e4 3. Ng1
+A40	Englund Gambit Declined: Reversed French	1. d4 e5 2. e3
 A40	Englund Gambit Declined: Reversed Krebs	1. d4 e5 2. Nf3 e4
 A40	Englund Gambit Declined: Reversed Mokele Mbembe	1. d4 e5 2. Nf3 e4 3. Ne5
 A40	Horwitz Defense	1. d4 e6
