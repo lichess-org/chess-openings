@@ -352,8 +352,8 @@ C30	King's Gambit Declined: Petrov's Defense	1. e4 e5 2. f4 Nf6	e2e4 e7e5 f2f4 g
 C30	King's Gambit Declined: Queen's Knight Defense	1. e4 e5 2. f4 Nc6	e2e4 e7e5 f2f4 b8c6	r1bqkbnr/pppp1ppp/2n5/4p3/4PP2/8/PPPP2PP/RNBQKBNR w KQkq -
 C30	King's Gambit Declined: Senechaud Countergambit	1. e4 e5 2. f4 Bc5 3. Nf3 g5	e2e4 e7e5 f2f4 f8c5 g1f3 g7g5	rnbqk1nr/pppp1p1p/8/2b1p1p1/4PP2/5N2/PPPP2PP/RNBQKB1R w KQkq -
 C30	King's Gambit Declined: Soller-Zilbermints Gambit	1. e4 e5 2. f4 f6 3. fxe5 Nc6	e2e4 e7e5 f2f4 f7f6 f4e5 b8c6	r1bqkbnr/pppp2pp/2n2p2/4P3/4P3/8/PPPP2PP/RNBQKBNR w KQkq -
+C30	King's Gambit Declined: Zilbermints Double Countergambit	1. e4 e5 2. f4 g5	e2e4 e7e5 f2f4 g7g5	rnbqkbnr/pppp1p1p/8/4p1p1/4PP2/8/PPPP2PP/RNBQKBNR w KQkq -
 C30	King's Gambit Declined: Zilbermints Double Gambit	1. e4 e5 2. f4 Nc6 3. Nf3 g5	e2e4 e7e5 f2f4 b8c6 g1f3 g7g5	r1bqkbnr/pppp1p1p/2n5/4p1p1/4PP2/5N2/PPPP2PP/RNBQKB1R w KQkq -
-C30	King's Gambit: Zilbermints Double Countergambit	1. e4 e5 2. f4 g5	e2e4 e7e5 f2f4 g7g5	rnbqkbnr/pppp1p1p/8/4p1p1/4PP2/8/PPPP2PP/RNBQKBNR w KQkq -
 C31	King's Gambit Declined: Falkbeer Countergambit	1. e4 e5 2. f4 d5	e2e4 e7e5 f2f4 d7d5	rnbqkbnr/ppp2ppp/8/3pp3/4PP2/8/PPPP2PP/RNBQKBNR w KQkq -
 C31	King's Gambit Declined: Falkbeer Countergambit Accepted	1. e4 e5 2. f4 d5 3. exd5	e2e4 e7e5 f2f4 d7d5 e4d5	rnbqkbnr/ppp2ppp/8/3Pp3/5P2/8/PPPP2PP/RNBQKBNR b KQkq -
 C31	King's Gambit Declined: Falkbeer Countergambit, Anderssen Attack	1. e4 e5 2. f4 d5 3. exd5 e4 4. Bb5+	e2e4 e7e5 f2f4 d7d5 e4d5 e5e4 f1b5	rnbqkbnr/ppp2ppp/8/1B1P4/4pP2/8/PPPP2PP/RNBQK1NR b KQkq -
