@@ -14,7 +14,6 @@ A00	Clemenz Opening	1. h3
 A00	Clemenz Opening: Spike Lee Gambit	1. h3 h5 2. g4
 A00	Crab Opening	1. a4 e5 2. h4
 A00	Creepy Crawly Formation: Classical Defense	1. h3 d5 2. a3 e5
-A00	Englund Gambit Declined: Reversed French	1. e3 e5 2. d4
 A00	Formation: Cabbage Attack	1. c3 e5 2. a3 d5 3. b3 Nf6 4. Bb2 Nc6 5. a4 Bd6 6. g3 O-O 7. e3
 A00	Formation: Hippopotamus Attack	1. a3 e5 2. b3 d5 3. c3 Nf6 4. d3 Nc6 5. e3 Bd6 6. f3 O-O 7. g3
 A00	Formation: Shy Attack	1. a3 e5 2. g3 d5 3. Bg2 Nf6 4. d3 Nc6 5. Nd2 Bd6 6. e3 O-O 7. h3
@@ -435,6 +434,7 @@ A40	Englund Gambit Complex: Zilbermints Gambit	1. d4 e5 2. dxe5 Nc6 3. Nf3 Nge7
 A40	Englund Gambit Complex: Zilbermints Gambit	1. d4 e5 2. dxe5 Nc6 3. Nf3 h6
 A40	Englund Gambit Declined: Reversed Alekhine	1. d4 e5 2. Nf3
 A40	Englund Gambit Declined: Reversed Brooklyn	1. d4 e5 2. Nf3 e4 3. Ng1
+A40	Englund Gambit Declined: Reversed French	1. d4 e5 2. e3
 A40	Englund Gambit Declined: Reversed Krebs	1. d4 e5 2. Nf3 e4
 A40	Englund Gambit Declined: Reversed Mokele Mbembe	1. d4 e5 2. Nf3 e4 3. Ne5
 A40	Horwitz Defense	1. d4 e6
@@ -459,8 +459,6 @@ A40	Pterodactyl Defense: Fianchetto, Queen Pterodactyl	1. d4 g6 2. Nf3 Bg7 3. g3
 A40	Pterodactyl Defense: Queen Pterodactyl, Quiet Line	1. d4 g6 2. c4 Bg7 3. Nc3 c5 4. e3
 A40	Queen's Pawn Game	1. d4
 A40	Queen's Pawn Game: Anglo-Slav Opening	1. d4 c6 2. c4 d6
-A40	Queen's Pawn Game: Englund Gambit	1. d4 e5 2. dxe5 Nc6 3. Nf3 Qe7 4. Qd5 f6 5. exf6 Nxf6
-A40	Queen's Pawn Game: London System, Pterodactyl Variation	1. d4 g6 2. Nf3 Bg7 3. Bf4 c5 4. c3 cxd4 5. cxd4 Qa5+
 A40	Slav Indian: Kudischewitsch Gambit	1. d4 c6 2. Nf3 Nf6 3. c4 b5
 A40	St. George Defense: Polish Variation	1. d4 b5 2. e4 a6 3. Nf3 Bb7 4. Bd3 e6
 A40	Zaire Defense	1. d4 Nc6 2. d5 Nb8 3. e4 Nf6 4. e5 Ng8
@@ -502,8 +500,6 @@ A43	Queen's Pawn Game: Liedmann Gambit	1. d4 c5 2. c4 cxd4 3. e3
 A44	Benoni Defense: Old Benoni	1. d4 c5 2. d5 e5
 A44	Benoni Defense: Semi-Benoni	1. d4 c5 2. d5 e5 3. e4 d6
 A45	Amazon Attack: Siberian Attack	1. d4 Nf6 2. Nc3 d5 3. Qd3
-A45	Blackmar-Diemer Gambit Declined: O'Kelly Defense	1. d4 Nf6 2. f3 d5 3. e4 dxe4 4. Nc3 c6
-A45	Blackmar-Diemer Gambit Declined: Weinsbach Declination	1. d4 Nf6 2. Nc3 d5 3. f3 e6 4. e4 dxe4
 A45	Bronstein Gambit	1. d4 Nf6 2. g4
 A45	Canard Opening	1. d4 Nf6 2. f4
 A45	Indian Defense	1. d4 Nf6
@@ -542,7 +538,6 @@ A46	Indian Defense: Polish Variation	1. d4 Nf6 2. Nf3 b5
 A46	Indian Defense: Spielmann-Indian	1. d4 Nf6 2. Nf3 c5
 A46	Indian Defense: Wade-Tartakower Defense	1. d4 Nf6 2. Nf3 d6
 A46	Old Indian Defense: Czech Variation	1. d4 Nf6 2. Nf3 c6 3. c4 d6
-A46	Old Indian Defense: Tartakower-Indian	1. d4 Nf6 2. Nf3 d6 3. c4 Bg4
 A46	Queen's Pawn Game: Torre Attack, Breyer Variation	1. d4 Nf6 2. Nf3 e6 3. Bg5 d5 4. e3 c5 5. c3 Qb6
 A46	Queen's Pawn Game: Veresov Attack, Classical Defense	1. d4 Nf6 2. Nf3 e6 3. Nc3 d5 4. Bg5
 A46	Torre Attack	1. d4 Nf6 2. Nf3 e6 3. Bg5
@@ -587,6 +582,7 @@ A53	Old Indian Defense: Janowski Variation, Fianchetto Variation	1. d4 Nf6 2. c4
 A53	Old Indian Defense: Janowski Variation, Grinberg Gambit	1. d4 Nf6 2. c4 d6 3. Nc3 Bf5 4. e4
 A53	Old Indian Defense: Janowski Variation, Main Line	1. d4 Nf6 2. c4 d6 3. Nc3 Bf5 4. f3
 A54	Old Indian Defense: Dus-Khotimirsky Variation	1. d4 Nf6 2. c4 d6 3. Nc3 e5 4. e3 Nbd7 5. Bd3
+A54	Old Indian Defense: Tartakower-Indian	1. d4 Nf6 2. c4 d6 3. Nf3 Bg4
 A54	Old Indian Defense: Two Knights Variation	1. d4 Nf6 2. c4 d6 3. Nc3 e5 4. Nf3
 A54	Old Indian Defense: Ukrainian Variation	1. d4 Nf6 2. c4 d6 3. Nc3 e5
 A55	Old Indian Defense: Normal Variation	1. d4 Nf6 2. c4 d6 3. Nc3 Nbd7 4. e4 e5 5. Nf3
