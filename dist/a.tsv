@@ -283,7 +283,6 @@ A10	English Opening: Myers Variation	1. c4 g5 2. d4 Bg7	c2c4 g7g5 d2d4 f8g7	rnbq
 A10	English Opening: Porcupine Variation	1. c4 f5 2. Nc3 Nf6 3. e4 fxe4 4. g4	c2c4 f7f5 b1c3 g8f6 e2e4 f5e4 g2g4	rnbqkb1r/ppppp1pp/5n2/8/2P1p1P1/2N5/PP1P1P1P/R1BQKBNR b KQkq -
 A10	English Opening: Wade Gambit	1. c4 f5 2. g4	c2c4 f7f5 g2g4	rnbqkbnr/ppppp1pp/8/5p2/2P3P1/8/PP1PPP1P/RNBQKBNR b KQkq -
 A10	English Opening: Zilbermints Gambit	1. c4 g5 2. d4 e5	c2c4 g7g5 d2d4 e7e5	rnbqkbnr/pppp1p1p/8/4p1p1/2PP4/8/PP2PPPP/RNBQKBNR w KQkq -
-A10	Modern Defense: Neo-Modern Defense	1. c4 g6 2. e4 Bg7 3. d4 e5	c2c4 g7g6 e2e4 f8g7 d2d4 e7e5	rnbqk1nr/pppp1pbp/6p1/4p3/2PPP3/8/PP3PPP/RNBQKBNR w KQkq -
 A11	English Opening: Caro-Kann Defensive System	1. c4 c6	c2c4 c7c6	rnbqkbnr/pp1ppppp/2p5/8/2P5/8/PP1PPPPP/RNBQKBNR w KQkq -
 A12	Réti Opening: Anglo-Slav Variation, Bled Variation	1. Nf3 d5 2. b3 Nf6 3. Bb2 g6 4. c4 c6	g1f3 d7d5 b2b3 g8f6 c1b2 g7g6 c2c4 c7c6	rnbqkb1r/pp2pp1p/2p2np1/3p4/2P5/1P3N2/PB1PPPPP/RN1QKB1R w KQkq -
 A12	Réti Opening: Anglo-Slav Variation, Bogoljubov Variation	1. Nf3 d5 2. c4 c6 3. b3	g1f3 d7d5 c2c4 c7c6 b2b3	rnbqkbnr/pp2pppp/2p5/3p4/2P5/1P3N2/P2PPPPP/RNBQKB1R b KQkq -
@@ -464,6 +463,7 @@ A40	Slav Indian: Kudischewitsch Gambit	1. d4 c6 2. Nf3 Nf6 3. c4 b5	d2d4 c7c6 g1
 A40	Zaire Defense	1. d4 Nc6 2. d5 Nb8 3. e4 Nf6 4. e5 Ng8	d2d4 b8c6 d4d5 c6b8 e2e4 g8f6 e4e5 f6g8	rnbqkbnr/pppppppp/8/3PP3/8/8/PPP2PPP/RNBQKBNR w KQkq -
 A41	English Rat: Pounds Gambit	1. d4 d6 2. c4 e5 3. dxe5 Be6	d2d4 d7d6 c2c4 e7e5 d4e5 c8e6	rn1qkbnr/ppp2ppp/3pb3/4P3/2P5/8/PP2PPPP/RNBQKBNR w KQkq -
 A41	Modern Defense	1. d4 g6 2. c4 Bg7 3. Nc3 d6	d2d4 g7g6 c2c4 f8g7 b1c3 d7d6	rnbqk1nr/ppp1ppbp/3p2p1/8/2PP4/2N5/PP2PPPP/R1BQKBNR w KQkq -
+A41	Modern Defense: Neo-Modern Defense	1. d4 g6 2. c4 Bg7 3. e4 e5	d2d4 g7g6 c2c4 f8g7 e2e4 e7e5	rnbqk1nr/pppp1pbp/6p1/4p3/2PPP3/8/PP3PPP/RNBQKBNR w KQkq -
 A41	Old Indian Defense	1. d4 d6 2. c4	d2d4 d7d6 c2c4	rnbqkbnr/ppp1pppp/3p4/8/2PP4/8/PP2PPPP/RNBQKBNR b KQkq -
 A41	Queen's Pawn Game	1. d4 d6	d2d4 d7d6	rnbqkbnr/ppp1pppp/3p4/8/3P4/8/PPP1PPPP/RNBQKBNR w KQkq -
 A41	Rat Defense: English Rat	1. d4 d6 2. c4 e5	d2d4 d7d6 c2c4 e7e5	rnbqkbnr/ppp2ppp/3p4/4p3/2PP4/8/PP2PPPP/RNBQKBNR w KQkq -

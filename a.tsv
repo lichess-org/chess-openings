@@ -283,7 +283,6 @@ A10	English Opening: Myers Variation	1. c4 g5 2. d4 Bg7
 A10	English Opening: Porcupine Variation	1. c4 f5 2. Nc3 Nf6 3. e4 fxe4 4. g4
 A10	English Opening: Wade Gambit	1. c4 f5 2. g4
 A10	English Opening: Zilbermints Gambit	1. c4 g5 2. d4 e5
-A10	Modern Defense: Neo-Modern Defense	1. c4 g6 2. e4 Bg7 3. d4 e5
 A11	English Opening: Caro-Kann Defensive System	1. c4 c6
 A12	Réti Opening: Anglo-Slav Variation, Bled Variation	1. Nf3 d5 2. b3 Nf6 3. Bb2 g6 4. c4 c6
 A12	Réti Opening: Anglo-Slav Variation, Bogoljubov Variation	1. Nf3 d5 2. c4 c6 3. b3
@@ -464,6 +463,7 @@ A40	Slav Indian: Kudischewitsch Gambit	1. d4 c6 2. Nf3 Nf6 3. c4 b5
 A40	Zaire Defense	1. d4 Nc6 2. d5 Nb8 3. e4 Nf6 4. e5 Ng8
 A41	English Rat: Pounds Gambit	1. d4 d6 2. c4 e5 3. dxe5 Be6
 A41	Modern Defense	1. d4 g6 2. c4 Bg7 3. Nc3 d6
+A41	Modern Defense: Neo-Modern Defense	1. d4 g6 2. c4 Bg7 3. e4 e5
 A41	Old Indian Defense	1. d4 d6 2. c4
 A41	Queen's Pawn Game	1. d4 d6
 A41	Rat Defense: English Rat	1. d4 d6 2. c4 e5
