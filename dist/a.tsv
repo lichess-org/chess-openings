@@ -283,7 +283,6 @@ A10	English Opening: Myers Variation	1. c4 g5 2. d4 Bg7	c2c4 g7g5 d2d4 f8g7	rnbq
 A10	English Opening: Porcupine Variation	1. c4 f5 2. Nc3 Nf6 3. e4 fxe4 4. g4	c2c4 f7f5 b1c3 g8f6 e2e4 f5e4 g2g4	rnbqkb1r/ppppp1pp/5n2/8/2P1p1P1/2N5/PP1P1P1P/R1BQKBNR b KQkq -
 A10	English Opening: Wade Gambit	1. c4 f5 2. g4	c2c4 f7f5 g2g4	rnbqkbnr/ppppp1pp/8/5p2/2P3P1/8/PP1PPP1P/RNBQKBNR b KQkq -
 A10	English Opening: Zilbermints Gambit	1. c4 g5 2. d4 e5	c2c4 g7g5 d2d4 e7e5	rnbqkbnr/pppp1p1p/8/4p1p1/2PP4/8/PP2PPPP/RNBQKBNR w KQkq -
-A10	Modern Defense: Averbakh Variation, Pseudo-Sämisch	1. c4 g6 2. e4 Bg7 3. d4 d6 4. Be3 Nf6 5. f3	c2c4 g7g6 e2e4 f8g7 d2d4 d7d6 c1e3 g8f6 f2f3	rnbqk2r/ppp1ppbp/3p1np1/8/2PPP3/4BP2/PP4PP/RN1QKBNR b KQkq -
 A10	Modern Defense: Neo-Modern Defense	1. c4 g6 2. e4 Bg7 3. d4 e5	c2c4 g7g6 e2e4 f8g7 d2d4 e7e5	rnbqk1nr/pppp1pbp/6p1/4p3/2PPP3/8/PP3PPP/RNBQKBNR w KQkq -
 A11	English Opening: Caro-Kann Defensive System	1. c4 c6	c2c4 c7c6	rnbqkbnr/pp1ppppp/2p5/8/2P5/8/PP1PPPPP/RNBQKBNR w KQkq -
 A12	Réti Opening: Anglo-Slav Variation, Bled Variation	1. Nf3 d5 2. b3 Nf6 3. Bb2 g6 4. c4 c6	g1f3 d7d5 b2b3 g8f6 c1b2 g7g6 c2c4 c7c6	rnbqkb1r/pp2pp1p/2p2np1/3p4/2P5/1P3N2/PB1PPPPP/RN1QKB1R w KQkq -
@@ -473,6 +472,7 @@ A41	Robatsch Defense	1. d4 d6 2. Nf3 g6 3. c4 Bg7 4. e4 Bg4	d2d4 d7d6 g1f3 g7g6 
 A41	Wade Defense	1. d4 d6 2. Nf3 Bg4	d2d4 d7d6 g1f3 c8g4	rn1qkbnr/ppp1pppp/3p4/8/3P2b1/5N2/PPP1PPPP/RNBQKB1R w KQkq -
 A41	Zukertort Opening: Wade Defense, Chigorin Plan	1. d4 d6 2. Nf3 Bg4 3. c4 Nd7 4. Qb3 Rb8	d2d4 d7d6 g1f3 c8g4 c2c4 b8d7 d1b3 a8b8	1r1qkbnr/pppnpppp/3p4/8/2PP2b1/1Q3N2/PP2PPPP/RNB1KB1R w KQk -
 A42	Modern Defense: Averbakh System	1. d4 g6 2. c4 Bg7 3. Nc3 d6 4. e4	d2d4 g7g6 c2c4 f8g7 b1c3 d7d6 e2e4	rnbqk1nr/ppp1ppbp/3p2p1/8/2PPP3/2N5/PP3PPP/R1BQKBNR b KQkq -
+A42	Modern Defense: Averbakh Variation, Pseudo-Sämisch	1. d4 g6 2. c4 Bg7 3. e4 d6 4. Be3 Nf6 5. f3	d2d4 g7g6 c2c4 f8g7 e2e4 d7d6 c1e3 g8f6 f2f3	rnbqk2r/ppp1ppbp/3p1np1/8/2PPP3/4BP2/PP4PP/RN1QKBNR b KQkq -
 A42	Modern Defense: Kotov Variation	1. d4 g6 2. c4 Bg7 3. Nc3 d6 4. e4 Nc6	d2d4 g7g6 c2c4 f8g7 b1c3 d7d6 e2e4 b8c6	r1bqk1nr/ppp1ppbp/2np2p1/8/2PPP3/2N5/PP3PPP/R1BQKBNR w KQkq -
 A42	Modern Defense: Randspringer Variation	1. d4 g6 2. c4 Bg7 3. Nc3 d6 4. e4 f5	d2d4 g7g6 c2c4 f8g7 b1c3 d7d6 e2e4 f7f5	rnbqk1nr/ppp1p1bp/3p2p1/5p2/2PPP3/2N5/PP3PPP/R1BQKBNR w KQkq -
 A42	Pterodactyl Defense	1. Nf3 c5 2. c4 g6 3. d4 Bg7 4. e4 Qa5+ 5. Nc3 d6	g1f3 c7c5 c2c4 g7g6 d2d4 f8g7 e2e4 d8a5 b1c3 d7d6	rnb1k1nr/pp2ppbp/3p2p1/q1p5/2PPP3/2N2N2/PP3PPP/R1BQKB1R w KQkq -
