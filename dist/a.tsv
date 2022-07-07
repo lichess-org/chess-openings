@@ -144,7 +144,6 @@ A00	Ware Opening: Cologne Gambit	1. a4 b6 2. d4 d5 3. Nc3 Nd7	a2a4 b7b6 d2d4 d7d
 A00	Ware Opening: Meadow Hay Trap	1. a4 e5 2. Ra3	a2a4 e7e5 a1a3	rnbqkbnr/pppp1ppp/8/4p3/P7/R7/1PPPPPPP/1NBQKBNR b Kkq -
 A00	Ware Opening: Ware Gambit	1. a4 e5 2. a5 d5 3. e3 f5 4. a6	a2a4 e7e5 a4a5 d7d5 e2e3 f7f5 a5a6	rnbqkbnr/ppp3pp/P7/3ppp2/8/4P3/1PPP1PPP/RNBQKBNR b KQkq -
 A00	Ware Opening: Wing Gambit	1. a4 b5 2. axb5 Bb7	a2a4 b7b5 a4b5 c8b7	rn1qkbnr/pbpppppp/8/1P6/8/8/1PPPPPPP/RNBQKBNR w KQkq -
-A00	Zukertort Opening: Reversed Mexican Defense	1. Nc3 d5 2. Nf3	b1c3 d7d5 g1f3	rnbqkbnr/ppp1pppp/8/3p4/8/2N2N2/PPPPPPPP/R1BQKB1R b KQkq -
 A01	Nimzo-Larsen Attack	1. b3	b2b3	rnbqkbnr/pppppppp/8/8/8/1P6/P1PPPPPP/RNBQKBNR b KQkq -
 A01	Nimzo-Larsen Attack: Classical Variation	1. b3 d5	b2b3 d7d5	rnbqkbnr/ppp1pppp/8/3p4/8/1P6/P1PPPPPP/RNBQKBNR w KQkq -
 A01	Nimzo-Larsen Attack: Dutch Variation	1. b3 f5	b2b3 f7f5	rnbqkbnr/ppppp1pp/8/5p2/8/1P6/P1PPPPPP/RNBQKBNR w KQkq -
@@ -237,6 +236,7 @@ A06	Zukertort Opening: Ampel Variation	1. Nf3 d5 2. Rg1	g1f3 d7d5 h1g1	rnbqkbnr/
 A06	Zukertort Opening: Old Indian Attack	1. Nf3 d5 2. d3	g1f3 d7d5 d2d3	rnbqkbnr/ppp1pppp/8/3p4/8/3P1N2/PPP1PPPP/RNBQKB1R b KQkq -
 A06	Zukertort Opening: Pachman Gambit	1. Nf3 d5 2. e3 c5 3. c4 dxc4 4. b3	g1f3 d7d5 e2e3 c7c5 c2c4 d5c4 b2b3	rnbqkbnr/pp2pppp/8/2p5/2p5/1P2PN2/P2P1PPP/RNBQKB1R b KQkq -
 A06	Zukertort Opening: Regina-Nu Gambit	1. Nf3 d5 2. b3 c5 3. c4 dxc4 4. Nc3	g1f3 d7d5 b2b3 c7c5 c2c4 d5c4 b1c3	rnbqkbnr/pp2pppp/8/2p5/2p5/1PN2N2/P2PPPPP/R1BQKB1R b KQkq -
+A06	Zukertort Opening: Reversed Mexican Defense	1. Nf3 d5 2. Nc3	g1f3 d7d5 b1c3	rnbqkbnr/ppp1pppp/8/3p4/8/2N2N2/PPPPPPPP/R1BQKB1R b KQkq -
 A06	Zukertort Opening: Santasiere's Folly	1. b4 d5 2. Nf3	b2b4 d7d5 g1f3	rnbqkbnr/ppp1pppp/8/3p4/1P6/5N2/P1PPPPPP/RNBQKB1R b KQkq -
 A06	Zukertort Opening: Tennison Gambit	1. e4 d5 2. Nf3	e2e4 d7d5 g1f3	rnbqkbnr/ppp1pppp/8/3p4/4P3/5N2/PPPP1PPP/RNBQKB1R b KQkq -
 A06	Zukertort Opening: The Potato	1. Nf3 d5 2. a4	g1f3 d7d5 a2a4	rnbqkbnr/ppp1pppp/8/3p4/P7/5N2/1PPPPPPP/RNBQKB1R b KQkq -
