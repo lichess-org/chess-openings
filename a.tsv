@@ -144,7 +144,6 @@ A00	Ware Opening: Cologne Gambit	1. a4 b6 2. d4 d5 3. Nc3 Nd7
 A00	Ware Opening: Meadow Hay Trap	1. a4 e5 2. Ra3
 A00	Ware Opening: Ware Gambit	1. a4 e5 2. a5 d5 3. e3 f5 4. a6
 A00	Ware Opening: Wing Gambit	1. a4 b5 2. axb5 Bb7
-A00	Zukertort Opening: Reversed Mexican Defense	1. Nc3 d5 2. Nf3
 A01	Nimzo-Larsen Attack	1. b3
 A01	Nimzo-Larsen Attack: Classical Variation	1. b3 d5
 A01	Nimzo-Larsen Attack: Dutch Variation	1. b3 f5
@@ -237,6 +236,7 @@ A06	Zukertort Opening: Ampel Variation	1. Nf3 d5 2. Rg1
 A06	Zukertort Opening: Old Indian Attack	1. Nf3 d5 2. d3
 A06	Zukertort Opening: Pachman Gambit	1. Nf3 d5 2. e3 c5 3. c4 dxc4 4. b3
 A06	Zukertort Opening: Regina-Nu Gambit	1. Nf3 d5 2. b3 c5 3. c4 dxc4 4. Nc3
+A06	Zukertort Opening: Reversed Mexican Defense	1. Nf3 d5 2. Nc3
 A06	Zukertort Opening: Santasiere's Folly	1. b4 d5 2. Nf3
 A06	Zukertort Opening: Tennison Gambit	1. e4 d5 2. Nf3
 A06	Zukertort Opening: The Potato	1. Nf3 d5 2. a4
