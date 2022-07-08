@@ -242,7 +242,6 @@ A06	Zukertort Opening: Reversed Mexican Defense	1. Nf3 d5 2. Nc3	g1f3 d7d5 b1c3	
 A06	Zukertort Opening: Santasiere's Folly	1. b4 d5 2. Nf3	b2b4 d7d5 g1f3	rnbqkbnr/ppp1pppp/8/3p4/1P6/5N2/P1PPPPPP/RNBQKB1R b KQkq -
 A06	Zukertort Opening: Tennison Gambit	1. e4 d5 2. Nf3	e2e4 d7d5 g1f3	rnbqkbnr/ppp1pppp/8/3p4/4P3/5N2/PPPP1PPP/RNBQKB1R b KQkq -
 A06	Zukertort Opening: The Potato	1. Nf3 d5 2. a4	g1f3 d7d5 a2a4	rnbqkbnr/ppp1pppp/8/3p4/P7/5N2/1PPPPPPP/RNBQKB1R b KQkq -
-A07	English Opening: Anglo-Indian Defense, Grünfeld Formation	1. g3 d5 2. Nf3 g6 3. c4 Nf6	g2g3 d7d5 g1f3 g7g6 c2c4 g8f6	rnbqkb1r/ppp1pp1p/5np1/3p4/2P5/5NP1/PP1PPP1P/RNBQKB1R w KQkq -
 A07	Hungarian Opening: Wiedenhagen-Beta Gambit	1. g3 d5 2. Nf3 g5	g2g3 d7d5 g1f3 g7g5	rnbqkbnr/ppp1pp1p/8/3p2p1/8/5NP1/PPPPPP1P/RNBQKB1R w KQkq -
 A07	King's Indian Attack	1. Nf3 d5 2. g3	g1f3 d7d5 g2g3	rnbqkbnr/ppp1pppp/8/3p4/8/5NP1/PPPPPP1P/RNBQKB1R b KQkq -
 A07	King's Indian Attack: Double Fianchetto	1. Nf3 d5 2. g3 g6	g1f3 d7d5 g2g3 g7g6	rnbqkbnr/ppp1pp1p/6p1/3p4/8/5NP1/PPPPPP1P/RNBQKB1R w KQkq -
@@ -314,6 +313,7 @@ A14	English Opening: Agincourt Defense, Neo-Catalan Declined	1. Nf3 Nf6 2. c4 e6
 A14	Réti Opening: Anglo-Slav Variation, Bogoljubov Variation, Stonewall Line	1. Nf3 d5 2. c4 e6 3. g3 Nf6 4. Bg2 Be7 5. O-O O-O 6. b3 c6 7. Bb2	g1f3 d7d5 c2c4 e7e6 g2g3 g8f6 f1g2 f8e7 e1g1 e8g8 b2b3 c7c6 c1b2	rnbq1rk1/pp2bppp/2p1pn2/3p4/2P5/1P3NP1/PB1PPPBP/RN1Q1RK1 b - -
 A15	English Opening: Anglo-Indian Defense	1. c4 Nf6	c2c4 g8f6	rnbqkb1r/pppppppp/5n2/8/2P5/8/PP1PPPPP/RNBQKBNR w KQkq -
 A15	English Opening: Anglo-Indian Defense, Anti-Anti-Grünfeld	1. Nf3 Nf6 2. c4 g6 3. Nc3 Bg7 4. e4	g1f3 g8f6 c2c4 g7g6 b1c3 f8g7 e2e4	rnbqk2r/ppppppbp/5np1/8/2P1P3/2N2N2/PP1P1PPP/R1BQKB1R b KQkq -
+A15	English Opening: Anglo-Indian Defense, Grünfeld Formation	1. c4 Nf6 2. Nf3 g6 3. g3 d5	c2c4 g8f6 g1f3 g7g6 g2g3 d7d5	rnbqkb1r/ppp1pp1p/5np1/3p4/2P5/5NP1/PP1PPP1P/RNBQKB1R w KQkq -
 A15	English Opening: Anglo-Indian Defense, King's Indian Formation	1. Nf3 Nf6 2. c4 g6	g1f3 g8f6 c2c4 g7g6	rnbqkb1r/pppppp1p/5np1/8/2P5/5N2/PP1PPPPP/RNBQKB1R w KQkq -
 A15	English Opening: Anglo-Indian Defense, King's Indian Formation, Double Fianchetto	1. Nf3 Nf6 2. c4 b6 3. g3 Bb7 4. Bg2 g6	g1f3 g8f6 c2c4 b7b6 g2g3 c8b7 f1g2 g7g6	rn1qkb1r/pbpppp1p/1p3np1/8/2P5/5NP1/PP1PPPBP/RNBQK2R w KQkq -
 A15	English Opening: Anglo-Indian Defense, King's Knight Variation	1. Nf3 Nf6 2. c4	g1f3 g8f6 c2c4	rnbqkb1r/pppppppp/5n2/8/2P5/5N2/PP1PPPPP/RNBQKB1R b KQkq -

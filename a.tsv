@@ -242,7 +242,6 @@ A06	Zukertort Opening: Reversed Mexican Defense	1. Nf3 d5 2. Nc3
 A06	Zukertort Opening: Santasiere's Folly	1. b4 d5 2. Nf3
 A06	Zukertort Opening: Tennison Gambit	1. e4 d5 2. Nf3
 A06	Zukertort Opening: The Potato	1. Nf3 d5 2. a4
-A07	English Opening: Anglo-Indian Defense, Grünfeld Formation	1. g3 d5 2. Nf3 g6 3. c4 Nf6
 A07	Hungarian Opening: Wiedenhagen-Beta Gambit	1. g3 d5 2. Nf3 g5
 A07	King's Indian Attack	1. Nf3 d5 2. g3
 A07	King's Indian Attack: Double Fianchetto	1. Nf3 d5 2. g3 g6
@@ -314,6 +313,7 @@ A14	English Opening: Agincourt Defense, Neo-Catalan Declined	1. Nf3 Nf6 2. c4 e6
 A14	Réti Opening: Anglo-Slav Variation, Bogoljubov Variation, Stonewall Line	1. Nf3 d5 2. c4 e6 3. g3 Nf6 4. Bg2 Be7 5. O-O O-O 6. b3 c6 7. Bb2
 A15	English Opening: Anglo-Indian Defense	1. c4 Nf6
 A15	English Opening: Anglo-Indian Defense, Anti-Anti-Grünfeld	1. Nf3 Nf6 2. c4 g6 3. Nc3 Bg7 4. e4
+A15	English Opening: Anglo-Indian Defense, Grünfeld Formation	1. c4 Nf6 2. Nf3 g6 3. g3 d5
 A15	English Opening: Anglo-Indian Defense, King's Indian Formation	1. Nf3 Nf6 2. c4 g6
 A15	English Opening: Anglo-Indian Defense, King's Indian Formation, Double Fianchetto	1. Nf3 Nf6 2. c4 b6 3. g3 Bb7 4. Bg2 g6
 A15	English Opening: Anglo-Indian Defense, King's Knight Variation	1. Nf3 Nf6 2. c4
