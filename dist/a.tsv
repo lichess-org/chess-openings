@@ -190,6 +190,7 @@ A04	Colle System: Rhamphorhynchus Variation	1. Nf3 c5 2. e3 g6 3. d4 Bg7 4. dxc5
 A04	Modern Defense: Semi-Averbakh Variation, Polish Variation	1. Nf3 c5 2. c4 g6 3. d4 Bg7 4. e4 Qb6	g1f3 c7c5 c2c4 g7g6 d2d4 f8g7 e2e4 d8b6	rnb1k1nr/pp1pppbp/1q4p1/2p5/2PPP3/5N2/PP3PPP/RNBQKB1R w KQkq -
 A04	Modern Defense: Semi-Averbakh Variation, Pterodactyl Variation	1. Nf3 c5 2. c4 g6 3. d4 Bg7 4. e4 Qa5+	g1f3 c7c5 c2c4 g7g6 d2d4 f8g7 e2e4 d8a5	rnb1k1nr/pp1pppbp/6p1/q1p5/2PPP3/5N2/PP3PPP/RNBQKB1R w KQkq -
 A04	Modern Defense: Semi-Averbakh Variation, Pterodactyl Variation Accepted	1. Nf3 g6 2. d4 Bg7 3. e4 d6 4. c4 c5 5. dxc5 Qa5+	g1f3 g7g6 d2d4 f8g7 e2e4 d7d6 c2c4 c7c5 d4c5 d8a5	rnb1k1nr/pp2ppbp/3p2p1/q1P5/2P1P3/5N2/PP3PPP/RNBQKB1R w KQkq -
+A04	Zukertort Defense: Kingside Variation	1. Nf3 Nh6 2. d4 g6	g1f3 g8h6 d2d4 g7g6	rnbqkb1r/pppppp1p/6pn/8/3P4/5N2/PPP1PPPP/RNBQKB1R w KQkq -
 A04	Zukertort Opening	1. Nf3	g1f3	rnbqkbnr/pppppppp/8/8/8/5N2/PPPPPPPP/RNBQKB1R b KQkq -
 A04	Zukertort Opening: Arctic Defense	1. Nf3 f6	g1f3 f7f6	rnbqkbnr/ppppp1pp/5p2/8/8/5N2/PPPPPPPP/RNBQKB1R w KQkq -
 A04	Zukertort Opening: Arctic Defense, Drunken Knight Variation	1. Nf3 f6 2. e4 Nh6 3. d4 Nf7	g1f3 f7f6 e2e4 g8h6 d2d4 h6f7	rnbqkb1r/pppppnpp/5p2/8/3PP3/5N2/PPP2PPP/RNBQKB1R w KQkq -
@@ -462,7 +463,6 @@ A40	Queen's Pawn Game: Anglo-Slav Opening	1. d4 c6 2. c4 d6	d2d4 c7c6 c2c4 d7d6	
 A40	Slav Indian: Kudischewitsch Gambit	1. d4 c6 2. Nf3 Nf6 3. c4 b5	d2d4 c7c6 g1f3 g8f6 c2c4 b7b5	rnbqkb1r/p2ppppp/2p2n2/1p6/2PP4/5N2/PP2PPPP/RNBQKB1R w KQkq -
 A40	St. George Defense: Polish Variation	1. d4 b5 2. e4 a6 3. Nf3 Bb7 4. Bd3 e6	d2d4 b7b5 e2e4 a7a6 g1f3 c8b7 f1d3 e7e6	rn1qkbnr/1bpp1ppp/p3p3/1p6/3PP3/3B1N2/PPP2PPP/RNBQK2R w KQkq -
 A40	Zaire Defense	1. d4 Nc6 2. d5 Nb8 3. e4 Nf6 4. e5 Ng8	d2d4 b8c6 d4d5 c6b8 e2e4 g8f6 e4e5 f6g8	rnbqkbnr/pppppppp/8/3PP3/8/8/PPP2PPP/RNBQKBNR w KQkq -
-A40	Zukertort Defense: Kingside Variation	1. d4 g6 2. Nf3 Nh6	d2d4 g7g6 g1f3 g8h6	rnbqkb1r/pppppp1p/6pn/8/3P4/5N2/PPP1PPPP/RNBQKB1R w KQkq -
 A41	English Rat: Pounds Gambit	1. d4 d6 2. c4 e5 3. dxe5 Be6	d2d4 d7d6 c2c4 e7e5 d4e5 c8e6	rn1qkbnr/ppp2ppp/3pb3/4P3/2P5/8/PP2PPPP/RNBQKBNR w KQkq -
 A41	Modern Defense	1. d4 g6 2. c4 Bg7 3. Nc3 d6	d2d4 g7g6 c2c4 f8g7 b1c3 d7d6	rnbqk1nr/ppp1ppbp/3p2p1/8/2PP4/2N5/PP2PPPP/R1BQKBNR w KQkq -
 A41	Old Indian Defense	1. d4 d6 2. c4	d2d4 d7d6 c2c4	rnbqkbnr/ppp1pppp/3p4/8/2PP4/8/PP2PPPP/RNBQKBNR b KQkq -

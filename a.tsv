@@ -190,6 +190,7 @@ A04	Colle System: Rhamphorhynchus Variation	1. Nf3 c5 2. e3 g6 3. d4 Bg7 4. dxc5
 A04	Modern Defense: Semi-Averbakh Variation, Polish Variation	1. Nf3 c5 2. c4 g6 3. d4 Bg7 4. e4 Qb6
 A04	Modern Defense: Semi-Averbakh Variation, Pterodactyl Variation	1. Nf3 c5 2. c4 g6 3. d4 Bg7 4. e4 Qa5+
 A04	Modern Defense: Semi-Averbakh Variation, Pterodactyl Variation Accepted	1. Nf3 g6 2. d4 Bg7 3. e4 d6 4. c4 c5 5. dxc5 Qa5+
+A04	Zukertort Defense: Kingside Variation	1. Nf3 Nh6 2. d4 g6
 A04	Zukertort Opening	1. Nf3
 A04	Zukertort Opening: Arctic Defense	1. Nf3 f6
 A04	Zukertort Opening: Arctic Defense, Drunken Knight Variation	1. Nf3 f6 2. e4 Nh6 3. d4 Nf7
@@ -462,7 +463,6 @@ A40	Queen's Pawn Game: Anglo-Slav Opening	1. d4 c6 2. c4 d6
 A40	Slav Indian: Kudischewitsch Gambit	1. d4 c6 2. Nf3 Nf6 3. c4 b5
 A40	St. George Defense: Polish Variation	1. d4 b5 2. e4 a6 3. Nf3 Bb7 4. Bd3 e6
 A40	Zaire Defense	1. d4 Nc6 2. d5 Nb8 3. e4 Nf6 4. e5 Ng8
-A40	Zukertort Defense: Kingside Variation	1. d4 g6 2. Nf3 Nh6
 A41	English Rat: Pounds Gambit	1. d4 d6 2. c4 e5 3. dxe5 Be6
 A41	Modern Defense	1. d4 g6 2. c4 Bg7 3. Nc3 d6
 A41	Old Indian Defense	1. d4 d6 2. c4
