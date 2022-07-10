@@ -83,7 +83,6 @@ B00	St. George Defense: Zilbermints Gambit	1. e4 a6 2. d4 e5	e2e4 a7a6 d2d4 e7e5
 B00	Van Geet Opening: Berlin Gambit	1. e4 Nc6 2. d4 d5 3. Nc3 dxe4 4. d5	e2e4 b8c6 d2d4 d7d5 b1c3 d5e4 d4d5	r1bqkbnr/ppp1pppp/2n5/3P4/4p3/2N5/PPP2PPP/R1BQKBNR b KQkq -
 B00	Ware Defense	1. e4 a5	e2e4 a7a5	rnbqkbnr/1ppppppp/8/p7/4P3/8/PPPP1PPP/RNBQKBNR w KQkq -
 B00	Ware Defense: Snagglepuss Defense	1. e4 a5 2. d4 Nc6	e2e4 a7a5 d2d4 b8c6	r1bqkbnr/1ppppppp/2n5/p7/3PP3/8/PPP2PPP/RNBQKBNR w KQkq -
-B00	Zukertort Defense: Sicilian Knight Variation	1. e4 Na6 2. Nf3 c5	e2e4 b8a6 g1f3 c7c5	r1bqkbnr/pp1ppppp/n7/2p5/4P3/5N2/PPPP1PPP/RNBQKB1R w KQkq -
 B01	Scandinavian Defense	1. e4 d5	e2e4 d7d5	rnbqkbnr/ppp1pppp/8/3p4/4P3/8/PPPP1PPP/RNBQKBNR w KQkq -
 B01	Scandinavian Defense	1. e4 d5 2. b3	e2e4 d7d5 b2b3	rnbqkbnr/ppp1pppp/8/3p4/4P3/1P6/P1PP1PPP/RNBQKBNR b KQkq -
 B01	Scandinavian Defense: Anderssen Counterattack	1. e4 d5 2. exd5 Qxd5 3. Nc3 Qa5 4. d4 e5	e2e4 d7d5 e4d5 d8d5 b1c3 d5a5 d2d4 e7e5	rnb1kbnr/ppp2ppp/8/q3p3/3P4/2N5/PPP2PPP/R1BQKBNR w KQkq -
