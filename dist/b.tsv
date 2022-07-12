@@ -78,12 +78,12 @@ B00	Rat Defense: Harmonist	1. e4 d6 2. f4	e2e4 d7d6 f2f4	rnbqkbnr/ppp1pppp/3p4/8
 B00	Rat Defense: Petruccioli Attack	1. e4 d6 2. h4	e2e4 d7d6 h2h4	rnbqkbnr/ppp1pppp/3p4/8/4P2P/8/PPPP1PP1/RNBQKBNR b KQkq -
 B00	Rat Defense: Spike Attack	1. e4 d6 2. g4	e2e4 d7d6 g2g4	rnbqkbnr/ppp1pppp/3p4/8/4P1P1/8/PPPP1P1P/RNBQKBNR b KQkq -
 B00	St. George Defense	1. e4 a6	e2e4 a7a6	rnbqkbnr/1ppppppp/p7/8/4P3/8/PPPP1PPP/RNBQKBNR w KQkq -
+B00	St. George Defense: Polish Variation	1. e4 a6 2. d4 b5 3. Nf3 Bb7 4. Bd3 e6	e2e4 a7a6 d2d4 b7b5 g1f3 c8b7 f1d3 e7e6	rn1qkbnr/1bpp1ppp/p3p3/1p6/3PP3/3B1N2/PPP2PPP/RNBQK2R w KQkq -
 B00	St. George Defense: San Jorge Variation	1. e4 a6 2. d4 b5 3. Nf3 Bb7 4. Bd3 d6 5. O-O g6 6. c3 Bg7	e2e4 a7a6 d2d4 b7b5 g1f3 c8b7 f1d3 d7d6 e1g1 g7g6 c2c3 f8g7	rn1qk1nr/1bp1ppbp/p2p2p1/1p6/3PP3/2PB1N2/PP3PPP/RNBQ1RK1 w kq -
 B00	St. George Defense: Zilbermints Gambit	1. e4 a6 2. d4 e5	e2e4 a7a6 d2d4 e7e5	rnbqkbnr/1ppp1ppp/p7/4p3/3PP3/8/PPP2PPP/RNBQKBNR w KQkq -
 B00	Van Geet Opening: Berlin Gambit	1. e4 Nc6 2. d4 d5 3. Nc3 dxe4 4. d5	e2e4 b8c6 d2d4 d7d5 b1c3 d5e4 d4d5	r1bqkbnr/ppp1pppp/2n5/3P4/4p3/2N5/PPP2PPP/R1BQKBNR b KQkq -
 B00	Ware Defense	1. e4 a5	e2e4 a7a5	rnbqkbnr/1ppppppp/8/p7/4P3/8/PPPP1PPP/RNBQKBNR w KQkq -
 B00	Ware Defense: Snagglepuss Defense	1. e4 a5 2. d4 Nc6	e2e4 a7a5 d2d4 b8c6	r1bqkbnr/1ppppppp/2n5/p7/3PP3/8/PPP2PPP/RNBQKBNR w KQkq -
-B00	Zukertort Defense: Sicilian Knight Variation	1. e4 Na6 2. Nf3 c5	e2e4 b8a6 g1f3 c7c5	r1bqkbnr/pp1ppppp/n7/2p5/4P3/5N2/PPPP1PPP/RNBQKB1R w KQkq -
 B01	Scandinavian Defense	1. e4 d5	e2e4 d7d5	rnbqkbnr/ppp1pppp/8/3p4/4P3/8/PPPP1PPP/RNBQKBNR w KQkq -
 B01	Scandinavian Defense	1. e4 d5 2. b3	e2e4 d7d5 b2b3	rnbqkbnr/ppp1pppp/8/3p4/4P3/1P6/P1PP1PPP/RNBQKBNR b KQkq -
 B01	Scandinavian Defense: Anderssen Counterattack	1. e4 d5 2. exd5 Qxd5 3. Nc3 Qa5 4. d4 e5	e2e4 d7d5 e4d5 d8d5 b1c3 d5a5 d2d4 e7e5	rnb1kbnr/ppp2ppp/8/q3p3/3P4/2N5/PPP2PPP/R1BQKBNR w KQkq -
@@ -146,8 +146,6 @@ B02	Alekhine Defense: Two Pawn Attack	1. e4 Nf6 2. e5 Nd5 3. c4	e2e4 g8f6 e4e5 f
 B02	Alekhine Defense: Two Pawn Attack, Lasker Variation	1. e4 Nf6 2. e5 Nd5 3. c4 Nb6 4. c5	e2e4 g8f6 e4e5 f6d5 c2c4 d5b6 c4c5	rnbqkb1r/pppppppp/1n6/2P1P3/8/8/PP1P1PPP/RNBQKBNR b KQkq -
 B02	Alekhine Defense: Two Pawns Attack, Mikenas Variation	1. e4 Nf6 2. e5 Nd5 3. c4 Nb6 4. c5 Nd5 5. Bc4 e6 6. Nc3 d6	e2e4 g8f6 e4e5 f6d5 c2c4 d5b6 c4c5 b6d5 f1c4 e7e6 b1c3 d7d6	rnbqkb1r/ppp2ppp/3pp3/2PnP3/2B5/2N5/PP1P1PPP/R1BQK1NR w KQkq -
 B02	Alekhine Defense: Welling Variation	1. e4 Nf6 2. e5 Nd5 3. b3	e2e4 g8f6 e4e5 f6d5 b2b3	rnbqkb1r/pppppppp/8/3nP3/8/1P6/P1PP1PPP/RNBQKBNR b KQkq -
-B02	English Opening: Achilles-Omega Gambit	1. e4 Nf6 2. c4	e2e4 g8f6 c2c4	rnbqkb1r/pppppppp/5n2/8/2P1P3/8/PP1P1PPP/RNBQKBNR b KQkq -
-B02	King's Pawn Game: Clam Variation, Radisch Gambit	1. e4 Nf6 2. d3 e5 3. f4 Bc5	e2e4 g8f6 d2d3 e7e5 f2f4 f8c5	rnbqk2r/pppp1ppp/5n2/2b1p3/4PP2/3P4/PPP3PP/RNBQKBNR w KQkq -
 B03	Alekhine Defense	1. e4 Nf6 2. e5 Nd5 3. d4	e2e4 g8f6 e4e5 f6d5 d2d4	rnbqkb1r/pppppppp/8/3nP3/3P4/8/PPP2PPP/RNBQKBNR b KQkq -
 B03	Alekhine Defense	1. e4 Nf6 2. e5 Nd5 3. d4 d6	e2e4 g8f6 e4e5 f6d5 d2d4 d7d6	rnbqkb1r/ppp1pppp/3p4/3nP3/3P4/8/PPP2PPP/RNBQKBNR w KQkq -
 B03	Alekhine Defense	1. e4 Nf6 2. e5 Nd5 3. d4 d6 4. c4	e2e4 g8f6 e4e5 f6d5 d2d4 d7d6 c2c4	rnbqkb1r/ppp1pppp/3p4/3nP3/2PP4/8/PP3PPP/RNBQKBNR b KQkq -
