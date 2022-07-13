@@ -22,9 +22,9 @@ def main(argv):
     print("  def db: Vector[FullOpening] = Vector(")
 
     for line in itertools.islice(open(argv[1]), 1, None):
-        eco, name, pgn = line.split("\t")
+        eco, name, pgn, uci, _ = line.split("\t")
         board = chess.pgn.read_game(io.StringIO(pgn), Visitor=chess.pgn.BoardBuilder)
-        print(f"""new FullOpening("{eco}", "{name}", "{board.epd()}"),""")
+        print(f"""new FullOpening("{eco}", "{name}", "{board.epd()}", "{uci}", "{pgn}"),""")
 
     print("  )")
     print("}")
