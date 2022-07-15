@@ -34,7 +34,6 @@ C00	French Defense: Two Knights Variation	1. e4 e6 2. Nf3 d5 3. Nc3	e2e4 e7e6 g1
 C00	French Defense: Wing Gambit	1. e4 e6 2. Nf3 d5 3. e5 c5 4. b4	e2e4 e7e6 g1f3 d7d5 e4e5 c7c5 b2b4	rnbqkbnr/pp3ppp/4p3/2ppP3/1P6/5N2/P1PP1PPP/RNBQKB1R b KQkq -
 C00	Queen's Pawn Game: Franco-Sicilian Defense	1. e4 e6 2. d4 c5	e2e4 e7e6 d2d4 c7c5	rnbqkbnr/pp1p1ppp/4p3/2p5/3PP3/8/PPP2PPP/RNBQKBNR w KQkq -
 C00	Rat Defense: Small Center Defense	1. d4 e6 2. e4 d6	d2d4 e7e6 e2e4 d7d6	rnbqkbnr/ppp2ppp/3pp3/8/3PP3/8/PPP2PPP/RNBQKBNR w KQkq -
-C00	Sicilian Defense: Drazic Variation	1. e4 e6 2. d4 c5 3. Nf3 a6	e2e4 e7e6 d2d4 c7c5 g1f3 a7a6	rnbqkbnr/1p1p1ppp/p3p3/2p5/3PP3/5N2/PPP2PPP/RNBQKB1R w KQkq -
 C00	St. George Defense	1. e4 e6 2. d4 a6	e2e4 e7e6 d2d4 a7a6	rnbqkbnr/1ppp1ppp/p3p3/8/3PP3/8/PPP2PPP/RNBQKBNR w KQkq -
 C00	St. George Defense: New St. George, Sanky-George Gambit	1. e4 e6 2. d4 a6 3. c4 b5	e2e4 e7e6 d2d4 a7a6 c2c4 b7b5	rnbqkbnr/2pp1ppp/p3p3/1p6/2PPP3/8/PP3PPP/RNBQKBNR w KQkq -
 C00	St. George Defense: New St. George, Three Pawn Attack	1. e4 e6 2. d4 a6 3. c4	e2e4 e7e6 d2d4 a7a6 c2c4	rnbqkbnr/1ppp1ppp/p3p3/8/2PPP3/8/PP3PPP/RNBQKBNR b KQkq -
