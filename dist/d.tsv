@@ -45,6 +45,7 @@ D00	Blackmar-Diemer Gambit: von Popiel Gambit, Zilbermints Variation	1. d4 d5 2.
 D00	Queen's Pawn Game	1. d4 d5	d2d4 d7d5	rnbqkbnr/ppp1pppp/8/3p4/3P4/8/PPP1PPPP/RNBQKBNR w KQkq -
 D00	Queen's Pawn Game	1. d4 d5 2. e3	d2d4 d7d5 e2e3	rnbqkbnr/ppp1pppp/8/3p4/3P4/4P3/PPP2PPP/RNBQKBNR b KQkq -
 D00	Queen's Pawn Game	1. d4 d5 2. e3 Nf6	d2d4 d7d5 e2e3 g8f6	rnbqkb1r/ppp1pppp/5n2/3p4/3P4/4P3/PPP2PPP/RNBQKBNR w KQkq -
+D00	Queen's Pawn Game: Accelerated London System	1. d4 d5 2. Bf4	d2d4 d7d5 c1f4	rnbqkbnr/ppp1pppp/8/3p4/3P1B2/8/PPP1PPPP/RN1QKBNR b KQkq -
 D00	Queen's Pawn Game: Chigorin Variation	1. d4 d5 2. Nc3	d2d4 d7d5 b1c3	rnbqkbnr/ppp1pppp/8/3p4/3P4/2N5/PPP1PPPP/R1BQKBNR b KQkq -
 D00	Queen's Pawn Game: Chigorin Variation, Alburt Defense	1. d4 d5 2. Nc3 Bf5	d2d4 d7d5 b1c3 c8f5	rn1qkbnr/ppp1pppp/8/3p1b2/3P4/2N5/PPP1PPPP/R1BQKBNR w KQkq -
 D00	Queen's Pawn Game: Chigorin Variation, Anti-Veresov	1. d4 d5 2. Nc3 Bg4	d2d4 d7d5 b1c3 c8g4	rn1qkbnr/ppp1pppp/8/3p4/3P2b1/2N5/PPP1PPPP/R1BQKBNR w KQkq -
@@ -56,7 +57,6 @@ D00	Queen's Pawn Game: Hübsch Gambit	1. d4 Nf6 2. Nc3 d5 3. e4 Nxe4	d2d4 g8f6 b
 D00	Queen's Pawn Game: Levitsky Attack	1. d4 d5 2. Bg5	d2d4 d7d5 c1g5	rnbqkbnr/ppp1pppp/8/3p2B1/3P4/8/PPP1PPPP/RN1QKBNR b KQkq -
 D00	Queen's Pawn Game: Levitsky Attack, Welling Variation	1. d4 d5 2. Bg5 Bg4	d2d4 d7d5 c1g5 c8g4	rn1qkbnr/ppp1pppp/8/3p2B1/3P2b1/8/PPP1PPPP/RN1QKBNR w KQkq -
 D00	Queen's Pawn Game: Mason Attack	1. d4 d5 2. f4	d2d4 d7d5 f2f4	rnbqkbnr/ppp1pppp/8/3p4/3P1P2/8/PPP1P1PP/RNBQKBNR b KQkq -
-D00	Queen's Pawn Game: Mason Variation	1. d4 d5 2. Bf4	d2d4 d7d5 c1f4	rnbqkbnr/ppp1pppp/8/3p4/3P1B2/8/PPP1PPPP/RN1QKBNR b KQkq -
 D00	Queen's Pawn Game: Morris Countergambit	1. d4 d5 2. Bf4 c5 3. e4	d2d4 d7d5 c1f4 c7c5 e2e4	rnbqkbnr/pp2pppp/8/2pp4/3PPB2/8/PPP2PPP/RN1QKBNR b KQkq -
 D00	Queen's Pawn Game: Steinitz Countergambit	1. d4 d5 2. Bf4 c5	d2d4 d7d5 c1f4 c7c5	rnbqkbnr/pp2pppp/8/2pp4/3P1B2/8/PPP1PPPP/RN1QKBNR w KQkq -
 D00	Queen's Pawn Game: Stonewall Attack	1. d4 d5 2. e3 Nf6 3. Bd3	d2d4 d7d5 e2e3 g8f6 f1d3	rnbqkb1r/ppp1pppp/5n2/3p4/3P4/3BP3/PPP2PPP/RNBQK1NR b KQkq -
