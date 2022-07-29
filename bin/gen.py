@@ -14,7 +14,7 @@ except ImportError:
     raise
 
 
-def main(arg, by_epd):
+def main(arg, by_epd, unique_names):
     ret = 0
     prev_eco = ""
     prev_name = ""
@@ -42,6 +42,12 @@ def main(arg, by_epd):
                 print(f"::error file={arg},line={lno}::{err}", file=sys.stderr)
                 ret = 1
                 continue
+
+            unique_name = (name, len(board.move_stack))
+            if unique_name in unique_names:
+                print(f"::warning file={arg},line={lno}::{name!r} does not have a unique shortest line", file=sys.stderr)
+            else:
+                unique_names.add(unique_name)
 
             clean_pgn = chess.Board().variation_san(board.move_stack)
             if clean_pgn != pgn:
@@ -80,7 +86,8 @@ if __name__ == "__main__":
     print("eco", "name", "pgn", "uci", "epd", sep="\t")
 
     by_epd = {}
+    unique_names = set()
     ret = 0
     for arg in sys.argv[1:]:
-        ret = max(ret, main(arg, by_epd))
+        ret = max(ret, main(arg, by_epd, unique_names))
     sys.exit(ret)
