@@ -14,7 +14,7 @@ except ImportError:
     raise
 
 
-def main(arg, db):
+def main(arg, by_epd):
     ret = 0
     prev_eco = ""
     prev_name = ""
@@ -55,10 +55,10 @@ def main(arg, db):
                     print(f"::warning file={arg},line={lno}::blacklisted word ({blacklisted!r} in {name!r})", file=sys.stderr)
 
             epd = board.epd()
-            if epd in db:
-                print(f"::warning file={arg},line={lno}::duplicate epd: {db[epd]}", file=sys.stderr)
+            if epd in by_epd:
+                print(f"::warning file={arg},line={lno}::duplicate epd: {by_epd[epd]}", file=sys.stderr)
             else:
-                db[epd] = cols
+                by_epd[epd] = cols
 
             if eco < prev_eco:
                 print(f"::warning file={arg},line={lno}::not ordered by eco ({eco} after {prev_eco})", file=sys.stderr)
@@ -79,8 +79,8 @@ if __name__ == "__main__":
 
     print("eco", "name", "pgn", "uci", "epd", sep="\t")
 
-    db = {}
+    by_epd = {}
     ret = 0
     for arg in sys.argv[1:]:
-        ret = max(ret, main(arg, db))
+        ret = max(ret, main(arg, by_epd))
     sys.exit(ret)
