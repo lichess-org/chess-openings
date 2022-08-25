@@ -14,9 +14,12 @@ epd | | x | [EPD](https://www.chessprogramming.org/Extended_Position_Description
 Contributing
 ------------
 
-Improvements, additions and fixes are welcome.
+Improvements, additions and fixes are welcome. If you have concrete
+suggestions, please be bold and submit the proposed changes directly as pull
+requests!
 
-Regenerate the files in `dist/` by runnig `make`. Do not manually edit them.
+Do not manually edit the generated files in `dist/`. You can run `make` to
+update them, or let the maintainer do this.
 
 Copyright
 ---------
