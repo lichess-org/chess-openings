@@ -431,7 +431,6 @@ A40	Englund Gambit Complex: Soller Gambit	1. d4 e5 2. dxe5 f6	d2d4 e7e5 d4e5 f7f
 A40	Englund Gambit Complex: Soller Gambit Deferred	1. d4 e5 2. dxe5 Nc6 3. Nf3 f6	d2d4 e7e5 d4e5 b8c6 g1f3 f7f6	r1bqkbnr/pppp2pp/2n2p2/4P3/8/5N2/PPP1PPPP/RNBQKB1R w KQkq -
 A40	Englund Gambit Complex: Stockholm Variation	1. d4 e5 2. dxe5 Nc6 3. Nf3 Qe7 4. Qd5	d2d4 e7e5 d4e5 b8c6 g1f3 d8e7 d1d5	r1b1kbnr/ppppqppp/2n5/3QP3/8/5N2/PPP1PPPP/RNB1KB1R b KQkq -
 A40	Englund Gambit Complex: Zilbermints Gambit	1. d4 e5 2. dxe5 Nc6 3. Nf3 Nge7	d2d4 e7e5 d4e5 b8c6 g1f3 g8e7	r1bqkb1r/ppppnppp/2n5/4P3/8/5N2/PPP1PPPP/RNBQKB1R w KQkq -
-A40	Englund Gambit Complex: Zilbermints Gambit	1. d4 e5 2. dxe5 Nc6 3. Nf3 h6	d2d4 e7e5 d4e5 b8c6 g1f3 h7h6	r1bqkbnr/pppp1pp1/2n4p/4P3/8/5N2/PPP1PPPP/RNBQKB1R w KQkq -
 A40	Englund Gambit Declined: Reversed Alekhine	1. d4 e5 2. Nf3	d2d4 e7e5 g1f3	rnbqkbnr/pppp1ppp/8/4p3/3P4/5N2/PPP1PPPP/RNBQKB1R b KQkq -
 A40	Englund Gambit Declined: Reversed Brooklyn	1. d4 e5 2. Nf3 e4 3. Ng1	d2d4 e7e5 g1f3 e5e4 f3g1	rnbqkbnr/pppp1ppp/8/8/3Pp3/8/PPP1PPPP/RNBQKBNR b KQkq -
 A40	Englund Gambit Declined: Reversed French	1. d4 e5 2. e3	d2d4 e7e5 e2e3	rnbqkbnr/pppp1ppp/8/4p3/3P4/4P3/PPP2PPP/RNBQKBNR b KQkq -
