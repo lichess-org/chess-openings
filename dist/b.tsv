@@ -184,8 +184,8 @@ B06	Modern Defense: Gurgenidze Defense	1. e4 g6 2. d4 Bg7 3. Nc3 c6 4. f4 d5 5. 
 B06	Modern Defense: Lizard Defense, Mittenberger Gambit	1. e4 g6 2. d4 Bg7 3. Nc3 d5	e2e4 g7g6 d2d4 f8g7 b1c3 d7d5	rnbqk1nr/ppp1ppbp/6p1/3p4/3PP3/2N5/PPP2PPP/R1BQKBNR w KQkq -
 B06	Modern Defense: Masur Gambit	1. e4 g6 2. d4 Nh6 3. Nc3 f5 4. Bxh6 Bxh6 5. exf5 O-O	e2e4 g7g6 d2d4 g8h6 b1c3 f7f5 c1h6 f8h6 e4f5 e8g8	rnbq1rk1/ppppp2p/6pb/5P2/3P4/2N5/PPP2PPP/R2QKBNR w KQ -
 B06	Modern Defense: Modern Pterodactyl	1. e4 g6 2. d4 Bg7 3. Nc3 c5	e2e4 g7g6 d2d4 f8g7 b1c3 c7c5	rnbqk1nr/pp1pppbp/6p1/2p5/3PP3/2N5/PPP2PPP/R1BQKBNR w KQkq -
-B06	Modern Defense: Mongredien Defense	1. e4 g6 2. d4 Bg7 3. Nc3 b6	e2e4 g7g6 d2d4 f8g7 b1c3 b7b6	rnbqk1nr/p1ppppbp/1p4p1/8/3PP3/2N5/PPP2PPP/R1BQKBNR w KQkq -
-B06	Modern Defense: Mongredien Defense	1. e4 g6 2. d4 Bg7 3. Nf3 b6	e2e4 g7g6 d2d4 f8g7 g1f3 b7b6	rnbqk1nr/p1ppppbp/1p4p1/8/3PP3/5N2/PPP2PPP/RNBQKB1R w KQkq -
+B06	Modern Defense: Mongredien Defense, Nc3 Line	1. e4 g6 2. d4 Bg7 3. Nc3 b6	e2e4 g7g6 d2d4 f8g7 b1c3 b7b6	rnbqk1nr/p1ppppbp/1p4p1/8/3PP3/2N5/PPP2PPP/R1BQKBNR w KQkq -
+B06	Modern Defense: Mongredien Defense, Nf3 Line	1. e4 g6 2. d4 Bg7 3. Nf3 b6	e2e4 g7g6 d2d4 f8g7 g1f3 b7b6	rnbqk1nr/p1ppppbp/1p4p1/8/3PP3/5N2/PPP2PPP/RNBQKB1R w KQkq -
 B06	Modern Defense: Norwegian Defense	1. e4 g6 2. d4 Nf6	e2e4 g7g6 d2d4 g8f6	rnbqkb1r/pppppp1p/5np1/8/3PP3/8/PPP2PPP/RNBQKBNR w KQkq -
 B06	Modern Defense: Norwegian Defense, Norwegian Gambit	1. e4 g6 2. d4 Nf6 3. e5 Nh5 4. Be2 d6	e2e4 g7g6 d2d4 g8f6 e4e5 f6h5 f1e2 d7d6	rnbqkb1r/ppp1pp1p/3p2p1/4P2n/3P4/8/PPP1BPPP/RNBQK1NR w KQkq -
 B06	Modern Defense: Pseudo-Austrian Attack	1. e4 g6 2. d4 Bg7 3. Nc3 d6 4. f4	e2e4 g7g6 d2d4 f8g7 b1c3 d7d6 f2f4	rnbqk1nr/ppp1ppbp/3p2p1/8/3PPP2/2N5/PPP3PP/R1BQKBNR b KQkq -

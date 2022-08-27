@@ -184,8 +184,8 @@ B06	Modern Defense: Gurgenidze Defense	1. e4 g6 2. d4 Bg7 3. Nc3 c6 4. f4 d5 5. 
 B06	Modern Defense: Lizard Defense, Mittenberger Gambit	1. e4 g6 2. d4 Bg7 3. Nc3 d5
 B06	Modern Defense: Masur Gambit	1. e4 g6 2. d4 Nh6 3. Nc3 f5 4. Bxh6 Bxh6 5. exf5 O-O
 B06	Modern Defense: Modern Pterodactyl	1. e4 g6 2. d4 Bg7 3. Nc3 c5
-B06	Modern Defense: Mongredien Defense	1. e4 g6 2. d4 Bg7 3. Nc3 b6
-B06	Modern Defense: Mongredien Defense	1. e4 g6 2. d4 Bg7 3. Nf3 b6
+B06	Modern Defense: Mongredien Defense, Nc3 Line	1. e4 g6 2. d4 Bg7 3. Nc3 b6
+B06	Modern Defense: Mongredien Defense, Nf3 Line	1. e4 g6 2. d4 Bg7 3. Nf3 b6
 B06	Modern Defense: Norwegian Defense	1. e4 g6 2. d4 Nf6
 B06	Modern Defense: Norwegian Defense, Norwegian Gambit	1. e4 g6 2. d4 Nf6 3. e5 Nh5 4. Be2 d6
 B06	Modern Defense: Pseudo-Austrian Attack	1. e4 g6 2. d4 Bg7 3. Nc3 d6 4. f4
