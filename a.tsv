@@ -539,7 +539,7 @@ A46	Indian Defense: Wade-Tartakower Defense	1. d4 Nf6 2. Nf3 d6
 A46	Old Indian Defense: Czech Variation	1. d4 Nf6 2. Nf3 c6 3. c4 d6
 A46	Queen's Pawn Game: Torre Attack, Breyer Variation	1. d4 Nf6 2. Nf3 e6 3. Bg5 d5 4. e3 c5 5. c3 Qb6
 A46	Queen's Pawn Game: Veresov Attack, Classical Defense	1. d4 Nf6 2. Nf3 e6 3. Nc3 d5 4. Bg5
-A46	Torre Attack	1. d4 Nf6 2. Nf3 e6 3. Bg5
+A46	Torre Attack: Classical Defense	1. d4 Nf6 2. Nf3 e6 3. Bg5
 A46	Torre Attack: Classical Defense, Nimzowitsch Variation	1. d4 Nf6 2. Nf3 e6 3. Bg5 h6
 A46	Torre Attack: Classical Defense, Petrosian Gambit	1. d4 Nf6 2. Nf3 e6 3. Bg5 c5 4. e3 b6 5. d5
 A46	Torre Attack: Wagner Gambit	1. d4 Nf6 2. Nf3 e6 3. Bg5 c5 4. e4
@@ -553,7 +553,7 @@ A48	Indian Defense: Colle System, King's Indian Variation	1. d4 Nf6 2. Nf3 g6 3.
 A48	London System	1. d4 Nf6 2. Nf3 g6 3. Bf4
 A48	Queen's Pawn Game: Barry Attack, Grünfeld Variation	1. d4 Nf6 2. Nf3 g6 3. Nc3 d5 4. Bf4 Bg7 5. e3 O-O 6. Be2
 A48	Queen's Pawn Game: Torre Attack, Grünfeld Variation, Main Line	1. d4 Nf6 2. Nf3 g6 3. Bg5 Bg7 4. Nbd2 d5 5. e3 O-O
-A48	Torre Attack	1. d4 Nf6 2. Nf3 g6 3. Bg5
+A48	Torre Attack: Fianchetto Defense	1. d4 Nf6 2. Nf3 g6 3. Bg5
 A48	Torre Attack: Fianchetto Defense, Euwe Variation	1. d4 Nf6 2. Nf3 g6 3. Bg5 Bg7 4. Nbd2 c5
 A49	Indian Defense: Przepiorka Variation	1. d4 Nf6 2. Nf3 g6 3. g3
 A50	Indian Defense: Medusa Gambit	1. d4 Nf6 2. c4 g5
