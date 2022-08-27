@@ -536,7 +536,6 @@ A46	Indian Defense: London System	1. d4 Nf6 2. Nf3 e6 3. Bf4
 A46	Indian Defense: Polish Variation	1. d4 Nf6 2. Nf3 b5
 A46	Indian Defense: Spielmann-Indian	1. d4 Nf6 2. Nf3 c5
 A46	Indian Defense: Wade-Tartakower Defense	1. d4 Nf6 2. Nf3 d6
-A46	Old Indian Defense: Czech Variation	1. d4 Nf6 2. Nf3 c6 3. c4 d6
 A46	Queen's Pawn Game: Torre Attack, Breyer Variation	1. d4 Nf6 2. Nf3 e6 3. Bg5 d5 4. e3 c5 5. c3 Qb6
 A46	Queen's Pawn Game: Veresov Attack, Classical Defense	1. d4 Nf6 2. Nf3 e6 3. Nc3 d5 4. Bg5
 A46	Torre Attack: Classical Defense	1. d4 Nf6 2. Nf3 e6 3. Bg5
@@ -575,7 +574,8 @@ A52	Indian Defense: Budapest Defense, Alekhine Variation, Tartakower Defense	1. 
 A52	Indian Defense: Budapest Defense, Rubinstein Variation	1. d4 Nf6 2. c4 e5 3. dxe5 Ng4 4. Bf4
 A53	Old Indian Defense	1. d4 Nf6 2. c4 d6
 A53	Old Indian Defense: Aged Gibbon Gambit	1. d4 Nf6 2. c4 d6 3. g4
-A53	Old Indian Defense: Czech Variation	1. d4 Nf6 2. c4 d6 3. Nc3 c6
+A53	Old Indian Defense: Czech Variation, Nc3 Line	1. d4 Nf6 2. c4 d6 3. Nc3 c6
+A53	Old Indian Defense: Czech Variation, Nf3 Line	1. d4 Nf6 2. c4 d6 3. Nf3 c6
 A53	Old Indian Defense: Janowski Variation	1. d4 Nf6 2. c4 d6 3. Nc3 Bf5
 A53	Old Indian Defense: Janowski Variation, Fianchetto Variation	1. d4 Nf6 2. c4 d6 3. Nc3 Bf5 4. Nf3
 A53	Old Indian Defense: Janowski Variation, Fianchetto Variation	1. d4 Nf6 2. c4 d6 3. Nc3 Bf5 4. g3
