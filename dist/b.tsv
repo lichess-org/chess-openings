@@ -361,8 +361,8 @@ B20	Sicilian Defense: Kronberger Variation	1. e4 c5 2. Na3	e2e4 c7c5 b1a3	rnbqkb
 B20	Sicilian Defense: Kronberger Variation, Nemeth Gambit	1. e4 c5 2. Na3 Nc6 3. d4 cxd4 4. Bc4	e2e4 c7c5 b1a3 b8c6 d2d4 c5d4 f1c4	r1bqkbnr/pp1ppppp/2n5/8/2BpP3/N7/PPP2PPP/R1BQK1NR b KQkq -
 B20	Sicilian Defense: Lasker-Dunne Attack	1. e4 c5 2. g3	e2e4 c7c5 g2g3	rnbqkbnr/pp1ppppp/8/2p5/4P3/6P1/PPPP1P1P/RNBQKBNR b KQkq -
 B20	Sicilian Defense: Mengarini Variation	1. e4 c5 2. a3	e2e4 c7c5 a2a3	rnbqkbnr/pp1ppppp/8/2p5/4P3/P7/1PPP1PPP/RNBQKBNR b KQkq -
-B20	Sicilian Defense: Myers Attack	1. e4 c5 2. a4	e2e4 c7c5 a2a4	rnbqkbnr/pp1ppppp/8/2p5/P3P3/8/1PPP1PPP/RNBQKBNR b KQkq -
-B20	Sicilian Defense: Myers Attack	1. e4 c5 2. h4	e2e4 c7c5 h2h4	rnbqkbnr/pp1ppppp/8/2p5/4P2P/8/PPPP1PP1/RNBQKBNR b KQkq -
+B20	Sicilian Defense: Myers Attack, a4 Variation	1. e4 c5 2. a4	e2e4 c7c5 a2a4	rnbqkbnr/pp1ppppp/8/2p5/P3P3/8/1PPP1PPP/RNBQKBNR b KQkq -
+B20	Sicilian Defense: Myers Attack, h4 Variation	1. e4 c5 2. h4	e2e4 c7c5 h2h4	rnbqkbnr/pp1ppppp/8/2p5/4P2P/8/PPPP1PP1/RNBQKBNR b KQkq -
 B20	Sicilian Defense: Snyder Variation	1. e4 c5 2. b3	e2e4 c7c5 b2b3	rnbqkbnr/pp1ppppp/8/2p5/4P3/1P6/P1PP1PPP/RNBQKBNR b KQkq -
 B20	Sicilian Defense: Snyder Variation, Queen Fianchetto Variation	1. e4 c5 2. b3 b6	e2e4 c7c5 b2b3 b7b6	rnbqkbnr/p2ppppp/1p6/2p5/4P3/1P6/P1PP1PPP/RNBQKBNR w KQkq -
 B20	Sicilian Defense: Staunton-Cochrane Variation	1. e4 c5 2. c4	e2e4 c7c5 c2c4	rnbqkbnr/pp1ppppp/8/2p5/2P1P3/8/PP1P1PPP/RNBQKBNR b KQkq -
