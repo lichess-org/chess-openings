@@ -1,7 +1,6 @@
 #!/usr/bin/python3
 
 import io
-import itertools
 import sys
 
 try:
@@ -20,7 +19,7 @@ def main(arg, by_epd, shortest_by_name):
     prev_name = ""
 
     with open(arg) as f:
-        for lno, line in zip(itertools.count(1), f):
+        for lno, line in enumerate(f, 1):
             cols = line.rstrip("\n").split("\t")
 
             if len(cols) != 3:
