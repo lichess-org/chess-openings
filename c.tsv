@@ -11,6 +11,7 @@ C00	French Defense: Chigorin Variation	1. e4 e6 2. Qe2
 C00	French Defense: Franco-Hiva Gambit	1. e4 e6 2. d3 f5
 C00	French Defense: Franco-Hiva Gambit	1. e4 e6 2. Nf3 f5
 C00	French Defense: Franco-Hiva Gambit Accepted	1. e4 e6 2. d4 f5 3. exf5 Nf6
+C00	French Defense: Franco-Sicilian Defense	1. e4 e6 2. d4 c5
 C00	French Defense: Hoffmann Gambit	1. e4 e6 2. d4 d5 3. Qe2 e5 4. f4 exf4
 C00	French Defense: Horwitz Attack	1. e4 e6 2. b3
 C00	French Defense: Horwitz Attack, Papa-Ticulat Gambit	1. e4 e6 2. b3 d5 3. Bb2
@@ -37,7 +38,6 @@ C00	French Defense: Steiner Variation	1. e4 e6 2. c4
 C00	French Defense: Steinitz Attack	1. e4 e6 2. e5
 C00	French Defense: Two Knights Variation	1. e4 e6 2. Nf3 d5 3. Nc3
 C00	French Defense: Wing Gambit	1. e4 e6 2. Nf3 d5 3. e5 c5 4. b4
-C00	Queen's Pawn Game: Franco-Sicilian Defense	1. e4 e6 2. d4 c5
 C00	Rat Defense: Small Center Defense	1. d4 e6 2. e4 d6
 C01	French Defense: Exchange Variation	1. e4 e6 2. d4 d5 3. exd5
 C01	French Defense: Exchange Variation, Bogoljubov Variation	1. e4 e6 2. d4 d5 3. exd5 exd5 4. Nc3 Nf6 5. Bg5 Nc6

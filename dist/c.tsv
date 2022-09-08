@@ -11,6 +11,7 @@ C00	French Defense: Chigorin Variation	1. e4 e6 2. Qe2	e2e4 e7e6 d1e2	rnbqkbnr/p
 C00	French Defense: Franco-Hiva Gambit	1. e4 e6 2. d3 f5	e2e4 e7e6 d2d3 f7f5	rnbqkbnr/pppp2pp/4p3/5p2/4P3/3P4/PPP2PPP/RNBQKBNR w KQkq -
 C00	French Defense: Franco-Hiva Gambit	1. e4 e6 2. Nf3 f5	e2e4 e7e6 g1f3 f7f5	rnbqkbnr/pppp2pp/4p3/5p2/4P3/5N2/PPPP1PPP/RNBQKB1R w KQkq -
 C00	French Defense: Franco-Hiva Gambit Accepted	1. e4 e6 2. d4 f5 3. exf5 Nf6	e2e4 e7e6 d2d4 f7f5 e4f5 g8f6	rnbqkb1r/pppp2pp/4pn2/5P2/3P4/8/PPP2PPP/RNBQKBNR w KQkq -
+C00	French Defense: Franco-Sicilian Defense	1. e4 e6 2. d4 c5	e2e4 e7e6 d2d4 c7c5	rnbqkbnr/pp1p1ppp/4p3/2p5/3PP3/8/PPP2PPP/RNBQKBNR w KQkq -
 C00	French Defense: Hoffmann Gambit	1. e4 e6 2. d4 d5 3. Qe2 e5 4. f4 exf4	e2e4 e7e6 d2d4 d7d5 d1e2 e6e5 f2f4 e5f4	rnbqkbnr/ppp2ppp/8/3p4/3PPp2/8/PPP1Q1PP/RNB1KBNR w KQkq -
 C00	French Defense: Horwitz Attack	1. e4 e6 2. b3	e2e4 e7e6 b2b3	rnbqkbnr/pppp1ppp/4p3/8/4P3/1P6/P1PP1PPP/RNBQKBNR b KQkq -
 C00	French Defense: Horwitz Attack, Papa-Ticulat Gambit	1. e4 e6 2. b3 d5 3. Bb2	e2e4 e7e6 b2b3 d7d5 c1b2	rnbqkbnr/ppp2ppp/4p3/3p4/4P3/1P6/PBPP1PPP/RN1QKBNR b KQkq -
@@ -37,7 +38,6 @@ C00	French Defense: Steiner Variation	1. e4 e6 2. c4	e2e4 e7e6 c2c4	rnbqkbnr/ppp
 C00	French Defense: Steinitz Attack	1. e4 e6 2. e5	e2e4 e7e6 e4e5	rnbqkbnr/pppp1ppp/4p3/4P3/8/8/PPPP1PPP/RNBQKBNR b KQkq -
 C00	French Defense: Two Knights Variation	1. e4 e6 2. Nf3 d5 3. Nc3	e2e4 e7e6 g1f3 d7d5 b1c3	rnbqkbnr/ppp2ppp/4p3/3p4/4P3/2N2N2/PPPP1PPP/R1BQKB1R b KQkq -
 C00	French Defense: Wing Gambit	1. e4 e6 2. Nf3 d5 3. e5 c5 4. b4	e2e4 e7e6 g1f3 d7d5 e4e5 c7c5 b2b4	rnbqkbnr/pp3ppp/4p3/2ppP3/1P6/5N2/P1PP1PPP/RNBQKB1R b KQkq -
-C00	Queen's Pawn Game: Franco-Sicilian Defense	1. e4 e6 2. d4 c5	e2e4 e7e6 d2d4 c7c5	rnbqkbnr/pp1p1ppp/4p3/2p5/3PP3/8/PPP2PPP/RNBQKBNR w KQkq -
 C00	Rat Defense: Small Center Defense	1. d4 e6 2. e4 d6	d2d4 e7e6 e2e4 d7d6	rnbqkbnr/ppp2ppp/3pp3/8/3PP3/8/PPP2PPP/RNBQKBNR w KQkq -
 C01	French Defense: Exchange Variation	1. e4 e6 2. d4 d5 3. exd5	e2e4 e7e6 d2d4 d7d5 e4d5	rnbqkbnr/ppp2ppp/4p3/3P4/3P4/8/PPP2PPP/RNBQKBNR b KQkq -
 C01	French Defense: Exchange Variation, Bogoljubov Variation	1. e4 e6 2. d4 d5 3. exd5 exd5 4. Nc3 Nf6 5. Bg5 Nc6	e2e4 e7e6 d2d4 d7d5 e4d5 e6d5 b1c3 g8f6 c1g5 b8c6	r1bqkb1r/ppp2ppp/2n2n2/3p2B1/3P4/2N5/PPP2PPP/R2QKBNR w KQkq -
