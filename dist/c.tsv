@@ -8,9 +8,12 @@ C00	French Defense: Banzai-Leong Gambit, Pinova Gambit	1. e4 e6 2. b4 Bxb4 3. e5
 C00	French Defense: Bird Invitation	1. e4 e6 2. Bb5	e2e4 e7e6 f1b5	rnbqkbnr/pppp1ppp/4p3/1B6/4P3/8/PPPP1PPP/RNBQK1NR b KQkq -
 C00	French Defense: Carlson Gambit	1. e4 e6 2. d4 d5 3. Nf3 dxe4 4. Ne5	e2e4 e7e6 d2d4 d7d5 g1f3 d5e4 f3e5	rnbqkbnr/ppp2ppp/4p3/4N3/3Pp3/8/PPP2PPP/RNBQKB1R b KQkq -
 C00	French Defense: Chigorin Variation	1. e4 e6 2. Qe2	e2e4 e7e6 d1e2	rnbqkbnr/pppp1ppp/4p3/8/4P3/8/PPPPQPPP/RNB1KBNR b KQkq -
+C00	French Defense: Diemer-Duhm Gambit	1. e4 e6 2. d4 d5 3. c4	e2e4 e7e6 d2d4 d7d5 c2c4	rnbqkbnr/ppp2ppp/4p3/3p4/2PPP3/8/PP3PPP/RNBQKBNR b KQkq -
+C00	French Defense: Diemer-Duhm Gambit Accepted	1. e4 e6 2. d4 d5 3. c4 dxe4	e2e4 e7e6 d2d4 d7d5 c2c4 d5e4	rnbqkbnr/ppp2ppp/4p3/8/2PPp3/8/PP3PPP/RNBQKBNR w KQkq -
 C00	French Defense: Franco-Hiva Gambit	1. e4 e6 2. d3 f5	e2e4 e7e6 d2d3 f7f5	rnbqkbnr/pppp2pp/4p3/5p2/4P3/3P4/PPP2PPP/RNBQKBNR w KQkq -
 C00	French Defense: Franco-Hiva Gambit	1. e4 e6 2. Nf3 f5	e2e4 e7e6 g1f3 f7f5	rnbqkbnr/pppp2pp/4p3/5p2/4P3/5N2/PPPP1PPP/RNBQKB1R w KQkq -
 C00	French Defense: Franco-Hiva Gambit Accepted	1. e4 e6 2. d4 f5 3. exf5 Nf6	e2e4 e7e6 d2d4 f7f5 e4f5 g8f6	rnbqkb1r/pppp2pp/4pn2/5P2/3P4/8/PPP2PPP/RNBQKBNR w KQkq -
+C00	French Defense: Franco-Sicilian Defense	1. e4 e6 2. d4 c5	e2e4 e7e6 d2d4 c7c5	rnbqkbnr/pp1p1ppp/4p3/2p5/3PP3/8/PPP2PPP/RNBQKBNR w KQkq -
 C00	French Defense: Hoffmann Gambit	1. e4 e6 2. d4 d5 3. Qe2 e5 4. f4 exf4	e2e4 e7e6 d2d4 d7d5 d1e2 e6e5 f2f4 e5f4	rnbqkbnr/ppp2ppp/8/3p4/3PPp2/8/PPP1Q1PP/RNB1KBNR w KQkq -
 C00	French Defense: Horwitz Attack	1. e4 e6 2. b3	e2e4 e7e6 b2b3	rnbqkbnr/pppp1ppp/4p3/8/4P3/1P6/P1PP1PPP/RNBQKBNR b KQkq -
 C00	French Defense: Horwitz Attack, Papa-Ticulat Gambit	1. e4 e6 2. b3 d5 3. Bb2	e2e4 e7e6 b2b3 d7d5 c1b2	rnbqkbnr/ppp2ppp/4p3/3p4/4P3/1P6/PBPP1PPP/RN1QKBNR b KQkq -
@@ -28,17 +31,16 @@ C00	French Defense: Queen's Knight	1. e4 e6 2. Nc3	e2e4 e7e6 b1c3	rnbqkbnr/pppp1
 C00	French Defense: Reversed Philidor Formation	1. e4 e6 2. d3 d5 3. Nd2 Nf6 4. Ngf3 Nc6 5. Be2	e2e4 e7e6 d2d3 d7d5 b1d2 g8f6 g1f3 b8c6 f1e2	r1bqkb1r/ppp2ppp/2n1pn2/3p4/4P3/3P1N2/PPPNBPPP/R1BQK2R b KQkq -
 C00	French Defense: Réti-Spielmann Attack	1. e4 e6 2. g3	e2e4 e7e6 g2g3	rnbqkbnr/pppp1ppp/4p3/8/4P3/6P1/PPPP1P1P/RNBQKBNR b KQkq -
 C00	French Defense: Schlechter Variation	1. e4 e6 2. d4 d5 3. Bd3	e2e4 e7e6 d2d4 d7d5 f1d3	rnbqkbnr/ppp2ppp/4p3/3p4/3PP3/3B4/PPP2PPP/RNBQK1NR b KQkq -
+C00	French Defense: St. George Defense	1. e4 e6 2. d4 a6	e2e4 e7e6 d2d4 a7a6	rnbqkbnr/1ppp1ppp/p3p3/8/3PP3/8/PPP2PPP/RNBQKBNR w KQkq -
+C00	French Defense: St. George Defense,  Sanky-George Gambit	1. e4 e6 2. d4 a6 3. c4 b5	e2e4 e7e6 d2d4 a7a6 c2c4 b7b5	rnbqkbnr/2pp1ppp/p3p3/1p6/2PPP3/8/PP3PPP/RNBQKBNR w KQkq -
+C00	French Defense: St. George Defense,  Three Pawn Attack	1. e4 e6 2. d4 a6 3. c4	e2e4 e7e6 d2d4 a7a6 c2c4	rnbqkbnr/1ppp1ppp/p3p3/8/2PPP3/8/PP3PPP/RNBQKBNR b KQkq -
+C00	French Defense: St. George Defense,  Traditional Line	1. e4 e6 2. d4 a6 3. Nf3 b5 4. Bd3 c5 5. c3 Bb7 6. O-O Nf6	e2e4 e7e6 d2d4 a7a6 g1f3 b7b5 f1d3 c7c5 c2c3 c8b7 e1g1 g8f6	rn1qkb1r/1b1p1ppp/p3pn2/1pp5/3PP3/2PB1N2/PP3PPP/RNBQ1RK1 w kq -
+C00	French Defense: St. George Defense, St. George Gambit	1. e4 e6 2. d4 a6 3. c4 b5 4. cxb5 axb5	e2e4 e7e6 d2d4 a7a6 c2c4 b7b5 c4b5 a6b5	rnbqkbnr/2pp1ppp/4p3/1p6/3PP3/8/PP3PPP/RNBQKBNR w KQkq -
 C00	French Defense: Steiner Variation	1. e4 e6 2. c4	e2e4 e7e6 c2c4	rnbqkbnr/pppp1ppp/4p3/8/2P1P3/8/PP1P1PPP/RNBQKBNR b KQkq -
 C00	French Defense: Steinitz Attack	1. e4 e6 2. e5	e2e4 e7e6 e4e5	rnbqkbnr/pppp1ppp/4p3/4P3/8/8/PPPP1PPP/RNBQKBNR b KQkq -
 C00	French Defense: Two Knights Variation	1. e4 e6 2. Nf3 d5 3. Nc3	e2e4 e7e6 g1f3 d7d5 b1c3	rnbqkbnr/ppp2ppp/4p3/3p4/4P3/2N2N2/PPPP1PPP/R1BQKB1R b KQkq -
 C00	French Defense: Wing Gambit	1. e4 e6 2. Nf3 d5 3. e5 c5 4. b4	e2e4 e7e6 g1f3 d7d5 e4e5 c7c5 b2b4	rnbqkbnr/pp3ppp/4p3/2ppP3/1P6/5N2/P1PP1PPP/RNBQKB1R b KQkq -
-C00	Queen's Pawn Game: Franco-Sicilian Defense	1. e4 e6 2. d4 c5	e2e4 e7e6 d2d4 c7c5	rnbqkbnr/pp1p1ppp/4p3/2p5/3PP3/8/PPP2PPP/RNBQKBNR w KQkq -
 C00	Rat Defense: Small Center Defense	1. d4 e6 2. e4 d6	d2d4 e7e6 e2e4 d7d6	rnbqkbnr/ppp2ppp/3pp3/8/3PP3/8/PPP2PPP/RNBQKBNR w KQkq -
-C00	St. George Defense	1. e4 e6 2. d4 a6	e2e4 e7e6 d2d4 a7a6	rnbqkbnr/1ppp1ppp/p3p3/8/3PP3/8/PPP2PPP/RNBQKBNR w KQkq -
-C00	St. George Defense: New St. George, Sanky-George Gambit	1. e4 e6 2. d4 a6 3. c4 b5	e2e4 e7e6 d2d4 a7a6 c2c4 b7b5	rnbqkbnr/2pp1ppp/p3p3/1p6/2PPP3/8/PP3PPP/RNBQKBNR w KQkq -
-C00	St. George Defense: New St. George, Three Pawn Attack	1. e4 e6 2. d4 a6 3. c4	e2e4 e7e6 d2d4 a7a6 c2c4	rnbqkbnr/1ppp1ppp/p3p3/8/2PPP3/8/PP3PPP/RNBQKBNR b KQkq -
-C00	St. George Defense: New St. George, Traditional Line	1. e4 e6 2. d4 a6 3. Nf3 b5 4. Bd3 c5 5. c3 Bb7 6. O-O Nf6	e2e4 e7e6 d2d4 a7a6 g1f3 b7b5 f1d3 c7c5 c2c3 c8b7 e1g1 g8f6	rn1qkb1r/1b1p1ppp/p3pn2/1pp5/3PP3/2PB1N2/PP3PPP/RNBQ1RK1 w kq -
-C00	St. George Defense: St. George Gambit	1. e4 e6 2. d4 a6 3. c4 b5 4. cxb5 axb5	e2e4 e7e6 d2d4 a7a6 c2c4 b7b5 c4b5 a6b5	rnbqkbnr/2pp1ppp/4p3/1p6/3PP3/8/PP3PPP/RNBQKBNR w KQkq -
 C01	French Defense: Exchange Variation	1. e4 e6 2. d4 d5 3. exd5	e2e4 e7e6 d2d4 d7d5 e4d5	rnbqkbnr/ppp2ppp/4p3/3P4/3P4/8/PPP2PPP/RNBQKBNR b KQkq -
 C01	French Defense: Exchange Variation, Bogoljubov Variation	1. e4 e6 2. d4 d5 3. exd5 exd5 4. Nc3 Nf6 5. Bg5 Nc6	e2e4 e7e6 d2d4 d7d5 e4d5 e6d5 b1c3 g8f6 c1g5 b8c6	r1bqkb1r/ppp2ppp/2n2n2/3p2B1/3P4/2N5/PPP2PPP/R2QKBNR w KQkq -
 C01	French Defense: Exchange Variation, Monte Carlo Variation	1. e4 e6 2. d4 d5 3. exd5 exd5 4. c4	e2e4 e7e6 d2d4 d7d5 e4d5 e6d5 c2c4	rnbqkbnr/ppp2ppp/8/3p4/2PP4/8/PP3PPP/RNBQKBNR b KQkq -
