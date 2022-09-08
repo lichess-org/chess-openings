@@ -8,6 +8,8 @@ C00	French Defense: Banzai-Leong Gambit, Pinova Gambit	1. e4 e6 2. b4 Bxb4 3. e5
 C00	French Defense: Bird Invitation	1. e4 e6 2. Bb5	e2e4 e7e6 f1b5	rnbqkbnr/pppp1ppp/4p3/1B6/4P3/8/PPPP1PPP/RNBQK1NR b KQkq -
 C00	French Defense: Carlson Gambit	1. e4 e6 2. d4 d5 3. Nf3 dxe4 4. Ne5	e2e4 e7e6 d2d4 d7d5 g1f3 d5e4 f3e5	rnbqkbnr/ppp2ppp/4p3/4N3/3Pp3/8/PPP2PPP/RNBQKB1R b KQkq -
 C00	French Defense: Chigorin Variation	1. e4 e6 2. Qe2	e2e4 e7e6 d1e2	rnbqkbnr/pppp1ppp/4p3/8/4P3/8/PPPPQPPP/RNB1KBNR b KQkq -
+D30	French Defense: Diemer-Duhm Gambit	1. e4 e6 2. d4 d5 3. c4	e2e4 e7e6 d2d4 d7d5 c2c4	rnbqkbnr/ppp2ppp/4p3/3p4/2PPP3/8/PP3PPP/RNBQKBNR b KQkq -
+D30	French Defense: Diemer-Duhm Gambit Accepted	1. e4 e6 2. d4 d5 3. c4 dxe4	e2e4 e7e6 d2d4 d7d5 c2c4 d5e4	rnbqkbnr/ppp2ppp/4p3/8/2PPp3/8/PP3PPP/RNBQKBNR w KQkq -
 C00	French Defense: Franco-Hiva Gambit	1. e4 e6 2. d3 f5	e2e4 e7e6 d2d3 f7f5	rnbqkbnr/pppp2pp/4p3/5p2/4P3/3P4/PPP2PPP/RNBQKBNR w KQkq -
 C00	French Defense: Franco-Hiva Gambit	1. e4 e6 2. Nf3 f5	e2e4 e7e6 g1f3 f7f5	rnbqkbnr/pppp2pp/4p3/5p2/4P3/5N2/PPPP1PPP/RNBQKB1R w KQkq -
 C00	French Defense: Franco-Hiva Gambit Accepted	1. e4 e6 2. d4 f5 3. exf5 Nf6	e2e4 e7e6 d2d4 f7f5 e4f5 g8f6	rnbqkb1r/pppp2pp/4pn2/5P2/3P4/8/PPP2PPP/RNBQKBNR w KQkq -

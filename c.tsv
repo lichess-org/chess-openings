@@ -8,6 +8,8 @@ C00	French Defense: Banzai-Leong Gambit, Pinova Gambit	1. e4 e6 2. b4 Bxb4 3. e5
 C00	French Defense: Bird Invitation	1. e4 e6 2. Bb5
 C00	French Defense: Carlson Gambit	1. e4 e6 2. d4 d5 3. Nf3 dxe4 4. Ne5
 C00	French Defense: Chigorin Variation	1. e4 e6 2. Qe2
+D30	French Defense: Diemer-Duhm Gambit	1. e4 e6 2. d4 d5 3. c4
+D30	French Defense: Diemer-Duhm Gambit Accepted	1. e4 e6 2. d4 d5 3. c4 dxe4
 C00	French Defense: Franco-Hiva Gambit	1. e4 e6 2. d3 f5
 C00	French Defense: Franco-Hiva Gambit	1. e4 e6 2. Nf3 f5
 C00	French Defense: Franco-Hiva Gambit Accepted	1. e4 e6 2. d4 f5 3. exf5 Nf6
