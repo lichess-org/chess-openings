@@ -546,8 +546,8 @@ A46	Torre Attack: Wagner Gambit	1. d4 Nf6 2. Nf3 e6 3. Bg5 c5 4. e4	d2d4 g8f6 g1
 A46	Yusupov-Rubinstein System	1. d4 Nf6 2. Nf3 e6 3. e3	d2d4 g8f6 g1f3 e7e6 e2e3	rnbqkb1r/pppp1ppp/4pn2/8/3P4/4PN2/PPP2PPP/RNBQKB1R b KQkq -
 A47	Indian Defense: Schnepper Gambit	1. d4 Nf6 2. Nf3 b6 3. c3 e5	d2d4 g8f6 g1f3 b7b6 c2c3 e7e5	rnbqkb1r/p1pp1ppp/1p3n2/4p3/3P4/2P2N2/PP2PPPP/RNBQKB1R w KQkq -
 A47	Marienbad System	1. d4 Nf6 2. Nf3 b6 3. g3 Bb7 4. Bg2 c5	d2d4 g8f6 g1f3 b7b6 g2g3 c8b7 f1g2 c7c5	rn1qkb1r/pb1ppppp/1p3n2/2p5/3P4/5NP1/PPP1PPBP/RNBQK2R w KQkq -
-A47	Queen's Indian Defense	1. d4 Nf6 2. Nf3 b6	d2d4 g8f6 g1f3 b7b6	rnbqkb1r/p1pppppp/1p3n2/8/3P4/5N2/PPP1PPPP/RNBQKB1R w KQkq -
-A47	Queen's Indian Defense: Marienbad System, Berg Variation	1. d4 Nf6 2. Nf3 b6 3. g3 Bb7 4. Bg2 c5 5. c4 cxd4 6. Qxd4	d2d4 g8f6 g1f3 b7b6 g2g3 c8b7 f1g2 c7c5 c2c4 c5d4 d1d4	rn1qkb1r/pb1ppppp/1p3n2/8/2PQ4/5NP1/PP2PPBP/RNB1K2R b KQkq -
+A47	Marienbad System: Berg Variation	1. d4 Nf6 2. Nf3 b6 3. g3 Bb7 4. Bg2 c5 5. c4 cxd4 6. Qxd4	d2d4 g8f6 g1f3 b7b6 g2g3 c8b7 f1g2 c7c5 c2c4 c5d4 d1d4	rn1qkb1r/pb1ppppp/1p3n2/8/2PQ4/5NP1/PP2PPBP/RNB1K2R b KQkq -
+A47	Pseudo Queen's Indian Defense	1. d4 Nf6 2. Nf3 b6	d2d4 g8f6 g1f3 b7b6	rnbqkb1r/p1pppppp/1p3n2/8/3P4/5N2/PPP1PPPP/RNBQKB1R w KQkq -
 A48	East Indian Defense	1. d4 Nf6 2. Nf3 g6	d2d4 g8f6 g1f3 g7g6	rnbqkb1r/pppppp1p/5np1/8/3P4/5N2/PPP1PPPP/RNBQKB1R w KQkq -
 A48	Indian Defense: Colle System, King's Indian Variation	1. d4 Nf6 2. Nf3 g6 3. e3 Bg7 4. Bd3 d6	d2d4 g8f6 g1f3 g7g6 e2e3 f8g7 f1d3 d7d6	rnbqk2r/ppp1ppbp/3p1np1/8/3P4/3BPN2/PPP2PPP/RNBQK2R w KQkq -
 A48	London System	1. d4 Nf6 2. Nf3 g6 3. Bf4	d2d4 g8f6 g1f3 g7g6 c1f4	rnbqkb1r/pppppp1p/5np1/8/3P1B2/5N2/PPP1PPPP/RN1QKB1R b KQkq -
