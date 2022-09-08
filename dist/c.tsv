@@ -32,10 +32,10 @@ C00	French Defense: Reversed Philidor Formation	1. e4 e6 2. d3 d5 3. Nd2 Nf6 4. 
 C00	French Defense: Réti-Spielmann Attack	1. e4 e6 2. g3	e2e4 e7e6 g2g3	rnbqkbnr/pppp1ppp/4p3/8/4P3/6P1/PPPP1P1P/RNBQKBNR b KQkq -
 C00	French Defense: Schlechter Variation	1. e4 e6 2. d4 d5 3. Bd3	e2e4 e7e6 d2d4 d7d5 f1d3	rnbqkbnr/ppp2ppp/4p3/3p4/3PP3/3B4/PPP2PPP/RNBQK1NR b KQkq -
 C00	French Defense: St. George Defense	1. e4 e6 2. d4 a6	e2e4 e7e6 d2d4 a7a6	rnbqkbnr/1ppp1ppp/p3p3/8/3PP3/8/PPP2PPP/RNBQKBNR w KQkq -
-C00	French Defense: St. George Defense,  Sanky-George Gambit	1. e4 e6 2. d4 a6 3. c4 b5	e2e4 e7e6 d2d4 a7a6 c2c4 b7b5	rnbqkbnr/2pp1ppp/p3p3/1p6/2PPP3/8/PP3PPP/RNBQKBNR w KQkq -
-C00	French Defense: St. George Defense,  Three Pawn Attack	1. e4 e6 2. d4 a6 3. c4	e2e4 e7e6 d2d4 a7a6 c2c4	rnbqkbnr/1ppp1ppp/p3p3/8/2PPP3/8/PP3PPP/RNBQKBNR b KQkq -
-C00	French Defense: St. George Defense,  Traditional Line	1. e4 e6 2. d4 a6 3. Nf3 b5 4. Bd3 c5 5. c3 Bb7 6. O-O Nf6	e2e4 e7e6 d2d4 a7a6 g1f3 b7b5 f1d3 c7c5 c2c3 c8b7 e1g1 g8f6	rn1qkb1r/1b1p1ppp/p3pn2/1pp5/3PP3/2PB1N2/PP3PPP/RNBQ1RK1 w kq -
+C00	French Defense: St. George Defense, Sanky-George Gambit	1. e4 e6 2. d4 a6 3. c4 b5	e2e4 e7e6 d2d4 a7a6 c2c4 b7b5	rnbqkbnr/2pp1ppp/p3p3/1p6/2PPP3/8/PP3PPP/RNBQKBNR w KQkq -
 C00	French Defense: St. George Defense, St. George Gambit	1. e4 e6 2. d4 a6 3. c4 b5 4. cxb5 axb5	e2e4 e7e6 d2d4 a7a6 c2c4 b7b5 c4b5 a6b5	rnbqkbnr/2pp1ppp/4p3/1p6/3PP3/8/PP3PPP/RNBQKBNR w KQkq -
+C00	French Defense: St. George Defense, Three Pawn Attack	1. e4 e6 2. d4 a6 3. c4	e2e4 e7e6 d2d4 a7a6 c2c4	rnbqkbnr/1ppp1ppp/p3p3/8/2PPP3/8/PP3PPP/RNBQKBNR b KQkq -
+C00	French Defense: St. George Defense, Traditional Line	1. e4 e6 2. d4 a6 3. Nf3 b5 4. Bd3 c5 5. c3 Bb7 6. O-O Nf6	e2e4 e7e6 d2d4 a7a6 g1f3 b7b5 f1d3 c7c5 c2c3 c8b7 e1g1 g8f6	rn1qkb1r/1b1p1ppp/p3pn2/1pp5/3PP3/2PB1N2/PP3PPP/RNBQ1RK1 w kq -
 C00	French Defense: Steiner Variation	1. e4 e6 2. c4	e2e4 e7e6 c2c4	rnbqkbnr/pppp1ppp/4p3/8/2P1P3/8/PP1P1PPP/RNBQKBNR b KQkq -
 C00	French Defense: Steinitz Attack	1. e4 e6 2. e5	e2e4 e7e6 e4e5	rnbqkbnr/pppp1ppp/4p3/4P3/8/8/PPPP1PPP/RNBQKBNR b KQkq -
 C00	French Defense: Two Knights Variation	1. e4 e6 2. Nf3 d5 3. Nc3	e2e4 e7e6 g1f3 d7d5 b1c3	rnbqkbnr/ppp2ppp/4p3/3p4/4P3/2N2N2/PPPP1PPP/R1BQKB1R b KQkq -

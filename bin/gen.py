@@ -1,6 +1,7 @@
 #!/usr/bin/python3
 
 import io
+import re
 import sys
 
 try:
@@ -11,6 +12,11 @@ except ImportError:
     print("$ pip3 install chess", file=sys.stderr)
     print(file=sys.stderr)
     raise
+
+
+ECO_REGEX = re.compile(r"^[A-E]\d\d\Z")
+
+INVALID_SPACE = re.compile(r"\s{2,}|^\s|\s\Z|\s,")
 
 
 def main(arg, by_epd, shortest_by_name):
@@ -34,6 +40,16 @@ def main(arg, by_epd, shortest_by_name):
                 continue
 
             eco, name, pgn = cols
+
+            if not ECO_REGEX.match(eco):
+                print(f"::error file={arg},line={lno}::invalid eco", file=sys.stderr)
+                ret = 1
+                continue
+
+            if INVALID_SPACE.search(name):
+                print(f"::error file={arg},line={lno}::invalid whitespace in name", file=sys.stderr)
+                ret = 1
+                continue
 
             try:
                 board = chess.pgn.read_game(io.StringIO(pgn), Visitor=chess.pgn.BoardBuilder)
