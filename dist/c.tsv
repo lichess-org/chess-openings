@@ -10,15 +10,16 @@ C00	French Defense: Carlson Gambit	1. e4 e6 2. d4 d5 3. Nf3 dxe4 4. Ne5	e2e4 e7e
 C00	French Defense: Chigorin Variation	1. e4 e6 2. Qe2	e2e4 e7e6 d1e2	rnbqkbnr/pppp1ppp/4p3/8/4P3/8/PPPPQPPP/RNB1KBNR b KQkq -
 C00	French Defense: Diemer-Duhm Gambit	1. e4 e6 2. d4 d5 3. c4	e2e4 e7e6 d2d4 d7d5 c2c4	rnbqkbnr/ppp2ppp/4p3/3p4/2PPP3/8/PP3PPP/RNBQKBNR b KQkq -
 C00	French Defense: Diemer-Duhm Gambit Accepted	1. e4 e6 2. d4 d5 3. c4 dxe4	e2e4 e7e6 d2d4 d7d5 c2c4 d5e4	rnbqkbnr/ppp2ppp/4p3/8/2PPp3/8/PP3PPP/RNBQKBNR w KQkq -
-C00	French Defense: Franco-Hiva Gambit	1. e4 e6 2. d3 f5	e2e4 e7e6 d2d3 f7f5	rnbqkbnr/pppp2pp/4p3/5p2/4P3/3P4/PPP2PPP/RNBQKBNR w KQkq -
-C00	French Defense: Franco-Hiva Gambit	1. e4 e6 2. Nf3 f5	e2e4 e7e6 g1f3 f7f5	rnbqkbnr/pppp2pp/4p3/5p2/4P3/5N2/PPPP1PPP/RNBQKB1R w KQkq -
-C00	French Defense: Franco-Hiva Gambit Accepted	1. e4 e6 2. d4 f5 3. exf5 Nf6	e2e4 e7e6 d2d4 f7f5 e4f5 g8f6	rnbqkb1r/pppp2pp/4pn2/5P2/3P4/8/PPP2PPP/RNBQKBNR w KQkq -
+C00	French Defense: Franco-Hiva Gambit	1. e4 e6 2. d4 f5	e2e4 e7e6 d2d4 f7f5	rnbqkbnr/pppp2pp/4p3/5p2/3PP3/8/PPP2PPP/RNBQKBNR w KQkq -
+C00	French Defense: Franco-Hiva Gambit Accepted	1. e4 e6 2. d4 f5 3. exf5	e2e4 e7e6 d2d4 f7f5 e4f5	rnbqkbnr/pppp2pp/4p3/5P2/3P4/8/PPP2PPP/RNBQKBNR b KQkq -
 C00	French Defense: Franco-Sicilian Defense	1. e4 e6 2. d4 c5	e2e4 e7e6 d2d4 c7c5	rnbqkbnr/pp1p1ppp/4p3/2p5/3PP3/8/PPP2PPP/RNBQKBNR w KQkq -
 C00	French Defense: Hoffmann Gambit	1. e4 e6 2. d4 d5 3. Qe2 e5 4. f4 exf4	e2e4 e7e6 d2d4 d7d5 d1e2 e6e5 f2f4 e5f4	rnbqkbnr/ppp2ppp/8/3p4/3PPp2/8/PPP1Q1PP/RNB1KBNR w KQkq -
 C00	French Defense: Horwitz Attack	1. e4 e6 2. b3	e2e4 e7e6 b2b3	rnbqkbnr/pppp1ppp/4p3/8/4P3/1P6/P1PP1PPP/RNBQKBNR b KQkq -
 C00	French Defense: Horwitz Attack, Papa-Ticulat Gambit	1. e4 e6 2. b3 d5 3. Bb2	e2e4 e7e6 b2b3 d7d5 c1b2	rnbqkbnr/ppp2ppp/4p3/3p4/4P3/1P6/PBPP1PPP/RN1QKBNR b KQkq -
 C00	French Defense: King's Indian Attack	1. e4 e6 2. d3	e2e4 e7e6 d2d3	rnbqkbnr/pppp1ppp/4p3/8/4P3/3P4/PPP2PPP/RNBQKBNR b KQkq -
+C00	French Defense: King's Indian Attack, Franco-Hiva Gambit	1. e4 e6 2. d3 f5	e2e4 e7e6 d2d3 f7f5	rnbqkbnr/pppp2pp/4p3/5p2/4P3/3P4/PPP2PPP/RNBQKBNR w KQkq -
 C00	French Defense: Knight Variation	1. e4 e6 2. Nf3	e2e4 e7e6 g1f3	rnbqkbnr/pppp1ppp/4p3/8/4P3/5N2/PPPP1PPP/RNBQKB1R b KQkq -
+C00	French Defense: Knight Variation, Franco-Hiva Gambit	1. e4 e6 2. Nf3 f5	e2e4 e7e6 g1f3 f7f5	rnbqkbnr/pppp2pp/4p3/5p2/4P3/5N2/PPPP1PPP/RNBQKB1R w KQkq -
 C00	French Defense: La Bourdonnais Variation	1. e4 e6 2. f4	e2e4 e7e6 f2f4	rnbqkbnr/pppp1ppp/4p3/8/4PP2/8/PPPP2PP/RNBQKBNR b KQkq -
 C00	French Defense: La Bourdonnais Variation, Reuter Gambit	1. e4 e6 2. f4 d5 3. Nf3 dxe4	e2e4 e7e6 f2f4 d7d5 g1f3 d5e4	rnbqkbnr/ppp2ppp/4p3/8/4pP2/5N2/PPPP2PP/RNBQKB1R w KQkq -
 C00	French Defense: Mediterranean Defense	1. e4 e6 2. d4 Nf6	e2e4 e7e6 d2d4 g8f6	rnbqkb1r/pppp1ppp/4pn2/8/3PP3/8/PPP2PPP/RNBQKBNR w KQkq -

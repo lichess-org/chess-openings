@@ -10,15 +10,16 @@ C00	French Defense: Carlson Gambit	1. e4 e6 2. d4 d5 3. Nf3 dxe4 4. Ne5
 C00	French Defense: Chigorin Variation	1. e4 e6 2. Qe2
 C00	French Defense: Diemer-Duhm Gambit	1. e4 e6 2. d4 d5 3. c4
 C00	French Defense: Diemer-Duhm Gambit Accepted	1. e4 e6 2. d4 d5 3. c4 dxe4
-C00	French Defense: Franco-Hiva Gambit	1. e4 e6 2. d3 f5
-C00	French Defense: Franco-Hiva Gambit	1. e4 e6 2. Nf3 f5
-C00	French Defense: Franco-Hiva Gambit Accepted	1. e4 e6 2. d4 f5 3. exf5 Nf6
+C00	French Defense: Franco-Hiva Gambit	1. e4 e6 2. d4 f5
+C00	French Defense: Franco-Hiva Gambit Accepted	1. e4 e6 2. d4 f5 3. exf5
 C00	French Defense: Franco-Sicilian Defense	1. e4 e6 2. d4 c5
 C00	French Defense: Hoffmann Gambit	1. e4 e6 2. d4 d5 3. Qe2 e5 4. f4 exf4
 C00	French Defense: Horwitz Attack	1. e4 e6 2. b3
 C00	French Defense: Horwitz Attack, Papa-Ticulat Gambit	1. e4 e6 2. b3 d5 3. Bb2
 C00	French Defense: King's Indian Attack	1. e4 e6 2. d3
+C00	French Defense: King's Indian Attack, Franco-Hiva Gambit	1. e4 e6 2. d3 f5
 C00	French Defense: Knight Variation	1. e4 e6 2. Nf3
+C00	French Defense: Knight Variation, Franco-Hiva Gambit	1. e4 e6 2. Nf3 f5
 C00	French Defense: La Bourdonnais Variation	1. e4 e6 2. f4
 C00	French Defense: La Bourdonnais Variation, Reuter Gambit	1. e4 e6 2. f4 d5 3. Nf3 dxe4
 C00	French Defense: Mediterranean Defense	1. e4 e6 2. d4 Nf6
