@@ -420,8 +420,8 @@ C33	King's Gambit Accepted: Mason-Keres Gambit	1. e4 e5 2. f4 exf4 3. Nc3	e2e4 e
 C33	King's Gambit Accepted: Orsini Gambit	1. e4 e5 2. f4 exf4 3. b3	e2e4 e7e5 f2f4 e5f4 b2b3	rnbqkbnr/pppp1ppp/8/8/4Pp2/1P6/P1PP2PP/RNBQKBNR b KQkq -
 C33	King's Gambit Accepted: Paris Gambit	1. e4 e5 2. f4 exf4 3. Ne2	e2e4 e7e5 f2f4 e5f4 g1e2	rnbqkbnr/pppp1ppp/8/8/4Pp2/8/PPPPN1PP/RNBQKB1R b KQkq -
 C33	King's Gambit Accepted: Polerio Gambit	1. e4 e5 2. f4 exf4 3. d4	e2e4 e7e5 f2f4 e5f4 d2d4	rnbqkbnr/pppp1ppp/8/8/3PPp2/8/PPP3PP/RNBQKBNR b KQkq -
-C33	King's Gambit Accepted: Schurig Gambit	1. e4 e5 2. f4 exf4 3. Bb5	e2e4 e7e5 f2f4 e5f4 f1b5	rnbqkbnr/pppp1ppp/8/1B6/4Pp2/8/PPPP2PP/RNBQK1NR b KQkq -
-C33	King's Gambit Accepted: Schurig Gambit	1. e4 e5 2. f4 exf4 3. Bd3	e2e4 e7e5 f2f4 e5f4 f1d3	rnbqkbnr/pppp1ppp/8/8/4Pp2/3B4/PPPP2PP/RNBQK1NR b KQkq -
+C33	King's Gambit Accepted: Schurig Gambit with Bb5	1. e4 e5 2. f4 exf4 3. Bb5	e2e4 e7e5 f2f4 e5f4 f1b5	rnbqkbnr/pppp1ppp/8/1B6/4Pp2/8/PPPP2PP/RNBQK1NR b KQkq -
+C33	King's Gambit Accepted: Schurig Gambit with Bd3	1. e4 e5 2. f4 exf4 3. Bd3	e2e4 e7e5 f2f4 e5f4 f1d3	rnbqkbnr/pppp1ppp/8/8/4Pp2/3B4/PPPP2PP/RNBQK1NR b KQkq -
 C33	King's Gambit Accepted: Stamma Gambit	1. e4 e5 2. f4 exf4 3. h4	e2e4 e7e5 f2f4 e5f4 h2h4	rnbqkbnr/pppp1ppp/8/8/4Pp1P/8/PPPP2P1/RNBQKBNR b KQkq -
 C33	King's Gambit Accepted: Tartakower Gambit	1. e4 e5 2. f4 exf4 3. Be2	e2e4 e7e5 f2f4 e5f4 f1e2	rnbqkbnr/pppp1ppp/8/8/4Pp2/8/PPPPB1PP/RNBQK1NR b KQkq -
 C33	King's Gambit Accepted: Tartakower Gambit, Weiss Defense	1. e4 e5 2. f4 exf4 3. Be2 f5 4. exf5 d6	e2e4 e7e5 f2f4 e5f4 f1e2 f7f5 e4f5 d7d6	rnbqkbnr/ppp3pp/3p4/5P2/5p2/8/PPPPB1PP/RNBQK1NR w KQkq -
