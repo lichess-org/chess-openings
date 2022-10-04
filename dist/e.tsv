@@ -6,8 +6,7 @@ E00	Indian Defense	1. d4 Nf6 2. c4 e6 3. Qb3	d2d4 g8f6 c2c4 e7e6 d1b3	rnbqkb1r/p
 E00	Indian Defense: Devin Gambit	1. d4 Nf6 2. c4 e6 3. g4	d2d4 g8f6 c2c4 e7e6 g2g4	rnbqkb1r/pppp1ppp/4pn2/8/2PP2P1/8/PP2PP1P/RNBQKBNR b KQkq -
 E00	Indian Defense: Seirawan Attack	1. d4 Nf6 2. c4 e6 3. Bg5	d2d4 g8f6 c2c4 e7e6 c1g5	rnbqkb1r/pppp1ppp/4pn2/6B1/2PP4/8/PP2PPPP/RN1QKBNR b KQkq -
 E01	Catalan Opening: Closed	1. d4 Nf6 2. c4 e6 3. g3 d5 4. Bg2	d2d4 g8f6 c2c4 e7e6 g2g3 d7d5 f1g2	rnbqkb1r/ppp2ppp/4pn2/3p4/2PP4/6P1/PP2PPBP/RNBQK1NR b KQkq -
-E01	Catalan Opening: Open Defense, Tarrasch Defense	1. d4 Nf6 2. c4 e6 3. g3 d5 4. Bg2 c5 5. Nf3 Nc6	d2d4 g8f6 c2c4 e7e6 g2g3 d7d5 f1g2 c7c5 g1f3 b8c6	r1bqkb1r/pp3ppp/2n1pn2/2pp4/2PP4/5NP1/PP2PPBP/RNBQK2R w KQkq -
-E02	Catalan Opening: Open Defense	1. d4 Nf6 2. c4 e6 3. g3 d5 4. Bg2 dxc4 5. Qa4+	d2d4 g8f6 c2c4 e7e6 g2g3 d7d5 f1g2 d5c4 d1a4	rnbqkb1r/ppp2ppp/4pn2/8/Q1pP4/6P1/PP2PPBP/RNB1K1NR b KQkq -
+E02	Catalan Opening: Open Defense	1. d4 Nf6 2. c4 e6 3. g3 d5 4. Bg2 dxc4	d2d4 g8f6 c2c4 e7e6 g2g3 d7d5 f1g2 d5c4	rnbqkb1r/ppp2ppp/4pn2/8/2pP4/6P1/PP2PPBP/RNBQK1NR w KQkq -
 E03	Catalan Opening: Open Defense	1. d4 Nf6 2. c4 e6 3. g3 d5 4. Bg2 dxc4 5. Qa4+ Nbd7 6. Qxc4	d2d4 g8f6 c2c4 e7e6 g2g3 d7d5 f1g2 d5c4 d1a4 b8d7 a4c4	r1bqkb1r/pppn1ppp/4pn2/8/2QP4/6P1/PP2PPBP/RNB1K1NR b KQkq -
 E03	Catalan Opening: Open Defense, Alekhine Variation	1. d4 Nf6 2. c4 e6 3. g3 d5 4. Bg2 dxc4 5. Qa4+ Nbd7 6. Qxc4 a6 7. Qc2	d2d4 g8f6 c2c4 e7e6 g2g3 d7d5 f1g2 d5c4 d1a4 b8d7 a4c4 a7a6 c4c2	r1bqkb1r/1ppn1ppp/p3pn2/8/3P4/6P1/PPQ1PPBP/RNB1K1NR b KQkq -
 E04	Catalan Opening: Open Defense	1. d4 Nf6 2. c4 e6 3. g3 d5 4. Bg2 dxc4 5. Nf3	d2d4 g8f6 c2c4 e7e6 g2g3 d7d5 f1g2 d5c4 g1f3	rnbqkb1r/ppp2ppp/4pn2/8/2pP4/5NP1/PP2PPBP/RNBQK2R b KQkq -
