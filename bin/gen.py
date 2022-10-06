@@ -3,6 +3,7 @@
 import io
 import re
 import sys
+from typing import Dict, List
 
 try:
     import chess
@@ -19,14 +20,12 @@ ECO_REGEX = re.compile(r"^[A-E]\d\d\Z")
 INVALID_SPACE = re.compile(r"\s{2,}|^\s|\s\Z|\s,")
 
 
-
-
-def err_printer(file_name: str, lno: str, err_msg: str, err_typ: str = "warning") -> int:
+def err_printer(file_name: str, lno: int, err_msg: str, err_typ: str = "error") -> int:
     print(f"::{err_typ} file={file_name},line={lno}::{err_msg}", file=sys.stderr)
     return 1 if err_typ=="error" else 0
 
 
-def main(arg, by_epd, shortest_by_name):
+def main(arg, by_epd: Dict[str,List[str]], shortest_by_name:Dict[str,int]):
     ret = 0
     prev_eco = ""
     prev_name = ""
@@ -36,37 +35,41 @@ def main(arg, by_epd, shortest_by_name):
             cols = line.rstrip("\n").split("\t")
 
             if len(cols) != 3:
-                ret = err_printer(arg, lno, f"expected 3 columns, got {len(cols)}", "error")
+                ret = err_printer(arg, lno, f"expected 3 columns, got {len(cols)}")
                 continue
 
             if lno == 1:
                 if cols != ["eco", "name", "pgn"]:
-                    ret = err_printer(arg, lno, f"expected eco, name, pgn", "error")
+                    ret = err_printer(arg, lno, f"expected eco, name, pgn")
                 continue
 
             eco, name, pgn = cols
 
             if not ECO_REGEX.match(eco):
-                ret = err_printer(arg, lno, f"invalid eco", "error")
+                ret = err_printer(arg, lno, f"invalid eco")
                 continue
 
             if INVALID_SPACE.search(name):
-                ret = err_printer(arg, lno, f"invalid whitespace in name", "error")
+                ret = err_printer(arg, lno, f"invalid whitespace in name")
                 continue
 
             try:
                 board = chess.pgn.read_game(io.StringIO(pgn), Visitor=chess.pgn.BoardBuilder)
             except ValueError as err:
-                ret = err_printer(arg, lno, f"{err}", "error")
+                ret = err_printer(arg, lno, f"{err}")
                 continue
 
+            if not board:
+                ret = err_printer(arg, lno, f"Empty pgn")
+                continue
+            
             allowed_lowers = ["with","de","der","del","von","and"]
             if not all([word[0].isupper() for word in re.split(r"\s|-",name)\
             if word not in allowed_lowers and word.isalpha()]):
-                err_printer(arg,lno,f"{name!r} word(s) beginning with lower case letters")
+                err_printer(arg,lno,f"{name!r} word(s) beginning with lowercase letters", "warning")
             
             if shortest_by_name.get(name, -1) == len(board.move_stack):
-                err_printer(arg, lno, f"{name!r} does not have a unique shortest line")
+                err_printer(arg, lno, f"{name!r} does not have a unique shortest line", "warning")
             try:
                 shortest_by_name[name] = min(shortest_by_name[name], len(board.move_stack))
             except KeyError:
@@ -81,7 +84,7 @@ def main(arg, by_epd, shortest_by_name):
 
             for blacklisted in ["refused"]:
                 if blacklisted in name.lower():
-                    err_printer(arg, lno, f"blacklisted word ({blacklisted!r} in {name!r})")
+                    err_printer(arg, lno, f"blacklisted word ({blacklisted!r} in {name!r})", "warning")
 
             epd = board.epd()
             if epd in by_epd:
@@ -108,8 +111,8 @@ if __name__ == "__main__":
 
     print("eco", "name", "pgn", "uci", "epd", sep="\t")
 
-    by_epd = {}
-    shortest_by_name = {}
+    by_epd: Dict[str,List[str]] = {}
+    shortest_by_name: Dict[str,int] = {}
     ret = 0
     for arg in sys.argv[1:]:
         ret = max(ret, main(arg, by_epd, shortest_by_name))
