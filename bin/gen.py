@@ -20,6 +20,8 @@ ECO_REGEX = re.compile(r"^[A-E]\d\d\Z")
 
 INVALID_SPACE = re.compile(r"\s{2,}|^\s|\s\Z|\s,")
 
+INVALID_WITH = re.compile(r"[^,:]\swith\b")
+
 
 def err_printer(file_name: str, lno: int, err_msg: str, err_typ: str = "error") -> int:
     print(f"::{err_typ} file={file_name},line={lno}::{err_msg}", file=sys.stderr)
@@ -68,6 +70,14 @@ def main(file_name: str, by_epd: Dict[str, List[str]], shortest_by_name: Dict[st
             if not all([word[0].isupper() for word in re.split(r"\s|-", name) if word not in allowed_lowers and word.isalpha()]):
                 err_printer(file_name, lno, f"{name!r} word(s) beginning with lowercase letters", "warning")
 
+            if INVALID_WITH.search(name):
+                err_printer(file_name, lno, f"'with' not separated with ',' or ':'", "warning")
+
+            for blacklisted in ["refused"]:
+                if blacklisted in name.lower():
+                    err_printer(file_name, lno, f"blacklisted word ({blacklisted!r} in {name!r})", "warning")
+
+
             if shortest_by_name.get(name, -1) == len(board.move_stack):
                 err_printer(file_name, lno, f"{name!r} does not have a unique shortest line", "warning")
             try:
@@ -81,10 +91,6 @@ def main(file_name: str, by_epd: Dict[str, List[str]], shortest_by_name: Dict[st
 
             if name.count(":") > 1:
                 err_printer(file_name, lno, f"multiple ':' in name: {name}")
-
-            for blacklisted in ["refused"]:
-                if blacklisted in name.lower():
-                    err_printer(file_name, lno, f"blacklisted word ({blacklisted!r} in {name!r})", "warning")
 
             epd = board.epd()
             if epd in by_epd:
