@@ -14,7 +14,6 @@ A00	Clemenz Opening	1. h3
 A00	Clemenz Opening: Spike Lee Gambit	1. h3 h5 2. g4
 A00	Crab Opening	1. a4 e5 2. h4
 A00	Creepy Crawly Formation: Classical Defense	1. h3 d5 2. a3 e5
-A00	Formation: Cabbage Attack	1. c3 e5 2. a3 d5 3. b3 Nf6 4. Bb2 Nc6 5. a4 Bd6 6. g3 O-O 7. e3
 A00	Formation: Hippopotamus Attack	1. a3 e5 2. b3 d5 3. c3 Nf6 4. d3 Nc6 5. e3 Bd6 6. f3 O-O 7. g3
 A00	Formation: Shy Attack	1. a3 e5 2. g3 d5 3. Bg2 Nf6 4. d3 Nc6 5. Nd2 Bd6 6. e3 O-O 7. h3
 A00	Gedult's Opening	1. f3
@@ -84,8 +83,6 @@ A00	Polish Opening: King's Indian Variation	1. b4 Nf6 2. Bb2 g6
 A00	Polish Opening: King's Indian Variation, Schiffler Attack	1. b4 Nf6 2. Bb2 g6 3. e4
 A00	Polish Opening: King's Indian Variation, Sokolsky Attack	1. b4 Nf6 2. Bb2 g6 3. c4 Bg7 4. e3 d6 5. Nf3 O-O 6. d4
 A00	Polish Opening: Myers Variation	1. b4 d5 2. Bb2 c6 3. a4
-A00	Polish Opening: Orangutan-Diemer Gambit	1. b4 d5 2. Bb2 Qd6 3. a3 e5 4. e4 dxe4 5. f3
-A00	Polish Opening: Orangutan-Hartlaub Gambit	1. b4 Nf6 2. Bb2 e6 3. a3 c6 4. d3 a5 5. bxa5 d5 6. e4
 A00	Polish Opening: Outflank Variation	1. b4 c6
 A00	Polish Opening: Queen's Indian Variation	1. b4 e6 2. Bb2 Nf6 3. b5 b6
 A00	Polish Opening: Queenside Defense	1. b4 e6 2. Bb2 Nf6 3. b5 a6
@@ -94,11 +91,9 @@ A00	Polish Opening: Schiffler-Sokolsky Variation	1. b4 e6 2. Bb2 Nf6 3. b5 d5 4.
 A00	Polish Opening: Schuehler Gambit	1. b4 c6 2. Bb2 a5 3. b5 cxb5 4. e4
 A00	Polish Opening: Symmetrical Variation	1. b4 b5
 A00	Polish Opening: Tartakower Gambit	1. b4 e5 2. Bb2 f6 3. e4
-A00	Polish Opening: Tartakower Gambit, Brinckmann Variation	1. b4 e5 2. Bb2 f6 3. e4 Bxb4 4. Bc4 Nc6 5. f4 Qe7 6. f5 g6
 A00	Polish Opening: Wolferts Gambit	1. b4 e5 2. Bb2 c5
 A00	Saragossa Opening	1. c3
 A00	Sodium Attack	1. Na3
-A00	Sodium Attack: Celadon Variation	1. Na3 e5 2. d3 Bxa3 3. bxa3 d5 4. e3 c5 5. Rb1
 A00	Sodium Attack: Chenoboskion Variation	1. Na3 g6 2. g4
 A00	Sodium Attack: Durkin Gambit	1. Na3 e5 2. Nc4 Nc6 3. e4 f5
 A00	Valencia Opening	1. d3 e5 2. Nd2
@@ -135,13 +130,11 @@ A00	Van Geet Opening: Venezolana Variation	1. Nc3 d5 2. d3 Nf6 3. g3
 A00	Van Geet Opening: Warsteiner Gambit	1. Nc3 d5 2. f4 g5
 A00	Van't Kruijs Opening	1. e3
 A00	Van't Kruijs Opening: Bouncing Bishop Variation	1. e3 e5 2. Bc4 b5 3. Bb3
-A00	Van't Kruijs Opening: Keoni-Hiva Gambit Delayed	1. e3 d5 2. Nc3 Nf6 3. a3 e5 4. f4 exf4 5. Nf3
 A00	Van't Kruijs Opening: Keoni-Hiva Gambit, Akahi Variation	1. e3 e5 2. Nc3 Nf6 3. f4 exf4 4. Nf3
 A00	Van't Kruijs Opening: Keoni-Hiva Gambit, Alua Variation	1. e3 e5 2. Nc3 Nc6 3. f4 exf4 4. Nf3
 A00	Van't Kruijs Opening: Keoni-Hiva Gambit, Ekolu Variation	1. e3 e5 2. Nc3 d5 3. f4 exf4 4. Nf3
 A00	Venezolana Opening	1. d3 c5 2. Nc3 Nc6 3. g3
 A00	Ware Opening	1. a4
-A00	Ware Opening: Cologne Gambit	1. a4 b6 2. d4 d5 3. Nc3 Nd7
 A00	Ware Opening: Meadow Hay Trap	1. a4 e5 2. Ra3
 A00	Ware Opening: Ware Gambit	1. a4 e5 2. a5 d5 3. e3 f5 4. a6
 A00	Ware Opening: Wing Gambit	1. a4 b5 2. axb5 Bb7
@@ -415,7 +408,6 @@ A40	Dutch Defense: Senechaud Gambit	1. d4 e6 2. Bf4 f5 3. g4
 A40	Dutch Defense: Stonewall Variation, Modern Variation	1. d4 e6 2. Nf3 f5 3. g3 Nf6 4. Bg2 d5 5. O-O Bd6 6. c4 c6
 A40	English Defense	1. d4 b6
 A40	English Defense	1. d4 e6 2. c4 b6
-A40	English Defense: Blumenfeld-Hiva Gambit	1. d4 b6 2. c4 c5 3. d5 e6 4. e4 b5 5. cxb5 f5
 A40	English Defense: Eastbourne Gambit	1. d4 b6 2. c4 Bb7 3. Nc3 e5
 A40	English Defense: Hartlaub Gambit Accepted	1. c4 e6 2. d4 b6 3. Nc3 Bb7 4. e4 f5 5. exf5 Nf6
 A40	English Defense: Hartlaub Gambit Declined	1. c4 e6 2. d4 b6 3. Nc3 Bb7 4. e4 f5 5. d5
