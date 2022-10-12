@@ -69,7 +69,7 @@ D01	Queen's Pawn Game: Veresov Attack, Veresov Variation	1. d4 Nf6 2. Nc3 d5 3. 
 D01	Rapport-Jobava System	1. d4 d5 2. Nc3 Nf6 3. Bf4
 D01	Richter-Veresov Attack	1. d4 Nf6 2. Nc3 d5 3. Bg5
 D01	Richter-Veresov Attack	1. d4 Nf6 2. Nc3 d5 3. Bg5 Bf5
-D01	Veresov Opening: Malich Gambit	1. d4 Nf6 2. Nc3 d5 3. Bg5 c5 4. Bxf6 gxf6 5. e4 dxe4 6. d5
+D01	Richter-Veresov Attack: Malich Gambit	1. d4 Nf6 2. Nc3 d5 3. Bg5 c5 4. Bxf6 gxf6 5. e4 dxe4 6. d5
 D02	London System: Poisoned Pawn Variation	1. d4 Nf6 2. Nf3 d5 3. Bf4 c5 4. e3 Qb6 5. Nc3
 D02	Queen's Gambit Declined: Baltic Defense, Pseudo-Slav	1. d4 d5 2. Nf3 Bf5 3. c4 e6 4. Nc3 c6
 D02	Queen's Pawn Game: Anti-Torre	1. Nf3 d5 2. d4 Bg4
