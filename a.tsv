@@ -500,14 +500,14 @@ A43	Queen's Pawn Game: Liedmann Gambit	1. d4 c5 2. c4 cxd4 3. e3
 A44	Benoni Defense: Old Benoni	1. d4 c5 2. d5 e5
 A44	Benoni Defense: Semi-Benoni	1. d4 c5 2. d5 e5 3. e4 d6
 A45	Amazon Attack: Siberian Attack	1. d4 Nf6 2. Nc3 d5 3. Qd3
-A45	Bronstein Gambit	1. d4 Nf6 2. g4
 A45	Canard Opening	1. d4 Nf6 2. f4
 A45	Indian Defense	1. d4 Nf6
 A45	Indian Defense: Gedult Attack, Gedult Attack	1. d4 Nf6 2. f3 d5 3. g4
-A45	Indian Defense: Gibbins-Wiedenhagen Gambit Accepted	1. d4 Nf6 2. g4 Nxg4
-A45	Indian Defense: Gibbins-Wiedenhagen Gambit, Maltese Falcon	1. d4 Nf6 2. g4 Nxg4 3. f3 Nf6 4. e4
-A45	Indian Defense: Gibbins-Wiedenhagen Gambit, Oshima Defense	1. d4 Nf6 2. g4 e5
-A45	Indian Defense: Gibbins-Wiedenhagen Gambit, Stummer Gambit	1. d4 Nf6 2. g4 Nxg4 3. e4 d6 4. Be2 Nf6 5. Nc3
+A45	Indian Defense: Gibbins-Weidenhagen Gambit	1. d4 Nf6 2. g4
+A45	Indian Defense: Gibbins-Weidenhagen Gambit Accepted	1. d4 Nf6 2. g4 Nxg4
+A45	Indian Defense: Gibbins-Weidenhagen Gambit, Maltese Falcon	1. d4 Nf6 2. g4 Nxg4 3. f3 Nf6 4. e4
+A45	Indian Defense: Gibbins-Weidenhagen Gambit, Oshima Defense	1. d4 Nf6 2. g4 e5
+A45	Indian Defense: Gibbins-Weidenhagen Gambit, Stummer Gambit	1. d4 Nf6 2. g4 Nxg4 3. e4 d6 4. Be2 Nf6 5. Nc3
 A45	Indian Defense: Lazard Gambit	1. d4 Nf6 2. Nd2 e5
 A45	Indian Defense: Maddigan Gambit	1. d4 Nf6 2. Nc3 e5
 A45	Indian Defense: Omega Gambit	1. d4 Nf6 2. e4

@@ -500,14 +500,14 @@ A43	Queen's Pawn Game: Liedmann Gambit	1. d4 c5 2. c4 cxd4 3. e3	d2d4 c7c5 c2c4 
 A44	Benoni Defense: Old Benoni	1. d4 c5 2. d5 e5	d2d4 c7c5 d4d5 e7e5	rnbqkbnr/pp1p1ppp/8/2pPp3/8/8/PPP1PPPP/RNBQKBNR w KQkq e6
 A44	Benoni Defense: Semi-Benoni	1. d4 c5 2. d5 e5 3. e4 d6	d2d4 c7c5 d4d5 e7e5 e2e4 d7d6	rnbqkbnr/pp3ppp/3p4/2pPp3/4P3/8/PPP2PPP/RNBQKBNR w KQkq -
 A45	Amazon Attack: Siberian Attack	1. d4 Nf6 2. Nc3 d5 3. Qd3	d2d4 g8f6 b1c3 d7d5 d1d3	rnbqkb1r/ppp1pppp/5n2/3p4/3P4/2NQ4/PPP1PPPP/R1B1KBNR b KQkq -
-A45	Bronstein Gambit	1. d4 Nf6 2. g4	d2d4 g8f6 g2g4	rnbqkb1r/pppppppp/5n2/8/3P2P1/8/PPP1PP1P/RNBQKBNR b KQkq -
 A45	Canard Opening	1. d4 Nf6 2. f4	d2d4 g8f6 f2f4	rnbqkb1r/pppppppp/5n2/8/3P1P2/8/PPP1P1PP/RNBQKBNR b KQkq -
 A45	Indian Defense	1. d4 Nf6	d2d4 g8f6	rnbqkb1r/pppppppp/5n2/8/3P4/8/PPP1PPPP/RNBQKBNR w KQkq -
 A45	Indian Defense: Gedult Attack, Gedult Attack	1. d4 Nf6 2. f3 d5 3. g4	d2d4 g8f6 f2f3 d7d5 g2g4	rnbqkb1r/ppp1pppp/5n2/3p4/3P2P1/5P2/PPP1P2P/RNBQKBNR b KQkq -
-A45	Indian Defense: Gibbins-Wiedenhagen Gambit Accepted	1. d4 Nf6 2. g4 Nxg4	d2d4 g8f6 g2g4 f6g4	rnbqkb1r/pppppppp/8/8/3P2n1/8/PPP1PP1P/RNBQKBNR w KQkq -
-A45	Indian Defense: Gibbins-Wiedenhagen Gambit, Maltese Falcon	1. d4 Nf6 2. g4 Nxg4 3. f3 Nf6 4. e4	d2d4 g8f6 g2g4 f6g4 f2f3 g4f6 e2e4	rnbqkb1r/pppppppp/5n2/8/3PP3/5P2/PPP4P/RNBQKBNR b KQkq -
-A45	Indian Defense: Gibbins-Wiedenhagen Gambit, Oshima Defense	1. d4 Nf6 2. g4 e5	d2d4 g8f6 g2g4 e7e5	rnbqkb1r/pppp1ppp/5n2/4p3/3P2P1/8/PPP1PP1P/RNBQKBNR w KQkq -
-A45	Indian Defense: Gibbins-Wiedenhagen Gambit, Stummer Gambit	1. d4 Nf6 2. g4 Nxg4 3. e4 d6 4. Be2 Nf6 5. Nc3	d2d4 g8f6 g2g4 f6g4 e2e4 d7d6 f1e2 g4f6 b1c3	rnbqkb1r/ppp1pppp/3p1n2/8/3PP3/2N5/PPP1BP1P/R1BQK1NR b KQkq -
+A45	Indian Defense: Gibbins-Weidenhagen Gambit	1. d4 Nf6 2. g4	d2d4 g8f6 g2g4	rnbqkb1r/pppppppp/5n2/8/3P2P1/8/PPP1PP1P/RNBQKBNR b KQkq -
+A45	Indian Defense: Gibbins-Weidenhagen Gambit Accepted	1. d4 Nf6 2. g4 Nxg4	d2d4 g8f6 g2g4 f6g4	rnbqkb1r/pppppppp/8/8/3P2n1/8/PPP1PP1P/RNBQKBNR w KQkq -
+A45	Indian Defense: Gibbins-Weidenhagen Gambit, Maltese Falcon	1. d4 Nf6 2. g4 Nxg4 3. f3 Nf6 4. e4	d2d4 g8f6 g2g4 f6g4 f2f3 g4f6 e2e4	rnbqkb1r/pppppppp/5n2/8/3PP3/5P2/PPP4P/RNBQKBNR b KQkq -
+A45	Indian Defense: Gibbins-Weidenhagen Gambit, Oshima Defense	1. d4 Nf6 2. g4 e5	d2d4 g8f6 g2g4 e7e5	rnbqkb1r/pppp1ppp/5n2/4p3/3P2P1/8/PPP1PP1P/RNBQKBNR w KQkq -
+A45	Indian Defense: Gibbins-Weidenhagen Gambit, Stummer Gambit	1. d4 Nf6 2. g4 Nxg4 3. e4 d6 4. Be2 Nf6 5. Nc3	d2d4 g8f6 g2g4 f6g4 e2e4 d7d6 f1e2 g4f6 b1c3	rnbqkb1r/ppp1pppp/3p1n2/8/3PP3/2N5/PPP1BP1P/R1BQK1NR b KQkq -
 A45	Indian Defense: Lazard Gambit	1. d4 Nf6 2. Nd2 e5	d2d4 g8f6 b1d2 e7e5	rnbqkb1r/pppp1ppp/5n2/4p3/3P4/8/PPPNPPPP/R1BQKBNR w KQkq -
 A45	Indian Defense: Maddigan Gambit	1. d4 Nf6 2. Nc3 e5	d2d4 g8f6 b1c3 e7e5	rnbqkb1r/pppp1ppp/5n2/4p3/3P4/2N5/PPP1PPPP/R1BQKBNR w KQkq -
 A45	Indian Defense: Omega Gambit	1. d4 Nf6 2. e4	d2d4 g8f6 e2e4	rnbqkb1r/pppppppp/5n2/8/3PP3/8/PPP2PPP/RNBQKBNR b KQkq -
