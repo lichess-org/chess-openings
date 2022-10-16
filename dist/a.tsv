@@ -14,7 +14,6 @@ A00	Clemenz Opening	1. h3	h2h3	rnbqkbnr/pppppppp/8/8/8/7P/PPPPPPP1/RNBQKBNR b KQ
 A00	Clemenz Opening: Spike Lee Gambit	1. h3 h5 2. g4	h2h3 h7h5 g2g4	rnbqkbnr/ppppppp1/8/7p/6P1/7P/PPPPPP2/RNBQKBNR b KQkq -
 A00	Crab Opening	1. a4 e5 2. h4	a2a4 e7e5 h2h4	rnbqkbnr/pppp1ppp/8/4p3/P6P/8/1PPPPPP1/RNBQKBNR b KQkq -
 A00	Creepy Crawly Formation: Classical Defense	1. h3 d5 2. a3 e5	h2h3 d7d5 a2a3 e7e5	rnbqkbnr/ppp2ppp/8/3pp3/8/P6P/1PPPPPP1/RNBQKBNR w KQkq -
-A00	Formation: Cabbage Attack	1. c3 e5 2. a3 d5 3. b3 Nf6 4. Bb2 Nc6 5. a4 Bd6 6. g3 O-O 7. e3	c2c3 e7e5 a2a3 d7d5 b2b3 g8f6 c1b2 b8c6 a3a4 f8d6 g2g3 e8g8 e2e3	r1bq1rk1/ppp2ppp/2nb1n2/3pp3/P7/1PP1P1P1/1B1P1P1P/RN1QKBNR b KQ -
 A00	Formation: Hippopotamus Attack	1. a3 e5 2. b3 d5 3. c3 Nf6 4. d3 Nc6 5. e3 Bd6 6. f3 O-O 7. g3	a2a3 e7e5 b2b3 d7d5 c2c3 g8f6 d2d3 b8c6 e2e3 f8d6 f2f3 e8g8 g2g3	r1bq1rk1/ppp2ppp/2nb1n2/3pp3/8/PPPPPPP1/7P/RNBQKBNR b KQ -
 A00	Formation: Shy Attack	1. a3 e5 2. g3 d5 3. Bg2 Nf6 4. d3 Nc6 5. Nd2 Bd6 6. e3 O-O 7. h3	a2a3 e7e5 g2g3 d7d5 f1g2 g8f6 d2d3 b8c6 b1d2 f8d6 e2e3 e8g8 h2h3	r1bq1rk1/ppp2ppp/2nb1n2/3pp3/8/P2PP1PP/1PPN1PB1/R1BQK1NR b KQ -
 A00	Gedult's Opening	1. f3	f2f3	rnbqkbnr/pppppppp/8/8/8/5P2/PPPPP1PP/RNBQKBNR b KQkq -
@@ -84,8 +83,6 @@ A00	Polish Opening: King's Indian Variation	1. b4 Nf6 2. Bb2 g6	b2b4 g8f6 c1b2 g
 A00	Polish Opening: King's Indian Variation, Schiffler Attack	1. b4 Nf6 2. Bb2 g6 3. e4	b2b4 g8f6 c1b2 g7g6 e2e4	rnbqkb1r/pppppp1p/5np1/8/1P2P3/8/PBPP1PPP/RN1QKBNR b KQkq -
 A00	Polish Opening: King's Indian Variation, Sokolsky Attack	1. b4 Nf6 2. Bb2 g6 3. c4 Bg7 4. e3 d6 5. Nf3 O-O 6. d4	b2b4 g8f6 c1b2 g7g6 c2c4 f8g7 e2e3 d7d6 g1f3 e8g8 d2d4	rnbq1rk1/ppp1ppbp/3p1np1/8/1PPP4/4PN2/PB3PPP/RN1QKB1R b KQ -
 A00	Polish Opening: Myers Variation	1. b4 d5 2. Bb2 c6 3. a4	b2b4 d7d5 c1b2 c7c6 a2a4	rnbqkbnr/pp2pppp/2p5/3p4/PP6/8/1BPPPPPP/RN1QKBNR b KQkq -
-A00	Polish Opening: Orangutan-Diemer Gambit	1. b4 d5 2. Bb2 Qd6 3. a3 e5 4. e4 dxe4 5. f3	b2b4 d7d5 c1b2 d8d6 a2a3 e7e5 e2e4 d5e4 f2f3	rnb1kbnr/ppp2ppp/3q4/4p3/1P2p3/P4P2/1BPP2PP/RN1QKBNR b KQkq -
-A00	Polish Opening: Orangutan-Hartlaub Gambit	1. b4 Nf6 2. Bb2 e6 3. a3 c6 4. d3 a5 5. bxa5 d5 6. e4	b2b4 g8f6 c1b2 e7e6 a2a3 c7c6 d2d3 a7a5 b4a5 d7d5 e2e4	rnbqkb1r/1p3ppp/2p1pn2/P2p4/4P3/P2P4/1BP2PPP/RN1QKBNR b KQkq -
 A00	Polish Opening: Outflank Variation	1. b4 c6	b2b4 c7c6	rnbqkbnr/pp1ppppp/2p5/8/1P6/8/P1PPPPPP/RNBQKBNR w KQkq -
 A00	Polish Opening: Queen's Indian Variation	1. b4 e6 2. Bb2 Nf6 3. b5 b6	b2b4 e7e6 c1b2 g8f6 b4b5 b7b6	rnbqkb1r/p1pp1ppp/1p2pn2/1P6/8/8/PBPPPPPP/RN1QKBNR w KQkq -
 A00	Polish Opening: Queenside Defense	1. b4 e6 2. Bb2 Nf6 3. b5 a6	b2b4 e7e6 c1b2 g8f6 b4b5 a7a6	rnbqkb1r/1ppp1ppp/p3pn2/1P6/8/8/PBPPPPPP/RN1QKBNR w KQkq -
@@ -94,11 +91,9 @@ A00	Polish Opening: Schiffler-Sokolsky Variation	1. b4 e6 2. Bb2 Nf6 3. b5 d5 4.
 A00	Polish Opening: Schuehler Gambit	1. b4 c6 2. Bb2 a5 3. b5 cxb5 4. e4	b2b4 c7c6 c1b2 a7a5 b4b5 c6b5 e2e4	rnbqkbnr/1p1ppppp/8/pp6/4P3/8/PBPP1PPP/RN1QKBNR b KQkq -
 A00	Polish Opening: Symmetrical Variation	1. b4 b5	b2b4 b7b5	rnbqkbnr/p1pppppp/8/1p6/1P6/8/P1PPPPPP/RNBQKBNR w KQkq -
 A00	Polish Opening: Tartakower Gambit	1. b4 e5 2. Bb2 f6 3. e4	b2b4 e7e5 c1b2 f7f6 e2e4	rnbqkbnr/pppp2pp/5p2/4p3/1P2P3/8/PBPP1PPP/RN1QKBNR b KQkq -
-A00	Polish Opening: Tartakower Gambit, Brinckmann Variation	1. b4 e5 2. Bb2 f6 3. e4 Bxb4 4. Bc4 Nc6 5. f4 Qe7 6. f5 g6	b2b4 e7e5 c1b2 f7f6 e2e4 f8b4 f1c4 b8c6 f2f4 d8e7 f4f5 g7g6	r1b1k1nr/ppppq2p/2n2pp1/4pP2/1bB1P3/8/PBPP2PP/RN1QK1NR w KQkq -
 A00	Polish Opening: Wolferts Gambit	1. b4 e5 2. Bb2 c5	b2b4 e7e5 c1b2 c7c5	rnbqkbnr/pp1p1ppp/8/2p1p3/1P6/8/PBPPPPPP/RN1QKBNR w KQkq -
 A00	Saragossa Opening	1. c3	c2c3	rnbqkbnr/pppppppp/8/8/8/2P5/PP1PPPPP/RNBQKBNR b KQkq -
 A00	Sodium Attack	1. Na3	b1a3	rnbqkbnr/pppppppp/8/8/8/N7/PPPPPPPP/R1BQKBNR b KQkq -
-A00	Sodium Attack: Celadon Variation	1. Na3 e5 2. d3 Bxa3 3. bxa3 d5 4. e3 c5 5. Rb1	b1a3 e7e5 d2d3 f8a3 b2a3 d7d5 e2e3 c7c5 a1b1	rnbqk1nr/pp3ppp/8/2ppp3/8/P2PP3/P1P2PPP/1RBQKBNR b Kkq -
 A00	Sodium Attack: Chenoboskion Variation	1. Na3 g6 2. g4	b1a3 g7g6 g2g4	rnbqkbnr/pppppp1p/6p1/8/6P1/N7/PPPPPP1P/R1BQKBNR b KQkq -
 A00	Sodium Attack: Durkin Gambit	1. Na3 e5 2. Nc4 Nc6 3. e4 f5	b1a3 e7e5 a3c4 b8c6 e2e4 f7f5	r1bqkbnr/pppp2pp/2n5/4pp2/2N1P3/8/PPPP1PPP/R1BQKBNR w KQkq -
 A00	Valencia Opening	1. d3 e5 2. Nd2	d2d3 e7e5 b1d2	rnbqkbnr/pppp1ppp/8/4p3/8/3P4/PPPNPPPP/R1BQKBNR b KQkq -
@@ -135,13 +130,11 @@ A00	Van Geet Opening: Venezolana Variation	1. Nc3 d5 2. d3 Nf6 3. g3	b1c3 d7d5 d
 A00	Van Geet Opening: Warsteiner Gambit	1. Nc3 d5 2. f4 g5	b1c3 d7d5 f2f4 g7g5	rnbqkbnr/ppp1pp1p/8/3p2p1/5P2/2N5/PPPPP1PP/R1BQKBNR w KQkq -
 A00	Van't Kruijs Opening	1. e3	e2e3	rnbqkbnr/pppppppp/8/8/8/4P3/PPPP1PPP/RNBQKBNR b KQkq -
 A00	Van't Kruijs Opening: Bouncing Bishop Variation	1. e3 e5 2. Bc4 b5 3. Bb3	e2e3 e7e5 f1c4 b7b5 c4b3	rnbqkbnr/p1pp1ppp/8/1p2p3/8/1B2P3/PPPP1PPP/RNBQK1NR b KQkq -
-A00	Van't Kruijs Opening: Keoni-Hiva Gambit Delayed	1. e3 d5 2. Nc3 Nf6 3. a3 e5 4. f4 exf4 5. Nf3	e2e3 d7d5 b1c3 g8f6 a2a3 e7e5 f2f4 e5f4 g1f3	rnbqkb1r/ppp2ppp/5n2/3p4/5p2/P1N1PN2/1PPP2PP/R1BQKB1R b KQkq -
 A00	Van't Kruijs Opening: Keoni-Hiva Gambit, Akahi Variation	1. e3 e5 2. Nc3 Nf6 3. f4 exf4 4. Nf3	e2e3 e7e5 b1c3 g8f6 f2f4 e5f4 g1f3	rnbqkb1r/pppp1ppp/5n2/8/5p2/2N1PN2/PPPP2PP/R1BQKB1R b KQkq -
 A00	Van't Kruijs Opening: Keoni-Hiva Gambit, Alua Variation	1. e3 e5 2. Nc3 Nc6 3. f4 exf4 4. Nf3	e2e3 e7e5 b1c3 b8c6 f2f4 e5f4 g1f3	r1bqkbnr/pppp1ppp/2n5/8/5p2/2N1PN2/PPPP2PP/R1BQKB1R b KQkq -
 A00	Van't Kruijs Opening: Keoni-Hiva Gambit, Ekolu Variation	1. e3 e5 2. Nc3 d5 3. f4 exf4 4. Nf3	e2e3 e7e5 b1c3 d7d5 f2f4 e5f4 g1f3	rnbqkbnr/ppp2ppp/8/3p4/5p2/2N1PN2/PPPP2PP/R1BQKB1R b KQkq -
 A00	Venezolana Opening	1. d3 c5 2. Nc3 Nc6 3. g3	d2d3 c7c5 b1c3 b8c6 g2g3	r1bqkbnr/pp1ppppp/2n5/2p5/8/2NP2P1/PPP1PP1P/R1BQKBNR b KQkq -
 A00	Ware Opening	1. a4	a2a4	rnbqkbnr/pppppppp/8/8/P7/8/1PPPPPPP/RNBQKBNR b KQkq -
-A00	Ware Opening: Cologne Gambit	1. a4 b6 2. d4 d5 3. Nc3 Nd7	a2a4 b7b6 d2d4 d7d5 b1c3 b8d7	r1bqkbnr/p1pnpppp/1p6/3p4/P2P4/2N5/1PP1PPPP/R1BQKBNR w KQkq -
 A00	Ware Opening: Meadow Hay Trap	1. a4 e5 2. Ra3	a2a4 e7e5 a1a3	rnbqkbnr/pppp1ppp/8/4p3/P7/R7/1PPPPPPP/1NBQKBNR b Kkq -
 A00	Ware Opening: Ware Gambit	1. a4 e5 2. a5 d5 3. e3 f5 4. a6	a2a4 e7e5 a4a5 d7d5 e2e3 f7f5 a5a6	rnbqkbnr/ppp3pp/P7/3ppp2/8/4P3/1PPP1PPP/RNBQKBNR b KQkq -
 A00	Ware Opening: Wing Gambit	1. a4 b5 2. axb5 Bb7	a2a4 b7b5 a4b5 c8b7	rn1qkbnr/pbpppppp/8/1P6/8/8/1PPPPPPP/RNBQKBNR w KQkq -
@@ -415,7 +408,6 @@ A40	Dutch Defense: Senechaud Gambit	1. d4 e6 2. Bf4 f5 3. g4	d2d4 e7e6 c1f4 f7f5
 A40	Dutch Defense: Stonewall Variation, Modern Variation	1. d4 e6 2. Nf3 f5 3. g3 Nf6 4. Bg2 d5 5. O-O Bd6 6. c4 c6	d2d4 e7e6 g1f3 f7f5 g2g3 g8f6 f1g2 d7d5 e1g1 f8d6 c2c4 c7c6	rnbqk2r/pp4pp/2pbpn2/3p1p2/2PP4/5NP1/PP2PPBP/RNBQ1RK1 w kq -
 A40	English Defense	1. d4 b6	d2d4 b7b6	rnbqkbnr/p1pppppp/1p6/8/3P4/8/PPP1PPPP/RNBQKBNR w KQkq -
 A40	English Defense	1. d4 e6 2. c4 b6	d2d4 e7e6 c2c4 b7b6	rnbqkbnr/p1pp1ppp/1p2p3/8/2PP4/8/PP2PPPP/RNBQKBNR w KQkq -
-A40	English Defense: Blumenfeld-Hiva Gambit	1. d4 b6 2. c4 c5 3. d5 e6 4. e4 b5 5. cxb5 f5	d2d4 b7b6 c2c4 c7c5 d4d5 e7e6 e2e4 b6b5 c4b5 f7f5	rnbqkbnr/p2p2pp/4p3/1PpP1p2/4P3/8/PP3PPP/RNBQKBNR w KQkq -
 A40	English Defense: Eastbourne Gambit	1. d4 b6 2. c4 Bb7 3. Nc3 e5	d2d4 b7b6 c2c4 c8b7 b1c3 e7e5	rn1qkbnr/pbpp1ppp/1p6/4p3/2PP4/2N5/PP2PPPP/R1BQKBNR w KQkq -
 A40	English Defense: Hartlaub Gambit Accepted	1. c4 e6 2. d4 b6 3. Nc3 Bb7 4. e4 f5 5. exf5 Nf6	c2c4 e7e6 d2d4 b7b6 b1c3 c8b7 e2e4 f7f5 e4f5 g8f6	rn1qkb1r/pbpp2pp/1p2pn2/5P2/2PP4/2N5/PP3PPP/R1BQKBNR w KQkq -
 A40	English Defense: Hartlaub Gambit Declined	1. c4 e6 2. d4 b6 3. Nc3 Bb7 4. e4 f5 5. d5	c2c4 e7e6 d2d4 b7b6 b1c3 c8b7 e2e4 f7f5 d4d5	rn1qkbnr/pbpp2pp/1p2p3/3P1p2/2P1P3/2N5/PP3PPP/R1BQKBNR b KQkq -
