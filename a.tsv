@@ -6,6 +6,7 @@ A00	Amar Opening: Paris Gambit	1. Nh3 d5 2. g3 e5 3. f4
 A00	Amsterdam Attack	1. e3 e5 2. c4 d6 3. Nc3 Nc6 4. b3 Nf6
 A00	Anderssen's Opening	1. a3
 A00	Anderssen's Opening: Polish Gambit	1. a3 a5 2. b4
+A00	Barnes Opening	1. f3
 A00	Barnes Opening: Fool's Mate	1. f3 e5 2. g4 Qh4#
 A00	Barnes Opening: Gedult Gambit	1. f3 d5 2. e4 g6 3. d4 dxe4 4. c3
 A00	Barnes Opening: Gedult Gambit	1. f3 f5 2. e4 fxe4 3. Nc3
@@ -16,7 +17,6 @@ A00	Crab Opening	1. a4 e5 2. h4
 A00	Creepy Crawly Formation: Classical Defense	1. h3 d5 2. a3 e5
 A00	Formation: Hippopotamus Attack	1. a3 e5 2. b3 d5 3. c3 Nf6 4. d3 Nc6 5. e3 Bd6 6. f3 O-O 7. g3
 A00	Formation: Shy Attack	1. a3 e5 2. g3 d5 3. Bg2 Nf6 4. d3 Nc6 5. Nd2 Bd6 6. e3 O-O 7. h3
-A00	Gedult's Opening	1. f3
 A00	Global Opening	1. h3 e5 2. a3
 A00	Grob Opening	1. g4
 A00	Grob Opening: Alessi Gambit	1. g4 f5
@@ -155,6 +155,7 @@ A01	Nimzo-Larsen Attack: Symmetrical Variation	1. b3 b6
 A02	Bird Opening	1. f4
 A02	Bird Opening	1. f4 Nf6
 A02	Bird Opening: Batavo-Polish Attack	1. f4 Nf6 2. Nf3 g6 3. b4
+A02	Bird Opening: Double Duck Formation	1. f4 f5 2. d4 d5
 A02	Bird Opening: From's Gambit	1. f4 e5
 A02	Bird Opening: From's Gambit, Bahr Gambit	1. f4 e5 2. Nc3
 A02	Bird Opening: From's Gambit, Langheld Gambit	1. f4 e5 2. fxe5 d6 3. exd6 Nf6
@@ -171,7 +172,6 @@ A02	Bird Opening: Schlechter Gambit	1. f4 e5 2. fxe5 Nc6
 A02	Bird Opening: Siegener Gambit	1. f4 e5 2. d4 exd4 3. Nf3 c5 4. c3
 A02	Bird Opening: Swiss Gambit	1. f4 f5 2. e4 fxe4 3. Nc3 Nf6 4. g4
 A02	Bird Opening: Wagner-Zwitersch Gambit	1. f4 f5 2. e4
-A02	System: Double Duck Formation	1. f4 f5 2. d4 d5
 A03	Bird Opening: Dutch Variation	1. f4 d5
 A03	Bird Opening: Dutch Variation, Dudweiler Gambit	1. f4 d5 2. g4
 A03	Bird Opening: Lasker Variation	1. f4 d5 2. Nf3 Nf6 3. e3 c5
@@ -437,7 +437,6 @@ A40	Mikenas Defense	1. d4 Nc6
 A40	Mikenas Defense: Cannstatter Variation	1. d4 Nc6 2. c4 e5 3. d5 Nd4
 A40	Mikenas Defense: Lithuanian Variation	1. d4 Nc6 2. c4 e5 3. d5 Nce7
 A40	Mikenas Defense: Pozarek Gambit	1. d4 Nc6 2. c4 e5 3. dxe5 Nxe5 4. Nc3 Nxc4
-A40	Modern Defense	1. d4 g6
 A40	Modern Defense: Beefeater Variation	1. d4 g6 2. c4 Bg7 3. Nc3 c5 4. d5 Bxc3+ 5. bxc3 f5
 A40	Modern Defense: Lizard Defense, Pirc-Diemer Gambit	1. d4 g6 2. h4 Nf6 3. h5
 A40	Montevideo Defense	1. d4 Nc6 2. d5 Nb8
@@ -451,15 +450,16 @@ A40	Pterodactyl Defense: Fianchetto, Queen Pterodactyl	1. d4 g6 2. Nf3 Bg7 3. g3
 A40	Pterodactyl Defense: Queen Pterodactyl, Quiet Line	1. d4 g6 2. c4 Bg7 3. Nc3 c5 4. e3
 A40	Queen's Pawn Game	1. d4
 A40	Queen's Pawn Game: Anglo-Slav Opening	1. d4 c6 2. c4 d6
+A40	Queen's Pawn Game: Modern Defense	1. d4 g6
 A40	Slav Indian: Kudischewitsch Gambit	1. d4 c6 2. Nf3 Nf6 3. c4 b5
 A40	Zaire Defense	1. d4 Nc6 2. d5 Nb8 3. e4 Nf6 4. e5 Ng8
-A41	English Rat: Pounds Gambit	1. d4 d6 2. c4 e5 3. dxe5 Be6
 A41	Modern Defense	1. d4 g6 2. c4 Bg7 3. Nc3 d6
 A41	Modern Defense: Neo-Modern Defense	1. d4 g6 2. c4 Bg7 3. e4 e5
 A41	Old Indian Defense	1. d4 d6 2. c4
 A41	Queen's Pawn Game	1. d4 d6
 A41	Rat Defense: English Rat	1. d4 d6 2. c4 e5
 A41	Rat Defense: English Rat, Lisbon Gambit	1. d4 d6 2. c4 e5 3. dxe5 Nc6
+A41	Rat Defense: English Rat, Pounds Gambit	1. d4 d6 2. c4 e5 3. dxe5 Be6
 A41	Robatsch Defense	1. d4 d6 2. Nf3 g6 3. c4 Bg7 4. e4 Bg4
 A41	Wade Defense	1. d4 d6 2. Nf3 Bg4
 A41	Zukertort Opening: Wade Defense, Chigorin Plan	1. d4 d6 2. Nf3 Bg4 3. c4 Nd7 4. Qb3 Rb8
@@ -492,14 +492,14 @@ A43	Queen's Pawn Game: Liedmann Gambit	1. d4 c5 2. c4 cxd4 3. e3
 A44	Benoni Defense: Old Benoni	1. d4 c5 2. d5 e5
 A44	Benoni Defense: Semi-Benoni	1. d4 c5 2. d5 e5 3. e4 d6
 A45	Amazon Attack: Siberian Attack	1. d4 Nf6 2. Nc3 d5 3. Qd3
-A45	Bronstein Gambit	1. d4 Nf6 2. g4
 A45	Canard Opening	1. d4 Nf6 2. f4
 A45	Indian Defense	1. d4 Nf6
 A45	Indian Defense: Gedult Attack, Gedult Attack	1. d4 Nf6 2. f3 d5 3. g4
-A45	Indian Defense: Gibbins-Wiedenhagen Gambit Accepted	1. d4 Nf6 2. g4 Nxg4
-A45	Indian Defense: Gibbins-Wiedenhagen Gambit, Maltese Falcon	1. d4 Nf6 2. g4 Nxg4 3. f3 Nf6 4. e4
-A45	Indian Defense: Gibbins-Wiedenhagen Gambit, Oshima Defense	1. d4 Nf6 2. g4 e5
-A45	Indian Defense: Gibbins-Wiedenhagen Gambit, Stummer Gambit	1. d4 Nf6 2. g4 Nxg4 3. e4 d6 4. Be2 Nf6 5. Nc3
+A45	Indian Defense: Gibbins-Weidenhagen Gambit	1. d4 Nf6 2. g4
+A45	Indian Defense: Gibbins-Weidenhagen Gambit Accepted	1. d4 Nf6 2. g4 Nxg4
+A45	Indian Defense: Gibbins-Weidenhagen Gambit, Maltese Falcon	1. d4 Nf6 2. g4 Nxg4 3. f3 Nf6 4. e4
+A45	Indian Defense: Gibbins-Weidenhagen Gambit, Oshima Defense	1. d4 Nf6 2. g4 e5
+A45	Indian Defense: Gibbins-Weidenhagen Gambit, Stummer Gambit	1. d4 Nf6 2. g4 Nxg4 3. e4 d6 4. Be2 Nf6 5. Nc3
 A45	Indian Defense: Lazard Gambit	1. d4 Nf6 2. Nd2 e5
 A45	Indian Defense: Maddigan Gambit	1. d4 Nf6 2. Nc3 e5
 A45	Indian Defense: Omega Gambit	1. d4 Nf6 2. e4

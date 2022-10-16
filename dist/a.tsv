@@ -6,6 +6,7 @@ A00	Amar Opening: Paris Gambit	1. Nh3 d5 2. g3 e5 3. f4	g1h3 d7d5 g2g3 e7e5 f2f4
 A00	Amsterdam Attack	1. e3 e5 2. c4 d6 3. Nc3 Nc6 4. b3 Nf6	e2e3 e7e5 c2c4 d7d6 b1c3 b8c6 b2b3 g8f6	r1bqkb1r/ppp2ppp/2np1n2/4p3/2P5/1PN1P3/P2P1PPP/R1BQKBNR w KQkq -
 A00	Anderssen's Opening	1. a3	a2a3	rnbqkbnr/pppppppp/8/8/8/P7/1PPPPPPP/RNBQKBNR b KQkq -
 A00	Anderssen's Opening: Polish Gambit	1. a3 a5 2. b4	a2a3 a7a5 b2b4	rnbqkbnr/1ppppppp/8/p7/1P6/P7/2PPPPPP/RNBQKBNR b KQkq -
+A00	Barnes Opening	1. f3	f2f3	rnbqkbnr/pppppppp/8/8/8/5P2/PPPPP1PP/RNBQKBNR b KQkq -
 A00	Barnes Opening: Fool's Mate	1. f3 e5 2. g4 Qh4#	f2f3 e7e5 g2g4 d8h4	rnb1kbnr/pppp1ppp/8/4p3/6Pq/5P2/PPPPP2P/RNBQKBNR w KQkq -
 A00	Barnes Opening: Gedult Gambit	1. f3 d5 2. e4 g6 3. d4 dxe4 4. c3	f2f3 d7d5 e2e4 g7g6 d2d4 d5e4 c2c3	rnbqkbnr/ppp1pp1p/6p1/8/3Pp3/2P2P2/PP4PP/RNBQKBNR b KQkq -
 A00	Barnes Opening: Gedult Gambit	1. f3 f5 2. e4 fxe4 3. Nc3	f2f3 f7f5 e2e4 f5e4 b1c3	rnbqkbnr/ppppp1pp/8/8/4p3/2N2P2/PPPP2PP/R1BQKBNR b KQkq -
@@ -16,7 +17,6 @@ A00	Crab Opening	1. a4 e5 2. h4	a2a4 e7e5 h2h4	rnbqkbnr/pppp1ppp/8/4p3/P6P/8/1PP
 A00	Creepy Crawly Formation: Classical Defense	1. h3 d5 2. a3 e5	h2h3 d7d5 a2a3 e7e5	rnbqkbnr/ppp2ppp/8/3pp3/8/P6P/1PPPPPP1/RNBQKBNR w KQkq -
 A00	Formation: Hippopotamus Attack	1. a3 e5 2. b3 d5 3. c3 Nf6 4. d3 Nc6 5. e3 Bd6 6. f3 O-O 7. g3	a2a3 e7e5 b2b3 d7d5 c2c3 g8f6 d2d3 b8c6 e2e3 f8d6 f2f3 e8g8 g2g3	r1bq1rk1/ppp2ppp/2nb1n2/3pp3/8/PPPPPPP1/7P/RNBQKBNR b KQ -
 A00	Formation: Shy Attack	1. a3 e5 2. g3 d5 3. Bg2 Nf6 4. d3 Nc6 5. Nd2 Bd6 6. e3 O-O 7. h3	a2a3 e7e5 g2g3 d7d5 f1g2 g8f6 d2d3 b8c6 b1d2 f8d6 e2e3 e8g8 h2h3	r1bq1rk1/ppp2ppp/2nb1n2/3pp3/8/P2PP1PP/1PPN1PB1/R1BQK1NR b KQ -
-A00	Gedult's Opening	1. f3	f2f3	rnbqkbnr/pppppppp/8/8/8/5P2/PPPPP1PP/RNBQKBNR b KQkq -
 A00	Global Opening	1. h3 e5 2. a3	h2h3 e7e5 a2a3	rnbqkbnr/pppp1ppp/8/4p3/8/P6P/1PPPPPP1/RNBQKBNR b KQkq -
 A00	Grob Opening	1. g4	g2g4	rnbqkbnr/pppppppp/8/8/6P1/8/PPPPPP1P/RNBQKBNR b KQkq -
 A00	Grob Opening: Alessi Gambit	1. g4 f5	g2g4 f7f5	rnbqkbnr/ppppp1pp/8/5p2/6P1/8/PPPPPP1P/RNBQKBNR w KQkq -
@@ -155,6 +155,7 @@ A01	Nimzo-Larsen Attack: Symmetrical Variation	1. b3 b6	b2b3 b7b6	rnbqkbnr/p1ppp
 A02	Bird Opening	1. f4	f2f4	rnbqkbnr/pppppppp/8/8/5P2/8/PPPPP1PP/RNBQKBNR b KQkq -
 A02	Bird Opening	1. f4 Nf6	f2f4 g8f6	rnbqkb1r/pppppppp/5n2/8/5P2/8/PPPPP1PP/RNBQKBNR w KQkq -
 A02	Bird Opening: Batavo-Polish Attack	1. f4 Nf6 2. Nf3 g6 3. b4	f2f4 g8f6 g1f3 g7g6 b2b4	rnbqkb1r/pppppp1p/5np1/8/1P3P2/5N2/P1PPP1PP/RNBQKB1R b KQkq -
+A02	Bird Opening: Double Duck Formation	1. f4 f5 2. d4 d5	f2f4 f7f5 d2d4 d7d5	rnbqkbnr/ppp1p1pp/8/3p1p2/3P1P2/8/PPP1P1PP/RNBQKBNR w KQkq -
 A02	Bird Opening: From's Gambit	1. f4 e5	f2f4 e7e5	rnbqkbnr/pppp1ppp/8/4p3/5P2/8/PPPPP1PP/RNBQKBNR w KQkq -
 A02	Bird Opening: From's Gambit, Bahr Gambit	1. f4 e5 2. Nc3	f2f4 e7e5 b1c3	rnbqkbnr/pppp1ppp/8/4p3/5P2/2N5/PPPPP1PP/R1BQKBNR b KQkq -
 A02	Bird Opening: From's Gambit, Langheld Gambit	1. f4 e5 2. fxe5 d6 3. exd6 Nf6	f2f4 e7e5 f4e5 d7d6 e5d6 g8f6	rnbqkb1r/ppp2ppp/3P1n2/8/8/8/PPPPP1PP/RNBQKBNR w KQkq -
@@ -171,7 +172,6 @@ A02	Bird Opening: Schlechter Gambit	1. f4 e5 2. fxe5 Nc6	f2f4 e7e5 f4e5 b8c6	r1b
 A02	Bird Opening: Siegener Gambit	1. f4 e5 2. d4 exd4 3. Nf3 c5 4. c3	f2f4 e7e5 d2d4 e5d4 g1f3 c7c5 c2c3	rnbqkbnr/pp1p1ppp/8/2p5/3p1P2/2P2N2/PP2P1PP/RNBQKB1R b KQkq -
 A02	Bird Opening: Swiss Gambit	1. f4 f5 2. e4 fxe4 3. Nc3 Nf6 4. g4	f2f4 f7f5 e2e4 f5e4 b1c3 g8f6 g2g4	rnbqkb1r/ppppp1pp/5n2/8/4pPP1/2N5/PPPP3P/R1BQKBNR b KQkq -
 A02	Bird Opening: Wagner-Zwitersch Gambit	1. f4 f5 2. e4	f2f4 f7f5 e2e4	rnbqkbnr/ppppp1pp/8/5p2/4PP2/8/PPPP2PP/RNBQKBNR b KQkq -
-A02	System: Double Duck Formation	1. f4 f5 2. d4 d5	f2f4 f7f5 d2d4 d7d5	rnbqkbnr/ppp1p1pp/8/3p1p2/3P1P2/8/PPP1P1PP/RNBQKBNR w KQkq -
 A03	Bird Opening: Dutch Variation	1. f4 d5	f2f4 d7d5	rnbqkbnr/ppp1pppp/8/3p4/5P2/8/PPPPP1PP/RNBQKBNR w KQkq -
 A03	Bird Opening: Dutch Variation, Dudweiler Gambit	1. f4 d5 2. g4	f2f4 d7d5 g2g4	rnbqkbnr/ppp1pppp/8/3p4/5PP1/8/PPPPP2P/RNBQKBNR b KQkq -
 A03	Bird Opening: Lasker Variation	1. f4 d5 2. Nf3 Nf6 3. e3 c5	f2f4 d7d5 g1f3 g8f6 e2e3 c7c5	rnbqkb1r/pp2pppp/5n2/2pp4/5P2/4PN2/PPPP2PP/RNBQKB1R w KQkq -
@@ -437,7 +437,6 @@ A40	Mikenas Defense	1. d4 Nc6	d2d4 b8c6	r1bqkbnr/pppppppp/2n5/8/3P4/8/PPP1PPPP/R
 A40	Mikenas Defense: Cannstatter Variation	1. d4 Nc6 2. c4 e5 3. d5 Nd4	d2d4 b8c6 c2c4 e7e5 d4d5 c6d4	r1bqkbnr/pppp1ppp/8/3Pp3/2Pn4/8/PP2PPPP/RNBQKBNR w KQkq -
 A40	Mikenas Defense: Lithuanian Variation	1. d4 Nc6 2. c4 e5 3. d5 Nce7	d2d4 b8c6 c2c4 e7e5 d4d5 c6e7	r1bqkbnr/ppppnppp/8/3Pp3/2P5/8/PP2PPPP/RNBQKBNR w KQkq -
 A40	Mikenas Defense: Pozarek Gambit	1. d4 Nc6 2. c4 e5 3. dxe5 Nxe5 4. Nc3 Nxc4	d2d4 b8c6 c2c4 e7e5 d4e5 c6e5 b1c3 e5c4	r1bqkbnr/pppp1ppp/8/8/2n5/2N5/PP2PPPP/R1BQKBNR w KQkq -
-A40	Modern Defense	1. d4 g6	d2d4 g7g6	rnbqkbnr/pppppp1p/6p1/8/3P4/8/PPP1PPPP/RNBQKBNR w KQkq -
 A40	Modern Defense: Beefeater Variation	1. d4 g6 2. c4 Bg7 3. Nc3 c5 4. d5 Bxc3+ 5. bxc3 f5	d2d4 g7g6 c2c4 f8g7 b1c3 c7c5 d4d5 g7c3 b2c3 f7f5	rnbqk1nr/pp1pp2p/6p1/2pP1p2/2P5/2P5/P3PPPP/R1BQKBNR w KQkq -
 A40	Modern Defense: Lizard Defense, Pirc-Diemer Gambit	1. d4 g6 2. h4 Nf6 3. h5	d2d4 g7g6 h2h4 g8f6 h4h5	rnbqkb1r/pppppp1p/5np1/7P/3P4/8/PPP1PPP1/RNBQKBNR b KQkq -
 A40	Montevideo Defense	1. d4 Nc6 2. d5 Nb8	d2d4 b8c6 d4d5 c6b8	rnbqkbnr/pppppppp/8/3P4/8/8/PPP1PPPP/RNBQKBNR w KQkq -
@@ -451,15 +450,16 @@ A40	Pterodactyl Defense: Fianchetto, Queen Pterodactyl	1. d4 g6 2. Nf3 Bg7 3. g3
 A40	Pterodactyl Defense: Queen Pterodactyl, Quiet Line	1. d4 g6 2. c4 Bg7 3. Nc3 c5 4. e3	d2d4 g7g6 c2c4 f8g7 b1c3 c7c5 e2e3	rnbqk1nr/pp1pppbp/6p1/2p5/2PP4/2N1P3/PP3PPP/R1BQKBNR b KQkq -
 A40	Queen's Pawn Game	1. d4	d2d4	rnbqkbnr/pppppppp/8/8/3P4/8/PPP1PPPP/RNBQKBNR b KQkq -
 A40	Queen's Pawn Game: Anglo-Slav Opening	1. d4 c6 2. c4 d6	d2d4 c7c6 c2c4 d7d6	rnbqkbnr/pp2pppp/2pp4/8/2PP4/8/PP2PPPP/RNBQKBNR w KQkq -
+A40	Queen's Pawn Game: Modern Defense	1. d4 g6	d2d4 g7g6	rnbqkbnr/pppppp1p/6p1/8/3P4/8/PPP1PPPP/RNBQKBNR w KQkq -
 A40	Slav Indian: Kudischewitsch Gambit	1. d4 c6 2. Nf3 Nf6 3. c4 b5	d2d4 c7c6 g1f3 g8f6 c2c4 b7b5	rnbqkb1r/p2ppppp/2p2n2/1p6/2PP4/5N2/PP2PPPP/RNBQKB1R w KQkq -
 A40	Zaire Defense	1. d4 Nc6 2. d5 Nb8 3. e4 Nf6 4. e5 Ng8	d2d4 b8c6 d4d5 c6b8 e2e4 g8f6 e4e5 f6g8	rnbqkbnr/pppppppp/8/3PP3/8/8/PPP2PPP/RNBQKBNR w KQkq -
-A41	English Rat: Pounds Gambit	1. d4 d6 2. c4 e5 3. dxe5 Be6	d2d4 d7d6 c2c4 e7e5 d4e5 c8e6	rn1qkbnr/ppp2ppp/3pb3/4P3/2P5/8/PP2PPPP/RNBQKBNR w KQkq -
 A41	Modern Defense	1. d4 g6 2. c4 Bg7 3. Nc3 d6	d2d4 g7g6 c2c4 f8g7 b1c3 d7d6	rnbqk1nr/ppp1ppbp/3p2p1/8/2PP4/2N5/PP2PPPP/R1BQKBNR w KQkq -
 A41	Modern Defense: Neo-Modern Defense	1. d4 g6 2. c4 Bg7 3. e4 e5	d2d4 g7g6 c2c4 f8g7 e2e4 e7e5	rnbqk1nr/pppp1pbp/6p1/4p3/2PPP3/8/PP3PPP/RNBQKBNR w KQkq -
 A41	Old Indian Defense	1. d4 d6 2. c4	d2d4 d7d6 c2c4	rnbqkbnr/ppp1pppp/3p4/8/2PP4/8/PP2PPPP/RNBQKBNR b KQkq -
 A41	Queen's Pawn Game	1. d4 d6	d2d4 d7d6	rnbqkbnr/ppp1pppp/3p4/8/3P4/8/PPP1PPPP/RNBQKBNR w KQkq -
 A41	Rat Defense: English Rat	1. d4 d6 2. c4 e5	d2d4 d7d6 c2c4 e7e5	rnbqkbnr/ppp2ppp/3p4/4p3/2PP4/8/PP2PPPP/RNBQKBNR w KQkq -
 A41	Rat Defense: English Rat, Lisbon Gambit	1. d4 d6 2. c4 e5 3. dxe5 Nc6	d2d4 d7d6 c2c4 e7e5 d4e5 b8c6	r1bqkbnr/ppp2ppp/2np4/4P3/2P5/8/PP2PPPP/RNBQKBNR w KQkq -
+A41	Rat Defense: English Rat, Pounds Gambit	1. d4 d6 2. c4 e5 3. dxe5 Be6	d2d4 d7d6 c2c4 e7e5 d4e5 c8e6	rn1qkbnr/ppp2ppp/3pb3/4P3/2P5/8/PP2PPPP/RNBQKBNR w KQkq -
 A41	Robatsch Defense	1. d4 d6 2. Nf3 g6 3. c4 Bg7 4. e4 Bg4	d2d4 d7d6 g1f3 g7g6 c2c4 f8g7 e2e4 c8g4	rn1qk1nr/ppp1ppbp/3p2p1/8/2PPP1b1/5N2/PP3PPP/RNBQKB1R w KQkq -
 A41	Wade Defense	1. d4 d6 2. Nf3 Bg4	d2d4 d7d6 g1f3 c8g4	rn1qkbnr/ppp1pppp/3p4/8/3P2b1/5N2/PPP1PPPP/RNBQKB1R w KQkq -
 A41	Zukertort Opening: Wade Defense, Chigorin Plan	1. d4 d6 2. Nf3 Bg4 3. c4 Nd7 4. Qb3 Rb8	d2d4 d7d6 g1f3 c8g4 c2c4 b8d7 d1b3 a8b8	1r1qkbnr/pppnpppp/3p4/8/2PP2b1/1Q3N2/PP2PPPP/RNB1KB1R w KQk -
@@ -492,14 +492,14 @@ A43	Queen's Pawn Game: Liedmann Gambit	1. d4 c5 2. c4 cxd4 3. e3	d2d4 c7c5 c2c4 
 A44	Benoni Defense: Old Benoni	1. d4 c5 2. d5 e5	d2d4 c7c5 d4d5 e7e5	rnbqkbnr/pp1p1ppp/8/2pPp3/8/8/PPP1PPPP/RNBQKBNR w KQkq e6
 A44	Benoni Defense: Semi-Benoni	1. d4 c5 2. d5 e5 3. e4 d6	d2d4 c7c5 d4d5 e7e5 e2e4 d7d6	rnbqkbnr/pp3ppp/3p4/2pPp3/4P3/8/PPP2PPP/RNBQKBNR w KQkq -
 A45	Amazon Attack: Siberian Attack	1. d4 Nf6 2. Nc3 d5 3. Qd3	d2d4 g8f6 b1c3 d7d5 d1d3	rnbqkb1r/ppp1pppp/5n2/3p4/3P4/2NQ4/PPP1PPPP/R1B1KBNR b KQkq -
-A45	Bronstein Gambit	1. d4 Nf6 2. g4	d2d4 g8f6 g2g4	rnbqkb1r/pppppppp/5n2/8/3P2P1/8/PPP1PP1P/RNBQKBNR b KQkq -
 A45	Canard Opening	1. d4 Nf6 2. f4	d2d4 g8f6 f2f4	rnbqkb1r/pppppppp/5n2/8/3P1P2/8/PPP1P1PP/RNBQKBNR b KQkq -
 A45	Indian Defense	1. d4 Nf6	d2d4 g8f6	rnbqkb1r/pppppppp/5n2/8/3P4/8/PPP1PPPP/RNBQKBNR w KQkq -
 A45	Indian Defense: Gedult Attack, Gedult Attack	1. d4 Nf6 2. f3 d5 3. g4	d2d4 g8f6 f2f3 d7d5 g2g4	rnbqkb1r/ppp1pppp/5n2/3p4/3P2P1/5P2/PPP1P2P/RNBQKBNR b KQkq -
-A45	Indian Defense: Gibbins-Wiedenhagen Gambit Accepted	1. d4 Nf6 2. g4 Nxg4	d2d4 g8f6 g2g4 f6g4	rnbqkb1r/pppppppp/8/8/3P2n1/8/PPP1PP1P/RNBQKBNR w KQkq -
-A45	Indian Defense: Gibbins-Wiedenhagen Gambit, Maltese Falcon	1. d4 Nf6 2. g4 Nxg4 3. f3 Nf6 4. e4	d2d4 g8f6 g2g4 f6g4 f2f3 g4f6 e2e4	rnbqkb1r/pppppppp/5n2/8/3PP3/5P2/PPP4P/RNBQKBNR b KQkq -
-A45	Indian Defense: Gibbins-Wiedenhagen Gambit, Oshima Defense	1. d4 Nf6 2. g4 e5	d2d4 g8f6 g2g4 e7e5	rnbqkb1r/pppp1ppp/5n2/4p3/3P2P1/8/PPP1PP1P/RNBQKBNR w KQkq -
-A45	Indian Defense: Gibbins-Wiedenhagen Gambit, Stummer Gambit	1. d4 Nf6 2. g4 Nxg4 3. e4 d6 4. Be2 Nf6 5. Nc3	d2d4 g8f6 g2g4 f6g4 e2e4 d7d6 f1e2 g4f6 b1c3	rnbqkb1r/ppp1pppp/3p1n2/8/3PP3/2N5/PPP1BP1P/R1BQK1NR b KQkq -
+A45	Indian Defense: Gibbins-Weidenhagen Gambit	1. d4 Nf6 2. g4	d2d4 g8f6 g2g4	rnbqkb1r/pppppppp/5n2/8/3P2P1/8/PPP1PP1P/RNBQKBNR b KQkq -
+A45	Indian Defense: Gibbins-Weidenhagen Gambit Accepted	1. d4 Nf6 2. g4 Nxg4	d2d4 g8f6 g2g4 f6g4	rnbqkb1r/pppppppp/8/8/3P2n1/8/PPP1PP1P/RNBQKBNR w KQkq -
+A45	Indian Defense: Gibbins-Weidenhagen Gambit, Maltese Falcon	1. d4 Nf6 2. g4 Nxg4 3. f3 Nf6 4. e4	d2d4 g8f6 g2g4 f6g4 f2f3 g4f6 e2e4	rnbqkb1r/pppppppp/5n2/8/3PP3/5P2/PPP4P/RNBQKBNR b KQkq -
+A45	Indian Defense: Gibbins-Weidenhagen Gambit, Oshima Defense	1. d4 Nf6 2. g4 e5	d2d4 g8f6 g2g4 e7e5	rnbqkb1r/pppp1ppp/5n2/4p3/3P2P1/8/PPP1PP1P/RNBQKBNR w KQkq -
+A45	Indian Defense: Gibbins-Weidenhagen Gambit, Stummer Gambit	1. d4 Nf6 2. g4 Nxg4 3. e4 d6 4. Be2 Nf6 5. Nc3	d2d4 g8f6 g2g4 f6g4 e2e4 d7d6 f1e2 g4f6 b1c3	rnbqkb1r/ppp1pppp/3p1n2/8/3PP3/2N5/PPP1BP1P/R1BQK1NR b KQkq -
 A45	Indian Defense: Lazard Gambit	1. d4 Nf6 2. Nd2 e5	d2d4 g8f6 b1d2 e7e5	rnbqkb1r/pppp1ppp/5n2/4p3/3P4/8/PPPNPPPP/R1BQKBNR w KQkq -
 A45	Indian Defense: Maddigan Gambit	1. d4 Nf6 2. Nc3 e5	d2d4 g8f6 b1c3 e7e5	rnbqkb1r/pppp1ppp/5n2/4p3/3P4/2N5/PPP1PPPP/R1BQKBNR w KQkq -
 A45	Indian Defense: Omega Gambit	1. d4 Nf6 2. e4	d2d4 g8f6 e2e4	rnbqkb1r/pppppppp/5n2/8/3PP3/8/PPP2PPP/RNBQKBNR b KQkq -

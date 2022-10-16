@@ -3,7 +3,7 @@ B00	Barnes Defense	1. e4 f6	e2e4 f7f6	rnbqkbnr/ppppp1pp/5p2/8/4P3/8/PPPP1PPP/RNB
 B00	Borg Defense	1. e4 g5	e2e4 g7g5	rnbqkbnr/pppppp1p/8/6p1/4P3/8/PPPP1PPP/RNBQKBNR w KQkq -
 B00	Borg Defense: Borg Gambit	1. e4 g5 2. d4 Bg7	e2e4 g7g5 d2d4 f8g7	rnbqk1nr/ppppppbp/8/6p1/3PP3/8/PPP2PPP/RNBQKBNR w KQkq -
 B00	Borg Defense: Troon Gambit	1. e4 g5 2. d4 h6 3. h4 g4	e2e4 g7g5 d2d4 h7h6 h2h4 g5g4	rnbqkbnr/pppppp2/7p/8/3PP1pP/8/PPP2PP1/RNBQKBNR w KQkq -
-B00	Borg Opening: Zilbermints Gambit	1. e4 g5 2. d4 e5	e2e4 g7g5 d2d4 e7e5	rnbqkbnr/pppp1p1p/8/4p1p1/3PP3/8/PPP2PPP/RNBQKBNR w KQkq -
+B00	Borg Defense: Zilbermints Gambit	1. e4 g5 2. d4 e5	e2e4 g7g5 d2d4 e7e5	rnbqkbnr/pppp1p1p/8/4p1p1/3PP3/8/PPP2PPP/RNBQKBNR w KQkq -
 B00	Carr Defense	1. e4 h6	e2e4 h7h6	rnbqkbnr/ppppppp1/7p/8/4P3/8/PPPP1PPP/RNBQKBNR w KQkq -
 B00	Carr Defense: Zilbermints Gambit	1. e4 h6 2. d4 e5	e2e4 h7h6 d2d4 e7e5	rnbqkbnr/pppp1pp1/7p/4p3/3PP3/8/PPP2PPP/RNBQKBNR w KQkq -
 B00	Duras Gambit	1. e4 f5	e2e4 f7f5	rnbqkbnr/ppppp1pp/8/5p2/4P3/8/PPPP1PPP/RNBQKBNR w KQkq -
