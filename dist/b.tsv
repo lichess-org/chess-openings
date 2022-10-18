@@ -139,8 +139,8 @@ B02	Alekhine Defense: Spielmann Gambit	1. e4 Nf6 2. Nc3 d5 3. e5 Nfd7 4. e6	e2e4
 B02	Alekhine Defense: Steiner Variation	1. e4 Nf6 2. e5 Nd5 3. c4 Nb6 4. b3	e2e4 g8f6 e4e5 f6d5 c2c4 d5b6 b2b3	rnbqkb1r/pppppppp/1n6/4P3/2P5/1P6/P2P1PPP/RNBQKBNR b KQkq -
 B02	Alekhine Defense: Sämisch Attack	1. e4 Nf6 2. e5 Nd5 3. Nc3	e2e4 g8f6 e4e5 f6d5 b1c3	rnbqkb1r/pppppppp/8/3nP3/8/2N5/PPPP1PPP/R1BQKBNR b KQkq -
 B02	Alekhine Defense: The Squirrel	1. e4 Nf6 2. e5 Nd5 3. c4 Nf4	e2e4 g8f6 e4e5 f6d5 c2c4 d5f4	rnbqkb1r/pppppppp/8/4P3/2P2n2/8/PP1P1PPP/RNBQKBNR w KQkq -
-B02	Alekhine Defense: Two Pawn Attack	1. e4 Nf6 2. e5 Nd5 3. c4	e2e4 g8f6 e4e5 f6d5 c2c4	rnbqkb1r/pppppppp/8/3nP3/2P5/8/PP1P1PPP/RNBQKBNR b KQkq -
-B02	Alekhine Defense: Two Pawn Attack, Lasker Variation	1. e4 Nf6 2. e5 Nd5 3. c4 Nb6 4. c5	e2e4 g8f6 e4e5 f6d5 c2c4 d5b6 c4c5	rnbqkb1r/pppppppp/1n6/2P1P3/8/8/PP1P1PPP/RNBQKBNR b KQkq -
+B02	Alekhine Defense: Two Pawns Attack	1. e4 Nf6 2. e5 Nd5 3. c4	e2e4 g8f6 e4e5 f6d5 c2c4	rnbqkb1r/pppppppp/8/3nP3/2P5/8/PP1P1PPP/RNBQKBNR b KQkq -
+B02	Alekhine Defense: Two Pawns Attack, Lasker Variation	1. e4 Nf6 2. e5 Nd5 3. c4 Nb6 4. c5	e2e4 g8f6 e4e5 f6d5 c2c4 d5b6 c4c5	rnbqkb1r/pppppppp/1n6/2P1P3/8/8/PP1P1PPP/RNBQKBNR b KQkq -
 B02	Alekhine Defense: Two Pawns Attack, Mikenas Variation	1. e4 Nf6 2. e5 Nd5 3. c4 Nb6 4. c5 Nd5 5. Bc4 e6 6. Nc3 d6	e2e4 g8f6 e4e5 f6d5 c2c4 d5b6 c4c5 b6d5 f1c4 e7e6 b1c3 d7d6	rnbqkb1r/ppp2ppp/3pp3/2PnP3/2B5/2N5/PP1P1PPP/R1BQK1NR w KQkq -
 B02	Alekhine Defense: Welling Variation	1. e4 Nf6 2. e5 Nd5 3. b3	e2e4 g8f6 e4e5 f6d5 b2b3	rnbqkb1r/pppppppp/8/3nP3/8/1P6/P1PP1PPP/RNBQKBNR b KQkq -
 B03	Alekhine Defense	1. e4 Nf6 2. e5 Nd5 3. d4	e2e4 g8f6 e4e5 f6d5 d2d4	rnbqkb1r/pppppppp/8/3nP3/3P4/8/PPP2PPP/RNBQKBNR b KQkq -
