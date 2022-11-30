@@ -61,11 +61,11 @@ D00	Queen's Pawn Game: Morris Countergambit	1. d4 d5 2. Bf4 c5 3. e4
 D00	Queen's Pawn Game: Steinitz Countergambit	1. d4 d5 2. Bf4 c5
 D00	Queen's Pawn Game: Stonewall Attack	1. d4 d5 2. e3 Nf6 3. Bd3
 D00	Queen's Pawn Game: Zurich Gambit	1. d4 d5 2. g4
-D01	Queen's Pawn Game: Veresov Attack, Boyce Defense	1. d4 Nf6 2. Nc3 d5 3. Bg5 Ne4
-D01	Queen's Pawn Game: Veresov Attack, Richter Variation	1. d4 Nf6 2. Nc3 d5 3. Bg5 Bf5 4. f3
-D01	Queen's Pawn Game: Veresov Attack, Two Knights System	1. d4 Nf6 2. Nc3 d5 3. Bg5 Nbd7 4. Nf3
-D01	Queen's Pawn Game: Veresov Attack, Two Knights System, Grünfeld Defense	1. d4 Nf6 2. Nc3 d5 3. Bg5 Nbd7 4. Nf3 g6
-D01	Queen's Pawn Game: Veresov Attack, Veresov Variation	1. d4 Nf6 2. Nc3 d5 3. Bg5 Bf5 4. Bxf6
+D01	Richter-Veresov Attack: Boyce Defense	1. d4 Nf6 2. Nc3 d5 3. Bg5 Ne4
+D01	Richter-Veresov Attack: Richter Variation	1. d4 Nf6 2. Nc3 d5 3. Bg5 Bf5 4. f3
+D01	Richter-Veresov Attack: Two Knights System	1. d4 Nf6 2. Nc3 d5 3. Bg5 Nbd7 4. Nf3
+D01	Richter-Veresov Attack: Two Knights System, Grünfeld Defense	1. d4 Nf6 2. Nc3 d5 3. Bg5 Nbd7 4. Nf3 g6
+D01	Richter-Veresov Attack: Veresov Variation	1. d4 Nf6 2. Nc3 d5 3. Bg5 Bf5 4. Bxf6
 D01	Rapport-Jobava System	1. d4 d5 2. Nc3 Nf6 3. Bf4
 D01	Richter-Veresov Attack	1. d4 Nf6 2. Nc3 d5 3. Bg5
 D01	Richter-Veresov Attack	1. d4 Nf6 2. Nc3 d5 3. Bg5 Bf5
