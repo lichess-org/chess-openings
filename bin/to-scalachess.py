@@ -15,6 +15,8 @@ def main(argv):
     print("package chess")
     print("package opening")
     print()
+    print("import chess.format.Fen")
+    print()
     print("// Generated from https://github.com/lichess-org/chess-openings")
     print("// format: off")
     print(f"private[opening] object FullOpeningPart{name} {{")
@@ -24,7 +26,7 @@ def main(argv):
     for line in itertools.islice(open(argv[1]), 1, None):
         eco, name, pgn, uci, _ = line.split("\t")
         board = chess.pgn.read_game(io.StringIO(pgn), Visitor=chess.pgn.BoardBuilder)
-        print(f"""new FullOpening("{eco}", "{name}", "{board.epd()}", "{uci}", "{pgn}"),""")
+        print(f"""new FullOpening("{eco}", "{name}", Fen("{board.epd()}"), "{uci}", "{pgn}"),""")
 
     print("  )")
     print("}")
