@@ -12,24 +12,18 @@ def main(argv):
         if f"{prefix}.tsv" in argv[1]:
             name = prefix.upper()
 
-    print("package chess")
-    print("package opening")
-    print()
-    print("import chess.format.Fen")
+    print("package chess.opening")
     print()
     print("// Generated from https://github.com/lichess-org/chess-openings")
     print("// format: off")
-    print(f"private[opening] object FullOpeningPart{name} {{")
-    print()
-    print("  def db: Vector[FullOpening] = Vector(")
+    print(f"private[opening] def openingDbPart{name}: Vector[Opening] = Vector(")
 
     for line in itertools.islice(open(argv[1]), 1, None):
         eco, name, pgn, uci, _ = line.split("\t")
         board = chess.pgn.read_game(io.StringIO(pgn), Visitor=chess.pgn.BoardBuilder)
-        print(f"""new FullOpening("{eco}", "{name}", Fen("{board.epd()}"), "{uci}", "{pgn}"),""")
+        print(f"""Opening("{eco}", "{name}", "{board.epd()}", "{uci}", "{pgn}"),""")
 
-    print("  )")
-    print("}")
+    print(")")
 
 
 if __name__ == "__main__":
