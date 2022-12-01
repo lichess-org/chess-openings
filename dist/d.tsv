@@ -61,15 +61,15 @@ D00	Queen's Pawn Game: Morris Countergambit	1. d4 d5 2. Bf4 c5 3. e4	d2d4 d7d5 c
 D00	Queen's Pawn Game: Steinitz Countergambit	1. d4 d5 2. Bf4 c5	d2d4 d7d5 c1f4 c7c5	rnbqkbnr/pp2pppp/8/2pp4/3P1B2/8/PPP1PPPP/RN1QKBNR w KQkq -
 D00	Queen's Pawn Game: Stonewall Attack	1. d4 d5 2. e3 Nf6 3. Bd3	d2d4 d7d5 e2e3 g8f6 f1d3	rnbqkb1r/ppp1pppp/5n2/3p4/3P4/3BP3/PPP2PPP/RNBQK1NR b KQkq -
 D00	Queen's Pawn Game: Zurich Gambit	1. d4 d5 2. g4	d2d4 d7d5 g2g4	rnbqkbnr/ppp1pppp/8/3p4/3P2P1/8/PPP1PP1P/RNBQKBNR b KQkq -
-D01	Queen's Pawn Game: Veresov Attack, Boyce Defense	1. d4 Nf6 2. Nc3 d5 3. Bg5 Ne4	d2d4 g8f6 b1c3 d7d5 c1g5 f6e4	rnbqkb1r/ppp1pppp/8/3p2B1/3Pn3/2N5/PPP1PPPP/R2QKBNR w KQkq -
-D01	Queen's Pawn Game: Veresov Attack, Richter Variation	1. d4 Nf6 2. Nc3 d5 3. Bg5 Bf5 4. f3	d2d4 g8f6 b1c3 d7d5 c1g5 c8f5 f2f3	rn1qkb1r/ppp1pppp/5n2/3p1bB1/3P4/2N2P2/PPP1P1PP/R2QKBNR b KQkq -
-D01	Queen's Pawn Game: Veresov Attack, Two Knights System	1. d4 Nf6 2. Nc3 d5 3. Bg5 Nbd7 4. Nf3	d2d4 g8f6 b1c3 d7d5 c1g5 b8d7 g1f3	r1bqkb1r/pppnpppp/5n2/3p2B1/3P4/2N2N2/PPP1PPPP/R2QKB1R b KQkq -
-D01	Queen's Pawn Game: Veresov Attack, Two Knights System, Grünfeld Defense	1. d4 Nf6 2. Nc3 d5 3. Bg5 Nbd7 4. Nf3 g6	d2d4 g8f6 b1c3 d7d5 c1g5 b8d7 g1f3 g7g6	r1bqkb1r/pppnpp1p/5np1/3p2B1/3P4/2N2N2/PPP1PPPP/R2QKB1R w KQkq -
-D01	Queen's Pawn Game: Veresov Attack, Veresov Variation	1. d4 Nf6 2. Nc3 d5 3. Bg5 Bf5 4. Bxf6	d2d4 g8f6 b1c3 d7d5 c1g5 c8f5 g5f6	rn1qkb1r/ppp1pppp/5B2/3p1b2/3P4/2N5/PPP1PPPP/R2QKBNR b KQkq -
 D01	Rapport-Jobava System	1. d4 d5 2. Nc3 Nf6 3. Bf4	d2d4 d7d5 b1c3 g8f6 c1f4	rnbqkb1r/ppp1pppp/5n2/3p4/3P1B2/2N5/PPP1PPPP/R2QKBNR b KQkq -
 D01	Richter-Veresov Attack	1. d4 Nf6 2. Nc3 d5 3. Bg5	d2d4 g8f6 b1c3 d7d5 c1g5	rnbqkb1r/ppp1pppp/5n2/3p2B1/3P4/2N5/PPP1PPPP/R2QKBNR b KQkq -
 D01	Richter-Veresov Attack	1. d4 Nf6 2. Nc3 d5 3. Bg5 Bf5	d2d4 g8f6 b1c3 d7d5 c1g5 c8f5	rn1qkb1r/ppp1pppp/5n2/3p1bB1/3P4/2N5/PPP1PPPP/R2QKBNR w KQkq -
+D01	Richter-Veresov Attack: Boyce Defense	1. d4 Nf6 2. Nc3 d5 3. Bg5 Ne4	d2d4 g8f6 b1c3 d7d5 c1g5 f6e4	rnbqkb1r/ppp1pppp/8/3p2B1/3Pn3/2N5/PPP1PPPP/R2QKBNR w KQkq -
 D01	Richter-Veresov Attack: Malich Gambit	1. d4 Nf6 2. Nc3 d5 3. Bg5 c5 4. Bxf6 gxf6 5. e4 dxe4 6. d5	d2d4 g8f6 b1c3 d7d5 c1g5 c7c5 g5f6 g7f6 e2e4 d5e4 d4d5	rnbqkb1r/pp2pp1p/5p2/2pP4/4p3/2N5/PPP2PPP/R2QKBNR b KQkq -
+D01	Richter-Veresov Attack: Richter Variation	1. d4 Nf6 2. Nc3 d5 3. Bg5 Bf5 4. f3	d2d4 g8f6 b1c3 d7d5 c1g5 c8f5 f2f3	rn1qkb1r/ppp1pppp/5n2/3p1bB1/3P4/2N2P2/PPP1P1PP/R2QKBNR b KQkq -
+D01	Richter-Veresov Attack: Two Knights System	1. d4 Nf6 2. Nc3 d5 3. Bg5 Nbd7 4. Nf3	d2d4 g8f6 b1c3 d7d5 c1g5 b8d7 g1f3	r1bqkb1r/pppnpppp/5n2/3p2B1/3P4/2N2N2/PPP1PPPP/R2QKB1R b KQkq -
+D01	Richter-Veresov Attack: Two Knights System, Grünfeld Defense	1. d4 Nf6 2. Nc3 d5 3. Bg5 Nbd7 4. Nf3 g6	d2d4 g8f6 b1c3 d7d5 c1g5 b8d7 g1f3 g7g6	r1bqkb1r/pppnpp1p/5np1/3p2B1/3P4/2N2N2/PPP1PPPP/R2QKB1R w KQkq -
+D01	Richter-Veresov Attack: Veresov Variation	1. d4 Nf6 2. Nc3 d5 3. Bg5 Bf5 4. Bxf6	d2d4 g8f6 b1c3 d7d5 c1g5 c8f5 g5f6	rn1qkb1r/ppp1pppp/5B2/3p1b2/3P4/2N5/PPP1PPPP/R2QKBNR b KQkq -
 D02	London System: Poisoned Pawn Variation	1. d4 Nf6 2. Nf3 d5 3. Bf4 c5 4. e3 Qb6 5. Nc3	d2d4 g8f6 g1f3 d7d5 c1f4 c7c5 e2e3 d8b6 b1c3	rnb1kb1r/pp2pppp/1q3n2/2pp4/3P1B2/2N1PN2/PPP2PPP/R2QKB1R b KQkq -
 D02	Queen's Gambit Declined: Baltic Defense, Pseudo-Slav	1. d4 d5 2. Nf3 Bf5 3. c4 e6 4. Nc3 c6	d2d4 d7d5 g1f3 c8f5 c2c4 e7e6 b1c3 c7c6	rn1qkbnr/pp3ppp/2p1p3/3p1b2/2PP4/2N2N2/PP2PPPP/R1BQKB1R w KQkq -
 D02	Queen's Pawn Game: Anti-Torre	1. Nf3 d5 2. d4 Bg4	g1f3 d7d5 d2d4 c8g4	rn1qkbnr/ppp1pppp/8/3p4/3P2b1/5N2/PPP1PPPP/RNBQKB1R w KQkq -
