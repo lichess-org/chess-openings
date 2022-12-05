@@ -14,11 +14,11 @@ epd | | x | [EPD](https://www.chessprogramming.org/Extended_Position_Description
 To generate `dist/`, install Python, then `pip3 install chess` and run `make`.
 Or download from:
 
-* [a.tsv](https://lichess-org.github.io/chess-openings/a.tsv)
-* [b.tsv](https://lichess-org.github.io/chess-openings/b.tsv)
-* [c.tsv](https://lichess-org.github.io/chess-openings/c.tsv)
-* [d.tsv](https://lichess-org.github.io/chess-openings/d.tsv)
-* [e.tsv](https://lichess-org.github.io/chess-openings/e.tsv)
+* [`dist/a.tsv`](https://lichess-org.github.io/chess-openings/a.tsv)
+* [`dist/b.tsv`](https://lichess-org.github.io/chess-openings/b.tsv)
+* [`dist/c.tsv`](https://lichess-org.github.io/chess-openings/c.tsv)
+* [`dist/d.tsv`](https://lichess-org.github.io/chess-openings/d.tsv)
+* [`dist/e.tsv`](https://lichess-org.github.io/chess-openings/e.tsv)
 
 Contributing
 ------------
