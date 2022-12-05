@@ -7,7 +7,7 @@ D00	Blackmar-Diemer Gambit Declined: Brombacher Countergambit	1. d4 d5 2. e4 dxe
 D00	Blackmar-Diemer Gambit Declined: Elbert Countergambit	1. d4 d5 2. e4 dxe4 3. Nc3 Nf6 4. f3 e5	d2d4 d7d5 e2e4 d5e4 b1c3 g8f6 f2f3 e7e5	rnbqkb1r/ppp2ppp/5n2/4p3/3Pp3/2N2P2/PPP3PP/R1BQKBNR w KQkq -
 D00	Blackmar-Diemer Gambit Declined: Grosshans Defense	1. d4 d5 2. e4 dxe4 3. Nc3 Bd7	d2d4 d7d5 e2e4 d5e4 b1c3 c8d7	rn1qkbnr/pppbpppp/8/8/3Pp3/2N5/PPP2PPP/R1BQKBNR w KQkq -
 D00	Blackmar-Diemer Gambit Declined: Lamb Defense	1. d4 d5 2. e4 dxe4 3. Nc3 Nf6 4. f3 Nc6	d2d4 d7d5 e2e4 d5e4 b1c3 g8f6 f2f3 b8c6	r1bqkb1r/ppp1pppp/2n2n2/8/3Pp3/2N2P2/PPP3PP/R1BQKBNR w KQkq -
-D00	Blackmar-Diemer Gambit Declined: Langeheinecke Defense	1. d4 Nf6 2. Nc3 d5 3. e4 dxe4 4. f3 e3	d2d4 g8f6 b1c3 d7d5 e2e4 d5e4 f2f3 e4e3	rnbqkb1r/ppp1pppp/5n2/8/3P4/2N1pP2/PPP3PP/R1BQKBNR w KQkq -
+D00	Blackmar-Diemer Gambit Declined: Langeheinecke Defense	1. d4 d5 2. e4 dxe4 3. Nc3 Nf6 4. f3 e3	d2d4 d7d5 e2e4 d5e4 b1c3 g8f6 f2f3 e4e3	rnbqkb1r/ppp1pppp/5n2/8/3P4/2N1pP2/PPP3PP/R1BQKBNR w KQkq -
 D00	Blackmar-Diemer Gambit Declined: O'Kelly Defense	1. d4 d5 2. e4 dxe4 3. Nc3 Nf6 4. f3 c6	d2d4 d7d5 e2e4 d5e4 b1c3 g8f6 f2f3 c7c6	rnbqkb1r/pp2pppp/2p2n2/8/3Pp3/2N2P2/PPP3PP/R1BQKBNR w KQkq -
 D00	Blackmar-Diemer Gambit Declined: Weinsbach Declination	1. d4 d5 2. e4 dxe4 3. Nc3 Nf6 4. f3 e6	d2d4 d7d5 e2e4 d5e4 b1c3 g8f6 f2f3 e7e6	rnbqkb1r/ppp2ppp/4pn2/8/3Pp3/2N2P2/PPP3PP/R1BQKBNR w KQkq -
 D00	Blackmar-Diemer Gambit: Bogoljubow Defense	1. d4 d5 2. e4 dxe4 3. Nc3 Nf6 4. f3 exf3 5. Nxf3 g6	d2d4 d7d5 e2e4 d5e4 b1c3 g8f6 f2f3 e4f3 g1f3 g7g6	rnbqkb1r/ppp1pp1p/5np1/8/3P4/2N2N2/PPP3PP/R1BQKB1R w KQkq -
@@ -26,7 +26,7 @@ D00	Blackmar-Diemer Gambit: Lemberger Countergambit, Diemer Attack	1. d4 d5 2. e
 D00	Blackmar-Diemer Gambit: Lemberger Countergambit, Endgame Variation	1. d4 d5 2. e4 dxe4 3. Nc3 e5 4. dxe5	d2d4 d7d5 e2e4 d5e4 b1c3 e7e5 d4e5	rnbqkbnr/ppp2ppp/8/4P3/4p3/2N5/PPP2PPP/R1BQKBNR b KQkq -
 D00	Blackmar-Diemer Gambit: Lemberger Countergambit, Rassmussen Attack	1. d4 d5 2. e4 dxe4 3. Nc3 e5 4. Nge2	d2d4 d7d5 e2e4 d5e4 b1c3 e7e5 g1e2	rnbqkbnr/ppp2ppp/8/4p3/3Pp3/2N5/PPP1NPPP/R1BQKB1R b KQkq -
 D00	Blackmar-Diemer Gambit: Lemberger Countergambit, Simple Variation	1. d4 d5 2. e4 dxe4 3. Nc3 e5 4. Nxe4	d2d4 d7d5 e2e4 d5e4 b1c3 e7e5 c3e4	rnbqkbnr/ppp2ppp/8/4p3/3PN3/8/PPP2PPP/R1BQKBNR b KQkq -
-D00	Blackmar-Diemer Gambit: Lemberger Countergambit, Sneiders Attack	1. e4 d5 2. d4 dxe4 3. Nc3 e5 4. Qh5	e2e4 d7d5 d2d4 d5e4 b1c3 e7e5 d1h5	rnbqkbnr/ppp2ppp/8/4p2Q/3Pp3/2N5/PPP2PPP/R1B1KBNR b KQkq -
+D00	Blackmar-Diemer Gambit: Lemberger Countergambit, Sneiders Attack	1. d4 d5 2. e4 dxe4 3. Nc3 e5 4. Qh5	d2d4 d7d5 e2e4 d5e4 b1c3 e7e5 d1h5	rnbqkbnr/ppp2ppp/8/4p2Q/3Pp3/2N5/PPP2PPP/R1B1KBNR b KQkq -
 D00	Blackmar-Diemer Gambit: Netherlands Variation	1. d4 d5 2. e4 dxe4 3. Nc3 f5	d2d4 d7d5 e2e4 d5e4 b1c3 f7f5	rnbqkbnr/ppp1p1pp/8/5p2/3Pp3/2N5/PPP2PPP/R1BQKBNR w KQkq -
 D00	Blackmar-Diemer Gambit: Pietrowsky Defense	1. d4 d5 2. e4 dxe4 3. Nc3 Nf6 4. f3 exf3 5. Nxf3 Nc6	d2d4 d7d5 e2e4 d5e4 b1c3 g8f6 f2f3 e4f3 g1f3 b8c6	r1bqkb1r/ppp1pppp/2n2n2/8/3P4/2N2N2/PPP3PP/R1BQKB1R w KQkq -
 D00	Blackmar-Diemer Gambit: Rasa-Studier Gambit	1. d4 d5 2. e4 dxe4 3. Nc3 Nf6 4. Be3	d2d4 d7d5 e2e4 d5e4 b1c3 g8f6 c1e3	rnbqkb1r/ppp1pppp/5n2/8/3Pp3/2N1B3/PPP2PPP/R2QKBNR b KQkq -
