@@ -12,4 +12,3 @@ jobs:
         python-version: "3.10"
     - run: pip install -r bin/requirements.txt
     - run: make --always-make
-    - run: git diff --exit-code || (echo "::error::Files in dist/ out of sync. Run 'make' or let the repository maintainer do this." && false)
