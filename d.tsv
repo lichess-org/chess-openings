@@ -51,6 +51,10 @@ D00	Queen's Pawn Game	1. d4 d5
 D00	Queen's Pawn Game	1. d4 d5 2. e3
 D00	Queen's Pawn Game	1. d4 d5 2. e3 Nf6
 D00	Queen's Pawn Game: Accelerated London System	1. d4 d5 2. Bf4
+D00	Queen's Pawn Game: Accelerated London System, Steinitz Countergambit	1. d4 d5 2. Bf4 c5
+D00	Queen's Pawn Game: Accelerated London System, Steinitz Countergambit Accepted	1. d4 d5 2. Bf4 c5 3. dxc5
+D00	Queen's Pawn Game: Accelerated London System, Steinitz Countergambit, Morris Countergambit	1. d4 d5 2. Bf4 c5 3. e4
+D00	Queen's Pawn Game: Accelerated London System, Steinitz Countergambit, Morris Countergambit Accepted	1. d4 d5 2. Bf4 c5 3. e4 dxe4
 D00	Queen's Pawn Game: Chigorin Variation	1. d4 d5 2. Nc3
 D00	Queen's Pawn Game: Chigorin Variation, Alburt Defense	1. d4 d5 2. Nc3 Bf5
 D00	Queen's Pawn Game: Chigorin Variation, Anti-Veresov	1. d4 d5 2. Nc3 Bg4
@@ -62,8 +66,6 @@ D00	Queen's Pawn Game: Hübsch Gambit	1. d4 Nf6 2. Nc3 d5 3. e4
 D00	Queen's Pawn Game: Levitsky Attack	1. d4 d5 2. Bg5
 D00	Queen's Pawn Game: Levitsky Attack, Welling Variation	1. d4 d5 2. Bg5 Bg4
 D00	Queen's Pawn Game: Mason Attack	1. d4 d5 2. f4
-D00	Queen's Pawn Game: Morris Countergambit	1. d4 d5 2. Bf4 c5 3. e4
-D00	Queen's Pawn Game: Steinitz Countergambit	1. d4 d5 2. Bf4 c5
 D00	Queen's Pawn Game: Stonewall Attack	1. d4 d5 2. e3 Nf6 3. Bd3
 D00	Queen's Pawn Game: Zurich Gambit	1. d4 d5 2. g4
 D01	Rapport-Jobava System	1. d4 d5 2. Nc3 Nf6 3. Bf4
