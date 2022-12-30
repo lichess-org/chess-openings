@@ -12,13 +12,9 @@ uci | | x | Same moves as `pgn` in [UCI notation](https://backscattering.de/ches
 epd | | x | [EPD](https://www.chessprogramming.org/Extended_Position_Description) (FEN without move numbers) of the opening position, en passant field only if legal
 
 To generate `dist/`, install Python, then `pip3 install chess` and run `make`.
-Or download from:
-
-* [`dist/a.tsv`](https://lichess-org.github.io/chess-openings/a.tsv)
-* [`dist/b.tsv`](https://lichess-org.github.io/chess-openings/b.tsv)
-* [`dist/c.tsv`](https://lichess-org.github.io/chess-openings/c.tsv)
-* [`dist/d.tsv`](https://lichess-org.github.io/chess-openings/d.tsv)
-* [`dist/e.tsv`](https://lichess-org.github.io/chess-openings/e.tsv)
+Or select the latest
+[workflow run](https://github.com/lichess-org/chess-openings/actions) and
+download build artifacts.
 
 Contributing
 ------------
