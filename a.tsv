@@ -462,12 +462,12 @@ A41	Rat Defense: English Rat, Lisbon Gambit	1. d4 d6 2. c4 e5 3. dxe5 Nc6
 A41	Rat Defense: English Rat, Pounds Gambit	1. d4 d6 2. c4 e5 3. dxe5 Be6
 A41	Wade Defense	1. d4 d6 2. Nf3 Bg4
 A41	Zukertort Opening: Wade Defense, Chigorin Plan	1. d4 d6 2. Nf3 Bg4 3. c4 Nd7 4. Qb3 Rb8
+A42	Modern Defense: Averbakh System	1. e4 g6 2. d4 Bg7 3. c4 d6. 4. Nc3
+A42	Modern Defense: Averbakh System, Kotov Variation	1. e4 g6 2. d4 Bg7 3. c4 d6. 4. Nc3 Nc6
+A42	Modern Defense: Averbakh System, Randspringer Variation	1. e4 g6 2. d4 Bg7 3. c4 d6. 4. Nc3 f5
+A42	Modern Defense: Averbakh Variation, Pseudo-Sämisch	1. d4 g6 2. c4 Bg7 3. e4 d6 4. Be3 Nf6 5. f3
 A42	Pterodactyl Defense	1. Nf3 c5 2. c4 g6 3. d4 Bg7 4. e4 Qa5+ 5. Nc3 d6
 A42	Pterodactyl Defense: Central, Bogolubovia	1. d4 g6 2. c4 Bg7 3. e4 d6 4. Nc3 c5 5. Nge2 Qa5
-A42	Queen's Pawn Game: Modern Defense, Averbakh System	1. d4 g6 2. c4 Bg7 3. Nc3 d6 4. e4
-A42	Queen's Pawn Game: Modern Defense, Averbakh System, Kotov Variation	1. d4 g6 2. c4 Bg7 3. Nc3 d6 4. e4 Nc6
-A42	Queen's Pawn Game: Modern Defense, Averbakh System, Randspringer Variation	1. d4 g6 2. c4 Bg7 3. Nc3 d6 4. e4 f5
-A42	Queen's Pawn Game: Modern Defense, Averbakh Variation, Pseudo-Sämisch	1. d4 g6 2. c4 Bg7 3. e4 d6 4. Be3 Nf6 5. f3
 A43	Benoni Defense: Benoni Gambit Accepted	1. d4 c5 2. dxc5
 A43	Benoni Defense: Benoni Gambit, Schlenker Defense	1. d4 c5 2. dxc5 Na6
 A43	Benoni Defense: Benoni-Indian Defense	1. d4 c5 2. d5 Nf6
