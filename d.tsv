@@ -145,6 +145,7 @@ D10	Slav Defense	1. d4 d5 2. c4 c6 3. Nc3
 D10	Slav Defense	1. d4 d5 2. c4 c6 3. Nc3 dxc4
 D10	Slav Defense: Diemer Gambit	1. d4 d5 2. c4 c6 3. e4
 D10	Slav Defense: Exchange Variation	1. d4 d5 2. c4 c6 3. cxd5
+D10	Slav Defense: Exchange Variation, Boor Attack	1. d4 d5 2. c4 c6 3. cxd5 cxd5 4. Nc3 Nf6 5. f3
 D10	Slav Defense: Slav Gambit, Alekhine Attack	1. d4 d5 2. c4 c6 3. Nc3 dxc4 4. e4
 D10	Slav Defense: Winawer Countergambit	1. d4 d5 2. c4 c6 3. Nc3 e5
 D10	Slav Defense: Winawer Countergambit, Anti-Winawer Gambit	1. d4 d5 2. c4 c6 3. Nc3 e5 4. e4
