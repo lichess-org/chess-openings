@@ -1,4 +1,4 @@
-PYTHON = python3
+PYTHON = python
 
 all: dist/a.tsv dist/b.tsv dist/c.tsv dist/d.tsv dist/e.tsv
 
