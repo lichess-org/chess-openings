@@ -404,7 +404,6 @@ A40	Benoni Defense: Franco-Sicilian Hybrid	1. d4 e6 2. c4 c5 3. d5 exd5 4. cxd5 
 A40	Borg Defense: Borg Gambit	1. d4 g5
 A40	Colle System: Pterodactyl Variation	1. d4 g6 2. Nf3 Bg7 3. e3 c5 4. Bd3 Qa5+
 A40	Colle System: Siroccopteryx Variation	1. d4 g6 2. Nf3 Bg7 3. e3 c5 4. Bd3 cxd4 5. Nxd4 Qa5+
-A40	Dutch Defense: Senechaud Gambit	1. d4 e6 2. Bf4 f5 3. g4
 A40	Dutch Defense: Stonewall Variation, Modern Variation	1. d4 e6 2. Nf3 f5 3. g3 Nf6 4. Bg2 d5 5. O-O Bd6 6. c4 c6
 A40	English Defense	1. d4 b6
 A40	English Defense	1. d4 e6 2. c4 b6
@@ -651,6 +650,7 @@ A80	Dutch Defense: Manhattan Gambit, Anti-Modern	1. d4 f5 2. Qd3 d6 3. g4
 A80	Dutch Defense: Manhattan Gambit, Anti-Stonewall	1. d4 f5 2. Qd3 d5 3. g4
 A80	Dutch Defense: Omega-Isis Gambit	1. d4 f5 2. Nf3 e5
 A80	Dutch Defense: Raphael Variation	1. d4 f5 2. Nc3
+A80	Dutch Defense: Senechaud Gambit	1. d4 f5 2. Bf4 e6 3. g4
 A80	Dutch Defense: Spielmann Gambit	1. d4 f5 2. Nc3 Nf6 3. g4
 A80	Queen's Pawn Game: Veresov Attack, Dutch System	1. d4 f5 2. Nc3 d5
 A81	Dutch Defense: Blackburne Variation	1. d4 f5 2. g3 Nf6 3. Bg2 e6 4. Nh3
