@@ -404,7 +404,6 @@ A40	Benoni Defense: Franco-Sicilian Hybrid	1. d4 e6 2. c4 c5 3. d5 exd5 4. cxd5 
 A40	Borg Defense: Borg Gambit	1. d4 g5
 A40	Colle System: Pterodactyl Variation	1. d4 g6 2. Nf3 Bg7 3. e3 c5 4. Bd3 Qa5+
 A40	Colle System: Siroccopteryx Variation	1. d4 g6 2. Nf3 Bg7 3. e3 c5 4. Bd3 cxd4 5. Nxd4 Qa5+
-A40	Dutch Defense: Stonewall Variation, Modern Variation	1. d4 e6 2. Nf3 f5 3. g3 Nf6 4. Bg2 d5 5. O-O Bd6 6. c4 c6
 A40	English Defense	1. d4 b6
 A40	English Defense	1. d4 e6 2. c4 b6
 A40	English Defense: Eastbourne Gambit	1. d4 b6 2. c4 Bb7 3. Nc3 e5
@@ -686,6 +685,7 @@ A89	Dutch Defense: Leningrad Variation, Matulovic Variation	1. d4 f5 2. g3 Nf6 3
 A90	Dutch Defense: Classical Variation	1. d4 e6 2. c4 f5 3. g3 Nf6 4. Bg2
 A90	Dutch Defense: Nimzo-Dutch Variation	1. d4 e6 2. c4 f5 3. g3 Nf6 4. Bg2 Bb4+
 A90	Dutch Defense: Nimzo-Dutch Variation, Alekhine Variation	1. d4 e6 2. c4 f5 3. g3 Nf6 4. Bg2 Bb4+ 5. Bd2 Be7
+A90	Dutch Defense: Stonewall Variation, Modern Variation	1. d4 f5 2. c4 e6 3. Nf3 Nf6 4. g3 c6 5. Bg2 d5 6. O-O Bd6
 A91	Dutch Defense: Classical Variation	1. d4 e6 2. c4 f5 3. g3 Nf6 4. Bg2 Be7
 A91	Dutch Defense: Classical Variation, Blackburne Attack	1. d4 e6 2. c4 f5 3. g3 Nf6 4. Bg2 Be7 5. Nh3
 A92	Dutch Defense: Alekhine Variation	1. d4 e6 2. c4 f5 3. g3 Nf6 4. Bg2 Be7 5. Nf3 O-O 6. O-O Ne4
