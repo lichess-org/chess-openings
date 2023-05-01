@@ -404,8 +404,6 @@ A40	Benoni Defense: Franco-Sicilian Hybrid	1. d4 e6 2. c4 c5 3. d5 exd5 4. cxd5 
 A40	Borg Defense: Borg Gambit	1. d4 g5
 A40	Colle System: Pterodactyl Variation	1. d4 g6 2. Nf3 Bg7 3. e3 c5 4. Bd3 Qa5+
 A40	Colle System: Siroccopteryx Variation	1. d4 g6 2. Nf3 Bg7 3. e3 c5 4. Bd3 cxd4 5. Nxd4 Qa5+
-A40	Dutch Defense: Senechaud Gambit	1. d4 e6 2. Bf4 f5 3. g4
-A40	Dutch Defense: Stonewall Variation, Modern Variation	1. d4 e6 2. Nf3 f5 3. g3 Nf6 4. Bg2 d5 5. O-O Bd6 6. c4 c6
 A40	English Defense	1. d4 b6
 A40	English Defense	1. d4 e6 2. c4 b6
 A40	English Defense: Eastbourne Gambit	1. d4 b6 2. c4 Bb7 3. Nc3 e5
@@ -650,6 +648,7 @@ A80	Dutch Defense: Manhattan Gambit, Anti-Modern	1. d4 f5 2. Qd3 d6 3. g4
 A80	Dutch Defense: Manhattan Gambit, Anti-Stonewall	1. d4 f5 2. Qd3 d5 3. g4
 A80	Dutch Defense: Omega-Isis Gambit	1. d4 f5 2. Nf3 e5
 A80	Dutch Defense: Raphael Variation	1. d4 f5 2. Nc3
+A80	Dutch Defense: Senechaud Gambit	1. d4 f5 2. Bf4 e6 3. g4
 A80	Dutch Defense: Spielmann Gambit	1. d4 f5 2. Nc3 Nf6 3. g4
 A80	Queen's Pawn Game: Veresov Attack, Dutch System	1. d4 f5 2. Nc3 d5
 A81	Dutch Defense: Blackburne Variation	1. d4 f5 2. g3 Nf6 3. Bg2 e6 4. Nh3
@@ -671,34 +670,35 @@ A83	Dutch Defense: Staunton Gambit, Nimzowitsch Variation	1. d4 f5 2. e4 fxe4 3.
 A84	Dutch Defense	1. d4 f5 2. c4
 A84	Dutch Defense: Bellon Gambit	1. d4 f5 2. c4 e6 3. e4
 A84	Dutch Defense: Bladel Variation	1. d4 f5 2. c4 g6 3. Nc3 Nh6
-A84	Dutch Defense: Classical Variation	1. d4 e6 2. c4 f5
+A84	Dutch Defense: Classical Variation	1. d4 f5 2. c4 e6
 A84	Dutch Defense: Krause Variation	1. d4 f5 2. c4 Nf6 3. Nc3 d6 4. Nf3 Nc6
 A84	Dutch Defense: Normal Variation	1. d4 f5 2. c4 Nf6
 A84	Dutch Defense: Rubinstein Variation	1. d4 f5 2. c4 e6 3. Nc3
 A85	Dutch Defense: Queen's Knight Variation	1. d4 f5 2. c4 Nf6 3. Nc3
 A86	Dutch Defense: Fianchetto Variation	1. d4 f5 2. c4 Nf6 3. g3
-A86	Dutch Defense: Hort-Antoshin System	1. c4 f5 2. g3 Nf6 3. Bg2 d6 4. Nc3 c6 5. d4 Qc7
+A86	Dutch Defense: Hort-Antoshin System	1. d4 f5 2. c4 Nf6 3. g3 d6 4. Bg2 c6 5. Nc3 Qc7
 A86	Dutch Defense: Leningrad Variation	1. d4 f5 2. c4 Nf6 3. g3 g6
 A87	Dutch Defense: Leningrad Variation	1. d4 f5 2. c4 Nf6 3. g3 g6 4. Bg2 Bg7 5. Nf3
 A88	Dutch Defense: Leningrad Variation, Warsaw Variation	1. d4 f5 2. g3 Nf6 3. Bg2 g6 4. Nf3 Bg7 5. O-O O-O 6. c4 d6 7. Nc3 c6
 A89	Dutch Defense: Leningrad Variation, Matulovic Variation	1. d4 f5 2. g3 Nf6 3. Bg2 g6 4. Nf3 Bg7 5. O-O O-O 6. c4 d6 7. Nc3 Nc6
-A90	Dutch Defense: Classical Variation	1. d4 e6 2. c4 f5 3. g3 Nf6 4. Bg2
-A90	Dutch Defense: Nimzo-Dutch Variation	1. d4 e6 2. c4 f5 3. g3 Nf6 4. Bg2 Bb4+
-A90	Dutch Defense: Nimzo-Dutch Variation, Alekhine Variation	1. d4 e6 2. c4 f5 3. g3 Nf6 4. Bg2 Bb4+ 5. Bd2 Be7
-A91	Dutch Defense: Classical Variation	1. d4 e6 2. c4 f5 3. g3 Nf6 4. Bg2 Be7
-A91	Dutch Defense: Classical Variation, Blackburne Attack	1. d4 e6 2. c4 f5 3. g3 Nf6 4. Bg2 Be7 5. Nh3
-A92	Dutch Defense: Alekhine Variation	1. d4 e6 2. c4 f5 3. g3 Nf6 4. Bg2 Be7 5. Nf3 O-O 6. O-O Ne4
-A92	Dutch Defense: Classical Variation	1. d4 e6 2. c4 f5 3. g3 Nf6 4. Bg2 Be7 5. Nf3 O-O
-A92	Dutch Defense: Stonewall	1. d4 e6 2. Nf3 f5 3. g3 Nf6 4. Bg2 Be7 5. O-O O-O 6. c4 d5 7. Nc3
-A92	Dutch Defense: Stonewall Variation	1. d4 e6 2. c4 f5 3. g3 Nf6 4. Bg2 Be7 5. Nf3 d5 6. O-O O-O
-A93	Dutch Defense: Classical Variation, Stonewall Variation, Botvinnik Variation	1. d4 e6 2. c4 f5 3. g3 Nf6 4. Bg2 Be7 5. Nf3 d5 6. O-O O-O 7. b3
-A94	Dutch Defense: Classical Variation, Stonewall Variation	1. d4 e6 2. c4 f5 3. g3 Nf6 4. Bg2 Be7 5. Nf3 d5 6. O-O O-O 7. b3 c6 8. Ba3
-A95	Dutch Defense: Classical Variation, Stonewall Variation	1. d4 e6 2. c4 f5 3. g3 Nf6 4. Bg2 d5 5. Nf3 Be7 6. O-O O-O 7. Nc3 c6
-A95	Dutch Defense: Stonewall, Chekhover Variation	1. d4 f5 2. c4 Nf6 3. g3 e6 4. Bg2 Be7 5. Nf3 O-O 6. O-O d5 7. Nc3 c6 8. Qc2 Qe8 9. Bg5
-A96	Dutch Defense: Classical Variation	1. d4 e6 2. c4 f5 3. g3 Nf6 4. Bg2 Be7 5. Nf3 O-O 6. O-O d6
-A96	Dutch Defense: Classical Variation, Buenos Aires Variation	1. d4 e6 2. c4 f5 3. g3 Nf6 4. Bg2 Be7 5. Nf3 O-O 6. O-O d6 7. Nc3 a5
-A96	Dutch Defense: Classical Variation, Huisl Variation	1. d4 e6 2. c4 f5 3. g3 Nf6 4. Bg2 Be7 5. Nf3 O-O 6. O-O d6 7. Nc3 Ne4
-A97	Dutch Defense: Classical Variation, Ilyin-Zhenevsky Variation	1. d4 f5 2. Nf3 Nf6 3. g3 e6 4. Bg2 Be7 5. O-O O-O 6. c4 d6 7. Nc3 Qe8
-A97	Dutch Defense: Classical Variation, Ilyin-Zhenevsky Variation, Winter Variation	1. d4 f5 2. Nf3 Nf6 3. g3 e6 4. Bg2 Be7 5. O-O O-O 6. c4 d6 7. Nc3 Qe8 8. Re1
-A98	Dutch Defense: Classical Variation, Ilyin-Zhenevsky Variation, Alatortsev-Lisitsyn Line	1. d4 f5 2. Nf3 Nf6 3. g3 e6 4. Bg2 Be7 5. O-O O-O 6. c4 d6 7. Nc3 Qe8 8. Qc2
-A99	Dutch Defense: Classical Variation, Ilyin-Zhenevsky Variation, Modern Main Line	1. d4 e6 2. c4 f5 3. g3 Nf6 4. Bg2 Be7 5. Nf3 O-O 6. O-O d6 7. Nc3 Qe8 8. b3
+A90	Dutch Defense: Classical Variation	1. d4 f5 2. c4 Nf6 3. g3 e6 4. Bg2
+A90	Dutch Defense: Nimzo-Dutch Variation	1. d4 f5 2. c4 Nf6 3. g3 e6 4. Bg2 Bb4+
+A90	Dutch Defense: Nimzo-Dutch Variation, Alekhine Variation	1. d4 f5 2. c4 Nf6 3. g3 e6 4. Bg2 Bb4+ 5. Bd2 Be7
+A90	Dutch Defense: Stonewall Variation, Modern Variation	1. d4 f5 2. c4 e6 3. Nf3 Nf6 4. g3 c6 5. Bg2 d5 6. O-O Bd6
+A91	Dutch Defense: Classical Variation	1. d4 f5 2. c4 Nf6 3. g3 e6 4. Bg2 Be7
+A91	Dutch Defense: Classical Variation, Blackburne Attack	1. d4 f5 2. c4 Nf6 3. g3 e6 4. Bg2 Be7 5. Nh3
+A92	Dutch Defense: Alekhine Variation	1. d4 f5 2. c4 Nf6 3. g3 e6 4. Bg2 Be7 5. Nf3 O-O 6. O-O Ne4
+A92	Dutch Defense: Classical Variation	1. d4 f5 2. c4 Nf6 3. g3 e6 4. Bg2 Be7 5. Nf3 O-O
+A92	Dutch Defense: Stonewall Variation	1. d4 f5 2. c4 Nf6 3. g3 e6 4. Bg2 Be7 5. Nf3 O-O 6. O-O d5 7. Nc3
+A92	Dutch Defense: Stonewall Variation	1. d4 f5 2. c4 Nf6 3. g3 e6 4. Bg2 Be7 5. Nf3 O-O 6. O-O d5
+A93	Dutch Defense: Stonewall Variation, Botvinnik Variation	1. d4 f5 2. c4 Nf6 3. g3 e6 4. Bg2 Be7 5. Nf3 O-O 6. O-O d5 7. b3
+A94	Dutch Defense: Stonewall Variation	1. d4 f5 2. c4 Nf6 3. g3 e6 4. Bg2 Be7 5. Nf3 O-O 6. O-O d5 7. b3 c6 8. Ba3
+A95	Dutch Defense: Stonewall Variation	1. d4 f5 2. c4 Nf6 3. g3 e6 4. Bg2 Be7 5. Nf3 O-O 6. O-O d5 7. Nc3 c6
+A95	Dutch Defense: Stonewall Variation, Chekhover Variation	1. d4 f5 2. c4 Nf6 3. g3 e6 4. Bg2 Be7 5. Nf3 O-O 6. O-O d5 7. Nc3 c6 8. Qc2 Qe8 9. Bg5
+A96	Dutch Defense: Classical Variation	1. d4 f5 2. c4 Nf6 3. g3 e6 4. Bg2 Be7 5. Nf3 O-O 6. O-O d6
+A96	Dutch Defense: Classical Variation, Buenos Aires Variation	1. d4 f5 2. c4 Nf6 3. g3 e6 4. Bg2 Be7 5. Nf3 O-O 6. O-O d6 7. Nc3 a5
+A96	Dutch Defense: Classical Variation, Huisl Variation	1. d4 f5 2. c4 Nf6 3. g3 e6 4. Bg2 Be7 5. Nf3 O-O 6. O-O d6 7. Nc3 Ne4
+A97	Dutch Defense: Classical Variation, Ilyin-Zhenevsky Variation	1. d4 f5 2. c4 Nf6 3. g3 e6 4. Bg2 Be7 5. Nf3 O-O 6. O-O d6 7. Nc3 Qe8
+A97	Dutch Defense: Classical Variation, Ilyin-Zhenevsky Variation, Winter Variation	1. d4 f5 2. c4 Nf6 3. g3 e6 4. Bg2 Be7 5. Nf3 O-O 6. O-O d6 7. Nc3 Qe8 8. Re1
+A98	Dutch Defense: Classical Variation, Ilyin-Zhenevsky Variation, Alatortsev-Lisitsyn Line	1. d4 f5 2. c4 Nf6 3. g3 e6 4. Bg2 Be7 5. Nf3 O-O 6. O-O d6 7. Nc3 Qe8 8. Qc2
+A99	Dutch Defense: Classical Variation, Ilyin-Zhenevsky Variation, Modern Main Line	1. d4 f5 2. c4 Nf6 3. g3 e6 4. Bg2 Be7 5. Nf3 O-O 6. O-O d6 7. Nc3 Qe8 8. b3
