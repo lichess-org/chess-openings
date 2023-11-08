@@ -16,6 +16,19 @@ Or select the latest
 [workflow run](https://github.com/lichess-org/chess-openings/actions) and
 download build artifacts.
 
+Conventions
+-----------
+
+* Title case is used for opening names.
+* Names are structured like `Opening family: Variation, Subvariation, ...`,
+  e.g., `Sicilian Defense: Najdorf Variation, English Attack`.
+* The suggested way to classify games is to play moves backwards until
+  a named position is found. To make this work well with common transpositions,
+  multiple entries for a single opening may be added.
+* However, each name has a unique *shortest* line. If necessary,
+  a distinguishing move is appended, e.g.,
+  `King's Gambit Accepted: Schurig Gambit, with Bb5`.
+
 Contributing
 ------------
 
