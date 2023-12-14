@@ -292,25 +292,25 @@ A12	Réti Opening: Anglo-Slav Variation, Torre System	1. c4 Nf6 2. g3 c6 3. Nf3 
 A13	English Opening: Agincourt Defense	1. c4 e6
 A13	English Opening: Agincourt Defense	1. c4 e6 2. Nf3
 A13	English Opening: Agincourt Defense	1. c4 e6 2. Nf3 d5
-A13	English Opening: Agincourt Defense, Bogoljubov Defense	1. c4 e6 2. Nf3 Nf6 3. g3 d5 4. Bg2 Bd6
+A13	English Opening: Agincourt Defense, Bogoljubov Defense	1. c4 e6 2. Nf3 d5 3. g3 Nf6 4. Bg2 Bd6
 A13	English Opening: Agincourt Defense, Catalan Defense	1. c4 e6 2. Nf3 d5 3. g3 b6 4. Bg2 Bb7 5. O-O
 A13	English Opening: Agincourt Defense, Catalan Defense	1. c4 e6 2. Nf3 d5 3. g3 c5
 A13	English Opening: Agincourt Defense, Catalan Defense Accepted	1. c4 e6 2. Nf3 Nf6 3. g3 d5 4. Bg2 dxc4
 A13	English Opening: Agincourt Defense, Catalan Defense, Semi-Slav Defense	1. c4 e6 2. Nf3 Nf6 3. g3 d5 4. Bg2 c6
 A13	English Opening: Agincourt Defense, Kurajica Defense	1. c4 e6 2. Nf3 d5 3. g3 c6
-A13	English Opening: Agincourt Defense, Tarrasch Defense	1. c4 e6 2. Nf3 Nf6 3. g3 d5 4. b3 c5 5. Bg2 Nc6 6. O-O Be7
+A13	English Opening: Agincourt Defense, Tarrasch Defense	1. c4 e6 2. Nf3 d5 3. g3 Nf6 4. Bg2 c5 5. b3 Nc6 6. O-O Be7
 A13	English Opening: Agincourt Defense, Wimpy System	1. c4 e6 2. Nf3 Nf6 3. b3 d5 4. Bb2 c5 5. e3
 A13	English Opening: Neo-Catalan	1. c4 e6 2. Nf3 d5 3. g3 Nf6
 A13	English Opening: Neo-Catalan Declined	1. c4 e6 2. Nf3 d5 3. g3 Nf6 4. Bg2 Be7
-A13	English Opening: Romanishin Gambit	1. c4 e6 2. Nf3 Nf6 3. g3 a6 4. Bg2 b5
-A14	English Opening: Agincourt Defense, Keres Defense	1. c4 e6 2. Nf3 c5 3. Nc3 Nf6 4. g3 d5 5. cxd5 Nxd5 6. Bg2 Nc6 7. O-O Be7
-A14	English Opening: Agincourt Defense, Neo-Catalan Declined	1. c4 e6 2. Nf3 Nf6 3. g3 d5 4. Bg2 Be7 5. O-O
+A13	English Opening: Romanishin Gambit	1. c4 Nf6 2. Nf3 e6 3. g3 a6 4. Bg2 b5
+A14	English Opening: Agincourt Defense, Keres Defense	1. c4 e6 2. Nf3 d5 3. g3 Nf6 4. Bg2 Be7 5. O-O c5 6. cxd5 Nxd5 7. Nc3 Nc6
+A14	English Opening: Agincourt Defense, Neo-Catalan Declined	1. c4 e6 2. Nf3 d5 3. g3 Nf6 4. Bg2 Be7 5. O-O
 A14	Réti Opening: Anglo-Slav Variation, Bogoljubov Variation, Stonewall Line	1. Nf3 d5 2. c4 e6 3. g3 Nf6 4. Bg2 Be7 5. O-O O-O 6. b3 c6 7. Bb2
 A15	English Opening: Anglo-Indian Defense	1. c4 Nf6
-A15	English Opening: Anglo-Indian Defense, Anti-Anti-Grünfeld	1. c4 Nf6 2. Nf3 g6 3. Nc3 Bg7 4. e4
+A15	English Opening: Anglo-Indian Defense, Anti-Anti-Grünfeld	1. c4 Nf6 2. Nc3 g6 3. Nf3 Bg7 4. e4
 A15	English Opening: Anglo-Indian Defense, Grünfeld Formation	1. c4 Nf6 2. Nf3 g6 3. g3 d5
 A15	English Opening: Anglo-Indian Defense, King's Indian Formation	1. c4 Nf6 2. Nf3 g6
-A15	English Opening: Anglo-Indian Defense, King's Indian Formation, Double Fianchetto	1. c4 Nf6 2. Nf3 b6 3. g3 Bb7 4. Bg2 g6
+A15	English Opening: Anglo-Indian Defense, King's Indian Formation, Double Fianchetto	1. c4 Nf6 2. Nf3 g6 3. g3 b6 4. Bg2 Bb7
 A15	English Opening: Anglo-Indian Defense, King's Knight Variation	1. c4 Nf6 2. Nf3
 A15	English Opening: Anglo-Indian Defense, Old Indian Formation	1. c4 Nf6 2. Nf3 d6
 A15	English Opening: Anglo-Indian Defense, Queen's Indian Formation	1. c4 Nf6 2. Nf3 b6
@@ -321,13 +321,13 @@ A15	English Opening: Anglo-Indian Defense, Scandinavian Defense, Exchange Variat
 A15	English Opening: Anglo-Indian Defense, Slav Formation	1. c4 Nf6 2. Nf3 g6 3. g3 c6
 A15	English Orangutan	1. c4 Nf6 2. b4
 A16	English Opening: Anglo-Grünfeld Defense	1. c4 Nf6 2. Nc3 d5
-A16	English Opening: Anglo-Grünfeld Defense, Korchnoi Variation	1. c4 Nf6 2. Nf3 g6 3. Nc3 d5 4. cxd5 Nxd5 5. g3 Bg7 6. Bg2 e5
+A16	English Opening: Anglo-Grünfeld Defense, Korchnoi Variation	1. c4 Nf6 2. Nc3 d5 3. cxd5 Nxd5 4. Nf3 g6 5. g3 Bg7 6. Bg2 e5
 A16	English Opening: Anglo-Indian Defense, Anglo-Grünfeld Variation	1. c4 Nf6 2. Nc3 d5 3. cxd5 Nxd5 4. Nf3
 A16	English Opening: Anglo-Indian Defense, Anglo-Grünfeld Variation	1. c4 Nf6 2. Nc3 d5 3. cxd5 Nxd5 4. g3 g6 5. Bg2 Nb6
 A16	English Opening: Anglo-Indian Defense, Anglo-Grünfeld Variation	1. c4 Nf6 2. Nc3 d5 3. cxd5 Nxd5 4. g3 g6 5. Bg2 Nxc3
 A16	English Opening: Anglo-Indian Defense, Queen's Knight Variation	1. c4 Nf6 2. Nc3
-A17	English Opening: Anglo-Indian Defense, Hedgehog System	1. c4 e6 2. Nc3 Nf6
-A17	English Opening: Anglo-Indian Defense, Nimzo-English	1. c4 e6 2. Nf3 Nf6 3. Nc3 Bb4
+A17	English Opening: Anglo-Indian Defense, Hedgehog System	1. c4 Nf6 2. Nc3 e6
+A17	English Opening: Anglo-Indian Defense, Nimzo-English	1. c4 Nf6 2. Nc3 e6 3. Nf3 Bb4
 A17	English Opening: Anglo-Indian Defense, Queen's Indian Formation	1. c4 e6 2. Nc3 Nf6 3. Nf3 b6
 A17	English Opening: Anglo-Indian Defense, Queen's Indian Variation	1. c4 e6 2. Nc3 Nf6 3. Nf3 b6 4. e4 Bb7 5. Bd3
 A17	English Opening: Anglo-Indian Defense, Zvjaginsev-Krasenkow Attack	1. c4 e6 2. Nc3 Nf6 3. Nf3 Bb4 4. g4
