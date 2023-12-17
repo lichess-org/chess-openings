@@ -56,6 +56,7 @@ D00	Queen's Pawn Game: Accelerated London System, Steinitz Countergambit Accepte
 D00	Queen's Pawn Game: Accelerated London System, Steinitz Countergambit, Morris Countergambit	1. d4 d5 2. Bf4 c5 3. e4
 D00	Queen's Pawn Game: Accelerated London System, Steinitz Countergambit, Morris Countergambit Accepted	1. d4 d5 2. Bf4 c5 3. e4 dxe4
 D00	Queen's Pawn Game: Chigorin Variation	1. d4 d5 2. Nc3
+D00	Queen's Pawn Game: Chigorin Variation	1. d4 d5 2. Nc3 e6
 D00	Queen's Pawn Game: Chigorin Variation, Alburt Defense	1. d4 d5 2. Nc3 Bf5
 D00	Queen's Pawn Game: Chigorin Variation, Anti-Veresov	1. d4 d5 2. Nc3 Bg4
 D00	Queen's Pawn Game: Chigorin Variation, Fianchetto Defense	1. d4 g6 2. Nf3 Bg7 3. Nc3 d5
@@ -68,7 +69,10 @@ D00	Queen's Pawn Game: Levitsky Attack, Welling Variation	1. d4 d5 2. Bg5 Bg4
 D00	Queen's Pawn Game: Mason Attack	1. d4 d5 2. f4
 D00	Queen's Pawn Game: Stonewall Attack	1. d4 d5 2. e3 Nf6 3. Bd3
 D00	Queen's Pawn Game: Zurich Gambit	1. d4 d5 2. g4
+D01	Rapport-Jobava System	1. d4 d5 2. Nc3 e6 3. Bf4
 D01	Rapport-Jobava System	1. d4 d5 2. Nc3 Nf6 3. Bf4
+D01	Rapport-Jobava System	1. d4 d5 2. Nc3 Nf6 3. Bf4 e6
+D01	Rapport-Jobava System	1. d4 d5 2. Nc3 Nf6 3. Bf4 g6
 D01	Richter-Veresov Attack	1. d4 Nf6 2. Nc3 d5 3. Bg5
 D01	Richter-Veresov Attack	1. d4 Nf6 2. Nc3 d5 3. Bg5 Bf5
 D01	Richter-Veresov Attack: Boyce Defense	1. d4 Nf6 2. Nc3 d5 3. Bg5 Ne4
