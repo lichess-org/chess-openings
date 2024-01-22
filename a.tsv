@@ -552,7 +552,10 @@ A47	Pseudo Queen's Indian Defense	1. d4 Nf6 2. Nf3 b6
 A48	East Indian Defense	1. d4 Nf6 2. Nf3 g6
 A48	Indian Defense: Colle System, King's Indian Variation	1. d4 Nf6 2. Nf3 g6 3. e3 Bg7 4. Bd3 d6
 A48	London System	1. d4 Nf6 2. Nf3 g6 3. Bf4
+A48	Queen's Pawn Game: Barry Attack	1. d4 Nf6 2. Nf3 g6 3. Nc3 d5 4. Bf4
+A48	Queen's Pawn Game: Barry Attack	1. d4 Nf6 2. Nf3 g6 3. Nc3 d5 4. Bf4 Bg7
 A48	Queen's Pawn Game: Barry Attack, Grünfeld Variation	1. d4 Nf6 2. Nf3 g6 3. Nc3 d5 4. Bf4 Bg7 5. e3 O-O 6. Be2
+A48	Queen's Pawn Game: Barry Attack, Tarzan Attack	1. d4 Nf6 2. Nf3 g6 3. Nc3 d5 4. Bf4 Bg7 5. Qd2
 A48	Queen's Pawn Game: Torre Attack, Grünfeld Variation, Main Line	1. d4 Nf6 2. Nf3 g6 3. Bg5 Bg7 4. Nbd2 d5 5. e3 O-O
 A48	Torre Attack: Fianchetto Defense	1. d4 Nf6 2. Nf3 g6 3. Bg5
 A48	Torre Attack: Fianchetto Defense, Euwe Variation	1. d4 Nf6 2. Nf3 g6 3. Bg5 Bg7 4. Nbd2 c5
