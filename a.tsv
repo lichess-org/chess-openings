@@ -1,7 +1,7 @@
 eco	name	pgn
 A00	Amar Opening	1. Nh3
-A00	Amar Opening: Gent Gambit	1. Nh3 d5 2. g3 e5 3. f4 Bxh3 4. Bxh3 exf4 5. O-O fxg3 6. hxg3
 A00	Amar Opening: Paris Gambit	1. Nh3 d5 2. g3 e5 3. f4
+A00	Amar Opening: Paris Gambit, Gent Gambit	1. Nh3 d5 2. g3 e5 3. f4 Bxh3 4. Bxh3 exf4 5. O-O fxg3 6. hxg3
 A00	Amsterdam Attack	1. e3 e5 2. c4 d6 3. Nc3 Nc6 4. b3 Nf6
 A00	Anderssen's Opening	1. a3
 A00	Anderssen's Opening: Polish Gambit	1. a3 a5 2. b4
