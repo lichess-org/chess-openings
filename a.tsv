@@ -93,6 +93,7 @@ A00	Polish Opening: Tartakower Gambit	1. b4 e5 2. Bb2 f6 3. e4
 A00	Polish Opening: Wolferts Gambit	1. b4 e5 2. Bb2 c5
 A00	Saragossa Opening	1. c3
 A00	Sodium Attack	1. Na3
+A00	Sodium Attack: Celadon Variation	1. Na3 e5 2. d3 Bxa3 3. bxa3 d5 4. e3 c5 5. Rb1
 A00	Sodium Attack: Chenoboskion Variation	1. Na3 g6 2. g4
 A00	Sodium Attack: Durkin Gambit	1. Na3 e5 2. Nc4 Nc6 3. e4 f5
 A00	Valencia Opening	1. d3 e5 2. Nd2
@@ -133,6 +134,7 @@ A00	Van't Kruijs Opening: Keoni-Hiva Gambit, Alua Variation	1. e3 e5 2. Nc3 Nc6 
 A00	Van't Kruijs Opening: Keoni-Hiva Gambit, Ekolu Variation	1. e3 e5 2. Nc3 d5 3. f4 exf4 4. Nf3
 A00	Venezolana Opening	1. d3 c5 2. Nc3 Nc6 3. g3
 A00	Ware Opening	1. a4
+A00	Ware Opening: Cologne Gambit	1. a4 b6 2. d4 d5 3. Nc3 Nd7
 A00	Ware Opening: Meadow Hay Trap	1. a4 e5 2. Ra3
 A00	Ware Opening: Ware Gambit	1. a4 e5 2. a5 d5 3. e3 f5 4. a6
 A00	Ware Opening: Wing Gambit	1. a4 b5 2. axb5 Bb7
