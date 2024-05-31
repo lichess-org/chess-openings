@@ -219,7 +219,7 @@ C21	Center Game: Lanc-Arnold Gambit, Schippler Gambit	1. e4 e5 2. d4 exd4 3. Nf3
 C21	Center Game: Ross Gambit	1. e4 e5 2. d4 exd4 3. Bd3
 C21	Center Game: von der Lasa Gambit	1. e4 e5 2. d4 exd4 3. Bc4
 C21	Danish Gambit	1. e4 e5 2. d4 exd4 3. c3
-C21	Danish Gambit Accepted	1. e4 e5 2. d4 exd4 3. c3 dxc3 4. Bc4 cxb2 5. Bxb2
+C21	Danish Gambit Accepted	1. e4 e5 2. d4 exd4 3. c3 dxc3
 C21	Danish Gambit Accepted: Chigorin Defense	1. e4 e5 2. d4 exd4 3. c3 dxc3 4. Bc4 cxb2 5. Bxb2 Qe7
 C21	Danish Gambit Accepted: Classical Defense	1. e4 e5 2. d4 exd4 3. c3 dxc3 4. Bc4 cxb2 5. Bxb2 Nf6
 C21	Danish Gambit Accepted: Copenhagen Defense	1. e4 e5 2. d4 exd4 3. c3 dxc3 4. Bc4 cxb2 5. Bxb2 Bb4+
