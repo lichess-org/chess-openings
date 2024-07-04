@@ -426,21 +426,21 @@ A40	English Defense: Hartlaub Gambit Declined	1. c4 e6 2. d4 b6 3. Nc3 Bb7 4. e4
 A40	English Defense: Perrin Variation	1. d4 e6 2. c4 b6 3. e4 Bb7 4. Bd3 Nc6
 A40	English Defense: Poli Gambit	1. d4 e6 2. c4 b6 3. e4 Bb7 4. f3 f5 5. exf5 Nh6
 A40	Englund Gambit	1. d4 e5
-A40	Englund Gambit Complex Declined	1. d4 e5 2. d5
-A40	Englund Gambit Complex Declined: Diemer Counterattack	1. d4 e5 2. d5 Bc5 3. e4 Qh4
-A40	Englund Gambit Complex: Englund Gambit	1. d4 e5 2. dxe5 Nc6 3. Nf3 Qe7
-A40	Englund Gambit Complex: Felbecker Gambit	1. d4 e5 2. dxe5 Nc6 3. Nf3 Bc5
-A40	Englund Gambit Complex: Hartlaub-Charlick Gambit	1. d4 e5 2. dxe5 d6
-A40	Englund Gambit Complex: Mosquito Gambit	1. d4 e5 2. dxe5 Qh4
-A40	Englund Gambit Complex: Soller Gambit	1. d4 e5 2. dxe5 f6
-A40	Englund Gambit Complex: Soller Gambit Deferred	1. d4 e5 2. dxe5 Nc6 3. Nf3 f6
-A40	Englund Gambit Complex: Stockholm Variation	1. d4 e5 2. dxe5 Nc6 3. Nf3 Qe7 4. Qd5
-A40	Englund Gambit Complex: Zilbermints Gambit	1. d4 e5 2. dxe5 Nc6 3. Nf3 Nge7
+A40	Englund Gambit Declined	1. d4 e5 2. d5
+A40	Englund Gambit Declined: Diemer Counterattack	1. d4 e5 2. d5 Bc5 3. e4 Qh4
 A40	Englund Gambit Declined: Reversed Alekhine	1. d4 e5 2. Nf3
 A40	Englund Gambit Declined: Reversed Brooklyn	1. d4 e5 2. Nf3 e4 3. Ng1
 A40	Englund Gambit Declined: Reversed French	1. d4 e5 2. e3
 A40	Englund Gambit Declined: Reversed Krebs	1. d4 e5 2. Nf3 e4
 A40	Englund Gambit Declined: Reversed Mokele Mbembe	1. d4 e5 2. Nf3 e4 3. Ne5
+A40	Englund Gambit: Felbecker Gambit	1. d4 e5 2. dxe5 Nc6 3. Nf3 Bc5
+A40	Englund Gambit: Hartlaub-Charlick Gambit	1. d4 e5 2. dxe5 d6
+A40	Englund Gambit: Main Line	1. d4 e5 2. dxe5 Nc6 3. Nf3 Qe7
+A40	Englund Gambit: Mosquito Gambit	1. d4 e5 2. dxe5 Qh4
+A40	Englund Gambit: Soller Gambit	1. d4 e5 2. dxe5 f6
+A40	Englund Gambit: Soller Gambit Deferred	1. d4 e5 2. dxe5 Nc6 3. Nf3 f6
+A40	Englund Gambit: Stockholm Variation	1. d4 e5 2. dxe5 Nc6 3. Nf3 Qe7 4. Qd5
+A40	Englund Gambit: Zilbermints Gambit	1. d4 e5 2. dxe5 Nc6 3. Nf3 Nge7
 A40	Horwitz Defense	1. d4 e6
 A40	Horwitz Defense: Zilbermints Gambit	1. d4 e6 2. c4 e5
 A40	Kangaroo Defense	1. d4 e6 2. c4 Bb4+
