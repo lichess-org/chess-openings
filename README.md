@@ -11,7 +11,7 @@ pgn | x | x| Well known sequence of moves, or the most common moves to reach the
 uci | | x | Same moves as `pgn` in [UCI notation](https://backscattering.de/chess/uci/#move)
 epd | | x | [EPD](https://www.chessprogramming.org/Extended_Position_Description) (FEN without move numbers) of the opening position, en passant field only if legal
 
-To generate `dist/`, install Python, then `make deps` and run `make`.
+To generate `dist/`, install Python, then run `make`.
 Or select the latest
 [workflow run](https://github.com/lichess-org/chess-openings/actions) and
 download build artifacts.
