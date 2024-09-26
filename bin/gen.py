@@ -45,16 +45,17 @@ class Reporter:
 def main(f: TextIO, reporter: Reporter, by_epd: Dict[str, List[str]], shortest_by_name: Dict[str, int]) -> None:
     prev_eco = ""
     prev_name = ""
-
+   
+    expected_header = ["eco", "name", "pgn"]
     for lno, line in enumerate(f, 1):
-        cols = line.rstrip("\n").split("\t")
+        cols = line.rstrip("\n").split("\t")[:3]
 
-        if len(cols) != 3:
-            reporter.error(lno, f"expected 3 columns, got {len(cols)}")
+        if len(cols) < 3:
+            reporter.error(lno, f"expected at least 3 columns, got {len(cols)}")
             continue
 
         if lno == 1:
-            if cols != ["eco", "name", "pgn"]:
+            if cols[:3] != expected_header:
                 reporter.error(lno, f"expected eco, name, pgn")
             continue
 
