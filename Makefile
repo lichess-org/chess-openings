@@ -11,3 +11,7 @@ dist/all.tsv: $(sources) bin/gen.py
 dist/%.tsv: %.tsv bin/gen.py
 	mkdir -p dist
 	$(PYTHON) bin/gen.py $< > $@
+
+.PHONY: clean
+clean:
+	rm -f dist/all.tsv $(sources:%=dist/%)
