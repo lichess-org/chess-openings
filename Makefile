@@ -1,6 +1,12 @@
 PYTHON = python3
 
-all: dist/a.tsv dist/b.tsv dist/c.tsv dist/d.tsv dist/e.tsv
+sources = a.tsv b.tsv c.tsv d.tsv e.tsv
+
+all: dist/all.tsv $(sources:%=dist/%)
+
+dist/all.tsv: $(sources) bin/gen.py
+	mkdir -p dist
+	$(PYTHON) bin/gen.py $(sources) > $@
 
 dist/%.tsv: %.tsv bin/gen.py
 	mkdir -p dist
