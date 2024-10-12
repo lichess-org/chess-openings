@@ -16,7 +16,7 @@ Or select the latest
 [workflow run](https://github.com/lichess-org/chess-openings/actions) and
 download build artifacts.
 
-This dataset is also available in the Apache Parquet format here: https://hf.co/datasets/Lichess/chess-openings
+This dataset is also [available in the Apache Parquet format](https://hf.co/datasets/Lichess/chess-openings).
 
 Conventions
 -----------
