@@ -486,7 +486,7 @@ A42	Pterodactyl Defense: Central, Bogolubovia	1. d4 g6 2. c4 Bg7 3. e4 d6 4. Nc3
 A43	Benoni Defense: Benoni Gambit Accepted	1. d4 c5 2. dxc5
 A43	Benoni Defense: Benoni Gambit, Schlenker Defense	1. d4 c5 2. dxc5 Na6
 A43	Benoni Defense: Benoni-Indian Defense	1. d4 c5 2. d5 Nf6
-A43	Benoni Defense: Benoni-Indian Defense, Kingside Move Order	1. d4 Nf6 2. Nf3 c5 3. d5
+A43	Benoni Defense: Benoni-Indian Defense, Kingside Move Order	1. d4 c5 2. d5 Nf6 3. Nf3
 A43	Benoni Defense: Benoni-Staunton Gambit	1. d4 c5 2. d5 f5 3. e4
 A43	Benoni Defense: Cormorant Gambit	1. d4 c5 2. dxc5 b6
 A43	Benoni Defense: French Benoni	1. e4 e6 2. d4 c5 3. d5
