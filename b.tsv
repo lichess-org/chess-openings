@@ -10,7 +10,6 @@ B00	Duras Gambit	1. e4 f5
 B00	Fried Fox Defense	1. e4 f6 2. d4 Kf7
 B00	Goldsmith Defense	1. e4 h5
 B00	Goldsmith Defense: Picklepuss Defense	1. e4 h5 2. d4 Nf6
-B00	Guatemala Defense	1. e4 b6 2. d4 Ba6
 B00	Hippopotamus Defense	1. e4 Nh6
 B00	Hippopotamus Defense	1. e4 Nh6 2. d4 g6 3. c4 f6
 B00	King's Pawn Game	1. e4
@@ -60,6 +59,7 @@ B00	Nimzowitsch Defense: Wheeler Gambit	1. e4 Nc6 2. b4
 B00	Nimzowitsch Defense: Williams Variation	1. e4 Nc6 2. Nf3 d6
 B00	Nimzowitsch Defense: Woodchuck Variation	1. e4 Nc6 2. d4 a6
 B00	Owen Defense	1. e4 b6
+B00	Owen Defense: Guatemala Defense	1. e4 b6 2. d4 Ba6
 B00	Owen Defense: Hekili-Loa Gambit	1. e4 b6 2. d4 c5 3. dxc5 Nc6
 B00	Owen Defense: Matovinsky Gambit	1. e4 b6 2. d4 Bb7 3. Bd3 f5 4. exf5 Bxg2 5. Qh5+ g6
 B00	Owen Defense: Naselwaus Gambit	1. e4 b6 2. d4 Bb7 3. Bg5
