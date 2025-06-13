@@ -29,7 +29,7 @@ Conventions
   multiple entries for a single opening may be added.
 * However, each name has a unique *shortest* line. If necessary,
   a distinguishing move is appended, e.g.,
-  `King's Gambit Accepted: Schurig Gambit, with Bb5`.
+  `King's Gambit: Accepted, Schurig Gambit, with Bb5`.
 
 Contributing
 ------------
