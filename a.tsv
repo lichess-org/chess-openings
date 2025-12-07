@@ -70,6 +70,8 @@ A00	Mieses Opening: Myers Spike Attack	1. d3 g6 2. g4
 A00	Mieses Opening: Reversed Rat	1. d3 e5
 A00	Mieses Opening: Venezolana Variation	1. d3 c5 2. Nc3 Nc6 3. g3
 A00	Polish Opening	1. b4
+A00	Polish Opening, with d5	1. b4 d5
+A00	Polish Opening, with d5	1. b4 d5 2. Bb2 Nf6 3. Nf3
 A00	Polish Opening: Baltic Defense	1. b4 d5 2. Bb2 Bf5
 A00	Polish Opening: Birmingham Gambit	1. b4 c5
 A00	Polish Opening: Bugayev Advance Variation	1. b4 e5 2. Bb2 f6 3. b5
@@ -218,7 +220,7 @@ A05	King's Indian Attack: Smyslov Variation	1. Nf3 Nf6 2. g3 g6 3. b4
 A05	King's Indian Attack: Spassky Variation	1. Nf3 Nf6 2. g3 b5
 A05	King's Indian Attack: Symmetrical Defense	1. Nf3 Nf6 2. g3 g6
 A05	King's Indian Attack: Wahls Defense	1. Nf3 Nf6 2. g3 g6 3. Bg2 Bg7 4. O-O O-O 5. d3 d5
-A05	Polish Opening: Zukertort System	1. Nf3 Nf6 2. b4
+A05	Polish Opening: Zukertort System	1. Nf3 Nf6 2. b4 g6 3. Bb2
 A05	Zukertort Opening	1. Nf3 Nf6
 A05	Zukertort Opening	1. Nf3 Nf6 2. Nc3 Nc6
 A05	Zukertort Opening: Double Fianchetto Attack	1. Nf3 Nf6 2. g3 g6 3. b3 Bg7 4. Bb2 O-O 5. Bg2 d6 6. O-O
@@ -352,6 +354,7 @@ A15	English Opening: Anglo-Indian Defense, Scandinavian Defense	1. c4 Nf6 2. Nf3
 A15	English Opening: Anglo-Indian Defense, Scandinavian Defense, Exchange Variation	1. c4 Nf6 2. Nf3 d5 3. cxd5 Nxd5
 A15	English Opening: Anglo-Indian Defense, Slav Formation	1. c4 Nf6 2. Nf3 g6 3. g3 c6
 A15	English Orangutan	1. c4 Nf6 2. b4
+A15	English Orangutan	1. c4 Nf6 2. Nf3 g6 3. b4
 A16	English Opening: Anglo-Grünfeld Defense	1. c4 Nf6 2. Nc3 d5
 A16	English Opening: Anglo-Grünfeld Defense, Korchnoi Variation	1. c4 Nf6 2. Nc3 d5 3. cxd5 Nxd5 4. Nf3 g6 5. g3 Bg7 6. Bg2 e5
 A16	English Opening: Anglo-Indian Defense, Anglo-Grünfeld Variation	1. c4 Nf6 2. Nc3 d5 3. cxd5 Nxd5 4. Nf3
