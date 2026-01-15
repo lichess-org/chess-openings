@@ -73,6 +73,7 @@ D01	Rapport-Jobava System	1. d4 d5 2. Nc3 Nf6 3. Bf4
 D01	Rapport-Jobava System	1. d4 d5 2. Nc3 Nf6 3. Bf4 e6
 D01	Rapport-Jobava System	1. d4 d5 2. Nc3 Nf6 3. Bf4 g6
 D01	Rapport-Jobava System, with e6	1. d4 d5 2. Nc3 e6 3. Bf4
+D01	Rapport-Jobava System, with e6	1. d4 d5 2. Nc3 e6 3. Bf4 Nf6
 D01	Richter-Veresov Attack	1. d4 Nf6 2. Nc3 d5 3. Bg5
 D01	Richter-Veresov Attack	1. d4 Nf6 2. Nc3 d5 3. Bg5 Bf5
 D01	Richter-Veresov Attack: Boyce Defense	1. d4 Nf6 2. Nc3 d5 3. Bg5 Ne4
@@ -89,8 +90,12 @@ D02	Queen's Pawn Game: Chigorin Variation	1. d4 d5 2. Nf3 Nc6
 D02	Queen's Pawn Game: Krause Variation	1. d4 d5 2. Nf3 c5
 D02	Queen's Pawn Game: Levitsky Attack, Euwe Variation, Modern Line	1. d4 d5 2. Nf3 c6 3. Bg5 h6 4. Bh4 Qb6
 D02	Queen's Pawn Game: London System	1. d4 d5 2. Nf3 Nf6 3. Bf4
+D02	Queen's Pawn Game: London System	1. d4 d5 2. Nf3 Nf6 3. Bf4 c5 4. e3 Nc6 5. Nbd2 
 D02	Queen's Pawn Game: London System, Pterodactyl Variation	1. d4 g6 2. Nf3 Bg7 3. Bf4 c5 4. c3 cxd4 5. cxd4 Qa5+
+D02	Queen's Pawn Game: London System, with c6	1. d4 d5 2. Nf3 c6 3. Bf4
+D02	Queen's Pawn Game: London System, with c6	1. d4 d5 2. Nf3 c6 3. Bf4 Nf6
 D02	Queen's Pawn Game: London System, with e6	1. d4 d5 2. Nf3 e6 3. Bf4
+D02	Queen's Pawn Game: London System, with e6	1. d4 d5 2. Nf3 e6 3. Bf4 Nf6
 D02	Queen's Pawn Game: Symmetrical Variation	1. d4 d5 2. Nf3 Nf6
 D02	Queen's Pawn Game: Symmetrical Variation, Pseudo-Catalan	1. d4 d5 2. Nf3 Nf6 3. g3
 D02	Queen's Pawn Game: Zilbermints Countergambit	1. d4 d5 2. Nf3 Nf6 3. c4 b5
