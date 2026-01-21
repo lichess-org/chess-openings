@@ -499,8 +499,6 @@ A40	Mikenas Defense	1. d4 Nc6
 A40	Mikenas Defense: Cannstatter Variation	1. d4 Nc6 2. c4 e5 3. d5 Nd4
 A40	Mikenas Defense: Lithuanian Variation	1. d4 Nc6 2. c4 e5 3. d5 Nce7
 A40	Mikenas Defense: Pozarek Gambit	1. d4 Nc6 2. c4 e5 3. dxe5 Nxe5 4. Nc3 Nxc4
-A40	Modern Defense: Beefeater Variation	1. d4 g6 2. c4 Bg7 3. Nc3 c5 4. d5 Bxc3+ 5. bxc3 f5
-A40	Modern Defense: Lizard Defense, Pirc-Diemer Gambit	1. d4 g6 2. h4 Nf6 3. h5
 A40	Montevideo Defense	1. d4 Nc6 2. d5 Nb8
 A40	Polish Defense	1. d4 b5
 A40	Polish Defense: Spassky Gambit Accepted	1. d4 b5 2. e4 Bb7 3. Bxb5
@@ -513,22 +511,23 @@ A40	Pterodactyl Defense: Queen Pterodactyl, Quiet Line	1. d4 g6 2. c4 Bg7 3. Nc3
 A40	Queen's Pawn Game	1. d4
 A40	Queen's Pawn Game: Anglo-Slav Opening	1. d4 c6 2. c4 d6
 A40	Queen's Pawn Game: Modern Defense	1. d4 g6
+A40	Queen's Pawn Game: Modern Defense, Beefeater Variation	1. d4 g6 2. c4 Bg7 3. Nc3 c5 4. d5 Bxc3+ 5. bxc3 f5
+A40	Queen's Pawn Game: Modern Defense, Lizard Defense, Pirc-Diemer Gambit	1. d4 g6 2. h4 Nf6 3. h5
 A40	Slav Indian: Kudischewitsch Gambit	1. d4 c6 2. Nf3 Nf6 3. c4 b5
 A40	Zaire Defense	1. d4 Nc6 2. d5 Nb8 3. e4 Nf6 4. e5 Ng8
-A41	Modern Defense	1. d4 g6 2. c4 Bg7 3. Nc3 d6
 A41	Modern Defense: Neo-Modern Defense	1. d4 g6 2. c4 Bg7 3. e4 e5
 A41	Old Indian Defense	1. d4 d6 2. c4
 A41	Queen's Pawn Game	1. d4 d6
+A41	Queen's Pawn Game: Modern Defense	1. d4 g6 2. c4 Bg7 3. Nc3 d6
 A41	Rat Defense: English Rat	1. d4 d6 2. c4 e5
 A41	Rat Defense: English Rat, Lisbon Gambit	1. d4 d6 2. c4 e5 3. dxe5 Nc6
 A41	Rat Defense: English Rat, Pounds Gambit	1. d4 d6 2. c4 e5 3. dxe5 Be6
-A41	Robatsch Defense	1. d4 d6 2. Nf3 g6 3. c4 Bg7 4. e4 Bg4
 A41	Wade Defense	1. d4 d6 2. Nf3 Bg4
 A41	Zukertort Opening: Wade Defense, Chigorin Plan	1. d4 d6 2. Nf3 Bg4 3. c4 Nd7 4. Qb3 Rb8
-A42	Modern Defense: Averbakh System	1. d4 g6 2. c4 Bg7 3. Nc3 d6 4. e4
-A42	Modern Defense: Averbakh Variation, Pseudo-Sämisch	1. d4 g6 2. c4 Bg7 3. e4 d6 4. Be3 Nf6 5. f3
-A42	Modern Defense: Kotov Variation	1. d4 g6 2. c4 Bg7 3. Nc3 d6 4. e4 Nc6
-A42	Modern Defense: Randspringer Variation	1. d4 g6 2. c4 Bg7 3. Nc3 d6 4. e4 f5
+A42	Modern Defense: Averbakh System	1. e4 g6 2. d4 Bg7 3. c4 d6 4. Nc3
+A42	Modern Defense: Averbakh System, Kotov Variation	1. e4 g6 2. d4 Bg7 3. c4 d6 4. Nc3 Nc6
+A42	Modern Defense: Averbakh System, Randspringer Variation	1. e4 g6 2. d4 Bg7 3. c4 d6 4. Nc3 f5
+A42	Modern Defense: Pseudo-Sämisch Variation	1. d4 g6 2. c4 Bg7 3. e4 d6 4. Be3 Nf6 5. f3
 A42	Pterodactyl Defense	1. Nf3 c5 2. c4 g6 3. d4 Bg7 4. e4 Qa5+ 5. Nc3 d6
 A42	Pterodactyl Defense: Central, Bogolubovia	1. d4 g6 2. c4 Bg7 3. e4 d6 4. Nc3 c5 5. Nge2 Qa5
 A43	Benoni Defense: Benoni Gambit Accepted	1. d4 c5 2. dxc5
