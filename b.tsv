@@ -439,6 +439,7 @@ B22	Sicilian Defense: Heidenfeld Variation	1. e4 c5 2. c3 Nf6 3. e5 Nd5 4. Nf3 N
 B23	Sicilian Defense: Closed	1. e4 c5 2. Nc3
 B23	Sicilian Defense: Closed	1. e4 c5 2. Nc3 e6
 B23	Sicilian Defense: Closed	1. e4 c5 2. Nc3 e6 3. g3
+B23	Sicilian Defense: Closed, Carlsen Variation	1. e4 c5 2. Nc3 d6 3. d4 cxd4 4. Qxd4 Nc6 5. Qd2
 B23	Sicilian Defense: Closed, Chameleon Variation	1. e4 c5 2. Nc3 Nc6 3. Nge2
 B23	Sicilian Defense: Closed, Grob Attack	1. e4 c5 2. Nc3 Nc6 3. g4
 B23	Sicilian Defense: Closed, Korchnoi Defense	1. e4 c5 2. Nc3 e6 3. g3 d5
