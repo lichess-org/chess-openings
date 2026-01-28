@@ -369,6 +369,8 @@ B20	Sicilian Defense: Amazon Attack	1. e4 c5 2. Qg4
 B20	Sicilian Defense: Big Clamp Formation	1. e4 c5 2. d3 Nc6 3. c3 d6 4. f4
 B20	Sicilian Defense: Bowdler Attack	1. e4 c5 2. Bc4
 B20	Sicilian Defense: Brick Variation	1. e4 c5 2. Nh3
+B20	Sicilian Defense: Czerniak Attack	1. e4 c5 2. b3
+B20	Sicilian Defense: Czerniak Attack, Queen Fianchetto Variation	1. e4 c5 2. b3 b6
 B20	Sicilian Defense: Euwe Attack, Prins Gambit	1. e4 c5 2. b3 d5 3. Bb2
 B20	Sicilian Defense: Gloria Variation	1. e4 c5 2. c4 d6 3. Nc3 Nc6 4. g3 h5
 B20	Sicilian Defense: Grob Variation	1. e4 c5 2. g4
@@ -381,8 +383,6 @@ B20	Sicilian Defense: Mengarini Variation	1. e4 c5 2. a3
 B20	Sicilian Defense: Myers Attack, with a4	1. e4 c5 2. a4
 B20	Sicilian Defense: Myers Attack, with h4	1. e4 c5 2. h4
 B20	Sicilian Defense: Staunton-Cochrane Variation	1. e4 c5 2. c4
-B20	Sicilian Defense: Czerniak Attack	1. e4 c5 2. b3
-B20	Sicilian Defense: Czerniak Attack, Queen Fianchetto Variation	1. e4 c5 2. b3 b6
 B20	Sicilian Defense: Wing Gambit	1. e4 c5 2. b4
 B20	Sicilian Defense: Wing Gambit, Abrahams Variation	1. e4 c5 2. b4 cxb4 3. Bb2
 B20	Sicilian Defense: Wing Gambit, Carlsbad Variation	1. e4 c5 2. b4 cxb4 3. a3 bxa3
