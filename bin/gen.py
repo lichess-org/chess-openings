@@ -20,6 +20,8 @@ ECO_REGEX = re.compile(r"^[A-E]\d\d\Z")
 
 INVALID_SPACE = re.compile(r"\s{2,}|^\s|\s\Z|\s,")
 
+INVALID_CHARACTER = re.compile(r"[\u2013\u2014\u2015\u2012\u2011\u00AD\u200B-\u200F\u202A-\u202E\u2060-\u2064\uFEFF\u0000-\u0008\u000B\u000C\u000E-\u001F\u007F-\u009F\u2028\u2029\u00A0\u1680\u2000-\u200A\u202F\u205F\u3000\u2018\u2019\u201C\u201D\u2039\u203A\u00AB\u00BB]")
+
 INVALID_WITH = re.compile(r"[^,:]\swith\b")
 
 
@@ -68,6 +70,11 @@ def main(f: TextIO, reporter: Reporter, by_epd: Dict[str, List[str]], shortest_b
             reporter.error(lno, f"invalid whitespace in name")
             continue
 
+        invalid_character = INVALID_CHARACTER.search(name)
+        if invalid_character:
+            reporter.error(lno, f"invalid character in name: {invalid_character.group()!r} (U+{ord(invalid_character.group()):04X})")
+            continue
+
         try:
             board = chess.pgn.read_game(io.StringIO(pgn), Visitor=chess.pgn.BoardBuilder)
         except ValueError as err:
@@ -88,7 +95,6 @@ def main(f: TextIO, reporter: Reporter, by_epd: Dict[str, List[str]], shortest_b
         for blacklisted in ["refused"]:
             if blacklisted in name.lower():
                 reporter.warning(lno, f"blacklisted word ({blacklisted!r} in {name!r})")
-
 
         if shortest_by_name.get(name, -1) == len(board.move_stack):
             reporter.warning(lno, f"{name!r} does not have a unique shortest line")
