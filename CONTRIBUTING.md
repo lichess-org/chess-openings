@@ -7,7 +7,7 @@ Improvements, additions and fixes are welcome. If you have concrete
 suggestions, please be bold and submit the proposed changes directly as pull
 requests!
 
-Please restrict your changes to one file, and to as few rows within that file as possible.
+Please keep each PR to a single logical change (e.g. one opening per PR) so it can be accepted or rejected as a whole.
 
 The changes will be live on lichess.org after the next update of
 [scalachess](https://github.com/lichess-org/scalachess) (no fixed schedule)
