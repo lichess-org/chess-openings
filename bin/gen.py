@@ -52,7 +52,7 @@ def main(f: TextIO, reporter: Reporter, by_epd: Dict[str, List[str]], shortest_b
         cols = line.rstrip("\n").split("\t")
 
         if len(cols) != 3:
-            reporter.error(lno, f"expected 3 columns, got {len(cols)}")
+            reporter.error(lno, f"expected 3 tab-separated columns, got {len(cols)}")
             continue
 
         if lno == 1:
