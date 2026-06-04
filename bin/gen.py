@@ -57,17 +57,17 @@ def main(f: TextIO, reporter: Reporter, by_epd: Dict[str, List[str]], shortest_b
 
         if lno == 1:
             if cols != ["eco", "name", "pgn"]:
-                reporter.error(lno, f"expected eco, name, pgn")
+                reporter.error(lno, "expected columns to be: eco, name, pgn")
             continue
 
         eco, name, pgn = cols
 
         if not ECO_REGEX.match(eco):
-            reporter.error(lno, f"invalid eco")
+            reporter.error(lno, "invalid eco")
             continue
 
         if INVALID_SPACE.search(name):
-            reporter.error(lno, f"invalid whitespace in name")
+            reporter.error(lno, "invalid whitespace in name")
             continue
 
         invalid_character = INVALID_CHARACTER.search(name)
@@ -82,7 +82,7 @@ def main(f: TextIO, reporter: Reporter, by_epd: Dict[str, List[str]], shortest_b
             continue
 
         if not board:
-            reporter.error(lno, f"Empty pgn")
+            reporter.error(lno, "empty pgn")
             continue
 
         allowed_lowers = ["with", "de", "der", "del", "von", "and"]
@@ -90,7 +90,7 @@ def main(f: TextIO, reporter: Reporter, by_epd: Dict[str, List[str]], shortest_b
             reporter.warning(lno, f"{name!r} word(s) beginning with lowercase letters")
 
         if INVALID_WITH.search(name):
-            reporter.warning(lno, f"'with' not separated with ',' or ':'")
+            reporter.warning(lno, "'with' not separated with ',' or ':'")
 
         for blacklisted in ["refused"]:
             if blacklisted in name.lower():
