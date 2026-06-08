@@ -643,16 +643,17 @@ A50	Mexican Defense	1. d4 Nf6 2. c4 Nc6
 A50	Mexican Defense: Horsefly Gambit	1. d4 Nf6 2. c4 Nc6 3. d5 Ne5 4. f4
 A50	Queen's Indian Accelerated	1. d4 Nf6 2. c4 b6
 A50	Slav Indian	1. d4 Nf6 2. c4 c6
-A51	Indian Defense: Budapest Defense	1. d4 Nf6 2. c4 e5
-A51	Indian Defense: Budapest Defense, Fajarowicz Defense, Bonsdorf Variation	1. d4 Nf6 2. c4 e5 3. dxe5 Ne4 4. a3 b6
-A51	Indian Defense: Budapest Defense, Fajarowicz Variation	1. d4 Nf6 2. c4 e5 3. dxe5 Ne4
-A51	Indian Defense: Budapest Defense, Fajarowicz-Steiner Variation	1. d4 Nf6 2. c4 e5 3. dxe5 Ne4 4. Qc2
-A52	Indian Defense: Budapest Defense	1. d4 Nf6 2. c4 e5 3. dxe5 Ng4
-A52	Indian Defense: Budapest Defense, Adler Variation	1. d4 Nf6 2. c4 e5 3. dxe5 Ng4 4. Nf3
-A52	Indian Defense: Budapest Defense, Alekhine Variation	1. d4 Nf6 2. c4 e5 3. dxe5 Ng4 4. e4
-A52	Indian Defense: Budapest Defense, Alekhine Variation, Abonyi Variation	1. d4 Nf6 2. c4 e5 3. dxe5 Ng4 4. e4 Nxe5 5. f4 Nec6
-A52	Indian Defense: Budapest Defense, Alekhine Variation, Tartakower Defense	1. d4 Nf6 2. c4 e5 3. dxe5 Ng4 4. e4 d6
-A52	Indian Defense: Budapest Defense, Rubinstein Variation	1. d4 Nf6 2. c4 e5 3. dxe5 Ng4 4. Bf4
+A51	Indian Defense: Budapest Gambit	1. d4 Nf6 2. c4 e5
+A51	Indian Defense: Budapest Gambit Accepted	1. d4 Nf6 2. c4 e5 3. dxe5
+A51	Indian Defense: Budapest Gambit Accepted, Fajarowicz Defense	1. d4 Nf6 2. c4 e5 3. dxe5 Ne4
+A51	Indian Defense: Budapest Gambit Accepted, Fajarowicz Defense, Bonsdorf Variation	1. d4 Nf6 2. c4 e5 3. dxe5 Ne4 4. a3
+A51	Indian Defense: Budapest Gambit Accepted, Fajarowicz Defense, Steiner Variation	1. d4 Nf6 2. c4 e5 3. dxe5 Ne4 4. Qc2
+A52	Indian Defense: Budapest Gambit Accepted, Main Line	1. d4 Nf6 2. c4 e5 3. dxe5 Ng4
+A52	Indian Defense: Budapest Gambit Accepted, Main Line, Adler Variation	1. d4 Nf6 2. c4 e5 3. dxe5 Ng4 4. Nf3
+A52	Indian Defense: Budapest Gambit Accepted, Main Line, Rubinstein Variation	1. d4 Nf6 2. c4 e5 3. dxe5 Ng4 4. Bf4
+A52	Indian Defense: Budapest Gambit Accepted, Main Line, Alekhine Variation	1. d4 Nf6 2. c4 e5 3. dxe5 Ng4 4. e4
+A52	Indian Defense: Budapest Gambit Accepted, Main Line, Alekhine Variation, Abonyi Variation	1. d4 Nf6 2. c4 e5 3. dxe5 Ng4 4. e4 Nxe5
+A52	Indian Defense: Budapest Gambit Accepted, Main Line, Alekhine Variation, Tartakower Defense	1. d4 Nf6 2. c4 e5 3. dxe5 Ng4 4. e4 d6
 A53	Old Indian Defense	1. d4 Nf6 2. c4 d6
 A53	Old Indian Defense: Aged Gibbon Gambit	1. d4 Nf6 2. c4 d6 3. g4
 A53	Old Indian Defense: Czech Variation, with Nc3	1. d4 Nf6 2. c4 d6 3. Nc3 c6
