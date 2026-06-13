@@ -212,7 +212,7 @@ E49	Nimzo-Indian Defense: Bishop Attack, Classical Defense, Botvinnik System	1. 
 E50	Nimzo-Indian Defense	1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. e3 O-O 5. Nf3
 E50	Nimzo-Indian Defense: Normal Variation, Ragozin Variation, Saemisch Deferred	1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. e3 O-O 5. Nf3 d5 6. a3
 E51	Nimzo-Indian Defense: Normal Variation, Ragozin Variation	1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. e3 O-O 5. Nf3 d5
-E51	Nimzo-Indian Defense: Bishop Attack, Classical Defense, Ragozin Variation	1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. e3 O-O 5. Bd3 d5 6. Nf3 Nc6 7. O-O dxc4
+E52	Nimzo-Indian Defense: Bishop Attack, Classical Defense, Ragozin Variation	1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. e3 O-O 5. Bd3 d5 6. Nf3 Nc6 7. O-O dxc4
 E52	Nimzo-Indian Defense: Bishop Attack, Classical Defense, Schlechter Defense	1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. e3 O-O 5. Bd3 d5 6. Nf3 b6
 E52	Nimzo-Indian Defense: Bishop Attack, Classical Defense, Schlechter Defense	1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. e3 b6 5. Bd3 Bb7 6. Nf3 O-O 7. O-O d5
 E53	Nimzo-Indian Defense: Bishop Attack, Classical Defense, Gligoric System	1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. e3 O-O 5. Bd3 d5 6. Nf3 c5
