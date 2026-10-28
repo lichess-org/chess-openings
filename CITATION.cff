@@ -1,0 +1,17 @@
+cff-version: 1.2.0
+message: "If you use this dataset, please cite it as below."
+type: dataset
+title: "Chess openings"
+abstract: "An aggregated crowdsourced dataset of chess openings"
+authors:
+  - name: "Lichess contributors"
+license: CC0-1.0
+doi: 10.5281/zenodo.19608774
+repository-code: "https://github.com/lichess-org/chess-openings"
+keywords:
+  - chess
+  - openings
+  - ECO
+  - dataset
+  - lichess
+  - crowdsourced
