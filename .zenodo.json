@@ -1,0 +1,8 @@
+{
+  "upload_type": "dataset",
+  "title": "Chess openings",
+  "description": "An aggregated crowdsourced dataset of chess openings",
+  "creators": [{"name": "Lichess contributors"}],
+  "license": "CC0-1.0",
+  "keywords": ["chess", "openings", "ECO", "dataset", "lichess", "crowdsourced"]
+}
