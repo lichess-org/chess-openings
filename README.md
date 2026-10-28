@@ -1,5 +1,6 @@
 Chess opening names
 ===================
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.19608774.svg)](https://doi.org/10.5281/zenodo.19608774)
 
 An aggregated data set of chess opening names.
 
