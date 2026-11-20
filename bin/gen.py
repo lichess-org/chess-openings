@@ -103,7 +103,11 @@ def main(f: TextIO, reporter: Reporter, by_epd: Dict[str, List[str]], shortest_b
         except KeyError:
             shortest_by_name[name] = len(board.move_stack)
 
-        clean_pgn = chess.Board().variation_san(board.move_stack)
+        try:
+            clean_pgn = chess.Board().variation_san(board.move_stack)
+        except chess.IllegalMoveError as err:
+            reporter.error(lno, f"{err}")
+            continue
         if clean_pgn != pgn:
             reporter.error(lno, f"unclean pgn: expected {clean_pgn!r}, got {pgn!r}")
 
