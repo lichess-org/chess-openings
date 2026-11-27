@@ -338,6 +338,16 @@ C26	Bishop's Opening: Vienna Hybrid, Spielmann Attack	1. e4 e5 2. Nc3 Nf6 3. Bc4
 C26	Vienna Game: Falkbeer Variation	1. e4 e5 2. Nc3 Nf6
 C26	Vienna Game: Mengarini Variation	1. e4 e5 2. Nc3 Nf6 3. a3
 C26	Vienna Game: Mieses Variation	1. e4 e5 2. Nc3 Nf6 3. g3
+C26	Vienna Game: Mieses Variation	1. e4 e5 2. Nc3 Nf6 3. g3 Bc5 4. Bg2 Nc6
+C26	Vienna Game: Mieses Variation	1. e4 e5 2. Nc3 Nf6 3. g3 Bc5 4. Bg2 d6 5. Nge2 Nc6
+C26	Vienna Game: Mieses Variation	1. e4 e5 2. Nc3 Nf6 3. g3 Bc5 4. Bg2 d6 5. Nge2 Nc6 6. d3
+C26	Vienna Game: Mieses Variation	1. e4 e5 2. Nc3 Nf6 3. g3 Bc5 4. Bg2 d6 5. Nf3 Nc6 6. d3
+C26	Vienna Game: Mieses Variation	1. e4 e5 2. Nc3 Nf6 3. g3 Bc5 4. Bg2 d6 5. Nf3 Nc6 6. d3 a6
+C26	Vienna Game: Mieses Variation	1. e4 e5 2. Nc3 Nf6 3. g3 Bc5 4. Bg2 d6 5. Nf3 Nc6 6. d3 a6 7. O-O
+C26	Vienna Game: Mieses Variation	1. e4 e5 2. Nc3 Nf6 3. g3 Bc5 4. Bg2 d6 5. Nf3 Nc6 6. d3 a6 7. O-O h6
+C26	Vienna Game: Mieses Variation	1. e4 e5 2. Nc3 Nf6 3. g3 Bc5 4. Bg2 d6 5. Nf3 Nc6 6. d3 a6 7. O-O h6 8. h3
+C26	Vienna Game: Mieses Variation	1. e4 e5 2. Nc3 Nf6 3. g3 Bc5 4. Bg2 d6 5. Nf3 Nc6 6. d3 a6 7. O-O O-O
+C26	Vienna Game: Mieses Variation	1. e4 e5 2. Nc3 Nf6 3. g3 Bc5 4. Bg2 d6 5. Nf3 Nc6 6. d3 a6 7. O-O O-O 8. h3
 C26	Vienna Game: Mieses Variation, Erben Gambit	1. e4 e5 2. Nc3 Nf6 3. g3 d5 4. exd5 c6
 C26	Vienna Game: Paulsen Variation, Pollock Gambit	1. e4 e5 2. Nc3 Nf6 3. g3 Bc5 4. Bg2 Nc6 5. Nge2 d5 6. exd5
 C26	Vienna Game: Stanley Variation	1. e4 e5 2. Nc3 Nf6 3. Bc4
@@ -694,6 +704,7 @@ C43	Petrov's Defense: Modern Attack, Trifunovic Variation	1. e4 e5 2. Nf3 Nf6 3.
 C44	Dresden Opening: The Goblin	1. e4 e5 2. Nf3 Nc6 3. c4 Nf6 4. Nxe5
 C44	Irish Gambit	1. e4 e5 2. Nf3 Nc6 3. Nxe5
 C44	King's Knight Opening: Konstantinopolsky	1. e4 e5 2. Nf3 Nc6 3. g3
+C44	King's Knight Opening: Konstantinopolsky	1. e4 e5 2. Nf3 Nc6 3. g3 Nf6 4. d3
 C44	King's Knight Opening: Normal Variation	1. e4 e5 2. Nf3 Nc6
 C44	King's Pawn Game: Dresden Opening	1. e4 e5 2. Nf3 Nc6 3. c4
 C44	King's Pawn Game: Pachman Wing Gambit	1. e4 e5 2. Nf3 Nc6 3. b4
